@@ -17,6 +17,9 @@ func main() {
 	outputDir := flag.String("dir", "vault", "Output folder; default 'vault'")
 	flag.Parse()
 
+	// punctuation characters
+	var punctuation = ".,;"
+
 	// check for args
 	if *inputBook == "" {
 		log.Fatal("book argument is missing")
@@ -67,7 +70,7 @@ func main() {
 	r.Comma = '\t'
 
 	// read loop for CSV
-	var footnote = ""
+	var footnote = "\n\n"
 	var row uint64
 	for {
 		// read the csv file
@@ -97,7 +100,8 @@ func main() {
 				occurrence := 0
 				_footnote := ""
 				for j := range verseTable[i] {
-					if twlQuote == verseTable[i][j] {
+					//if twlQuote == verseTable[i][j] {
+					if checkMatch(verseTable[i][j], twlQuote, punctuation) {
 						occurrence++
 						if strconv.Itoa(occurrence) == twlOccurrence {
 							log.Printf("Matched! ref:%v, occurence: %v, quote:%v", twlRef, twlOccurrence, twlQuote)
@@ -110,14 +114,18 @@ func main() {
 			}
 		}
 	}
+
 	log.Printf("Number of rows in TWL: %v", row)
 	//log.Printf("Verses:\n%v", verseTable)
+	// the markdown file with footnotes
 	for i := 0; i < len(verseTable); i++ {
 		for j := 0; j < len(verseTable[i]); j++ {
 			fo.WriteString(verseTable[i][j] + " ")
 		}
 		fo.WriteString("\n")
 	}
+	// now the footnote content itself at the end
+	fo.WriteString(footnote)
 }
 
 func usage(msg string) {
@@ -126,11 +134,48 @@ func usage(msg string) {
 	flag.PrintDefaults()
 }
 
+// check match:
+// does text begin with original language quote? and...
+// is the text length at most one character more? and...
+// if so, then is last character a puncuation character
+// if true, then we have a match
+func checkMatch(text, quote, punctuation string) bool {
+	if strings.HasPrefix(text, quote) {
+		//continue
+	} else {
+		return false
+	}
+
+	lendiff := len(text) - len(quote)
+	if lendiff < 2 {
+		// continue
+	} else {
+		return false
+	}
+
+	// exact match?
+	if lendiff == 0 {
+		return true
+	}
+
+	// newVal := val[len(val)-1:]
+	lastchar := text[len(text)-1:]
+	isPunctuation := false
+	for _, v := range punctuation {
+		if string(v) == lastchar {
+			isPunctuation = true
+			break
+		}
+	}
+	return isPunctuation
+}
+
+// footnotes:
+// [^en_tn-names-paul]: [/bible/names/paul](./en_tw/names/paul.md)
 func rewrite(cell string, id string, link string) (string, string) {
 	localLink := strings.TrimPrefix(link, "rc://*/tw/dict/")
-	localLink = strings.ReplaceAll(localLink, "/", "-")
 	_cell := cell + "[^" + id + "]"
-	return _cell, "a footnote"
+	return _cell, "[^" + id + "]: [" + localLink + "](" + localLink + ")"
 }
 
 /* Code Graveyard
