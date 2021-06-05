@@ -7,54 +7,33 @@ import (
 	"io"
 	"log"
 	"os"
-	"strconv"
 	"strings"
 )
 
 func main() {
 	inputTnTsv := flag.String("tntsv", "", "Input tn tsv filename")
 	inputBookId := flag.String("bookId", "", "Input book id")
-	outputDir := flag.String("dir", "../vault", "Output folder; default 'vault'")
+	outputDir := flag.String("dir", "../vault/tn", "Output folder; default 'vault'")
 	flag.Parse()
 
 	// check for args
 	if *inputTnTsv == "" {
-		log.Fatal("book argument is missing")
+		log.Fatal("tn tsv filename argument is missing")
 	}
 	if *inputBookId == "" {
-		log.Fatal("TWL argument is missing")
+		log.Fatal("book Id argument is missing")
 	}
 
 	// open output file (info: https://golangbot.com/write-files/)
-	fo, foerr := os.Create(*outputDir + "/" + *inputBook)
+	fo, foerr := os.Create(*outputDir + "/" + *inputBookId + ".md")
 	if foerr != nil {
 		log.Fatal("os.Create() Error:" + foerr.Error())
 	}
 	defer fo.Close()
 
-	// open input book (info: https://golang.org/pkg/io/ioutil/#ReadFile)
-	fcontent, err := os.ReadFile(*inputBook)
-	if err != nil {
-		log.Fatal("os.Readfile() Error:" + err.Error())
-	}
-
-	var verseTable [][]string
-	verses := strings.Split(string(fcontent), "\n")
-	for _, verse := range verses {
-		cells := strings.Split(verse, " ")
-		if cells[0] == "" {
-			continue
-		}
-		// remove punctuation
-		for i := range cells {
-			cells[i] = strings.TrimRight(cells[i], ",;.")
-		}
-		verseTable = append(verseTable, cells)
-	}
-
-	// open input twl file
+	// open input tn file
 	var r *csv.Reader
-	fi, fierr := os.Open(*inputTwl)
+	fi, fierr := os.Open(*inputTnTsv)
 	if fierr != nil {
 		log.Fatal("os.Open() Error:" + fierr.Error())
 	}
@@ -67,8 +46,8 @@ func main() {
 	r.Comma = '\t'
 
 	// read loop for CSV
-	var footnote = "\n\n"
 	var row uint64
+	var markdown string = ""
 	for {
 		// read the csv file
 		cells, rerr := r.Read()
@@ -84,93 +63,39 @@ func main() {
 			continue
 		}
 		row++
-
-		// match against book
-		twlRef := cells[0]
-		twlId := cells[1]
-		twlQuote := cells[3]
-		twlOccurrence := cells[4]
-		twlLink := cells[5]
-		for i := 0; i < len(verseTable); i++ {
-			bookref := verseTable[i][0]
-			if twlRef == bookref {
-				occurrence := 0
-				_footnote := ""
-				for j := range verseTable[i] {
-					//if twlQuote == verseTable[i][j] {
-					if checkMatch(verseTable[i][j], twlQuote, punctuation) {
-						occurrence++
-						if strconv.Itoa(occurrence) == twlOccurrence {
-							log.Printf("Matched! ref:%v, occurence: %v, quote:%v", twlRef, twlOccurrence, twlQuote)
-							verseTable[i][j], _footnote = rewrite(verseTable[i][j], twlId, twlLink)
-							footnote += _footnote + "\n"
-						}
-					}
-				}
-				break
+		// header level 1 is the reference with bookId
+		markdown += "# " + cells[0] + "\n"
+		// header level 2 is the row id with content of tags and spt ref
+		markdown += "## " + cells[1] + "\n"
+		if cells[2] != "" {
+			markdown += "Tags:" + cells[2] + "\n"
+		}
+		if cells[3] != "" {
+			markdown += cells[3] + "\n"
+		}
+		if cells[4] != "" {
+			markdown += "### " + cells[4] + " (" + cells[5] + ")\n"
+			markdown += cells[6] + "\n"
+		} else {
+			fnote, fnerr := os.Create(*outputDir + "/" + *inputBookId + "-" + cells[1] + ".md")
+			if fnerr != nil {
+				log.Fatal("os.Create() Error:" + fnerr.Error())
 			}
+			defer fnote.Close()
+			_content := strings.Replace(cells[6], "\\n", "\n", -1)
+			_content = strings.Replace(_content, "rc://*/ta/man/translate/", "", -1)
+			fnote.WriteString(_content)
+			markdown += "See [[" + *inputBookId + "-" + cells[1] + "]]"
 		}
+		markdown += "\n"
 	}
+	fo.WriteString(markdown)
 
-	log.Printf("Number of rows in TWL: %v", row)
-	//log.Printf("Verses:\n%v", verseTable)
-	// the markdown file with footnotes
-	for i := 0; i < len(verseTable); i++ {
-		for j := 0; j < len(verseTable[i]); j++ {
-			fo.WriteString(verseTable[i][j] + " ")
-		}
-		fo.WriteString("\n")
-	}
-	// now the footnote content itself at the end
-	fo.WriteString(footnote)
+	log.Printf("Number of rows in TN: %v", row)
 }
 
 func usage(msg string) {
 	fmt.Println(msg + "\n")
-	fmt.Print("Usage: go run connecttw -book inputbook.md -twl inputtwl.tsv -dir outputDirectory \n")
+	fmt.Print("Usage: go run xformtn -bookId bookId -tntsv inputtn.tsv -dir outputDirectory \n")
 	flag.PrintDefaults()
-}
-
-// check match:
-// does text begin with original language quote? and...
-// is the text length at most one character more? and...
-// if so, then is last character a puncuation character
-// if true, then we have a match
-func checkMatch(text, quote, punctuation string) bool {
-	if strings.HasPrefix(text, quote) {
-		//continue
-	} else {
-		return false
-	}
-
-	lendiff := len(text) - len(quote)
-	if lendiff < 2 {
-		// continue
-	} else {
-		return false
-	}
-
-	// exact match?
-	if lendiff == 0 {
-		return true
-	}
-
-	// newVal := val[len(val)-1:]
-	lastchar := text[len(text)-1:]
-	isPunctuation := false
-	for _, v := range punctuation {
-		if string(v) == lastchar {
-			isPunctuation = true
-			break
-		}
-	}
-	return isPunctuation
-}
-
-// footnotes:
-// [^en_tn-names-paul]: [/bible/names/paul](./en_tw/names/paul.md)
-func rewrite(cell string, id string, link string) (string, string) {
-	localLink := strings.TrimPrefix(link, "rc://*/tw/dict/")
-	_cell := cell + "[^" + id + "]"
-	return _cell, "[^" + id + "]: [" + localLink + "](" + localLink + ")"
 }

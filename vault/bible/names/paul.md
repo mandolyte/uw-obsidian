@@ -19,7 +19,7 @@ Paul was a leader of the early church who was sent by Jesus to take the good new
 ## Bible References:
 
 * [1 Corinthians 1:3](rc://en/tn/help/1co/01/03)
-* [[1co#1:3|1CO 1:3]]
+* [[1co#front intro]]
 * [Acts 8:3](rc://en/tn/help/act/08/03)
 * [Acts 9:26](rc://en/tn/help/act/09/26)
 * [Acts 13:10](rc://en/tn/help/act/13/10)
