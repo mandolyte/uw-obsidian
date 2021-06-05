@@ -48,6 +48,7 @@ func main() {
 	// read loop for CSV
 	var row uint64
 	var markdown string = ""
+	var prevH1 = ""
 	for {
 		// read the csv file
 		cells, rerr := r.Read()
@@ -64,7 +65,10 @@ func main() {
 		}
 		row++
 		// header level 1 is the reference with bookId
-		markdown += "# " + cells[0] + "\n"
+		if cells[0] != prevH1 {
+			markdown += "# " + cells[0] + "\n"
+			prevH1 = cells[0]
+		}
 		// header level 2 is the row id with content of tags and spt ref
 		markdown += "## " + cells[1] + "\n"
 		if cells[2] != "" {
