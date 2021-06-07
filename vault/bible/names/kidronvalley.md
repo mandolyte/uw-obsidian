@@ -10,7 +10,7 @@ The Kidron Valley is a deep valley just outside the city of Jerusalem, between i
 * During the reign of King Hezekiah, the Kidron Valley was where the priests threw everything impure that they removed from the temple.
 * The evil queen Athaliah was killed in this valley because of the wicked things she had done.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Absalom](../names/absalom.md), [Asa](../names/asa.md), [Athaliah](../names/athaliah.md), [David](../names/david.md), [false god](../kt/falsegod.md), [Hezekiah](../names/hezekiah.md), [high places](../other/highplaces.md), [Josiah](../names/josiah.md), [Judah](../names/kingdomofjudah.md), [Mount of Olives](../names/mountofolives.md))
 

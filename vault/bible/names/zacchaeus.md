@@ -8,7 +8,7 @@ Zacchaeus was a tax collector from Jericho who climbed a tree in order to be abl
 * He repented of his sin of cheating people and promised to give half his possessions to the poor.
 * He also promised that he would pay people back four times the amount that he had overcharged them for their taxes.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [believe](../kt/believe.md), [promise](../kt/promise.md), [repent](../kt/repent.md), [sin](../kt/sin.md), [tax](../other/tax.md), [tax collector](../other/tax.md))
 

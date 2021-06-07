@@ -8,7 +8,7 @@ In the early Christian church in Jerusalem, Philip was one of seven leaders chos
 * Years later Philip was living in Caesarea when Paul and his companions stayed at his house on their way back to Jerusalem.
 * Most Bible scholars think that Philip the evangelist was not the same man as Jesus’ apostle by that name. Some languages may prefer to use slightly different spellings for the names of these two men to make it clear they are different men.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Philip](../names/philiptheapostle.md))
 

@@ -8,7 +8,7 @@ Joseph was Jacob’s eleventh son. He was Rachel’s first son. The descendants 
 * A large portion of the book of Genesis is dedicated to the story of Joseph, how he remained faithful to God throughout his many difficulties and forgave his brothers who had sold him to be a slave in Egypt.
 * Eventually God raised Joseph to the second highest place of power in Egypt and used him to save the people of Egypt and the surrounding nations in a time when there was little food. Joseph helped save his own family from starving and brought them to live with him in Egypt.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [twelve tribes of Israel](../other/12tribesofisrael.md), [Ephraim](../names/ephraim.md), [Manasseh](../names/manasseh.md), [Jacob](../names/jacob.md), [Rachel](../names/rachel.md))
 

@@ -8,7 +8,7 @@ The Hivites were one of seven major people groups living in the land of Canaan.
 * Shechem the Hivite raped Jacob’s daughter Dinah, and her brothers killed many Hivites in revenge.
 * When Joshua led the Israelites to take over the land of Canaan, the Israelites were tricked into making a treaty with the Hivites instead of conquering them.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [Hamor](../names/hamor.md), [Noah](../names/noah.md), [Shechem](../names/shechem.md))
 

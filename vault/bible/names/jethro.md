@@ -12,7 +12,7 @@ The names “Jethro” and “Reuel” both refer to the father of Moses’ wife
 * One of Esau’s sons was named Reuel.
 * Another man named Reuel is mentioned in the genealogy of the Israelites who returned to resettle in Judah after their captivity in Babylon had ended.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [captive](../other/captive.md), [clan](../other/clan.md), [desert](../other/desert.md), [Egypt](../names/egypt.md), [Esau](../names/esau.md), [miracle](../kt/miracle.md), [Moses](../names/moses.md), [desert](../other/desert.md))
 

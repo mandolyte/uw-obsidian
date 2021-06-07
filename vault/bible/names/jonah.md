@@ -12,7 +12,7 @@ Jonah was a Hebrew prophet in the Old Testament.
 * After that, Jonah went to Nineveh and preached to the people there, and the people stopped acting so violently toward others.
 * Jonah became angry at God for not destroying Nineveh, and God used a plant and a worm to teach Jonah a lesson about compassion.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [disobey](../other/disobey.md), [Nineveh](../names/nineveh.md), [turn](../other/turn.md))
 

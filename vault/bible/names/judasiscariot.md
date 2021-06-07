@@ -11,7 +11,7 @@ Judas Iscariot was one of Jesus’ apostles. He was the one who betrayed Jesus t
 * One of the other apostles of Jesus was Judas son of James. He was not the same person as Judas Iscariot.
 * One of Jesus’ brothers was named Judas. He was later known as “Jude.” He was not the same person as Judas Iscariot.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [apostle](../kt/apostle.md), [betray](../other/betray.md), [Jewish leaders](../other/jewishleaders.md), [Judas the son of James](../names/judassonofjames.md))
 

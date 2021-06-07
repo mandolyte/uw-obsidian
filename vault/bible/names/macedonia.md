@@ -9,7 +9,7 @@ In New Testament times, Macedonia was a Roman province located just north of anc
 * Paul and his coworkers went to Macedonia and taught the people there about Jesus and helped the new believers to grow in their faith.
 * In the Bible there are letters that Paul wrote to the believers in the Macedonian cities of Philippi and Thessalonica.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [believe](../kt/believe.md), [Berea](../names/berea.md), [faith](../kt/faith.md), [good news](../kt/goodnews.md), [Greece](../names/greece.md), [Philippi](../names/philippi.md), [Thessalonica](../names/thessalonica.md))
 

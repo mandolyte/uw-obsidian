@@ -8,7 +8,7 @@ Abner was a cousin of King Saul in the Old Testament.
 * After King Saul’s death, Abner appointed Saul’s son Ishbosheth as king in Israel, while David was appointed king in Judah.
 * Later, Abner was treacherously killed by David’s chief commander, Joab.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 ## Bible References:
 

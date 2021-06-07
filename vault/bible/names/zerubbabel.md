@@ -8,7 +8,7 @@ Zerubbabel was the name of two Israelite men in the Old Testament.
 * A different Zerubbabel, son of Shealtiel, was the head of the tribe of Judah during the time of Ezra and Nehemiah, when Cyrus king of Persia released the Israelites from their captivity in Babylon.
 * Zerubbabel and the high priest Joshua were among those who helped rebuild the temple and altar of God.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Babylon](../names/babylon.md), [captive](../other/captive.md), [Cyrus](../names/cyrus.md), [Ezra](../names/ezra.md), [high priest](../kt/highpriest.md), [Jehoiakim](../names/jehoiakim.md), [Joshua](../names/joshua.md), [Judah](../names/judah.md), [Nehemiah](../names/nehemiah.md), [Persia](../names/persia.md), [Zedekiah](../names/zedekiah.md))
 

@@ -10,7 +10,7 @@ Mesopotamia is the area of land between the Tigris and Euphrates Rivers. Its loc
 * Babylon was another important city in Mesopotamia.
 * The region called “Chaldea” was also part of Mesopotamia.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Aram](../names/aram.md), [Babylon](../names/babylon.md), [Chaldea](../names/chaldeans.md), [Euphrates River](../names/euphrates.md))
 

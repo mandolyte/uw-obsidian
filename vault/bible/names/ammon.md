@@ -8,7 +8,7 @@ The “people of Ammon” or the “Ammonites” were a people group that lived 
 * The term “Ammonitess” refers specifically to a female Ammonite. This could also be translated as “Ammonite woman.”
 * At one point, the Ammonites hired a prophet named Balaam to curse Israel, but God did not allow him to do it.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [curse](../kt/curse.md), [Jordan River](../names/jordanriver.md), [Lot](../names/lot.md))
 

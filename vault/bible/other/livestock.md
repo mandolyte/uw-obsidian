@@ -9,7 +9,7 @@ The term “livestock” refers to animals which are raised to provide food and 
 * Livestock are used to produce items such as wool, milk, cheese, housing materials, and clothing.
 * This term could also be translated as “farm animals.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [cow, ox](../other/cow.md), [donkey](../other/donkey.md), [goat](../other/goat.md), [horse](../other/horse.md), [sheep](../other/sheep.md))
 

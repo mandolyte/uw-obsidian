@@ -9,7 +9,7 @@ The expression “house of David” refers to the family or descendants of King 
 * Sometimes “house of David” or “household of David” refers to the people in David’s family who were still living.
 * Other times this term is more general and refers to all his descendants, including those who had already died.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [David](../names/david.md), [descendant](../other/descendant.md), [house](../other/house.md), [Jesus](../kt/jesus.md), [king](../other/king.md))
 

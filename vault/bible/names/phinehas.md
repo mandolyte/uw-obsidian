@@ -10,7 +10,7 @@ Phineas was the name of two men in the Old Testament.
 * The other Phinehas mentioned in the Old Testament was one of the evil sons of Eli the priest during the time of the prophet Samuel.
 * Phinehas and his brother Hophni were both killed when the Philistines attacked Israel and stole the Ark of the Covenant.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [ark of the covenant](../kt/arkofthecovenant.md), [Jordan River](../names/jordanriver.md), [Midian](../names/midian.md), [Philistines](../names/philistines.md), [Samuel](../names/samuel.md))
 

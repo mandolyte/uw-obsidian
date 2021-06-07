@@ -10,7 +10,7 @@ Sennacherib was a powerful king of Assyria who caused Nineveh to become a rich, 
 * Yahweh caused Sennacherib’s army to be destroyed.
 * The Old Testament books of Kings and Chronicles record some of the events of Sennacherib’s reign.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Assyria](../names/assyria.md), [Babylon](../names/babylon.md), [Hezekiah](../names/hezekiah.md), [Judah](../names/kingdomofjudah.md), [mock](../other/mock.md), [Nineveh](../names/nineveh.md))
 

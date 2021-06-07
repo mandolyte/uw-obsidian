@@ -10,7 +10,7 @@ Egypt is a country in the northeast part of Africa, to the southwest of the land
 * For several hundred years, the Israelites were slaves in Egypt.
 * Joseph and Mary went down to Egypt with the young child Jesus, to escape from Herod the Great.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Herod the Great](../names/herodthegreat.md), [Joseph (NT)](../names/josephnt.md), [Nile River](../names/nileriver.md), [patriarchs](../other/patriarchs.md))
 

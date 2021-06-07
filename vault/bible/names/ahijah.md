@@ -9,7 +9,7 @@ Ahijah was the name of several different men in the Old Testament. The following
 * Ahijah was the name of a prophet from Shiloh who predicted that the nation of Israel would be divided into two kingdoms.
 * The father of King Baasha of Israel was also named Ahijah.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Baasha](../names/baasha.md), [Shiloh](../names/shiloh.md))
 

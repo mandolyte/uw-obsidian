@@ -9,7 +9,7 @@ Azariah was the name of several men in the Old Testament.
 * Another Azariah was an Old Testament high priest.
 * In the time of the prophet Jeremiah, a man named Azariah wrongly urged the Israelites to disobey God by leaving their homeland.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Babylon](../names/babylon.md), [Daniel](../names/daniel.md), [Hananiah](../names/hananiah.md), [Mishael](../names/mishael.md), [Jeremiah](../names/jeremiah.md), [Uzziah](../names/uzziah.md))
 

@@ -10,7 +10,7 @@ Edom was another name for Esau. The region where he lived also became known as â
 * In the Old Testament, the country of Edom is often mentioned as an enemy of Israel.
 * The entire book of Obadiah is about the destruction of Edom. Other Old Testament prophets also spoke negative prophecies against Edom.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [adversary](../other/adversary.md), [birthright](../kt/birthright.md), [Esau](../names/esau.md), [Obadiah](../names/obadiah.md), [prophet](../kt/prophet.md))
 

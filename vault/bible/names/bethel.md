@@ -9,7 +9,7 @@ Bethel was a city located just north of Jerusalem in the land of Canaan. It was 
 * This city did not have the name “Bethel” until after Jacob named it that. To make this clear, some translations may translate it as “Luz (later called Bethel)” in the passages about Abraham, as well as when Jacob first arrives there (before he changed the name).
 * Bethel is mentioned often in the Old Testament and was a place where many important events happened.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [altar](../kt/altar.md), [Jacob](../names/jacob.md), [Jerusalem](../names/jerusalem.md))
 

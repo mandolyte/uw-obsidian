@@ -8,7 +8,7 @@ Joel was a prophet who probably lived during the reign of King Joash of Judah. T
 * The only personal information we have about the prophet Joel is that his father’s name was Pethuel.
 * In his sermon at Pentecost, the apostle Peter quoted from the book of Joel.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Joash](../names/joash.md), [Judah](../names/kingdomofjudah.md), [Pentecost](../kt/pentecost.md))
 

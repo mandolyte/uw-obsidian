@@ -8,7 +8,7 @@ The “Festival of Weeks” was a Jewish festival that took place fifty days aft
 * The Festival of Weeks was held to celebrate the beginning of the grain harvest. It was also a time to remember when God first gave the Law to the Israelites on the tablets of stone given to Moses.
 * In the New Testament, the Day of Pentecost is especially significant because it was when the believers of Jesus received the Holy Spirit in a new way.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [festival](../other/festival.md), [firstfruits](../other/firstfruit.md), [harvest](../other/harvest.md), [Holy Spirit](../kt/holyspirit.md), [raise](../other/raise.md))
 

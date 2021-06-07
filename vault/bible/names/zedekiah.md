@@ -8,7 +8,7 @@ Zedekiah, son of Josiah, was the last king of Judah (597-587 B.C.). There are al
 * Zedekiah, son of Kenaanah, was a false prophet during the time of King Ahab of Israel.
 * A man named Zedekiah was one of those who signed an agreement to the Lord during the time of Nehemiah.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahab](../names/ahab.md), [Babylon](../names/babylon.md), [Ezekiel](../names/ezekiel.md), [kingdom of Israel](../names/kingdomofisrael.md), [Jehoiachin](../names/jehoiachin.md), [Jeremiah](../names/jeremiah.md), [Josiah](../names/josiah.md), [Judah](../names/kingdomofjudah.md), [Nebuchadnezzar](../names/nebuchadnezzar.md), [Nehemiah](../names/nehemiah.md))
 

@@ -10,7 +10,7 @@ Abram was a Chaldean man from the city of Ur who was chosen by God to be the for
 * Abraham believed God and obeyed him. God led Abraham to move from Chaldea to the land of Canaan.
 * Abraham and his wife Sarah, when they were very old and living in the land of Canaan, had a son, Isaac.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [Chaldea](../names/chaldeans.md), [Sarah](../names/sarah.md), [Isaac](../names/isaac.md))
 

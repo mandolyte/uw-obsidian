@@ -10,7 +10,7 @@ A “sheep” is a medium-sized animal with four legs that has wool all over its
 * Sheep are very trusting, weak, and timid. They are easily influenced to wander away. They need a shepherd to lead them, protect them, and provide them with food, water, and shelter.
 * In the Bible, people are compared to sheep who have God as their shepherd.
 
-(Translation suggestions: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(Translation suggestions: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [Israel](../kt/israel.md), [lamb](../kt/lamb.md), [sacrifice](../other/sacrifice.md), [shepherd](../other/shepherd.md))
 

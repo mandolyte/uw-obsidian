@@ -11,7 +11,7 @@ The term “purple” is the name of a color that is a mixture of blue and red.
 * Roman soldiers put a purple royal robe on Jesus before his crucifixion, to mock him for his claim to be King of the Jews.
 * Lydia from the town of Philippi was a woman who made her living by selling purple cloth.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [ephod](../kt/ephod.md), [Philippi](../names/philippi.md), [royal](../other/royal.md), [tabernacle](../kt/tabernacle.md), [temple](../kt/temple.md))
 

@@ -8,7 +8,7 @@ Naphtali was Jacob’s sixth son. He was Bilhah’s second son. His descendants 
 * The name Naphtali is similar to the Hebrew word meaning “to twist, wrestle.”
 * The tribe of Naphtali settled in the northern part of Canaan, between the tribes of Manassah and Asher. Its eastern border was on the western shoreline of the Sea of Chinnereth. When used as the name of a region of land, the term “Naphtali” refers to the land given to the tribe of Naphtali.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [twelve tribes of Israel](../other/12tribesofisrael.md), [Jacob](../names/jacob.md), [Bilhah](../names/bilhah.md))
 

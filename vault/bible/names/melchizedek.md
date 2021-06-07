@@ -11,7 +11,7 @@ During the time when Abram lived, Melchizedek was the king of the city of Salem 
 * The New Testament also says that Jesus is a priest according to the priestly “order of Melchizedek.” Jesus was not descended from Levi as the Israelite priests were. His priesthood is directly from God, as Melchizedek’s was.
 * Based on these descriptions of him in the Bible, Melchizedek was a human priest who was also chosen by God to represent or point forward to Jesus, the eternal king of peace and righteousness and our great high priest.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [everlasting](../kt/eternity.md), [high priest](../kt/highpriest.md), [Jerusalem](../names/jerusalem.md), [Levite](../names/levite.md), [priest](../kt/priest.md), [righteous](../kt/righteous.md))
 

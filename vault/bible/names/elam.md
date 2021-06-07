@@ -7,7 +7,7 @@ Elam was a son of Shem and a grandson of Noah.
 * The descendants of Elam were called “Elamites,” and they lived in a region that was also called “Elam.”
 * The region of Elam was located southeast of the Tigris River in what is now western Iran.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Noah](../names/noah.md), [Shem](../names/shem.md))
 

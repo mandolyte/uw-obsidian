@@ -10,7 +10,7 @@ The Nile is a very long and wide river in northeastern Africa. It is especially 
 * The Israelites lived in the land of Goshen, which was very fertile because it was located along the Nile River.
 * When Moses was a baby, his parents placed him in a basket among the reeds of the Nile to hide him from Pharaoh’s men.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Egypt](../names/egypt.md), [Goshen](../names/goshen.md), [Moses](../names/moses.md))
 

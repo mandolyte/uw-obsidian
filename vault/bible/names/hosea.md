@@ -9,7 +9,7 @@ Hosea was a prophet of Israel who lived and prophesied about 750 years before th
 * This was a picture of God’s love for his unfaithful people, Israel.
 * Hosea prophesied against the people of Israel because of their sin, warning them to turn away from worshipping idols.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahaz](../names/ahaz.md), [Hezekiah](../names/hezekiah.md), [Hoshea](../names/hoshea.md), [Jeroboam](../names/jeroboam.md), [Jotham](../names/jotham.md), [Uzziah](../names/uzziah.md), [Zechariah (OT)](../names/zechariahot.md))
 

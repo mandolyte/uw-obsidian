@@ -10,7 +10,7 @@ Mary was a women from Bethany who followed Jesus.
 * Sometime after that, while Jesus was eating in someone’s home in Bethany, Mary poured expensive perfume on his feet in order to worship him.
 * Jesus praised her for doing this and said that she was preparing his body for burial.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Bethany](../names/bethany.md), [frankincense](../other/frankincense.md), [Lazarus](../names/lazarus.md), [Martha](../names/martha.md))
 

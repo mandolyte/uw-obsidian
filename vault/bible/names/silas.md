@@ -8,7 +8,7 @@ Silas was a leader among the believers in Jerusalem.
 * Silas later traveled with Paul to other cities to teach people about Jesus.
 * Paul and Silas were put in jail in the city of Philippi. They sang praises to God while they were there and God released them from the jail. The jailer became a Christian as a result of their testimony.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Antioch](../names/antioch.md), [Barnabas](../names/barnabas.md), [Jerusalem](../names/jerusalem.md), [Paul](../names/paul.md), [Philippi](../names/philippi.md), [prison](../other/prison.md), [testimony](../kt/testimony.md))
 

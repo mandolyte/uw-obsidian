@@ -10,7 +10,7 @@ Zechariah was a prophet who prophesied during the reign of King Darius I of Pers
 * Zechariah was the name of a priest who was stoned by the people of Israel when he rebuked them for their idol worship.
 * King Zechariah was the son of Jeroboam and he reigned over Israel for only six months before being murdered.
 
-(Translation Suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation Suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Darius](../names/darius.md), [Ezra](../names/ezra.md), [Jehoshaphat](../names/jehoshaphat.md), [Jeroboam](../names/jeroboam.md), [Nehemiah](../names/nehemiah.md), [Zerubbabel](../names/zerubbabel.md))
 

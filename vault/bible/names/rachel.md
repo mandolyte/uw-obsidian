@@ -8,7 +8,7 @@ Rachel was one of Jacob’s wives. She was the mother of Joseph and Benjamin, wh
 * For many years, Rachel was not able to have any children. Then God enabled her to give birth to Joseph.
 * Years later, Rachel died as she gave birth to Benjamin. Jacob buried her near Bethlehem.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Bethlehem](../names/bethlehem.md), [Jacob](../names/jacob.md), [Laban](../names/laban.md), [Leah](../names/leah.md), [Joseph (OT)](../names/josephot.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 

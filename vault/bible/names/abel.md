@@ -9,7 +9,7 @@ Abel was Adam and Eve’s second son. He was Cain’s younger brother.
 * God was pleased with Abel and his offerings.
 * Adam and Eve’s firstborn son Cain murdered Abel.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Cain](../names/cain.md), [sacrifice](../other/sacrifice.md), [shepherd](../other/shepherd.md))
 

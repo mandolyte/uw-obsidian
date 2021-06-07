@@ -8,7 +8,7 @@ Haran was a younger brother of Abram and the father of Lot.
 * A different man named Haran was a son of Caleb.
 * A third man in the Bible named Haran was a descendant of Levi.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Caleb](../names/caleb.md), [Canaan](../names/canaan.md), [Levite](../names/levite.md), [Lot](../names/lot.md), [Terah](../names/terah.md), [Ur](../names/ur.md))
 

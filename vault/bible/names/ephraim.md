@@ -8,7 +8,7 @@ Ephraim was the younger son of Joseph. His descendants, the Ephraimites, formed 
 * The tribe of Ephraim was one of the ten tribes located in the northern part of Israel.
 * Sometimes the name Ephraim is used in the Bible to refer to the whole northern kingdom of Israel (similar to how the name Judah is sometimes used to refer to the whole southern kingdom of Israel).
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Joseph](../names/josephot.md), [Manasseh](../names/manasseh.md), [kingdom of Israel](../names/kingdomofisrael.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 

@@ -8,7 +8,7 @@ The term “acacia” is the name of a common shrub or tree growing in the land 
 * This wood is highly resistant to decay because it is so very dense that it keeps out water, and it has natural preservatives that keep insects from destroying it.
 * In the Bible, acacia wood was used to build the tabernacle and the ark of the covenant.
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [ark of the covenant](../kt/arkofthecovenant.md), [tabernacle](../kt/tabernacle.md))
 

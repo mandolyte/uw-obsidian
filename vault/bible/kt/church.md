@@ -15,7 +15,7 @@ In the New Testament, the term “church” refers to a local group of believers
 * The word or phrase that is used to translate this term should also be able to refer to all believers, not just one small group.
 * Make sure that the translation of “church” does not just refer to a building.
 * The term used to translate “assembly” in the Old Testament could also be used to translate this term.
-* Also consider how it is translated in a local or national Bible translation. (See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown).)
+* Also consider how it is translated in a local or national Bible translation. (See: [How to Translate Unknowns](../../translate/translate-unknown).)
 
 (See also: [assembly](../other/assembly.md), [believe](../kt/believe.md), [Christian](../kt/christian.md))
 

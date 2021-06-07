@@ -8,7 +8,7 @@ John Mark, also known as “Mark,” was one of the men who traveled with Paul o
 * When Peter was put in prison in Jerusalem, the believers there were praying for him at John Mark’s mother’s house.
 * Mark was not an apostle, but was taught by both Paul and Peter and worked together with them in ministry.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Barnabas](../names/barnabas.md), [Paul](../names/paul.md))
 

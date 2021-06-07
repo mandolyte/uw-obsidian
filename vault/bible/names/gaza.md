@@ -9,7 +9,7 @@ During Bible times, Gaza was a prosperous Philistine city located on the coast o
 * Gaza was the city that the Philistines took Samson to after they had captured him.
 * Philip the evangelist was walking along the desert road to Gaza when he met an Ethiopian eunuch.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ashdod](../names/ashdod.md), [Philip](../names/philip.md), [Philistines](../names/philistines.md), [Ethiopia](../names/ethiopia.md), [Gath](../names/gath.md))
 

@@ -9,7 +9,7 @@ In New Testament times, Galatia was a large Roman province located in the centra
 * One reason that Paul wrote his letter to the Galatians was to emphasize again the gospel of salvation by grace, not by works.
 * The Jewish Christians there were incorrectly teaching the Gentile Christians there that it was necessary for believers to keep certain Jewish laws.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Asia](../names/asia.md), [believe](../kt/believe.md), [Cilicia](../names/cilicia.md), [good news](../kt/goodnews.md), [Paul](../names/paul.md), [works](../kt/works.md))
 

@@ -7,7 +7,7 @@ The term “city of David” is another name for both Jerusalem and Bethlehem.
 * Jerusalem is where David lived while he ruled Israel.
 * Bethlehem is where David was born.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [David](../names/david.md), [Bethlehem](../names/bethlehem.md), [Jerusalem](../names/jerusalem.md))
 

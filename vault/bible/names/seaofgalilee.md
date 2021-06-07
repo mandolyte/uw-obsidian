@@ -10,7 +10,7 @@ The “Sea of Galilee” is a lake in eastern Israel. In the Old Testament it wa
 * The Sea of Galilee was also referred to as the “Sea of Tiberias” and the “lake of Gennesaret.”
 * This term could also be translated as “lake in the region of Galilee” or “Lake Galilee” or “lake near Tiberias (Gennesaret).”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Capernaum](../names/capernaum.md), [Galilee](../names/galilee.md), [Jordan River](../names/jordanriver.md), [Salt Sea](../names/saltsea.md))
 

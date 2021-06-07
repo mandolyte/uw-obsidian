@@ -7,7 +7,7 @@ In New Testament times, Berea (or Beroea) was a prosperous Greek city in southea
 * Paul and Silas fled to the city of Berea after their fellow Christians helped them escape from certain Jews who had caused trouble for them in Thessalonica.
 * When the people living in Berea heard Paul preach, they researched the Scriptures to confirm that what he was telling them was true.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Macedonia](../names/macedonia.md), [Paul](../names/paul.md), [Silas](../names/silas.md), [Thessalonica](../names/thessalonica.md))
 

@@ -3,7 +3,7 @@
 ## Definition:
 
 A camel is a large, four legged animal with one or two humps on its back.
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 * In Bible times, the camel was the largest animal found in Israel and the surrounding regions.
 * The camel was used mainly for carrying people and burdens.

@@ -4,7 +4,7 @@
 
 The term “womb” refers to where a baby grows inside its mother.
 
-* This is an older term that is sometimes used in order to be polite and less direct. (See: [euphemism](rc://en/ta/man/translate/figs-euphemism))
+* This is an older term that is sometimes used in order to be polite and less direct. (See: [euphemism](../../translate/figs-euphemism))
 * A more modern term for womb is “uterus.”
 * Some languages use a word like “belly” to refer to a woman’s womb or uterus.
 * Use a word for this in the project language that is well-known, natural, and acceptable.

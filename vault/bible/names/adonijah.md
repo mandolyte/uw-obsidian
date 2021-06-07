@@ -8,7 +8,7 @@ Adonijah was the fourth son of King David.
 * God, however, had promised that David’s son Solomon would be king., so Adonijah’s plot was overthrown and Solomon was made king.
 * When Adonijah tried a second time to make himself king, Solomon put him to death.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [David](../names/david.md), [Solomon](../names/solomon.md))
 

@@ -9,7 +9,7 @@ Barnabas was one of the early Christians who lived during the time of the apostl
 * Barnabas and Paul traveled together to preach the good news about Jesus in different cities.
 * His name was Joseph, but he was called “Barnabas,” which means “son of encouragement.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Christian](../kt/christian.md), [Cyprus](../names/cyprus.md), [good news](../kt/goodnews.md), [Levite](../names/levite.md), [Paul](../names/paul.md))
 

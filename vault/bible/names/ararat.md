@@ -8,7 +8,7 @@ In the Bible, “Ararat” is the name given to a land, a kingdom, and a mountai
 * Ararat is best known as the name of the mountain that Noah’s ark came to rest on after the waters of the great flood began to recede.
 * In modern times, a mountain called “Mount Ararat” is often thought to be the location of the “mountains of Ararat” in the Bible.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [ark](../kt/ark.md), [Noah](../names/noah.md))
 

@@ -7,7 +7,7 @@ Jehoiachin was a king who ruled over the kingdom of Judah.
 * Jehoiachin became king when he was 18 years old. He only reigned three months, and after that he was captured by the Babylonian army and taken to Babylon.
 * During his short reign, Jehoiachin did evil things like the ones his grandfather King Manasseh and his father King Jehoiakim had done.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Babylon](../names/babylon.md), [Jehoiakim](../names/jehoiakim.md), [Judah](../names/kingdomofjudah.md), [Manasseh](../names/manasseh.md))
 

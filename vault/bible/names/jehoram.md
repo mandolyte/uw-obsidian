@@ -11,7 +11,7 @@
 * Some translations may choose to consistently use the name “Jehoram” when this king of Israel is mentioned and the name “Joram” for the king of Judah.
 * Another way to clearly identify each one would be to include the name of his father.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ahab](../names/ahab.md), [Jehoshaphat](../names/jehoshaphat.md), [Joram](../names/joram.md), [Judah](../names/judah.md), [kingdom of Israel](../names/kingdomofisrael.md), [Obadiah](../names/obadiah.md))
 

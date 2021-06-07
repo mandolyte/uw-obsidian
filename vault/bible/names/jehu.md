@@ -11,7 +11,7 @@ Jehu was the name of two men in the Old Testament.
 * King Jehu destroyed all the places of Baal worship in Samaria and killed all the prophets of Baal.
 * King Jehu served the only true God, Yahweh, and was king over Israel for twenty-eight years.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahab](../names/ahab.md), [Ahaziah](../names/ahaziah.md), [Baal](../names/baal.md), [Elisha](../names/elisha.md), [Jehoshaphat](../names/jehoshaphat.md), [Jehu](../names/jehu.md), [Jezebel](../names/jezebel.md), [Joram](../names/joram.md), [Judah](../names/kingdomofjudah.md), [Samaria](../names/samaria.md))
 

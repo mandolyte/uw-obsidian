@@ -9,7 +9,7 @@ Noah was a man who lived over 4,000 years ago, at the time when God sent a world
 * Inside the ark, Noah and his family were kept safe, and later their children and grandchildren filled the earth with people again.
 * Everyone born since the time of the flood is a descendant of Noah.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [descendant](../other/descendant.md), [ark](../kt/ark.md))
 

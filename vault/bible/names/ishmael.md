@@ -11,7 +11,7 @@ Ishmael was the son of Abraham and the Egyptian slave Hagar. There were several 
 * Ishmael son of Nethaniah was an army officer from Judah who led a group of men to kill a governor who had been appointed by the Babylonian king, Nebuchadnezzar.
 * There were also four other men named Ishmael in the Old Testament.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Babylon](../names/babylon.md), [covenant](../kt/covenant.md), [desert](../other/desert.md), [Egypt](../names/egypt.md), [Hagar](../names/hagar.md), [Isaac](../names/isaac.md), [Nebuchadnezzar](../names/nebuchadnezzar.md), [Paran](../names/paran.md), [Sarah](../names/sarah.md))
 

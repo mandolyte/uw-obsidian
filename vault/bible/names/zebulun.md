@@ -8,7 +8,7 @@ Zebulun was Jacob’s tenth son. He was Leah’s sixth son. His descendants beca
 * The meaning of the name Zebulun is unknown, but it is similar to a Hebrew word probably meaning “to honor” or “to dwell.”
 * The tribe of Zebulun settled in northwest Canaan, bordered by the lands of Naphtali, Issachar, Manasseh, and Asher.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [twelve tribes of Israel](../other/12tribesofisrael.md), [Jacob](../names/jacob.md), [Leah](../names/leah.md))
 

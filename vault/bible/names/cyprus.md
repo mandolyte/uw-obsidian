@@ -9,7 +9,7 @@ Cyprus is an island in the Mediterranean Sea, about 64 kilometers south of the m
 * Later on, Barnabas and Mark visited Cyprus again.
 * In the Old Testament, Cyprus is mentioned as being a rich source of cypress trees.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Barnabas](../names/barnabas.md), [John Mark](../names/johnmark.md), [the sea](../names/mediterranean.md))
 

@@ -8,7 +8,7 @@ Andrew was one of twelve men whom Jesus chose to be his closest disciples (later
 * Peter and Andrew were fishing in the Sea of Galilee when Jesus called them to be his disciples.
 * Before Peter and Andrew met Jesus, they had been disciples of John the Baptizer.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [apostle](../kt/apostle.md), [disciple](../kt/disciple.md), [the twelve](../kt/thetwelve.md))
 

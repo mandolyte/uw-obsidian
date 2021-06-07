@@ -7,7 +7,7 @@ Gilead was the name of a mountainous region east of the Jordan river where the I
 * This region was also referred to as the “hill country of Gilead” or “Mount Gilead.”
 * “Gilead” was also the name of several men in the Old Testament. One of these men was the grandson of Manasseh. Another Gilead was the father of Jephthah.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Gad](../names/gad.md), [Jephthah](../names/jephthah.md), [Manasseh](../names/manasseh.md), [Reuben](../names/reuben.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 

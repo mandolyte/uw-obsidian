@@ -8,7 +8,7 @@ Eliakim was the name of two men in the Old Testament.
 * Another man named Eliakim was a son of King Josiah. He was made king of Judah by the Egyptian pharaoh Necho.
 * Necho changed Eliakim’s name to Jehoiakim.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Hezekiah](../names/hezekiah.md), [Jehoiakim](../names/jehoiakim.md), [Josiah](../names/josiah.md), [Pharaoh](../names/pharaoh.md))
 

@@ -12,14 +12,13 @@ Paul was a leader of the early church who was sent by Jesus to take the good new
 * Later, God sent Saul to teach non-Jewish people about Jesus and started churches in different cities and provinces of the Roman empire. At this time he started being called by the Roman name “Paul.”
 * Paul also wrote letters to encourage and teach Christians in the churches in these cities. Several of these letters are in the New Testament.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [christian](../kt/christian.md), [jewish leaders](../other/jewishleaders.md), [rome](../names/rome.md))
 
 ## Bible References:
 
 * [1 Corinthians 1:3](rc://en/tn/help/1co/01/03)
-* [[1co#front intro]]
 * [Acts 8:3](rc://en/tn/help/act/08/03)
 * [Acts 9:26](rc://en/tn/help/act/09/26)
 * [Acts 13:10](rc://en/tn/help/act/13/10)

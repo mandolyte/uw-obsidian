@@ -11,7 +11,7 @@ The term “Caesar” was the name or title used by many of the rulers of the Ro
 * When “Caesar” is used by itself as a title, it can also be translated as: “the Emperor” or “the Roman Ruler.”
 * In names such as Caesar Augustus or Tiberius Caesar, “Caesar” can be spelled close to the way a national language spells it.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [king](../other/king.md), [Paul](../names/paul.md), [Rome](../names/rome.md))
 

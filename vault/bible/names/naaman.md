@@ -10,7 +10,7 @@ In the Old Testament, Naaman was the commander of the army of the king of Aram.
 * As a result, Naaman came to believe in the only true God, Yahweh.
 * Two other men named Naaman were descendants of Jacob’s son Benjamin.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Aram](../names/aram.md), [Jordan River](../names/jordanriver.md), [leprosy](../other/leprosy.md), [prophet](../kt/prophet.md))
 

@@ -10,7 +10,7 @@ Benjamin was Jacob’s twelfth son. He was Rachel’s second son. His descendant
 * King Saul was from the tribe of Benjamin.
 * The apostle Paul was from the tribe of Benjamin.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [twelve tribes of Israel](../other/12tribesofisrael.md), [Jacob](../names/jacob.md), [Rachel](../names/rachel.md))
 

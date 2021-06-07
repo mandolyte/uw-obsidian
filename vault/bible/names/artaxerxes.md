@@ -10,7 +10,7 @@ Artaxerxes was a king who reigned over the Persian empire from about 464 to 424 
 * Because Babylon was under the rule of Persia, Artaxerxes was sometimes called the “king of Babylon.”
 * Note that Artaxerxers is not the same person as Xerxes (Ahasuerus).
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahasuerus](../names/ahasuerus.md), [Babylon](../names/babylon.md), [cupbearer](../other/cupbearer.md), [Ezra](../names/ezra.md), [Nehemiah](../names/nehemiah.md), [Persia](../names/persia.md))
 

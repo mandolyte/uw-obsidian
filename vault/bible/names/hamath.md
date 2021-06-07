@@ -11,7 +11,7 @@ Hamath was an important city in northern Syria, north of the land of Canaan. The
 * The land of Hamath was where King Zedekiah was killed by King Nebuchadnezzar and where King Jehoahaz was captured by an Egyptian pharaoh.
 * The term “Hamathite” could also be translated as “person from Hamath.”
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Babylon](../names/babylon.md), [Canaan](../names/canaan.md), [Nebuchadnezzar](../names/nebuchadnezzar.md), [Syria](../names/syria.md), [Zedekiah](../names/zedekiah.md))
 

@@ -7,7 +7,7 @@ Lamech was the name of two men mentioned in the book of Genesis.
 * The first Lamech mentioned was a descendant of Cain. He boasted to his two wives that he had killed a man for injuring him.
 * The second Lamech was a descendant of Seth. He was also the father of Noah.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Cain](../names/cain.md), [Noah](../names/noah.md), [Seth](../names/seth.md))
 

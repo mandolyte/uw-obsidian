@@ -8,7 +8,7 @@ Apollos was a Jew from the city of Alexandria in Egypt who had a special ability
 * He was instructed by two Christians in Ephesus named Aquila and Priscilla.
 * Paul emphasized that he and Apollos, as well as other evangelists and teachers, were working toward the same goal of helping people to believe in Jesus.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Aquila](../names/aquila.md), [Ephesus](../names/ephesus.md), [Priscilla](../names/priscilla.md), [word of God](../kt/wordofgod.md))
 

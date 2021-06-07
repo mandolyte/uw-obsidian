@@ -6,7 +6,7 @@ The term “vine” refers to a plant that grows by trailing along the ground or
 
 * In the Bible, the word “vine” almost always means “grapevine.”
 * The branches of the grapevine are attached to the main stem which gives them water and other nutrients so that they can grow.
-* Jesus called himself the “vine” and called his people the “branches.” In this context, the word “vine” could also be translated as “grapevine stem” or “grape plant stem.” (See: [Metaphor](rc://en/ta/man/translate/figs-metaphor))
+* Jesus called himself the “vine” and called his people the “branches.” In this context, the word “vine” could also be translated as “grapevine stem” or “grape plant stem.” (See: [Metaphor](../../translate/figs-metaphor))
 
 (See also: [grape](../other/grape.md), [vineyard](../other/vineyard.md))
 

@@ -11,7 +11,7 @@ The term “bear” literally means “carry” something. There are also many f
 * The statement that “a son will not bear the iniquity of his father” means that he “will not be held responsible for” or “will not be punished for” his father’s sins.
 * In general, this term could be translated as “carry” or “be responsible for” or “produce” or “have” or “endure,” depending on the context.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [burden](../other/burden.md), [Elisha](../names/elisha.md), [endure](../other/endure.md), [fruit](../other/fruit.md), [iniquity](../kt/iniquity.md), [report](../other/report.md), [sheep](../other/sheep.md), [strength](../other/strength.md), [testimony](../kt/testimony.md), [testimony](../kt/testimony.md))
 

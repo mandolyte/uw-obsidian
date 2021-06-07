@@ -11,7 +11,7 @@ In the New Testament, the terms “baptize” and “baptism” usually refer to
 * The term “baptism” could be translated as “purification,” “a pouring out,” “a dipping,” “a cleansing.”
 * Also consider how this term is translated in a Bible translation in a local or national language.
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [John (the Baptist)](../names/johnthebaptist.md), [repent](../kt/repent.md), [Holy Spirit](../kt/holyspirit.md))
 

@@ -10,7 +10,7 @@ Gilgal was a town north of Jericho and was the first place that the Israelites c
 * The word “gilgal” means “circle of stones,” perhaps referring to a place where a circular altar was built.
 * In the Old Testament, this name almost always occurs as “the gilgal.” This may indicate that it was not a specific place name but rather was a description of a certain kind of place.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Elijah](../names/elijah.md), [Elisha](../names/elisha.md), [Jericho](../names/jericho.md), [Jordan River](../names/jordanriver.md))
 

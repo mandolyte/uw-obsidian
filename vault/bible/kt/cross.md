@@ -12,7 +12,7 @@ In Bible times, a cross was an upright wooden post stuck into the ground, with a
 
 * This term could be translated using a term in the target language that refers to the shape of a cross.
 * Consider describing the cross as something on which people were killed, using phrases such as “execution post” or “tree of death.”
-* Also consider how this word is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+* Also consider how this word is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [crucify](../kt/crucify.md), [Rome](../names/rome.md))
 

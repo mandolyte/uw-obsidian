@@ -9,7 +9,7 @@ Baasha was one of Israel’s evil kings, who influenced the Israelites to worshi
 * During Baasha’s reign there were many wars between the kingdoms of Israel and Judah, especially with King Asa of Judah.
 * Baasha’s many sins caused God to eventually remove him from office by his death.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Asa](../names/asa.md), [false god](../kt/falsegod.md))
 

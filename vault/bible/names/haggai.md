@@ -8,7 +8,7 @@ Haggai was a prophet of Judah after the Jews returned home from being captives i
 * The prophet Zechariah was also prophesying during this period.
 * Haggai and Zechariah exhorted the Jews to rebuild the temple, which had been destroyed by the Babylonians under King Nebuchadnezzar.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Babylon](../names/babylon.md), [Judah](../names/kingdomofjudah.md), [Nebuchadnezzar](../names/nebuchadnezzar.md), [Uzziah](../names/uzziah.md), [Zechariah (OT)](../names/zechariahot.md))
 

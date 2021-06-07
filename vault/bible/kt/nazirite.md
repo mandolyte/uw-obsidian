@@ -10,7 +10,7 @@ The term “Nazirite” refers to a person who has taken a “Nazirite vow.” M
 * The angel announcing John the Baptist’s birth told Zechariah that his son would not drink strong drink, which may indicate that John was under the Nazirite vow.
 * According to a passage in the book of Acts the apostle Paul may also have at one time taken this vow, according to one passage in the book of Acts.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [John (the Baptist)](../names/johnthebaptist.md), [sacrifice](../other/sacrifice.md), [Samson](../names/samson.md), [vow](../kt/vow.md), [Zechariah (OT)](../names/zechariahot.md))
 

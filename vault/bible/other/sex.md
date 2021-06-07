@@ -2,7 +2,7 @@
 
 ## Definition:
 
-In the Bible, these terms are euphemisms that refer to having sexual intercourse. (See: [Euphemism](rc://en/ta/man/translate/figs-euphemism))
+In the Bible, these terms are euphemisms that refer to having sexual intercourse. (See: [Euphemism](../../translate/figs-euphemism))
 
 * The expression “sleep with” someone commonly refers to having sexual relations with that person. The past tense is “slept with.”
 * In the Old Testament book “Song of Solomon,” the ULT uses the term “lovemaking” to translate the word “love,” which in that context refers to sexual relations. This term is related to the expression “make love to.”

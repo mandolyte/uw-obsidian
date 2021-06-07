@@ -7,7 +7,7 @@ Gerar was a city and region in the land of Canaan, located southwest of Hebron a
 * King Abimelech was the ruler of Gerar when Abraham and Sarah settled there.
 * The Philistines dominated the region of Gerar during the time that the Israelites were living in Canaan.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abimelech](../names/abimelech.md), [Beersheba](../names/beersheba.md), [Hebron](../names/hebron.md), [Philistines](../names/philistines.md))
 

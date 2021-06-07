@@ -7,7 +7,7 @@ Delilah was a Philistine woman who was loved by Samson, but was not his wife.
 * Delilah loved money more than she loved Samson.
 * The Philistines bribed Delilah to trick Samson into telling her how he could be made weak. When his strength was gone, the Philistines captured him.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [bribe](../other/bribe.md), [Philistines](../names/philistines.md), [Samson](../names/samson.md))
 

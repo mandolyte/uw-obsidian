@@ -10,7 +10,7 @@ A deer is a large, graceful, four-legged animal that lives in forests or on moun
 * Deer have strong, thin legs that help them jump high and run fast.
 * Their feet have split hooves which help them walk or climb easily on most any terrain.
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 ## Bible References:
 

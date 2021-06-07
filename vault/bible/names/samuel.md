@@ -10,7 +10,7 @@ Samuel was a prophet and the last judge of Israel. He anointed both Saul and Dav
 * To fulfill her promise to God, when Samuel was a young boy, Hannah sent him to live with and help Eli the priest in the temple.
 * God raised up Samuel to be a great prophet.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Hannah](../names/hannah.md), [judge](../kt/judge.md), [prophet](../kt/prophet.md), [Yahweh](../kt/yahweh.md))
 

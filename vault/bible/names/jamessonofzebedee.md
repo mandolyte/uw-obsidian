@@ -9,7 +9,7 @@ James, a son of Zebedee, was one of Jesus’ twelve apostles. He had a younger b
 * Peter, James, and John were Jesus’ closest disciples and were with him for amazing events such as when Jesus was on a mountaintop with Elijah and Moses and when Jesus caused a dead little girl to come back to life.
 * This is a different James than the one who wrote a book in the Bible. Some languages may have to write their names differently to make it clear that they were two different men.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [apostle](../kt/apostle.md), [Elijah](../names/elijah.md), [James (brother of Jesus)](../names/jamesbrotherofjesus.md), [James (son of Alphaeus)](../names/jamessonofalphaeus.md), [Moses](../names/moses.md))
 

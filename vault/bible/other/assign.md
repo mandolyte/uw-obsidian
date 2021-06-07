@@ -10,7 +10,7 @@ The term “assign” or “assigned” refers to appointing someone to do a spe
 * Depending on the context, “assign” could be translated as “give” or “appoint” or “choose for the task of.”
 * The term “assigned” could be translated as “appointed” or “given the task.”
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [appoint](../kt/appoint.md), [Samuel](../names/samuel.md), [Saul (OT)](../names/saul.md))
 

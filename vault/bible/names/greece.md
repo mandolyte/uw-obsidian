@@ -9,7 +9,7 @@ During New Testament times, Greece was a province in the Roman Empire.
 * People who are from Greece are called “Greeks” and their language is “Greek.” People from other Roman provinces also spoke Greek, including many Jews.
 * Sometimes the term “Greek” is used to refer to a Gentile.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Corinth](../names/corinth.md), [Gentile](../kt/gentile.md), [Greek](../names/greek.md), [Hebrew](../kt/hebrew.md), [Philippi](../names/philippi.md), [Thessalonica](../names/thessalonica.md))
 

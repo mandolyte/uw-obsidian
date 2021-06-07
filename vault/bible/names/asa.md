@@ -8,7 +8,7 @@ Asa was a king who ruled over the kingdom of Judah for forty years, from 913 B.C
 * Yahweh gave King Asa success in his warfare against other nations.
 * Later in his reign, however, King Asa stopped trusting Yahweh and became sick with a disease that eventually killed him.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 ## Bible References:
 

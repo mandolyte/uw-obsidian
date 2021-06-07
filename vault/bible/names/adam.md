@@ -10,7 +10,7 @@ Adam was the first person whom God created. He and his wife Eve were made in the
 * All people are descendants of Adam and Eve.
 * Adam and Eve disobeyed God. This separated them from God and caused sin and death to come into the world.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [death](../other/death.md), [descendant](../other/descendant.md), [Eve](../names/eve.md), [image of God](../kt/imageofgod.md), [life](../kt/life.md))
 

@@ -8,7 +8,7 @@ In the Old Testament, Laban was the uncle and father-in-law of Jacob.
 * Jacob’s preference was for Laban’s daughter Rachel to be his wife.
 * Laban deceived Jacob and made him marry his oldest daughter Leah first before giving Rachel to him as his wife.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Jacob](../names/jacob.md), [Nahor](../names/nahor.md), [Leah](../names/leah.md), [Rachel](../names/rachel.md))
 

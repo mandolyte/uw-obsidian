@@ -9,7 +9,7 @@ Paran was a desert or wilderness area east of Egypt and south of the land of Can
 * It was from Kadesh-Barnea in the wilderness of Paran that Moses sent twelve men to spy out the land of Canaan and bring back a report.
 * The wilderness of Zin was north of Paran and the wilderness of Sin was south of Paran.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [desert](../other/desert.md), [Egypt](../names/egypt.md), [Kadesh](../names/kadesh.md), [Sinai](../names/sinai.md))
 

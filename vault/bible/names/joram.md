@@ -9,7 +9,7 @@ Joram son of Ahab was a king of Israel. He was also sometimes referred to as “
 * King Joram of Israel also reigned during the time of the prophets Elijah and Obadiah.
 * Another man named Joram was the son of King Tou of Hamath when David was king.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahab](../names/ahab.md), [David](../names/david.md), [Elijah](../names/elijah.md), [Hamath](../names/hamath.md), [Jehoram](../names/jehoram.md), [kingdom of Israel](../names/kingdomofisrael.md), [Judah](../names/kingdomofjudah.md), [Obadiah](../names/obadiah.md), [prophet](../kt/prophet.md))
 

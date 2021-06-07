@@ -15,7 +15,7 @@ The term “right hand” refers to the hand on the right side of a person’s b
 * Regarding figurative uses, if an expression that includes the term “right hand” does not have the same meaning in the project language, then consider whether that language has a different expression with the same meaning.
 * The expression “at the right hand of” could be translated as “on the right side of” or “in the place of honor beside” or “in the position of strength” or “ready to help.”
 * Ways to translate “with his right hand” could include “with authority” or “using power” or “with his amazing strength.”
-* The figurative expression “his right hand and his mighty arm” uses two ways of emphasizing God’s power and great strength. One way to translate this expression could be “his amazing strength and mighty power.” (See: [parallelism](rc://en/ta/man/translate/figs-parallelism))
+* The figurative expression “his right hand and his mighty arm” uses two ways of emphasizing God’s power and great strength. One way to translate this expression could be “his amazing strength and mighty power.” (See: [parallelism](../../translate/figs-parallelism))
 * The expression “their right hand is falsehood” could be translated as “even the most honorable thing about them is corrupted by lies” or “their place of honor is corrupted by deception” or “they use lies to make themselves powerful.”
 
 (See also: [accuse](../other/accuse.md), [evil](../kt/evil.md), [honor](../kt/honor.md), [mighty](../other/mighty.md), [punish](../other/punish.md), [rebel](../other/rebel.md))

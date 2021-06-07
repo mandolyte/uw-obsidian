@@ -8,7 +8,7 @@ This was the name of the first woman. Her name means “life” or “living.”
 * Eve was created to be Adam’s “helper.” She came alongside Adam to assist him in the work that God gave them to do.
 * Eve was tempted by Satan (in the form of a snake) and was the first to sin by eating the fruit that God said not to eat.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Adam](../names/adam.md), [life](../kt/life.md), [Satan](../kt/satan.md))
 

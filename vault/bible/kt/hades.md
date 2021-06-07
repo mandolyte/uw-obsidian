@@ -11,10 +11,10 @@ The terms “Hades” (in Greek) and “Sheol” (in Hebrew) are proper names fo
 
 * The Old Testament term “Sheol” can be translated in various ways, depending on the context. Some possibilities include: “place of the dead;” “place for dead spirits;” “the pit;” or “death.”
 * The New Testament term “Hades” can also be translated in various ways, depending on the context. Some possibilities include: “place for unbelieving dead souls;” “place of torment for the dead;” or “place for the souls of unbelieving dead people.”
-* Some translations keep the proper names “Sheol” and “Hades,” spelling them to fit the sound patterns of the language of translation. (See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown)).
+* Some translations keep the proper names “Sheol” and “Hades,” spelling them to fit the sound patterns of the language of translation. (See: [How to Translate Unknowns](../../translate/translate-unknown)).
 * A phrase could also be added to each term to explain it, examples of doing this are, “Sheol, place where dead people are” and “Hades, place of death.”
 
-(Translation suggestions: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(Translation suggestions: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [death](../other/death.md), [heaven](../kt/heaven.md), [hell](../kt/hell.md), [tomb](../other/tomb.md))
 

@@ -9,7 +9,7 @@
 * On Mount Carmel, Elijah challenged the prophets of Baal to a contest in order to prove that Yahweh is the only true God.
 * To make it clear that this wasn’t just a single mountain, “Mount Carmel” could be translated as “mountain on the Carmel mountain range” or “Carmel mountain range.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Baal](../names/baal.md), [Elijah](../names/elijah.md), [Judah](../names/judah.md), [Salt Sea](../names/saltsea.md))
 

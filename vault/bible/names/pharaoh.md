@@ -9,7 +9,7 @@ In ancient times, the kings who ruled over the country of Egypt were called phar
 * Several of these pharaohs are mentioned in the Bible.
 * Often this title is used as a name rather than as a title. In these cases, it is capitalized and written as “Pharaoh.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [egypt](../names/egypt.md), [king](../other/king.md))
 

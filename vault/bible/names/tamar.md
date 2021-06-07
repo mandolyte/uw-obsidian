@@ -11,7 +11,7 @@ Tamar is the name of several different women in the Old Testament. There are sev
 
 (See also: [Absalom](../names/absalom.md), [ancestor](../other/father.md), [Amnon](../names/amnon.md), [David](../names/david.md), [ancestor](../other/father.md), [Judah](../names/judah.md), [Salt Sea](../names/saltsea.md))
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 ## Bible References:
 

@@ -7,7 +7,7 @@ Mizpah is the name of several towns mentioned in the Old Testament. It means “
 * When David was being pursued by Saul, he left his parents in Mizpah, under the protection of the king of Moab.
 * One city called Mizpah was located on the border between the kingdoms of Judah and Israel. It was a major military center.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [David](../names/david.md), [Judah](../names/kingdomofjudah.md), [kingdom of Israel](../names/kingdomofisrael.md), [Moab](../names/moab.md), [Saul (OT)](../names/saul.md))
 

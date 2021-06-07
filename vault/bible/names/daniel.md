@@ -11,7 +11,7 @@ Daniel was an Israelite prophet who as a young man was taken captive by the Baby
 * Because of this ability and because of his honorable character, Daniel was given a high leadership position in the Babylonian empire.
 * Many years later, Daniels enemies tricked the Babylonian king Darius into making a law forbidding the worship of anyone except the king. Daniel continued to pray to God, so he was arrested and thrown into a den of lions. But God rescued him and he was not harmed at all.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Babylon](../names/babylon.md), [Nebuchadnezzar](../names/nebuchadnezzar.md))
 

@@ -7,7 +7,7 @@ The Jebusites were a people group living in the land of Canaan. They were descen
 * The Jebusites lived in the city of Jebus, and its name was later changed to Jerusalem when King David conquered it.
 * Melchizedek, the king of Salem, was probably of Jebusite origin.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [Ham](../names/ham.md), [Jerusalem](../names/jerusalem.md), [Melchizedek](../names/melchizedek.md))
 

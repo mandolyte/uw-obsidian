@@ -8,7 +8,7 @@ The Kerethites were a people group who were probably part of the Philistines. So
 * Benaiah, son of Jehoiada, a member of David’s administrative corps, was the leader of the Kerethites and Pelethites.
 * The Kerethites remained with David when he had to flee Jerusalem because of Absalom’s revolt.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Absalom](../names/absalom.md), [Benaiah](../names/benaiah.md), [David](../names/david.md), [Philistines](../names/philistines.md))
 

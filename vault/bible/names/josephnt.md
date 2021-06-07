@@ -9,7 +9,7 @@ Joseph was Jesus’ earthly father and raised him as his son. He was a righteous
 * After Jesus was born, an angel warned Joseph to take the baby and Mary to Egypt in order to escape from Herod.
 * Joseph and his family later lived in the city of Nazareth of Galilee, where he earned a living doing carpentry work.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Christ](../kt/christ.md), [Galilee](../names/galilee.md), [Jesus](../kt/jesus.md), [Nazareth](../names/nazareth.md), [Son of God](../kt/sonofgod.md), [virgin](../other/virgin.md))
 

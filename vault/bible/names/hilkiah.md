@@ -8,7 +8,7 @@ Hilkiah was the high priest during the reign of King Josiah.
 * After the Book of the Law was read to him, Josiah was grieved and caused the people of Judah to worship Yahweh again and obey his laws.
 * Another man named Hilkiah was the son of Eliakim and worked in the palace during the time of King Hezekiah.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Eliakim](../names/eliakim.md), [Hezekiah](../names/hezekiah.md), [high priest](../kt/highpriest.md), [Josiah](../names/josiah.md), [Judah](../names/kingdomofjudah.md), [law](../other/law.md), [worship](../kt/worship.md), [Yahweh](../kt/yahweh.md))
 

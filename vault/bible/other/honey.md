@@ -7,7 +7,7 @@
 * Depending on the kind, honey can be yellowish or brownish in color.
 * Honey can be found in the wild, such as in the hollow of a tree, or wherever bees make a nest. People also raise bees in hives in order to produce honey to eat or sell, but probably the honey mentioned in the Bible was wild honey.
 * Three people that the Bible specifically mentions as eating wild honey were Jonathan, Samson, and John the Baptist.
-* This term is often used figuratively to describe something that is sweet or very pleasurable. For example, God’s words and decrees are said to be “sweeter than honey.” (See also: [Simile](rc://en/ta/man/translate/figs-simile), [Metaphor](rc://en/ta/man/translate/figs-metaphor))
+* This term is often used figuratively to describe something that is sweet or very pleasurable. For example, God’s words and decrees are said to be “sweeter than honey.” (See also: [Simile](../../translate/figs-simile), [Metaphor](../../translate/figs-metaphor))
 * Sometimes a person’s words are described as seeming sweet like honey, but instead result in deceiving and harming others.
 
 (See also: [John (the Baptist)](../names/johnthebaptist.md), [Jonathan](../names/jonathan.md), [Philistines](../names/philistines.md), [Samson](../names/samson.md))

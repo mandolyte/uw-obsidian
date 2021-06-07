@@ -9,7 +9,7 @@ Gomorrah was a city located in a fertile valley near Sodom, where Abraham’s ne
 * When Lot’s family was captured in a conflict between Sodom and other cities, Abraham and his men rescued them.
 * Not long after that, Sodom and Gomorrah were destroyed by God because of the wickedness of the people who lived there.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Babylon](../names/babylon.md), [Lot](../names/lot.md), [Salt Sea](../names/saltsea.md), [Sodom](../names/sodom.md))
 

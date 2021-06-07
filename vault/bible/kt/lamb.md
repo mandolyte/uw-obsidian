@@ -15,7 +15,7 @@ The term “lamb” refers to a young sheep. Sheep are four-legged animals with 
 * If sheep are not known, this term could be translated as “a young sheep” with a footnote that describes what sheep are like. The note could also compare sheep and lambs to an animal from that area that lives in herds, that is timid and defenseless, and that often wanders away.
 * Also consider how this term is translated in a Bible translation of a nearby local or national language.
 
-(See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [sheep](../other/sheep.md), [shepherd](../other/shepherd.md))
 

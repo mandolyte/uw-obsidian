@@ -9,7 +9,7 @@ Luke wrote two books of the New Testament: the gospel of Luke and the book of Ac
 * Luke accompanied Paul on two of his missionary journeys and helped him in his work.
 * In some early church writings, it is said that Luke was born in the city of Antioch in Syria.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Antioch](../names/antioch.md), [Paul](../names/paul.md), [Syria](../names/syria.md))
 

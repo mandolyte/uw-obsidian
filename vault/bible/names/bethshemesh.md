@@ -8,7 +8,7 @@ Beth Shemesh was the name of a Canaanite city approximately 30 kilometers west o
 * Beth Shemesh was a city that was set aside as a place for the Levite priests to live.
 * When the Philistines were taking the captured ark of the covenant back to Jerusalem, Beth Shemesh was the first city where they stopped with it.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [ark of the covenant](../kt/arkofthecovenant.md), [Canaan](../names/canaan.md), [Jerusalem](../names/jerusalem.md), [Joshua](../names/joshua.md), [Levite](../names/levite.md), [Philistines](../names/philistines.md))
 

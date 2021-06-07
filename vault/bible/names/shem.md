@@ -8,7 +8,7 @@ Shem was one of Noah’s three sons, all of whom went with him into the ark duri
 * The descendants of Shem were known as “Semites”; they spoke “Semitic” languages such as Hebrew and Arabic.
 * The Bible indicates that Shem lived nearly 600 years.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Arabia](../names/arabia.md), [ark](../kt/ark.md), [flood](../other/flood.md), [Noah](../names/noah.md))
 

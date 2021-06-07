@@ -9,7 +9,7 @@ Gabriel is the name of one of God’s angels. He is mentioned by name several ti
 * In the New Testament it is recorded that Gabriel came to Zechariah to prophesy that his aged wife Elizabeth would have a son, John.
 * Sixth months after that, Gabriel was sent to Mary to tell her that God would miraculously enable her to conceive a child who would be the “Son of God.” Gabriel told Mary to name her son “Jesus.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [angel](../kt/angel.md), [Daniel](../names/daniel.md), [Elizabeth](../names/elizabeth.md), [John (the Baptist)](../names/johnthebaptist.md), [Mary](../names/mary.md), [prophet](../kt/prophet.md), [Son of God](../kt/sonofgod.md), [Zechariah (NT)](../names/zechariahnt.md))
 

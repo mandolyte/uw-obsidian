@@ -8,7 +8,7 @@ Ekron was a major city of the Philistines, located nine miles inland from the Me
 * When the Philistines captured the ark of the covenant, they took it to Ashdod and then moved it to Gath and Ekron because God kept causing people to get sick and die in whatever city the ark was taken to. Finally the Philistines sent the ark back to Israel.
 * When King Ahaziah fell through the roof of his house and injured himself, he sinned by trying to find out from the false god Baal-zebub of Ekron as to whether or not he would die from his injuries. Because of this sin, Yahweh said that he would die.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahaziah](../names/ahaziah.md), [ark of the covenant](../kt/arkofthecovenant.md), [Ashdod](../names/ashdod.md), [Beelzebul](../names/beelzebul.md), [false god](../kt/falsegod.md), [Gath](../names/gath.md), [Philistines](../names/philistines.md))
 

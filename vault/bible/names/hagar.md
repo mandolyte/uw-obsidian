@@ -8,7 +8,7 @@ Hagar was an Egyptian woman who was Sarai’s personal slave.
 * Hagar conceived and gave birth to Abram’s son Ishmael.
 * God watched over Hagar when she was in distress in the desert and promised to bless her descendants.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [descendant](../other/descendant.md), [Ishmael](../names/ishmael.md), [Sarah](../names/sarah.md), [servant](../other/servant.md))
 

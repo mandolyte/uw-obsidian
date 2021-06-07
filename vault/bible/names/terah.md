@@ -7,7 +7,7 @@ Terah was a descendant of Noah’s son Shem. He was the father of Abram, Nahor a
 * Terah left his home in Ur in order to go to the land of Canaan with his son Abram, his nephew Lot, and Abram’s wife Sarai.
 * On the way to Canaan, Terah and his family lived for years in the city of Haran in Mesopotamia. Terah died in Haran at the age of 205.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Canaan](../names/canaan.md), [Haran](../names/haran.md), [Lot](../names/lot.md), [Mesopotamia](../names/mesopotamia.md), [Nahor](../names/nahor.md), [Sarah](../names/sarah.md), [Shem](../names/shem.md), [Ur](../names/ur.md))
 

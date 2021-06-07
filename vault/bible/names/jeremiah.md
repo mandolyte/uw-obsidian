@@ -8,7 +8,7 @@ Jeremiah was a prophet of God in the kingdom of Judah. The Old Testament book of
 * Jeremiah prophesied that the Babylonians would capture Jerusalem, making some of the people of Judah angry. So they put him in a deep, dry well and left him there to die. But the king of Judah ordered his servants to rescue Jeremiah from the well.
 * Jeremiah wrote that he wished his eyes could be a “fountain of tears,” to express his deep sadness over the rebellion and sufferings of his people.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Babylon](../names/babylon.md), [Judah](../names/kingdomofjudah.md), [prophet](../kt/prophet.md), [rebel](../other/rebel.md), [suffer](../other/suffer.md), [well](../other/well.md))
 

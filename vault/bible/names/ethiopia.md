@@ -9,7 +9,7 @@ Ethiopia is a country in Africa located just south of Egypt, bordered by the Nil
 * The countries of Ethiopia (“Cush”) and Egypt are often mentioned together in the Bible, perhaps because they were located next to each other and their people may have had some of the same ancestors.
 * God sent Philip the evangelist to a desert where he shared the good news about Jesus with an Ethiopian eunuch.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Cush](../names/cush.md), [Egypt](../names/egypt.md), [eunuch](../kt/eunuch.md), [Philip](../names/philip.md))
 

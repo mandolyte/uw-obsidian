@@ -8,7 +8,7 @@ Canaan was the son of Ham, who was one of Noah’s sons. The Canaanites were the
 * This land was inhabited by the Canaanites, as well as several other people groups.
 * God promised to give the land of Canaan to Abraham and his descendants, the Israelites.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ham](../names/ham.md), [Promised Land](../kt/promisedland.md))
 

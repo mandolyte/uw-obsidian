@@ -14,7 +14,7 @@ Some time after Jesus went back to heaven, people made up the name “Christian�
 * This term could be translated as “Christ-follower” or “follower of Christ” or perhaps something like, “Christ-person.”
 * Make sure that the translation of this term is translated differently than terms used for disciple or apostle.
 * Be careful to translate this term with a word that can refer to everyone who believes in Jesus, not just certain groups.
-* Also consider how this term is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+* Also consider how this term is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [Antioch](../names/antioch.md), [Christ](../kt/christ.md), [church](../kt/church.md), [disciple](../kt/disciple.md), [believe](../kt/believe.md), [Jesus](../kt/jesus.md), [Son of God](../kt/sonofgod.md))
 

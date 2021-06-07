@@ -10,7 +10,7 @@ Obadiah was an Old Testament prophet who prophesied against the people of Edom, 
 * Other men named Obadiah included a descendant of Sau,; a Gadite who became one of David’s men, a palace administrator for King Ahab, an official of King Jehoshaphat, a man who helped with repairs to the temple during the time of King Josiah, and a Levite who was also a gatekeeper during the time of Nehemiah.
 * It could be that the writer of the book of Obadiah was one of these men.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahab](../names/ahab.md), [Babylon](../names/babylon.md), [David](../names/david.md), [Edom](../names/edom.md), [Esau](../names/esau.md), [Ezekiel](../names/ezekiel.md), [Daniel](../names/daniel.md), [Gad](../names/gad.md), [Jehoshaphat](../names/jehoshaphat.md), [Josiah](../names/josiah.md), [Levite](../names/levite.md), [Saul (OT)](../names/saul.md), [Zedekiah](../names/zedekiah.md))
 

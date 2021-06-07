@@ -8,7 +8,7 @@ Mount Hermon is the name of the tallest mountain in Israel at the southern tip o
 * Other names given to Mount Hermon by other people groups were “Mount Sirion” and “Mount Senir.”
 * Mount Hermon has three major peaks. The tallest peak is around 2,800 meters high.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Israel](../kt/israel.md), [Sea of Galilee](../names/seaofgalilee.md), [Syria](../names/syria.md))
 

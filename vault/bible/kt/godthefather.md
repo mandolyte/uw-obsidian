@@ -14,7 +14,7 @@ The terms “God the Father” and “heavenly Father” refer to Yahweh, the on
 * The term “heavenly Father” could be translated by “Father who lives in heaven” or “Father God who lives in heaven” or “God our Father from heaven.”
 * Usually “Father” is capitalized when it, refers to God.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [ancestor](../other/father.md), [God](../kt/god.md), [heaven](../kt/heaven.md), [Holy Spirit](../kt/holyspirit.md), [Jesus](../kt/jesus.md), [Son of God](../kt/sonofgod.md))
 

@@ -8,7 +8,7 @@ A fir tree is a kind of tree that stays green all year and has cones that contai
 * In ancient times, the wood of fir trees was used for making musical instruments and for building structures such as boats, houses, and the temple.
 * Some examples of fir trees mentioned in the Bible are pine, cedar, cypress, and juniper.
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [cedar](../other/cedar.md), [cypress](../other/cypress.md))
 

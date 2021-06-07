@@ -10,7 +10,7 @@
 * At different time periods throughout their history, the Israelites also became deeply involved in Baal worship, following the example of the pagan nations around them.
 * During the reign of King Ahab, God’s prophet Elijah set up a test to prove to the people that Baal does not exist and that Yahweh is the only true God. As a result, the prophets of Baal were destroyed and the people started worshiping Yahweh again.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ahab](../names/ahab.md), [Asherah](../names/asherim.md), [Elijah](../names/elijah.md), [false god](../kt/falsegod.md), [prostitute](../other/prostitute.md), [Yahweh](../kt/yahweh.md))
 

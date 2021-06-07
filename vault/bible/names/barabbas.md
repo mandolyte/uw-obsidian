@@ -8,7 +8,7 @@ Barabbas was a prisoner in Jerusalem at the time when Jesus was arrested.
 * When Pontius Pilate offered to either release Barabbas or Jesus, the people chose Barabbas.
 * So Pilate allowed Barabbas to go free, but condemned Jesus to be killed.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Pilate](../names/pilate.md), [Rome](../names/rome.md))
 

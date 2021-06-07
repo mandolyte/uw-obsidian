@@ -10,7 +10,7 @@ Jacob was the younger twin son of Isaac by Rebekah. God changed his name to “I
 * Jacob married Laban’s two daughters, Leah and Rachel, as well as each of their servants, Zilpah and Bilhah. These four women mothered the twelve sons who became the ancestral fathers of the twelve tribes of Israel.
 * In the New Testament, a different man named Jacob is listed as being Joseph’s father in Matthew’s genealogy.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Israel](../kt/israel.md), [twelve tribes of Israel](../other/12tribesofisrael.md), [Leah](../names/leah.md), [Rachel](../names/rachel.md), [Zilpah](../names/zilpah.md), [Bilhah](../names/bilhah.md), [deceive](../other/deceive.md), [Esau](../names/esau.md), [Isaac](../names/isaac.md), [Rebekah](../names/rebekah.md), [Laban](../names/laban.md))
 

@@ -8,7 +8,7 @@ Baruch is the name of several men in the Old Testament.
 * Also during the time of Nehemiah, another Baruch (son of Kol-Hozeh) was one of the leaders who settled in Jerusalem after its walls were restored.
 * A different Baruch (son of Neriah) was an assistant to the prophet Jeremiah, who helped him with various practical tasks such as writing down the messages God gave to Jeremiah and then reading them to the people.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [disciple](../kt/disciple.md), [Jeremiah](../names/jeremiah.md), [Jerusalem](../names/jerusalem.md), [Nehemiah](../names/nehemiah.md), [prophet](../kt/prophet.md))
 

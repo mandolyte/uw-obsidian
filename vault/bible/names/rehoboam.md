@@ -8,7 +8,7 @@ Rehoboam was one of the sons of King Solomon, and he became the king of the nati
 * Rehoboam continued as king of the southern kingdom of Judah, which consisted of the remaining two tribes, Judah and Benjamin.
 * Rehoboam was a wicked king who did not obey Yahweh, but worshiped false gods.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [kingdom of Israel](../names/kingdomofisrael.md), [Judah](../names/kingdomofjudah.md), [Solomon](../names/solomon.md))
 

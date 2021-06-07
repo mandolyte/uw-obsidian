@@ -9,7 +9,7 @@ Cornelius was a Gentile, or non-Jewish man, who was a military officer in the Ro
 * The people of Cornelius’ household were the first non-Jewish people to become believers.
 * This showed Jesus’ followers that he had come to save all people, including Gentiles.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [apostle](../kt/apostle.md), [believe](../kt/believe.md), [Gentile](../kt/gentile.md), [good news](../kt/goodnews.md), [Greek](../names/greek.md), [centurion](../kt/centurion.md))
 

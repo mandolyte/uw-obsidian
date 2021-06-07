@@ -7,7 +7,7 @@ Crete is an island that is located off the southern coast of Greece. A “Cretan
 * The apostle Paul traveled to the island of Crete during his missionary journeys.
 * Paul left his co-worker Titus on Crete to teach the Christians and to help appoint leaders for the church there.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 ## Bible References:
 

@@ -9,7 +9,7 @@ Hoshea was the name of a king of Israel and several other men in the Old Testame
 * After Moses died, Joshua led the people of Israel to take possession of the land of Canaan.
 * A different man named Hoshea was a son of Azaziah and was one of the leaders of the Ephraimites.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahaz](../names/ahaz.md), [Canaan](../names/canaan.md), [Ephraim](../names/ephraim.md), [Hezekiah](../names/hezekiah.md), [Joshua](../names/joshua.md), [Moses](../names/moses.md))
 

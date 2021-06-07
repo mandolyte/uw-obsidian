@@ -9,7 +9,7 @@ Samson was one of the judges, or deliverers, of Israel. He was from the tribe of
 * He finally broke his vow and allowed his hair to be cut, enabling the Philistines to capture him.
 * While Samson was in captivity, God enabled him to regain his strength and gave him the opportunity to destroy the temple of the false god Dagon, along with many Philistines.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [deliver](../other/deliverer.md), [Philistines](../names/philistines.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 

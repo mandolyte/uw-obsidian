@@ -8,7 +8,7 @@ The term “Hebrew” refers in a very general sense to the people group descend
 * The vast majority of the Old Testament was written in the language called “Hebrew.” However, in most cases in the New Testament, the specific term “Hebrew” probably refers to the Aramaic language rather than the Hebrew language.
 * In different places in the Bible, the Hebrews were also called “Israelites” or “Jews.” When translating, it is best to keep all three terms distinct in the text, as long as it is clear that these terms refer to the same people group.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Israel](../kt/israel.md), [Jew](../kt/jew.md), [Jewish leaders](../other/jewishleaders.md))
 

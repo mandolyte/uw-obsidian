@@ -8,7 +8,7 @@ Goliath was a very tall and very large soldier in the army of the Philistines wh
 * Although Goliath had better weapons and was much bigger than David, God gave David the strength and ability to defeat Goliath.
 * The Israelites were declared victorious over the Philistines as a result of David’s victory over Goliath.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [David](../names/david.md), [Philistines](../names/philistines.md))
 

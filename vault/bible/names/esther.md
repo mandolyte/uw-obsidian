@@ -10,7 +10,7 @@ Esther was a Jewish woman who became queen of the Persian kingdom after the Isra
 * Esther obeyed God and risked her life in order to save her people, the Jews.
 * The story of Esther illustrates God’s sovereign control over the events of history, especially how he protects his people and works through those who obey him.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahasuerus](../names/ahasuerus.md), [Mordecai](../names/mordecai.md), [Persia](../names/persia.md))
 

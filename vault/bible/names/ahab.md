@@ -8,7 +8,7 @@ Ahab was a very evil king who reigned over the northern kingdom of Israel from 8
 * The prophet Elijah confronted Ahab and told him there would be a severe drought for three and a half years as punishment for the sins that Ahab caused Israel to commit.
 * Ahab and his wife Jezebel did many other evil things, including using their power to kill innocent people.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Baal](../names/baal.md), [Elijah](../names/elijah.md), [Jezebel](../names/jezebel.md), [kingdom of Israel](../names/kingdomofisrael.md), [Yahweh](../kt/yahweh.md))
 

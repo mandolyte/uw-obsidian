@@ -10,7 +10,7 @@ Priscilla and her husband Aquila were Jewish Christians who worked with the apos
 * From Syria, the three of them went to Ephesus. When Paul left Ephesus, Priscilla and Aquila stayed behind and continued the work of preaching the gospel there.
 * They especially taught a man named Apollos in Ephesus who believed in Jesus and was a gifted speaker and teacher.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [believe](../kt/believe.md), [Christian](../kt/christian.md), [Corinth](../names/corinth.md), [Ephesus](../names/ephesus.md), [Paul](../names/paul.md), [Rome](../names/rome.md), [Syria](../names/syria.md))
 

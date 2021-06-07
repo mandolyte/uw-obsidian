@@ -7,7 +7,7 @@ In Old Testament times, Beersheba was a city located about 45 miles southwest of
 * The desert surrounding Beersheba was the wilderness area where Hagar and Ishmael wandered after Abraham sent them away from his tents.
 * The name of this city means “well of the oath.” It was given this name when Abraham swore an oath to not punish King Abimelech’s men for seizing control of one of Abraham’s wells.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abimelech](../names/abimelech.md), [Abraham](../names/abraham.md), [Hagar](../names/hagar.md), [Ishmael](../names/ishmael.md), [Jerusalem](../names/jerusalem.md), [oath](../other/oath.md))
 

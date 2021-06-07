@@ -8,7 +8,7 @@ Matthew was one of the twelve men that Jesus chose to be his apostles. He was al
 * Matthew wrote the gospel that bears his name.
 * There are several other men named Levi in the Bible.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [apostle](../kt/apostle.md), [Levite](../names/levite.md), [tax collector](../other/tax.md))
 

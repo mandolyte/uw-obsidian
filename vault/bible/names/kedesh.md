@@ -8,7 +8,7 @@ Kedesh was a Canaanite city that was taken over by the Israelites when they ente
 * Kedesh was one of the cities that was chosen as a place where the Levite priests could live, since they did not have any land of their own.
 * It was also set apart as a “city of refuge.”
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [Hebron](../names/hebron.md), [Levite](../names/levite.md), [Naphtali](../names/naphtali.md), [priest](../kt/priest.md), [refuge](../other/refuge.md), [Shechem](../names/shechem.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 

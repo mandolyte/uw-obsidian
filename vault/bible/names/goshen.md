@@ -8,7 +8,7 @@ Goshen was the name of a fertile region of land located along the Nile River in 
 * They and their descendants lived well in Goshen for over 400 years, but then they were forced into slavery by the Egyptian pharaoh.
 * Finally God sent Moses to help the people of Israel leave the land of Goshen and escape this slavery.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Egypt](../names/egypt.md), [famine](../other/famine.md), [Moses](../names/moses.md), [Nile River](../names/nileriver.md))
 

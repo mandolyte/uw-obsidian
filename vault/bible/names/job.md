@@ -10,7 +10,7 @@ Job was a man who is described in the Bible as blameless and righteous before Go
 * After all the disasters, God eventually healed Job and gave him more children and wealth.
 * The book of Job says that he was very old when he died.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Esau](../names/esau.md), [flood](../other/flood.md), [Jacob](../names/jacob.md)[Noah](../names/noah.md), [people group](../other/peoplegroup.md))
 

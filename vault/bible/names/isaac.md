@@ -10,7 +10,7 @@ Isaac was the only son of Abraham and Sarah. God had promised to give them a son
 * When Isaac was a youth, God tested Abraham’s faith by commanding him to sacrifice Isaac.
 * Isaac’s son Jacob had twelve sons whose descendants later became the twelve tribes of the nation of Israel.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [descendant](../other/descendant.md), [eternity](../kt/eternity.md), [fulfill](../kt/fulfill.md), [Jacob](../names/jacob.md), [Sarah](../names/sarah.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 

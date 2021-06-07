@@ -8,7 +8,7 @@ Rahab was a woman who lived in Jericho when Israel attacked the city. She was a 
 * Rahab became a believer in Yahweh.
 * She and her family came to live with the Israelites after the Israelites destroyed Jericho and spared Rahab and her family.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Israel](../kt/israel.md), [Jericho](../names/jericho.md), [prostitute](../other/prostitute.md))
 

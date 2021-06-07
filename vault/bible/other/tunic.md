@@ -9,7 +9,7 @@ In the Bible, the term “tunic” referred to a garment that was worn next to t
 * A tunic was normally worn under a longer over-garment, such as a toga or outer robe. In warmer weather a tunic was sometimes worn with no outer garment.
 * This term could be translated as “long shirt” or “long undergarment” or “shirt-like garment.” It could also be written in a similar way to “tunic,” with a note to explain what kind of clothing it was.
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See Also: [robe](../other/robe.md))
 

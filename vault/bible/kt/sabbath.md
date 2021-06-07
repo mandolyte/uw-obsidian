@@ -15,7 +15,7 @@ The term “Sabbath” refers to the seventh day of the week, which God commande
 * Some translations capitalize this term to show that it is a special day, as in “Sabbath Day” or “Resting Day.”
 * Consider how this term is translated in a local or national language.
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [rest](../other/rest.md))
 

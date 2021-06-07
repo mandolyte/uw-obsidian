@@ -10,7 +10,7 @@ Lot was Abraham’s nephew.
 * When enemy kings attacked Sodom and captured Lot, Abraham came with several hundred men to rescue Lot and recover his belongings.
 * The people living in the city of Sodom were very wicked, so God destroyed that city. But he first told Lot and his family to leave the city so that that they could escape.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Ammon](../names/ammon.md), [Haran](../names/haran.md), [Moab](../names/moab.md), [Sodom](../names/sodom.md))
 

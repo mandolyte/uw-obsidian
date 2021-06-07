@@ -10,7 +10,7 @@ Kedar was Ishmael’s second son. It was also an important city, which was proba
 * These people raised sheep and goats. They also used camels for transporting things.
 * In the Bible, the phrase “the glory of Kedar” refers to the greatness of that city and its people.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Arabia](../names/arabia.md), [goat](../other/goat.md), [Ishmael](../names/ishmael.md), [sacrifice](../other/sacrifice.md))
 

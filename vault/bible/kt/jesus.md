@@ -14,7 +14,7 @@ Jesus is God’s Son. The name “Jesus” means “Yahweh saves.” The term �
 * For the term “Christ,” some translators may prefer to use only some form of the term “Messiah” throughout.
 * Also consider how these names are spelled in a nearby local or national language.
 
-(Translation suggestions: [How to Translate Names](../../translate/translate-names.md))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Christ](../kt/christ.md), [God](../kt/god.md), [God the Father](../kt/godthefather.md), [high priest](../kt/highpriest.md), [kingdom of God](../kt/kingdomofgod.md), [Mary](../names/mary.md), [Savior](../kt/savior.md), [Son of God](../kt/sonofgod.md))
 

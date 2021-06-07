@@ -7,7 +7,7 @@ Herodias was the wife of Herod Antipas in Judea during the time of John the Bapt
 * Herodias was originally the wife of Herod Antipas’s brother Philip, but later she unlawfully married Herod Antipas.
 * John the Baptist rebuked Herod and Herodias for their unlawful marriage. Because of this, Herod put John in prison and because of Herodias eventually was beheaded.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Herod Antipas](../names/herodantipas.md), [John (the Baptist)](../names/johnthebaptist.md))
 

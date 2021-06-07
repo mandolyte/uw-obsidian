@@ -8,7 +8,7 @@ Enoch was the name of two men in the Old Testament.
 * This Enoch had a close relationship with God and when he was 365 years old, God took him to heaven while he was still alive.
 * A different man named Enoch was a son of Cain.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Cain](../names/cain.md), [Seth](../names/seth.md))
 

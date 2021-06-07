@@ -8,7 +8,7 @@ Esau was one of the twin sons of Isaac and Rebekah. He was the first baby born t
 * Since Esau was born first, his father Isaac was supposed to give him a special blessing. But Jacob tricked Isaac into giving him that blessing instead. At first Esau was so angry that he wanted to kill Jacob, but later he forgave him.
 * Esau had many children and grandchildren, and these descendants formed a large people group living in the land of Canaan.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Edom](../names/edom.md), [Isaac](../names/isaac.md), [Jacob](../names/jacob.md), [Rebekah](../names/rebekah.md))
 

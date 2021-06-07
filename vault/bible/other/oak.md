@@ -14,7 +14,7 @@ An oak, or oak tree, is a tall shade tree with a large trunk and wide spreading 
 * Many translations will find it important to use the term “oak tree” rather than just the word “oak.”
 * If oak trees are not known in the receptor area, “an oak” could be translated as “an oak, which is a large shade tree like…,” then give the name of a local tree that has similar characteristics.
 
-(See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [holy](../kt/holy.md))
 

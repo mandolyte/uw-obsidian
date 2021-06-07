@@ -8,7 +8,7 @@ Lebanon is a beautiful mountainous region located along the coast of the Mediter
 * Ancient Lebanon was inhabited by Phoenician people, who were skilled builders of ships that were used for a successful trading industry.
 * The cities of Tyre and Sidon were located in Lebanon. It was in these cities that a valuable purple dye was first used.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [cedar](../other/cedar.md), [cypress](../other/cypress.md), [fir](../other/fir.md), [Phoenicia](../names/phonecia.md))
 

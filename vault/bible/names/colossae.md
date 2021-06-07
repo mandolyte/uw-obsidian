@@ -10,7 +10,7 @@ In New Testament times, Colossae was a city located in the Roman province of Phr
 * Epaphras was probably the Christian worker who started the church at Colossae.
 * The book of Philemon was a letter by Paul addressed to a slave owner in Colossae.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ephesus](../names/ephesus.md), [Paul](../names/paul.md))
 

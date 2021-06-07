@@ -11,7 +11,7 @@ The Negev is a desert region in the southern part of Israel, southwest of the Sa
 * The Jewish tribes of Judah and Simeon lived in this southern region.
 * The largest city in the Negev region was Beersheba.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Beersheba](../names/beersheba.md), [Israel](../kt/israel.md), [Judah](../names/judah.md), [Kadesh](../names/kadesh.md), [Salt Sea](../names/saltsea.md), [Simeon](../names/simeon.md))
 

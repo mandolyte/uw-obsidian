@@ -19,7 +19,7 @@ In the Bible, the term “God” refers to the eternal being who created the uni
 * Many languages capitalize the first letter of the word for the one true God, to distinguish it from the word for a false god. Another way to make this distinction would be to use different terms for “God” and “god.” NOTE: In the biblical text, when a person who does not worship Yahweh speaks about Yahweh and uses the word “god,” it is acceptable to render the term without a capital letter in reference to Yahweh (see Jonah 1:6, 3:9).
 * The phrase “I will be their God and they will be my people” could also be translated as “I, God, will rule over these people and they will worship me.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [create](../other/creation.md), [false god](../kt/falsegod.md), [God the Father](../kt/godthefather.md), [Holy Spirit](../kt/holyspirit.md), [false god](../kt/falsegod.md), [Son of God](../kt/sonofgod.md), [Yahweh](../kt/yahweh.md))
 

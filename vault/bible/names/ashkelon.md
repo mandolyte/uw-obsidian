@@ -8,7 +8,7 @@ In Bible times, Ashkelon was a major Philistine city located on the coast of the
 * The Israelites did not completely conquer the people of Ashkelon, even though the kingdom of Judah occupied its hill country.
 * Ashkelon remained occupied by the Philistines for hundreds of years.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ashdod](../names/ashdod.md), [Canaan](../names/canaan.md), [Ekron](../names/ekron.md), [Gath](../names/gath.md), [Gaza](../names/gaza.md), [Philistines](../names/philistines.md), [Mediterranean](../names/mediterranean.md))
 

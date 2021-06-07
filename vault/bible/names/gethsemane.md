@@ -7,7 +7,7 @@ Gethsemane was a garden of olive trees east of Jerusalem beyond the Kidron valle
 * The garden of Gethsemane was a place where Jesus and his followers would go to be alone and rest, away from the crowds.
 * It was in Gethsemane that Jesus prayed in deep sorrow, before being arrested there by Jewish leaders.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Judas Iscariot](../names/judasiscariot.md), [Kidron Valley](../names/kidronvalley.md), [Mount of Olives](../names/mountofolives.md))
 

@@ -17,7 +17,7 @@ In the Bible, the term “flesh” literally refers to the soft tissue of the ph
 * When referring in general to all people, this term could be translated as “people” or “human beings” or “everyone who lives.”
 * The expression “flesh and blood” could also be translated as “relatives” or “family” or “kinfolk” or “family clan.” There may be contexts where it could be translated as “ancestors” or “descendants.”
 * Some languages may have an expression that is similar in meaning to “flesh and blood.”
-* The expression “become one flesh” could be translated as “unite sexually” or “become as one body” or “become like one person in body and spirit.” The translation of this expression should be checked to make sure it is acceptable in the project language and culture. (See: [euphemism](rc://en/ta/man/translate/figs-euphemism)). It should also be understood that this is figurative, and does not mean that a man and a woman who “become one flesh” literally become one person.
+* The expression “become one flesh” could be translated as “unite sexually” or “become as one body” or “become like one person in body and spirit.” The translation of this expression should be checked to make sure it is acceptable in the project language and culture. (See: [euphemism](../../translate/figs-euphemism)). It should also be understood that this is figurative, and does not mean that a man and a woman who “become one flesh” literally become one person.
 
 ## Bible References:
 

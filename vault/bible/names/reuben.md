@@ -8,7 +8,7 @@ Reuben was Jacob’s first son. He was Leah’s first son. His descendants becam
 * In Hebrew, the name Reuben means “Look, a son!”
 * The tribe of Reuben settled on the eastern side of the Jordan River along with the tribe of Gad and half the tribe of Manasseh.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [twelve tribes of Israel](../other/12tribesofisrael.md), [Jacob](../names/jacob.md), [Leah](../names/leah.md))
 

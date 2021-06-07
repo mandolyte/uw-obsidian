@@ -9,7 +9,7 @@ Uriah was a righteous man and one of King David’s best soldiers. He is often r
 * To cover up this sin, David caused Uriah to be killed in battle. Then David married Bathsheba.
 * Another man named Uriah was a priest during the time of King Ahaz.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ahaz](../names/ahaz.md), [Bathsheba](../names/bathsheba.md), [David](../names/david.md), [Hittite](../names/hittite.md))
 

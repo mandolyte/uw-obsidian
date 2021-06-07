@@ -9,7 +9,7 @@ James was a son of Mary and Joseph. He was one of Jesus’ younger half-brothers
 * Later, after Jesus was raised from the dead, James believed in him and became a leader of the church in Jerusalem.
 * The New Testament book of James is a letter that James wrote to Christians who had fled to other countries to escape persecution.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [apostle](../kt/apostle.md), [Christ](../kt/christ.md), [church](../kt/church.md), [Judas the son of James](../names/judassonofjames.md), [persecute](../other/persecute.md))
 

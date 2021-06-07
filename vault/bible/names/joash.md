@@ -11,7 +11,7 @@ Joash was the name of several men in the Old Testament.
 * King Joash was a good king who at first obeyed God. But he did not remove the high places, and the Israelites started worshiping idols again.
 * King Joash ruled Judah during some of the years that King Jehoash was ruling Israel. They were two distinct kings.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahaziah](../names/ahaziah.md), [altar](../kt/altar.md), [Benjamin](../names/benjamin.md), [false god](../kt/falsegod.md), [Gideon](../names/gideon.md), [high places](../other/highplaces.md), [false god](../kt/falsegod.md))
 

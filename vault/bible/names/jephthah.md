@@ -8,7 +8,7 @@ Jephthah was a warrior from Gilead who served as a judge over Israel.
 * He rescued the Israelites from the Ammonites and led his people to defeat the Ephraimites.
 * Jepthah however, made a foolish, hasty vow to God which resulted in the sacrifice of his daughter.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ammon](../names/ammon.md), [deliver](../other/deliverer.md), [Ephraim](../names/ephraim.md), [judge](../other/judgeposition.md), [vow](../kt/vow.md))
 

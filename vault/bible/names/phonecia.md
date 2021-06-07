@@ -9,7 +9,7 @@ In ancient times, Phoenicia was a wealthy nation located in Canaan along the coa
 * Phoenicians were well-known for their woodworking skills using their country’s plentiful cedar trees, for their production of a costly purple dye, and for their ability to travel and trade by sea. They were also highly skilled boat builders.
 * One of the earliest alphabets was created by the Phoenician people. Their alphabet was widely used because of their contact with many people groups through trading.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [cedar](../other/cedar.md), [purple](../other/purple.md), [Sidon](../names/sidon.md), [Tyre](../names/tyre.md))
 

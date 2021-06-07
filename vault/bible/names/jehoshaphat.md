@@ -8,7 +8,7 @@ Jehoshaphat was the name of at least two men in the Old Testament.
 * He restored peace between Judah and Israel and destroyed the altars of false gods.
 * Another Jehoshaphat was a “recorder” for David and Solomon. His job included writing documents for the king to sign and recording the history of the important events that happened in the kingdom.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [altar](../kt/altar.md), [David](../names/david.md), [false god](../kt/falsegod.md), [Israel](../kt/israel.md), [Judah](../names/judah.md), [priest](../kt/priest.md), [Solomon](../names/solomon.md))
 

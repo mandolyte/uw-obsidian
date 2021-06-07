@@ -11,7 +11,7 @@ Amaziah became king over the kingdom of Judah when his father, King Joash, was m
 * He challenged King Jehoash of Israel to a battle, but lost. Part of the walls of Jerusalem were broken down and the silver and gold vessels of the temple were stolen.
 * Years later King Amaziah turned away from Yahweh and certain men in Jerusalem plotted together and killed him.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Joash](../names/joash.md), [Edom](../names/edom.md))
 

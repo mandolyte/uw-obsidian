@@ -9,7 +9,7 @@ In biblical times, Tarshish was a port city situated on the Mediterranean Sea. T
 * One of Japheth’s grandsons was named Tarshish.
 * Tarshish was also the name of one of the wise men of King Ahashuerus.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Esther](../names/esther.md), [Japheth](../names/japheth.md), [Jonah](../names/jonah.md), [Nineveh](../names/nineveh.md), [Phoenicia](../names/phonecia.md), [wise men](../other/wisemen.md))
 

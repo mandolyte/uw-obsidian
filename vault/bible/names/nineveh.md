@@ -7,7 +7,7 @@ Nineveh was the capital city of Assyrian empire. A “Ninevite” was a person w
 * God sent the prophet Jonah to warn the Ninevites to turn from their wicked ways. The people stopped acting so violently and God did not destroy them at that time.
 * The prophets Nahum and Zephaniah both prophesied that God would destroy Nineveh as judgment for their sin.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Assyria](../names/assyria.md), [Jonah](../names/jonah.md), [repent](../kt/repent.md), [turn](../other/turn.md))
 

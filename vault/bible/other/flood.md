@@ -13,7 +13,7 @@ The term “flood” literally refers to a large amount of water that completely
 * Ways to translate the literal meaning of “flood” could include “an overflowing of water” or “large amounts of water.”
 * The figurative comparison “like a flood” could keep the literal term, or a substitute term could be used that refers to something that has a flowing aspect to it, such as a river.
 * For the expression “like a flood of water” where water is already mentioned, the word “flood” could be translated as “an overwhelming amount” or “an overflowing.”
-* This term can be used as a metaphor, as in “do not let the flood sweep over me,” which means “do not let these overwhelming disasters happen to me” or “don’t let me be devastated by disasters” or “don’t let your anger devastate me.” (See: [Metaphor](rc://en/ta/man/translate/figs-metaphor))
+* This term can be used as a metaphor, as in “do not let the flood sweep over me,” which means “do not let these overwhelming disasters happen to me” or “don’t let me be devastated by disasters” or “don’t let your anger devastate me.” (See: [Metaphor](../../translate/figs-metaphor))
 * The figurative expression “I flood my bed with tears” could be translated as “my tears cover my bed with water like a flood.”
 
 (See also: [ark](../kt/ark.md), [Noah](../names/noah.md))

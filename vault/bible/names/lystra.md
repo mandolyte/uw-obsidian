@@ -8,7 +8,7 @@ Lystra was a city in ancient Asia Minor that Paul visited on one of his missiona
 * In Lystra, Paul met Timothy, who became a fellow evangelist and church planter.
 * After Paul healed a crippled man in Lystra, the people there tried to worship Paul and Barnabas as gods, but the apostles rebuked them and stopped them from doing that.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [evangelist](../kt/evangelism.md), [Iconium](../names/iconium.md), [Timothy](../names/timothy.md))
 

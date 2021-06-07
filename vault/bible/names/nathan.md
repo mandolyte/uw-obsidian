@@ -8,7 +8,7 @@ Nathan was a faithful prophet of God who lived while David was king over Israel.
 * Nathan rebuked David in spite of the fact that David was the king.
 * David repented of his sin after Nathan confronted him.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [David](../names/david.md), [faithful](../kt/faithful.md), [prophet](../kt/prophet.md), [Uriah](../names/uriah.md))
 

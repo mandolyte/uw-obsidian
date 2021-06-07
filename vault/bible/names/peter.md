@@ -9,7 +9,7 @@ Peter was one of Jesus’ twelve apostles. He was an important leader of the ear
 * God worked through Peter to heal people and to preach the good news about Jesus.
 * Two books in the New Testament are letters that Peter wrote to encourage and teach fellow believers.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [disciple](../kt/disciple.md), [apostle](../kt/apostle.md))
 

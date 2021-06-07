@@ -18,7 +18,7 @@ The term “forever” refers to never-ending time.
 * Other ways to translate “eternal” or “everlasting” could include “unending” or “never stopping” or “always continuing.”
 * The terms “eternal life” and “everlasting life” could also be translated as “life that never ends” or “life that continues without stopping” or “the raising up of our bodies to live forever.”
 * Depending on the context, different ways to translate “eternity” could include “existing outside of time” or “unending life” or “life in heaven.”
-* Also consider how this word is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+* Also consider how this word is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](../../translate/translate-unknown))
 
 * “Forever” could also be translated by “always” or “never ending.”
 * The phrase “will last forever” could also be translated as “always exist” or “will never stop” or “will always continue.”

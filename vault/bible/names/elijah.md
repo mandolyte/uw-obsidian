@@ -10,7 +10,7 @@ Elijah was one of the most important prophets of Yahweh. Elijah prophesied durin
 * At the end of Elijah’s life, God miraculously took him up to heaven while he was still alive.
 * Hundreds of years later, Elijah, along with Moses, appeared with Jesus on a mountain, and they talked together about Jesus’ coming suffering and death in Jerusalem.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [miracle](../kt/miracle.md), [prophet](../kt/prophet.md), [Yahweh](../kt/yahweh.md))
 

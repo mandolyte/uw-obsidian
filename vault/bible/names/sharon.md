@@ -8,7 +8,7 @@ Sharon was the name of a flat, fertile area of land along the coast of the Medit
 * This could be translated as “the plain called Sharon” or “Sharon Plain.”
 * People who lived in the region of Sharon were called “Sharonites.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Caesarea](../names/caesarea.md), [Carmel](../names/carmel.md), [Joppa](../names/joppa.md), [the sea](../names/mediterranean.md))
 

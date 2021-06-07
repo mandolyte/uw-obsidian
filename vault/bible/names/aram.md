@@ -12,7 +12,7 @@
 * In the Old Testament, sometimes the terms “Aram” and “Paddan Aram” refer to the same region.
 * The term “Aram Naharaim” may mean “Aram of Two Rivers.” This region was located in the northern part of Mesopotamia and was to the east of “Paddan Aram.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Mesopotamia](../names/mesopotamia.md), [Paddan Aram](../names/paddanaram.md), [Rebekah](../names/rebekah.md), [Shem](../names/shem.md), [Syria](../names/syria.md))
 

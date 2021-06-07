@@ -9,7 +9,7 @@ Simon the Zealot was one of Jesus’ twelve disciples.
 * The term “zealot” may mean that Simon was a member of “the Zealots,” a Jewish religious party that was very zealous in upholding the Law of Moses while strongly opposing the Roman government.
 * Or, “zealot” may simply mean “the zealous one,” referring to Simon’s religious zeal.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [apostle](../kt/apostle.md), [disciple](../kt/disciple.md), [the twelve](../kt/thetwelve.md))
 

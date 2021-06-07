@@ -9,7 +9,7 @@ Philip the apostle was one of the original twelve disciples of Jesus. He was fro
 * At the last Passover supper that Jesus ate with his disciples, he talked to them about God, his Father. Philip asked Jesus to show them the Father.
 * Some languages may prefer to spell this Philip’s name in a different way from the other Philip (the evangelist) to avoid confusion.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Philip](../names/philip.md))
 

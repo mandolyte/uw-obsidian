@@ -8,7 +8,7 @@ Eleazar was the name of several men in the Bible.
 2. Eleazar was also the name of one of David’s “mighty men.”
 3. Another Eleazar was one of Jesus’ ancestors.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Aaron](../names/aaron.md), [high priest](../kt/highpriest.md), [David](../names/david.md), [mighty](../other/mighty.md))
 

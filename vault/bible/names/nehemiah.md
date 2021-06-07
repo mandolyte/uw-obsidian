@@ -10,7 +10,7 @@ Nehemiah was an Israelite forced to move to the Babylonian empire when the peopl
 * The Old Testament book of Nehemiah tells the story of Nehemiah’s work in rebuilding the walls and his governing of the people in Jerusalem.
 * There were also other men named Nehemiah in the Old Testament. Usually the name of the father was added, to distinguish which Nehemiah was being talked about.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Artaxerxes](../names/artaxerxes.md), [Babylon](../names/babylon.md), [Jerusalem](../names/jerusalem.md), [son](../kt/son.md))
 

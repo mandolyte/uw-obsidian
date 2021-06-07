@@ -10,7 +10,7 @@ Corinth was a city in the country of Greece, about 50 miles west of Athens. The 
 * Paul met the believers Aquila and Priscilla while in Corinth.
 * Other early church leaders associated with Corinth include Timothy, Titus, Apollos, and Silas.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Apollos](../names/apollos.md), [Timothy](../names/timothy.md), [Titus](../names/titus.md))
 

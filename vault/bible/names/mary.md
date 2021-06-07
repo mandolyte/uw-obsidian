@@ -13,7 +13,7 @@ Mary was a young woman living in the city of Nazareth who was pledged to be marr
 * When Jesus was an adult, Mary was with him when he changed water to wine at a wedding in Cana.
 * The gospels also mention that Mary was at the cross when Jesus was dying. He told his disciple John to take care of her like his own mother.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Cana](../names/cana.md), [Egypt](../names/egypt.md), [Herod the Great](../names/herodthegreat.md), [Jesus](../kt/jesus.md), [Joseph (NT)](../names/josephnt.md), [Son of God](../kt/sonofgod.md), [virgin](../other/virgin.md))
 

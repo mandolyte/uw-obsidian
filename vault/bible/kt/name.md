@@ -7,7 +7,7 @@ The term “name” refers to the word by which a specific person or thing is ca
 * In some contexts, “name” could refer to a person’s reputation, as in “let us make a name for ourselves.”
 * The term “name” could also refer to the memory of something. For example, “cut off the names of the idols” means to destroy those idols so that they are no longer remembered or worshiped.
 * Speaking “in the name of God” meant speaking with his power and authority, or as his representative.
-* The “name” of someone could refer to the entire person, as in “there is no other name under heaven by which we must be saved.” (See: [metonymy](rc://en/ta/man/translate/figs-metonymy))
+* The “name” of someone could refer to the entire person, as in “there is no other name under heaven by which we must be saved.” (See: [metonymy](../../translate/figs-metonymy))
 
 ## Translation Suggestions:
 

@@ -8,7 +8,7 @@ The town of Bethany was located at the base of the eastern slope of the Mount of
 * Jesus often visited Bethany where his close friends Lazarus, Martha, and Mary lived.
 * Bethany is especially known as the place where Jesus raised Lazarus from the dead.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Jericho](../names/jericho.md), [Jerusalem](../names/jerusalem.md), [Lazarus](../names/lazarus.md), [Martha](../names/martha.md), [Mary (sister of Martha)](../names/marysisterofmartha.md), [Mount of Olives](../names/mountofolives.md))
 

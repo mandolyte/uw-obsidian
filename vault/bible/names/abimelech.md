@@ -10,7 +10,7 @@ Abimelech was a Philistine king over the region of Gerar during the time when Ab
 * King Abimelech rebuked Abraham, and later Isaac, for lying to him.
 * Another man by the name of Abimelech was a son of Gideon and a brother of Jotham. Some translations may use a slightly different spelling of his name to make it clear that he is a different person from King Abimelech.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Beersheba](../names/beersheba.md), [Gerar](../names/gerar.md), [Gideon](../names/gideon.md), [Jotham](../names/jotham.md), [Philistines](../names/philistines.md))
 

@@ -9,7 +9,7 @@ Zadok was the name of an important high priest in Israel during the reign of Kin
 * Two different men by the name of Zadok helped rebuild the walls of Jerusalem during Nehemiah’s time.
 * Zadok was also the name of King Jotham’s grandfather.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [ark of the covenant](../kt/arkofthecovenant.md), [David](../names/david.md), [Jotham](../names/jotham.md), [Nehemiah](../names/nehemiah.md), [reign](../other/reign.md), [Solomon](../names/solomon.md))
 

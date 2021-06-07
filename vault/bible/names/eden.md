@@ -8,7 +8,7 @@ In ancient times, Eden was a region that had a garden where God placed the first
 * The exact location of the region of Eden is not certain, but the Tigris and Euphrates Rivers were flowing through it.
 * The word “Eden” comes from a Hebrew word meaning to “take great delight in.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Adam](../names/adam.md), [Euphrates River](../names/euphrates.md), [Eve](../names/eve.md))
 

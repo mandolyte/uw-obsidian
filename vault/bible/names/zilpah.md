@@ -7,7 +7,7 @@ Zilpah was one of Jacob’s wives. She was the mother of Jacob’s two sons Gad 
 * Laban gave Zilpah to Leah as a servant when Leah married Jacob.
 * When Leah stopped having children, she gave Zilpah to Jacob as a wife to bear more children for her.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Jacob](../names/jacob.md), [Leah](../names/leah.md), [Gad](../names/gad.md), [Asher](../names/asher.md))
 

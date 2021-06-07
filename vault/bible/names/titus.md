@@ -8,7 +8,7 @@ Titus was a Gentile. He was trained by Paul to be a leader in the early churches
 * In this letter Paul instructed Titus to appoint elders for the churches on the island of Crete.
 * In some of his other letters to Christians, Paul mentions Titus as someone who encouraged him and brought him joy.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [appoint](../kt/appoint.md), [believe](../kt/believe.md), [church](../kt/church.md), [circumcise](../kt/circumcise.md), [Crete](../names/crete.md), [elder](../other/elder.md), [encourage](../other/courage.md), [instruct](../other/instruct.md), [minister](../kt/minister.md))
 

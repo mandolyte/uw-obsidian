@@ -10,7 +10,7 @@ Simeon was Jacob’s second son. He was Leah’s second son. His descendants bec
 * When Joseph and Mary brought the baby Jesus to the temple in Jerusalem to dedicate him to God, an elderly man named Simeon praised God for allowing him to see the Messiah.
 * Another man named Simeon is mentioned in Luke’s geneology of Jesus.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [twelve tribes of Israel](../other/12tribesofisrael.md), [Jacob](../names/jacob.md), [Leah](../names/leah.md))
 

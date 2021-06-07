@@ -9,7 +9,7 @@ Josiah was a godly king who reigned over the kingdom of Judah for thirty-one yea
 * When the books of the Law were read to Josiah, he was grieved at how his people were disobeying God. He ordered that all the places of idol worship be destroyed and that the priests of the false gods be killed.
 * He also ordered the people to start celebrating the Passover feast again.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [false god](../kt/falsegod.md), [Judah](../names/judah.md), [law](../other/law.md), [Passover](../kt/passover.md), [temple](../kt/temple.md))
 

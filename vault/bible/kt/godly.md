@@ -14,7 +14,7 @@ The terms “ungodly” and “godless” describe people who are in rebellion a
 
 ## Translation Suggestions:
 
-* The phrase “the godly” could be translated as “godly people” or “people who obey God.” (See: [nominaladj](rc://en/ta/man/translate/figs-nominaladj))
+* The phrase “the godly” could be translated as “godly people” or “people who obey God.” (See: [nominaladj](../../translate/figs-nominaladj))
 * The adjective “godly” could be translated as “obedient to God” or “righteous” or “pleasing to God.”
 * The phrase “in a godly manner” could be translated as “in a way that obeys God” or “with actions and words that please God.”
 * Ways to translate “godliness” could include “acting in a way that pleases God” or “obeying God” or “living in a righteous manner.”

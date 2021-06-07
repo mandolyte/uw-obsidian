@@ -9,7 +9,7 @@ Jehoiakim was an evil king who reigned over the kingdom of Judah, beginning arou
 * When Judah was later invaded by King Nebuchadnezzar, Jehioakim was among those who were captured and taken to Babylon.
 * Jehoiakim was an evil king who led Judah away from Yahweh. Jeremiah the prophet prophesied against him.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Babylon](../names/babylon.md), [Eliakim](../names/eliakim.md), [Jeremiah](../names/jeremiah.md), [Judah](../names/kingdomofjudah.md), [Nebuchadnezzar](../names/nebuchadnezzar.md))
 

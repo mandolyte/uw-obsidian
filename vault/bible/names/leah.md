@@ -8,7 +8,7 @@ Leah was one of Jacob’s wives. She was the older sister of Rachel and the moth
 * God abundantly blessed Leah by giving her many children, even though her husband Jacob loved Rachel more than her.
 * Leah is the ancestral mother of both King David and Jesus.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Jacob](../names/jacob.md), [Reuben](../names/reuben.md), [Simeon](../names/simeon.md), [Levi](../names/levite.md), [Judah](../names/judah.md), [Issachar](../names/issachar.md), [Zebulun](../names/zebulun.md), [Laban](../names/laban.md), [Rachel](../names/rachel.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 

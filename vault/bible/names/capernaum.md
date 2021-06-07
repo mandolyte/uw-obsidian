@@ -9,7 +9,7 @@ Capernaum was a fishing village on the northwest shore of the Sea of Galilee.
 * Jesus also did many miracles in this city, including bringing a dead girl back to life.
 * Capernaum was one of three cities that Jesus publicly rebuked because their people rejected him and did not believe his message. He warned them that God would punish them for their unbelief.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Galilee](../names/galilee.md), [Sea of Galilee](../names/seaofgalilee.md))
 

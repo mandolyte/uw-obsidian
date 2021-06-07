@@ -8,7 +8,7 @@ Hamor was a Canaanite man living in the city of Shechem when Jacob and his famil
 * While they were there, Hamor’s son Shechem raped Jacob’s daughter Dinah.
 * Dinah’s brothers took revenge on Hamor’s family and killed all the men in the city of Shechem.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [Hivite](../names/hivite.md), [Jacob](../names/jacob.md), [Shechem](../names/shechem.md), [Succoth](../names/succoth.md))
 

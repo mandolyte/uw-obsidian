@@ -8,7 +8,7 @@ Sidon was the oldest son of Canaan. There is also a Canaanite city called Sidon,
 * The “Sidonians” were a Phoenician people group who lived in ancient Sidon and the region surrounding it.
 * In the Bible, Sidon is closely associated with the city of Tyre, and both cities were known for their wealth and for immoral behavior of their people.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [Noah](../names/noah.md), [Phoenicia](../names/phonecia.md), [the sea](../names/mediterranean.md), [Tyre](../names/tyre.md))
 

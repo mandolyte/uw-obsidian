@@ -8,7 +8,7 @@ Habakkuk was an Old Testament prophet who lived around the time that King Jehoia
 * Yahweh gave Habakkuk the prophecy about how the “Chaldeans” (Babylonians) would come and conquer the people of Judah.
 * One of Habakkuk’s most well-known statements is: “the righteous person shall live by his faith.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Babylon](../names/babylon.md), [Jehoiakim](../names/jehoiakim.md), [Jeremiah](../names/jeremiah.md))
 

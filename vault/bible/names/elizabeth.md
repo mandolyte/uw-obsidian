@@ -8,7 +8,7 @@ Elizabeth was the mother of John the Baptist. Her husband’s name was Zechariah
 * God kept his promise, and soon Zechariah and Elizabeth were able to conceive, and she gave birth to a son. They named the baby John.
 * Elizabeth was also a relative of Mary, Jesus’ mother.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [John (the Baptist)](../names/johnthebaptist.md), [Zechariah (NT)](../names/zechariahnt.md))
 

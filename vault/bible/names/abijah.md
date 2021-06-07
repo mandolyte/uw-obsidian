@@ -9,7 +9,7 @@ Abijah was a king of Judah who reigned from 915 to 913 B.C. He was a son of King
 * Abijah was one of King Jeroboam’s sons.
 * Abijah was also a chief priest who returned with Zerubbabel to Jerusalem from the Babylonian captivity.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 ## Bible References:
 

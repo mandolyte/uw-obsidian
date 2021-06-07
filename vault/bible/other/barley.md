@@ -10,7 +10,7 @@ The term “barley” refers to a kind of grain that is used to make bread.
 * Barley grain is ground up into flour, which is then mixed with water or oil to make bread.
 * If barley is not known, this could be translated as “grain called barley” or “barley grain.”
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [grain](../other/grain.md), [thresh](../other/thresh.md), [wheat](../other/wheat.md))
 

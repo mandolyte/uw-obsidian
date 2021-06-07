@@ -7,7 +7,7 @@ Potiphar was an important official for the pharaoh of Egypt during the time that
 * Potiphar bought Joseph from the Ishmaelites and appointed him to be in charge of his household.
 * When Joseph was falsely accused of doing wrong, Potiphar had Joseph put in prison.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Egypt](../names/egypt.md), [Joseph (OT)](../names/josephot.md), [Pharaoh](../names/pharaoh.md))
 

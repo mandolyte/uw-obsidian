@@ -8,7 +8,7 @@ Pontus was a Roman province during the time of the Roman Empire and the early Ch
 * A believer named Aquila was from Pontus.
 * When Peter was writing to Christians who were scattered into different regions, Pontus was one of the regions he mentioned.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Aquila](../names/aquila.md), [Pentecost](../kt/pentecost.md))
 

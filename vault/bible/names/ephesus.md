@@ -10,7 +10,7 @@ Ephesus was an ancient Greek city on the west coast of what is now the present-d
 * Paul lived and worked in Ephesus for more than two years and later appointed Timothy to lead the new believers there.
 * The book of Ephesians in the New Testament is a letter that Paul wrote to the believers in Ephesus.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Asia](../names/asia.md), [Paul](../names/paul.md), [Timothy](../names/timothy.md))
 

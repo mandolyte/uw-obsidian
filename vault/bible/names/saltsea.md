@@ -9,7 +9,7 @@ The Salt Sea (also called the Dead Sea) was located between southern Israel on i
 * This sea has such a high concentration of minerals (or “salts”) that nothing can live in its waters. Its lack of plants and animals is the cause of the name “Dead Sea.”
 * In the Old Testament, this sea is also called the “Sea of Arabah” and the “Sea of Negev” because of its location near the regions of Arabah and Negev.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ammon](../names/ammon.md), [Arabah](../names/arabah.md), [Jordan River](../names/jordanriver.md), [Moab](../names/moab.md), [Negev](../names/negev.md))
 

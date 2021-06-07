@@ -8,7 +8,7 @@ Tychicus was one of Paul’s fellow ministers of the gospel.
 * Paul described him as “beloved” and “faithful.”
 * Tychicus carried Paul’s letters to Ephesus and Colosse.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Asia](../names/asia.md), [beloved](../kt/beloved.md), [Colossae](../names/colossae.md), [Ephesus](../names/ephesus.md), [faithful](../kt/faithful.md), [good news](../kt/goodnews.md), [minister](../kt/minister.md))
 

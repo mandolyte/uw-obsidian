@@ -9,7 +9,7 @@ Absalom was the third son of King David. He was known for his handsome appearanc
 * Absalom turned some of the people against King David and led a revolt against him.
 * David’s army fought against Absalom and killed him. David was very grieved when this happened.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Geshur](../names/geshur.md), [Amnon](../names/amnon.md))
 

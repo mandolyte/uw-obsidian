@@ -10,7 +10,7 @@ Nebuchadnezzar was a king of the Babylonian Empire whose powerful army conquered
 * King Nebuchadnezzar was very arrogant and worshiped false gods. When he conquered Judah, he stole many gold and silver objects from the temple in Jerusalem.
 * Because Nebuchadnezzar was proud and refused to turn away from worshiping false gods, Yahweh caused him to be destitute for seven years, living like an animal. After the seven years, God restored Nebuchadnezzar when he humbled himself and praised the one true God, Yahweh.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [arrogant](../other/arrogant.md), [Azariah](../names/azariah.md), [Babylon](../names/babylon.md), [Hananiah](../names/hananiah.md), [Mishael](../names/mishael.md))
 

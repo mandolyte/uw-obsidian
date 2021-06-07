@@ -9,7 +9,7 @@ Jehoiada was a priest who helped hide and protect King Ahaziah’s son Joash unt
 * For the rest of his life, Jehoiada the priest advised King Joash to help him obey God and rule the people wisely.
 * Another man named Jehoiada was the father of Benaiah.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ahaziah](../names/ahaziah.md), [Baal](../names/baal.md), [Benaiah](../names/benaiah.md), [Joash](../names/joash.md))
 

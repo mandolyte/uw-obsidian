@@ -8,7 +8,7 @@ In ancient times, chariots were lightweight, two-wheeled carts that were pulled 
 * In war, an army that had chariots had a great advantage of speed and mobility over an army that did not have chariots.
 * The ancient Egyptians and Romans were well-known for their use of horses and chariots.
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [Egypt](../names/egypt.md), [Rome](../names/rome.md))
 

@@ -17,7 +17,7 @@ The term “assembly” usually refers to a group of people who come together fo
 
 * Depending on the context, “assembly” could also be translated as “special gathering” or “congregation” or “council” or “army” or “large group.”
 * When the term “assembly” refers generally to the Israelites as a whole, it could also be translated as “community” or “people of Israel.”
-* The phrase, “all the assembly” could be translated as “all the people” or “the whole group of Israelites” or “everyone.” (See: [hyperbole](rc://en/ta/man/translate/figs-hyperbole))
+* The phrase, “all the assembly” could be translated as “all the people” or “the whole group of Israelites” or “everyone.” (See: [hyperbole](../../translate/figs-hyperbole))
 * A large gathering of enemy soldiers was sometimes also referred to as an “assembly.” This could be translated as “army.”
 
 (See also: [council](../other/council.md))

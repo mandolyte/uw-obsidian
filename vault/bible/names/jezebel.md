@@ -9,7 +9,7 @@ Jezebel was the wicked wife of King Ahab of Israel.
 * Jezebel caused an innocent man named Naboth to be killed so that Ahab could steal Naboth’s vineyard.
 * Jezebel was finally killed due to all the evil things she had done. Elijah prophesied about how she would die and it happened exactly as he had predicted.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahab](../names/ahab.md), [Elijah](../names/elijah.md), [false god](../kt/falsegod.md))
 

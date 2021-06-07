@@ -8,7 +8,7 @@ Media was an ancient empire located east of Assyria and Babylonia, and north of 
 * The Medes were closely associated with the Persians and the two empires joined forces to conquer the Babylonian empire.
 * Babylonia was invaded by Darius the Mede during the time that the prophet Daniel was living there.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Assyria](../names/assyria.md), [Babylon](../names/babylon.md), [Cyrus](../names/cyrus.md), [Daniel](../names/daniel.md), [Darius](../names/darius.md), [Elam](../names/elam.md), [Persia](../names/persia.md))
 

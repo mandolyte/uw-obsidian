@@ -12,7 +12,7 @@ The term “adultery” refers to a sin that occurs when a married person has se
 ## Translation Suggestions:
 
 * If the target language does not have one word that means “adultery,” this term could be translated with a phrase such as “having sexual relations with someone else’s wife” or “being intimate with another person’s spouse.”
-* Some languages may have an indirect way of talking about adultery, such as “sleeping with someone else’s spouse” or “being unfaithful to one’s wife.” (See: [euphemism](rc://en/ta/man/translate/figs-euphemism))
+* Some languages may have an indirect way of talking about adultery, such as “sleeping with someone else’s spouse” or “being unfaithful to one’s wife.” (See: [euphemism](../../translate/figs-euphemism))
 
 (See also: [commit](../other/commit.md), [covenant](../kt/covenant.md), [sexual immorality](../other/fornication.md), [sleep with](../other/sex.md), [faithful](../kt/faithful.md))
 

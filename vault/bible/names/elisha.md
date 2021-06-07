@@ -8,7 +8,7 @@ Elisha was a prophet in Israel during the reigns of several kings of Israel: Aha
 * When Elijah was taken to heaven in a fiery chariot, Elisha became God’s prophet to the kings of Israel.
 * Elisha did many miracles, including healing a man from Syria who had leprosy and raising from the dead the son of a woman from Shunem.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Elijah](../names/elijah.md), [Naaman](../names/naaman.md), [prophet](../kt/prophet.md))
 

@@ -8,7 +8,7 @@ Uzziah became king of Judah at the age of 16 and reigned 52 years, which was an 
 * As long as Uzziah served the Lord, he prospered. Toward the end of his reign, however, he became proud and he disobeyed the Lord by burning incense in the temple, which only the priest was permitted to do.
 * Because of this sin, Uzziah became sick with leprosy and had to live separately from other people until the end of his reign.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Judah](../names/kingdomofjudah.md), [king](../other/king.md), [leprosy](../other/leprosy.md), [reign](../other/reign.md), [watchtower](../other/watchtower.md))
 

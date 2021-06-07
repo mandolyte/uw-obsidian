@@ -7,7 +7,7 @@ In Old Testament times, Ai was the name of a Canaanite town located just south o
 * After defeating Jericho, Joshua led the Israelites in an attack of Ai. But they were easily defeated because God was not pleased with them.
 * An Israelite named Achan had stolen plunder from Jericho, and God ordered that he and his family be killed. Then God helped the Israelites defeat the people of Ai.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Bethel](../names/bethel.md), [Jericho](../names/jericho.md))
 

@@ -12,7 +12,7 @@ The term “transgress” means to cross a line or to violate a boundary. The te
 * To “trangress” could be translated as to “sin” or to “disobey” or to “rebel.”
 * If a verse or passage uses two terms that mean “sin” or “transgress” or “trespass,” it is important, if possible, to use different ways to translate these terms. When the Bible uses two or more terms with similar meanings in the same context, usually its purpose is to emphasize what is being said or to show its importance.
 
-(See: [parallelism](rc://en/ta/man/translate/figs-parallelism))
+(See: [parallelism](../../translate/figs-parallelism))
 
 (See also: [disobey](../other/disobey.md), [sin](../kt/sin.md), [trespass](../kt/trespass.md), [iniquity](../kt/iniquity.md))
 

@@ -10,7 +10,7 @@ The Euphrates is the name of one of the four rivers that flowed through the Gard
 * This river was one of the boundaries of the land that God promised to give to Abraham (Genesis 15:18).
 * Sometimes the Euphrates is simply called “the River.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 ## Bible References:
 

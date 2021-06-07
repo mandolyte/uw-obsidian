@@ -18,7 +18,7 @@ Because Jesus is God’s Son, he loves and obeys his Father, and his Father love
 * Using a capital letter to begin “Son” may help show that this is talking about God.
 * The phrase “the Son” is a shortened form of “the Son of God,” especially when it occurs in the same context as “the Father.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Christ](../kt/christ.md), [ancestor](../other/father.md), [God](../kt/god.md), [God the Father](../kt/godthefather.md), [Holy Spirit](../kt/holyspirit.md), [Jesus](../kt/jesus.md), [son](../kt/son.md), [sons of God](../kt/sonsofgod.md))
 

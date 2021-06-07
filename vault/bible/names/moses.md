@@ -9,7 +9,7 @@ Moses was a prophet and leader of the Israelite people for over 40 years. He was
 * After the Israelites’ escape from Egypt and while they were wandering in the desert, God gave Moses two stone tablets with the Ten Commandments written on them.
 * Near the end of his life, Moses saw the Promised Land, but didn’t get to live in it because he disobeyed God.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Miriam](../names/miriam.md), [Promised Land](../kt/promisedland.md), [Ten Commandments](../other/tencommandments.md))
 

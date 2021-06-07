@@ -8,7 +8,7 @@ The Girgashites were a people group living near the Sea of Galilee in the land o
 * God promised the Israelites that he would help them defeat the Girgashites and other Canaanite people groups.
 * Like all the Canaanite peoples, the Girgashites worshiped false gods and did immoral things as part of that worship.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [Ham](../names/ham.md), [Noah](../names/noah.md))
 

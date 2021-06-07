@@ -9,7 +9,7 @@ Gideon was an Israelite man whom God raised up to deliver the Israelites from th
 * Gideon also obeyed God by taking down altars to the false gods Baal and Asherah.
 * He not only led the people in defeating their enemies but also encouraged them to obey and worship Yahweh, the one true God.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Baal](../names/baal.md), [Asherah](../names/asherim.md), [deliver](../other/deliverer.md), [Midian](../names/midian.md), [Yahweh](../kt/yahweh.md))
 

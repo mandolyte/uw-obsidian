@@ -10,7 +10,7 @@ Damascus is the capital city of the country of Syria. It is still in the same lo
 * Several biblical prophecies predict the destruction of Damascus. These prophecies may have been fulfilled when Assyria destroyed the city during Old Testament times, or there may be also be a future, more complete destruction of this city.
 * In the New Testament, the Pharisee Saul (later known as Paul) was on his way to arrest Christians in the city of Damascus when Jesus confronted him and caused him to become a believer.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Aram](../names/aram.md), [Assyria](../names/assyria.md), [believe](../kt/believe.md), [Syria](../names/syria.md))
 

@@ -7,7 +7,7 @@ The city of Babylon was the capital of the ancient region of Babylonia, which wa
 * Babylon was located along the Euphrates River, in the same region where the Tower of Babel had been built hundreds of years before.
 * Sometimes the word “Babylon” refers to the entire Babylonian Empire. For example, the “king of Babylon” ruled the entire empire, not just the city.
 * The Babylonians were a powerful people group who attacked the kingdom of Judah and kept the people in exile in Babylonia for 70 years.
-* Part of this region was called “Chaldea” and the people living there were the “Chaldeans.” As a result, the term “Chaldea” was often used to refer to Babylonia. (See: [synecdoche](rc://en/ta/man/translate/figs-synecdoche))
+* Part of this region was called “Chaldea” and the people living there were the “Chaldeans.” As a result, the term “Chaldea” was often used to refer to Babylonia. (See: [synecdoche](../../translate/figs-synecdoche))
 
 (See also: [Babel](../names/babel.md), [Chaldea](../names/chaldeans.md), [Judah](../names/kingdomofjudah.md), [Nebuchadnezzar](../names/nebuchadnezzar.md))
 

@@ -10,7 +10,7 @@ Caesarea was an important city on the coast of the Mediterranean Sea, about 39 k
 * Paul sailed from Caesarea to Tarsus and also passed through this city on two of his missionary journeys.
 * Jesus and his disciples traveled in the region surrounding Caesarea Philippi in Syria. Both cities were named after Herod Philip.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Caesar](../names/caesar.md), [Gentile](../kt/gentile.md), [the sea](../names/mediterranean.md), [Carmel](../names/carmel.md), [Mount Hermon](../names/mounthermon.md), [Rome](../names/rome.md), [Tarsus](../names/tarsus.md))
 

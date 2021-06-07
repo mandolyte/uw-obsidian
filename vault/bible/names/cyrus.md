@@ -8,7 +8,7 @@ Cyrus was a Persian king who founded the Persian empire in about 550 BC, through
 * Cyrus was known for his tolerant attitude toward the people of the nations he conquered. His kindness toward the Jews led to the rebuilding of the Jerusalem temple after the exile.
 * Cyrus was reigning during the time when Daniel, Ezra, and Nehemiah were living.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Daniel](../names/daniel.md), [Darius](../names/darius.md), [Ezra](../names/ezra.md), [Nehemiah](../names/nehemiah.md), [Persia](../names/persia.md))
 

@@ -11,7 +11,7 @@ The names Kadesh, Kadesh-Barnea, and Meribah Kadesh all refer to an important ci
 * It was at Meribah Kadesh where Moses disobeyed God and hit a rock to get water for the Israelites, instead of speaking to it as God had told him to do.
 * The name “kadesh” comes from the Hebrew word meaning “holy” or “set apart.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [desert](../other/desert.md), [Edom](../names/edom.md), [holy](../kt/holy.md))
 

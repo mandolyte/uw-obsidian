@@ -7,7 +7,7 @@ Boaz was an Israelite man who lived during the time when there were judges ruled
 * He was a relative of an Israelite woman named Naomi who had returned to Israel after her husband and sons died in Moab.
 * Boaz “redeemed” Naomi’s widowed daughter-in-law Ruth by marrying her and giving her a future with a husband and children.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Moab](../names/moab.md), [redeem](../kt/redeem.md), [Ruth](../names/ruth.md))
 

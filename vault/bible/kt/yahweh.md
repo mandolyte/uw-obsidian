@@ -17,7 +17,7 @@ The term “Yahweh” is God’s personal name in the Old Testament. The specifi
 * It is best if possible to keep the name Yahweh where it literally occurs in the text, but some translations may decide to use only a pronoun in some places, to make the text more natural and clear.
 * Introduce the quote with something like, “This is what Yahweh says.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [God](../kt/god.md), [Lord](../kt/lord.md))
 

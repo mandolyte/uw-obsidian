@@ -16,7 +16,7 @@ The term “cherub,” and its plural form “cherubim,” refer to a special ty
 * The term “cherubim” could be translated as “creatures with wings” or “guardians with wings” or “winged spiritual guardians” or “holy, winged guardians.”
 * A “cherub” should be translated as the singular of cherubim, as in, “creature with wings” or “winged spiritual guardian,” for example.
 * Make sure that the translation of this term is different from the translation of “angel.”
-* Also consider how this term is translated or written in a Bible translation in a local or national language. (See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+* Also consider how this term is translated or written in a Bible translation in a local or national language. (See: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [angel](../kt/angel.md))
 

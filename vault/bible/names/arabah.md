@@ -8,7 +8,7 @@ The Old Testament term “Arabah” often refers to a very large desert and plai
 * The “Sea of the Arabah” could also be translated as “sea located in the Arabah desert region.” This sea is often referred to as the “Salt Sea” or the “Dead Sea.”
 * The term “arabah” can also be a general reference to any desert region.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [desert](../other/desert.md), [Sea of Reeds](../names/redsea.md), [Jordan River](../names/jordanriver.md), [Canaan](../names/canaan.md), [Salt Sea](../names/saltsea.md), [Egypt](../names/egypt.md))
 

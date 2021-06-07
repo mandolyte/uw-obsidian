@@ -9,7 +9,7 @@ Judas son of James was one of Jesus’ twelve apostles. Note that he was not the
 * The New Testament book called “Jude” was probably written by Jesus’ brother Judas, since the author identified himself as the “brother of James.” James was another brother of Jesus.
 * It is also possible that the book of Jude was written by Jesus’ disciple, Judas, the son of James.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [James (son of Zebedee)](../names/jamessonofzebedee.md), [Judas Iscariot](../names/judasiscariot.md), [son](../kt/son.md), [the twelve](../kt/thetwelve.md))
 

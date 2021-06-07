@@ -6,7 +6,7 @@
 * Her name was originally “Sarai,” but God changed it to “Sarah.”
 * Sarah gave birth to Isaac, the son God had promised to give her and Abraham.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Isaac](../names/isaac.md))
 

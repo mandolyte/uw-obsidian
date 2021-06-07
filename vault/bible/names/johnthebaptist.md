@@ -9,7 +9,7 @@ John was the son of Zechariah and Elizabeth. Since “John” was a common name,
 * John baptized many people in water as a sign that they were sorry for their sins and were turning away from them.
 * John was called “John the Baptist” because he baptized many people.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [baptize](../kt/baptize.md), [Zechariah (NT)](../names/zechariahnt.md))
 

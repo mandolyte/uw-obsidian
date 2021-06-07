@@ -8,7 +8,7 @@ Caleb was one of the twelve Israelite spies whom Moses sent to explore the land 
 * Joshua and Caleb were the only men of their generation who were allowed to enter the Promised Land of Canaan.
 * Caleb requested that the land of Hebron be given to him and his family. He knew that God would help him defeat the people who lived there.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Hebron](../names/hebron.md), [Joshua](../names/joshua.md))
 

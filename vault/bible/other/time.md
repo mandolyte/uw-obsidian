@@ -6,7 +6,7 @@ In the Bible the term “time” was often used figuratively to refer to a speci
 
 * “Time” can mean “occasion” in a phrase like “third time.” The phrase “many times” can mean “on many occasions.”
 * Depending on the context, the term “time” could be translated as, “season” or “time period” or “moment” or “event” or “occurrence.”
-* The phrase “times and seasons” is a figurative expression which states the same idea twice. This could also be translated as “certain events happening in certain time periods.” (See: [doublet](rc://en/ta/man/translate/figs-doublet))
+* The phrase “times and seasons” is a figurative expression which states the same idea twice. This could also be translated as “certain events happening in certain time periods.” (See: [doublet](../../translate/figs-doublet))
 
 (See also: [age](../other/age.md), [tribulation](../other/tribulation.md))
 

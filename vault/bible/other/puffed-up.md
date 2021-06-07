@@ -2,7 +2,7 @@
 
 ## Definition:
 
-The term “puffed up” is a figurative expression that refers to being proud or arrogant. (See: [Idiom](rc://en/ta/man/translate/figs-idiom))
+The term “puffed up” is a figurative expression that refers to being proud or arrogant. (See: [Idiom](../../translate/figs-idiom))
 
 * A person who is puffed up has an attitude of feeling superior to others.
 * Paul taught that knowing a lot of information or having religious experiences can lead to being “puffed up” or proud.

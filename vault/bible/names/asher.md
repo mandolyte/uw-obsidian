@@ -8,7 +8,7 @@ Asher was Jacob’s eighth son. He was Zilpah’s second son. His descendants be
 * His name sounds similar to a Hebrew word meaning “blessed, happy.”
 * The tribe of Asher settled in the northwest corner of Canaan, on the Mediterannian Sea. When used as the name of a region of land, the term “Asher” refers to the land given to the tribe of Asher.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [twelve tribes of Israel](../other/12tribesofisrael.md), [Jacob](../names/jacob.md), [Zilpah](../names/zilpah.md))
 

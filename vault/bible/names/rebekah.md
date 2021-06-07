@@ -8,7 +8,7 @@ Rebekah was a grand-daughter of Abraham’s brother Nahor.
 * Rebekah left the region of Aram Naharaim where she lived and went with Abraham’s servant to the region of the Negev where Isaac was living.
 * For a long time Rebekah did not have any children, but finally God blessed her with twin boys, Esau and Jacob.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Aram](../names/aram.md), [Esau](../names/esau.md), [Isaac](../names/isaac.md), [Jacob](../names/jacob.md), [Nahor](../names/nahor.md), [Negev](../names/negev.md))
 

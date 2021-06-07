@@ -9,7 +9,7 @@ This term usually refers to lumps of frozen water that fall from the sky. Althou
 * The book of Revelation in the New Testament describes enormous hailstones weighing 50 kilograms that God will cause to fall on earth when he judges people for their wickedness in the end times.
 * The word “hail” that is a formal greeting in older English literally means “rejoice” and could be translated as “Greetings!” or “Hello!”
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 ## Bible References:
 

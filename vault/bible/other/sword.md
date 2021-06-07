@@ -11,13 +11,13 @@ A sword is a flat-bladed metal weapon used to cut or stab. It has a handle and a
 
 ## Translation Suggestions
 
-* A sword is used as a metaphor for God’s word. God’s teachings in the Bible exposed people’s innermost thoughts and convicted them of their sin. In a similar way, a sword cuts deeply, causing pain. (See: [Metaphor](rc://en/ta/man/translate/figs-metaphor))
+* A sword is used as a metaphor for God’s word. God’s teachings in the Bible exposed people’s innermost thoughts and convicted them of their sin. In a similar way, a sword cuts deeply, causing pain. (See: [Metaphor](../../translate/figs-metaphor))
 * One way to translate this figurative use would be, “God’s word is like a sword, which cuts deeply and exposes sin.”
 * Another figurative use of this term occurred in the book of Psalms, where the tongue or speech of a person was compared to a sword, which can injure people. This could be translated as “the tongue is like a sword that can badly injure someone.”
 * If swords are not known in your culture, this word could be translated with the name of another long-bladed weapon that is used to cut or stab.
 * A sword could also be described as a “sharp weapon” or “long knife.” Some translations could include a picture of a sword.
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [James (brother of Jesus)](../names/jamesbrotherofjesus.md), [John (the Baptist)](../names/johnthebaptist.md), [tongue](../other/tongue.md), [word of God](../kt/wordofgod.md))
 

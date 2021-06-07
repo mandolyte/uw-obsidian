@@ -9,7 +9,7 @@ Aquila was a Jewish Christian from the province of Pontus, a region along the so
 * They worked as tentmakers with Paul and also helped him with his missionary work.
 * Both Aquila and Priscilla taught believers the truth about Jesus; one of those believers was a gifted teacher named Apollos.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Apollos](../names/apollos.md), [Corinth](../names/corinth.md), [Rome](../names/rome.md))
 

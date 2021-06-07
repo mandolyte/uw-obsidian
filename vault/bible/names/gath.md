@@ -8,7 +8,7 @@ Gath was one of the five major cities of the Philistines. It was located north o
 * During the time of Samuel, the Philistines stole the ark of the covenant from Israel and took it to their pagan temple at Ashdod. It was then moved to Gath and later to Ekron. But God punished the people of those cities with disease, so they sent it back to Israel again.
 * When David was escaping from King Saul, he fled to Gath and lived there awhile with his two wives and with six hundred men who were his loyal followers.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ashdod](../names/ashdod.md), [Ashkelon](../names/ashkelon.md), [Ekron](../names/ekron.md), [Gaza](../names/gaza.md), [Goliath](../names/goliath.md), [Philistines](../names/philistines.md))
 

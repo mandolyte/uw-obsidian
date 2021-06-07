@@ -7,7 +7,7 @@ Gibeah was a city located north of Jerusalem and south of Bethel.
 * Gibeah was in the territory of the tribe of Benjamin.
 * It was the site of a huge battle between the Benjamites and Israel.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Benjamin](../names/benjamin.md), [Bethel](../names/bethel.md), [Jerusalem](../names/jerusalem.md))
 

@@ -9,7 +9,7 @@ In the Bible, the term “wine” refers to a kind of fermented drink made from 
 * In Bible times, wine was the normal drink with meals. It did not have as much alcohol as present-day wine has.
 * Before wine was served for a meal, it was often mixed with water.
 * A wineskin that was old and brittle would get cracks in it, which allowed the wine to leak out. New wineskins were soft and flexible, which meant they did not tear easily and could store the wine safely.
-* If wine is unknown in your culture, it could be translated as “fermented grape juice” or “fermented drink made from a fruit called grapes” or “fermented fruit juice.” (See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+* If wine is unknown in your culture, it could be translated as “fermented grape juice” or “fermented drink made from a fruit called grapes” or “fermented fruit juice.” (See: [How to Translate Unknowns](../../translate/translate-unknown))
 * Ways to translate “wineskin” could include “bag for wine” or “animal skin wine bag” or “animal skin container for wine.”
 
 (See also: [grape](../other/grape.md), [vine](../other/vine.md), [vineyard](../other/vineyard.md), [winepress](../other/winepress.md))

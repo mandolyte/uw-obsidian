@@ -8,7 +8,7 @@ Aaron was Moses’ older brother. God chose Aaron to be the first high priest fo
 * While the Israelites were traveling through the desert, Aaron sinned by making an idol for the people to worship.
 * God also appointed Aaron and his descendants to be the [priest](../kt/priest.md) priests for the people of Israel.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [priest](../kt/priest.md), [Moses](../names/moses.md), [Israel](../kt/israel.md))
 

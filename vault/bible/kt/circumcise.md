@@ -27,7 +27,7 @@ The terms “uncircumcised” and “uncircumcision” refer to a male who has n
 * In cultures where circumcision is not known, it may be necessary to explain it in a footnote or glossary.
 * Make sure the term used to translate this does not refer to females. It may be necessary to translate this with a word or phrase that includes the meaning of “male.”
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [Abraham](../names/abraham.md), [covenant](../kt/covenant.md))
 

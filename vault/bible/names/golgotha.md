@@ -8,7 +8,7 @@
 * In some older English versions of the Bible, Golgotha is translated as “Calvary,” which comes from the Latin word for “skull.”
 * Many Bible versions use a word that looks or sounds similar to “Golgotha,” since its meaning is already explained in the Bible text.
 
-(Translation Suggestion: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation Suggestion: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Aram](../names/aram.md), [Mount of Olives](../names/mountofolives.md))
 

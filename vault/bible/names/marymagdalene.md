@@ -8,7 +8,7 @@ Mary Magdalene was one of several women who believed in Jesus and followed him i
 * She is also mentioned as one of the women who were the first to see Jesus after he rose from the dead.
 * As Mary Magdalene stood outside the empty tomb, she saw Jesus standing there and he told her to go tell the other disciples that he was alive again.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [demon](../kt/demon.md), [demon-possessed](../kt/demonpossessed.md))
 

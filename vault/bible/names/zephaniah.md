@@ -7,7 +7,7 @@ Zephaniah, son of Cushi, was a prophet who lived in Jerusalem and prophesied dur
 * He rebuked the people of Judah for worshipping false gods. His prophecies are written in the book of Zephaniah in the Old Testament.
 * There were several other men in the Old Testament named Zephaniah, most of whom were priests.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Jeremiah](../names/jeremiah.md), [Josiah](../names/josiah.md), [priest](../kt/priest.md))
 

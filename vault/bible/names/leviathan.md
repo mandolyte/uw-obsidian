@@ -8,7 +8,7 @@ The term “Leviathan” refers to a very large, extinct animal mentioned in the
 * Isaiah the prophet refered to Leviathan as “the gliding serpent”.
 * Job wrote from firsthand knowledge of Leviathan, so the animal was most likely alive during his lifetime.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Isaiah](../names/isaiah.md), [Job](../names/job.md), [serpent](../other/serpent.md))
 

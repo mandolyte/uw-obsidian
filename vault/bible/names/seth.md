@@ -8,7 +8,7 @@ In the book of Genesis, Seth was the third son of Adam and Eve.
 * Noah was one of Seth’s descendants, so everyone who has lived since the time of the Flood is also a descendant of Seth.
 * Seth and his family were the first people to “call on the name of the Lord.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abel](../names/abel.md), [Cain](../names/cain.md), [call](../kt/call.md), [descendant](../other/descendant.md), [ancestor](../other/father.md), [flood](../other/flood.md), [Noah](../names/noah.md))
 

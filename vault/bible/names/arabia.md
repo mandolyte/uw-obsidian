@@ -10,7 +10,7 @@ Arabia is the largest peninsula in the world, covering nearly 3,000,000 square k
 * After becoming a believer in Jesus, the apostle Paul spent a few years in the desert of Arabia.
 * In his letter to the Christians in Galatia, Paul mentioned that Mt. Sinai was located in Arabia.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Esau](../names/esau.md), [Galatia](../names/galatia.md), [Ishmael](../names/ishmael.md), [Shem](../names/shem.md), [Sinai](../names/sinai.md))
 

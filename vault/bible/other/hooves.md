@@ -8,7 +8,7 @@ These terms refer to the hard material covering the bottom of the feet of certai
 * Some animals have hooves that are split into two parts and others do not.
 * God told the Israelites that animals which had split hooves and chewed a cud were considered clean to eat. This included cattle, sheep, deer, and oxen.
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [camel](../other/camel.md), [cow, ox](../other/cow.md), [donkey](../other/donkey.md), [goat](../other/goat.md), [pig](../other/pig.md), [sheep](../other/sheep.md))
 

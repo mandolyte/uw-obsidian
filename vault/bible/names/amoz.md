@@ -7,7 +7,7 @@ Amoz was the father of the prophet Isaiah.
 * The only times he is mentioned in the Bible are when Isaiah is identified as the “son of Amoz.”
 * This name is different from the name of the prophet Amos and should be spelled differently.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Amos](../names/amos.md), [Isaiah](../names/isaiah.md))
 

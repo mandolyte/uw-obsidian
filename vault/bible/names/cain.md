@@ -9,7 +9,7 @@ Cain and his younger brother Abel were the first sons of Adam and Eve mentioned 
 * As punishment, God sent him away from Eden and told him that the land would no longer yield crops for him.
 * God put a mark on Cain’s forehead as a sign that God would protect him from being killed by other people as he wandered.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Adam](../names/adam.md), [sacrifice](../other/sacrifice.md))
 

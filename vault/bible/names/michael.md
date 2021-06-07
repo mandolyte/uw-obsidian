@@ -9,7 +9,7 @@ Michael is the chief of all God’s holy, obedient angels. He is the only angel 
 * He led the Israelites in fighting against the Persian army. In the end times he will lead the armies of Israel in the final battle against the forces of evil, as foretold in Daniel.
 * There are also several men in the Bible with the name Michael. Several men are identified as being the “son of Michael”
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [angel](../kt/angel.md), [Daniel](../names/daniel.md), [messenger](../other/messenger.md), [Persia](../names/persia.md))
 

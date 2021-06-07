@@ -11,7 +11,7 @@ Judah was Jacob’s fourth son. He was Leah’s fourth son. His descendants beca
 * King David, King Solomon, and all the kings of the southern kingdom were descendants of Judah. Jesus, too, was a descendant of Judah.
 * The words “Jew” and “Judea” come from the name “Judah.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [twelve tribes of Israel](../other/12tribesofisrael.md), [Judah (kingdom)](../names/kingdomofjudah.md), [Jew](../kt/jew.md), [Judea](../names/judea.md), [Jacob](../names/jacob.md), [Leah](../names/leah.md))
 

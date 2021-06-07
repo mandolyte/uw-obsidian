@@ -9,7 +9,7 @@ The term “Greek” refers to the language spoken in the country of Greece, it 
 * Other ways to translate “Grecian” could include, “Greek-speaking” or “culturally Greek” or “Greek.”
 * When referring to non-Jews, “Greek” could be translated as “Gentile.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Aram](../names/aram.md), [Gentile](../kt/gentile.md), [Greece](../names/greece.md), [Hebrew](../kt/hebrew.md), [Rome](../names/rome.md))
 

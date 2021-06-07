@@ -10,7 +10,7 @@ Herod the Great was ruling over Judea at the time Jesus was born. He was the fir
 * This Herod was very cruel and had many people killed. When he heard that a “king of the Jews” had been born in Bethlehem, he had all the baby boys in that town killed.
 * His sons Herod Antipas and Herod Philip and his grandson Herod Agrippa also became Roman rulers. His great-grandson Herod Agrippa II (called “King Agrippa”) ruled over the entire area of Judea.
 
-(See [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(See [How to Translate Names](../../translate/translate-names))
 
 (See also: [Herod Antipas](../names/herodantipas.md), [Judea](../names/judea.md), [king](../other/king.md), [temple](../kt/temple.md))
 

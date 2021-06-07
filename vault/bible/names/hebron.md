@@ -8,7 +8,7 @@ Hebron was a city located in the high, rocky hills about 20 miles south of Jerus
 * Hebron had a very important role in King David’s life. Several of his sons, including Absalom, were born there.
 * The city was destroyed around AD 70 by the Romans.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Absalom](../names/absalom.md))
 

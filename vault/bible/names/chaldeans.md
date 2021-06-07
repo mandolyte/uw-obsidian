@@ -9,7 +9,7 @@ Chaldea was a region in the southern part of Mesopotamia or Babylonia. The peopl
 * After many years, around 600 BC, the term “Chaldean” came to mean “Babylonian.”
 * In the book of Daniel, the term “Chaldean” also refers to a special class of men who were highly educated and studied the stars.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Babylon](../names/babylon.md), [Shinar](../names/shinar.md), [Ur](../names/ur.md))
 

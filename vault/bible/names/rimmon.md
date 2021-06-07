@@ -10,7 +10,7 @@ Rimmon was the name of a man and of several places mentioned in the Bible. It wa
 * Rimmon Perez was an unknown location in the Judean wilderness.
 * The Syrian commander Naaman spoke of the temple of the false god Rimmon, where the king of Syria worshiped.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Benjamin](../names/benjamin.md), [Judea](../names/judea.md), [Naaman](../names/naaman.md), [Syria](../names/syria.md), [Zebulun](../names/zebulun.md))
 

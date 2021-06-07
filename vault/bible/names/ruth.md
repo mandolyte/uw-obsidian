@@ -8,7 +8,7 @@ Ruth was a Moabite woman who lived during the time when judges were leading Isra
 * She also committed herself to serving the one true God of Israel.
 * Ruth married an Israelite man named Boaz and gave birth to a son named Obed. Obed became the grandfather of King David, and King David was an ancestor of Jesus.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Bethlehem](../names/bethlehem.md), [Boaz](../names/boaz.md), [David](../names/david.md), [judge](../other/judgeposition.md))
 

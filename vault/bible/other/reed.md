@@ -8,7 +8,7 @@ The term “reed” refers to a plant with a long stalk that grows in the water,
 * These fibrous plants were used in ancient Egypt for making paper, baskets, and boats.
 * The stalk of the reed plant is flexible and is easily bent over by the wind.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Egypt](../names/egypt.md), [Moses](../names/moses.md), [Nile River](../names/nileriver.md))
 

@@ -8,7 +8,7 @@ Ramah was an ancient Israelite city located about 8 km from Jerusalem. It was in
 * When the Israelites were taken captive to Babylon, they were first brought to Ramah before being moved to Babylon.
 * Ramah was the home of Samuel’s mother and father.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Benjamin](../names/benjamin.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 

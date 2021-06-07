@@ -8,7 +8,7 @@ Omri was an army commander who became the sixth king of Israel.
 * Like all the kings of Israel before him, Omri was a very evil king who led the people of Israel into more idol worship.
 * Omri was also the father of King Ahab.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ahab](../names/ahab.md), [Israel](../kt/israel.md), [Jeroboam](../names/jeroboam.md), [Tirzah](../names/tirzah.md))
 

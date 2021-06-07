@@ -7,7 +7,7 @@ Japheth was one of Noah’s three sons.
 * During the worldwide flood that covered the whole earth, Japheth and his two brothers were with Noah in the ark, along with their wives.
 * Noah’s sons are usually listed as, “Shem, Ham, and Japheth.” This indicates that Japheth was the youngest brother.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [ark](../kt/ark.md), [flood](../other/flood.md), [Ham](../names/ham.md), [Noah](../names/noah.md), [Shem](../names/shem.md))
 

@@ -8,7 +8,7 @@ Timothy was a young man from Lystra. He later joined Paul on several missionary 
 * The elders and Paul formally appointed Timothy for the ministry by placing their hands on him and praying for him.
 * Two books in the New Testament (I Timothy and 2 Timothy) are letters written by Paul that provide guidance to Timothy as a young leader of local churches.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [appoint](../kt/appoint.md), [believe](../kt/believe.md), [church](../kt/church.md), [Greek](../names/greek.md), [minister](../kt/minister.md))
 

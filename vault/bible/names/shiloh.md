@@ -10,7 +10,7 @@ Shiloh was a walled Canaanite city that was conquered by the Israelites under th
 * Before any temple was built in Jerusalem, Shiloh was the place where the Israelites came to sacrifice to God.
 * When Samuel was a young boy, his mother Hannah took him to live in Shiloh to be trained by the priest Eli to serve Yahweh.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Bethel](../names/bethel.md), [dedicate](../other/dedicate.md), [Hannah](../names/hannah.md), [Jerusalem](../names/jerusalem.md), [Jordan River](../names/jordanriver.md), [priest](../kt/priest.md), [sacrifice](../other/sacrifice.md), [Samuel](../names/samuel.md), [temple](../kt/temple.md))
 

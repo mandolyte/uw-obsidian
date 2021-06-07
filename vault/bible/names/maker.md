@@ -13,7 +13,7 @@ In general, a “maker” is someone who creates or makes things.
 * The phrase “his Maker” could also be translated as “the One who created him” or “God, who created him.”
 * The phrases “your Maker” and “my Maker” could be translated in a similar way.
 
-(See also: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(See also: [How to Translate Names](../../translate/translate-names))
 
 (See also: [create](../other/creation.md), [Yahweh](../kt/yahweh.md))
 

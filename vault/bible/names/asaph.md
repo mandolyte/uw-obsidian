@@ -9,7 +9,7 @@ Asaph was a Levite priest and gifted musician who composed the music for the psa
 * Some of the musical instruments included the lute, harp, trumpet, and cymbals.
 * Psalms 50 and 73-83 are said to be from Asaph. It may be that some of these psalms were written by his family members.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [descendant](../other/descendant.md), [harp](../other/harp.md), [lute](../other/lute.md), [prophet](../kt/prophet.md), [psalm](../kt/psalm.md), [trumpet](../other/trumpet.md))
 

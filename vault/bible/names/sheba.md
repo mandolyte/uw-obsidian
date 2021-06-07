@@ -10,7 +10,7 @@ In ancient times, Sheba was an ancient civilization or region of land that was l
 * There were also several men named “Sheba” listed in genealogies in the Old Testament. It is possible that the name of the region of Sheba came from one of these men.
 * The city of Beersheba was shortened to Sheba one time in the Old Testament.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Arabia](../names/arabia.md), [Beersheba](../names/beersheba.md), [Ethiopia](../names/ethiopia.md), [Solomon](../names/solomon.md))
 

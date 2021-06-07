@@ -10,7 +10,7 @@ Bathsheba was the wife of Uriah, a soldier in King Davidâ€™s army. After Uriahâ€
 * God punished David for his sin by causing the child to die several days after he was born.
 * Later, Bathsheba gave birth to another son, Solomon, who grew up to become king after David.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [David](../names/david.md), [Solomon](../names/solomon.md). [Uriah](../names/uriah.md))
 

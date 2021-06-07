@@ -6,7 +6,7 @@ During Bible times, a “winepress” was a large container or open place where 
 
 * In Israel, winepresses were usually large, wide basins that were dug out of solid rock. Clusters of grapes were put on the flat bottom of the hole and people trampled the grapes with their feet to get the grape juice to flow out.
 * Usually a winepress had two levels, with the grapes being trampled in the top level so that the juice would run down into the lower level where it could be collected.
-* The term “winepress” is also used figuratively in the Bible as a picture of God’s wrath being poured out on wicked people. (See: [Metaphor](rc://en/ta/man/translate/figs-metaphor))
+* The term “winepress” is also used figuratively in the Bible as a picture of God’s wrath being poured out on wicked people. (See: [Metaphor](../../translate/figs-metaphor))
 
 (See also: [grape](../other/grape.md), [wrath](../kt/wrath.md))
 

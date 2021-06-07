@@ -9,7 +9,7 @@ A tent is a portable shelter made of sturdy fabric that is draped over a structu
 * The Israelites also lived in tents during their forty-year wanderings through the desert of Sinai.
 * The tabernacle building was a kind of very large tent, with thick walls made of cloth curtains.
 * When the apostle Paul traveled to different cities to share the gospel, he supported himself by making tents.
-* The term “tents” is sometimes used figuratively to refer generally to where people live. This could also be translated as “homes” or “dwellings” or “houses” or even “bodies.” (See: [synecdoche](rc://en/ta/man/translate/figs-synecdoche))
+* The term “tents” is sometimes used figuratively to refer generally to where people live. This could also be translated as “homes” or “dwellings” or “houses” or even “bodies.” (See: [synecdoche](../../translate/figs-synecdoche))
 
 (See also: [Abraham](../names/abraham.md), [Canaan](../names/canaan.md), [curtain](../other/curtain.md), [Paul](../names/paul.md), [Sinai](../names/sinai.md), [tabernacle](../kt/tabernacle.md), [tent of meeting](../other/tentofmeeting.md))
 

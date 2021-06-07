@@ -7,7 +7,7 @@ Thomas was one of twelve men whom Jesus chose to be his disciples and later, apo
 * Near the end of Jesus’ life, he told his disciples that he was going away to be with the Father and would prepare a place for them to be with him. Thomas asked Jesus how they could know the way to get there when they didn’t even know where he was going.
 * After Jesus died and came back to life, Thomas said he would not believe that Jesus was really alive again unless he could see and feel the scars where Jesus had been wounded.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [apostle](../kt/apostle.md), [disciple](../kt/disciple.md), [God the Father](../kt/godthefather.md), [the twelve](../kt/thetwelve.md))
 

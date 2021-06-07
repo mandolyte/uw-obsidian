@@ -6,7 +6,7 @@ Bread is a food made from flour mixed with water and oil to form a dough. The do
 
 * When the term “loaf” occurs by itself, it means “loaf of bread.”
 * Bread dough is usually made with something that makes it rise, such as yeast. However, bread can also be made without yeast so that it does not rise. This is called “unleavened bread” in the Bible. The ancient Israelites ate “unleavened bread” during the passover meal.
-* Since bread was the main food for many people in biblical times, this term is also used in the Bible to refer to food in general. (See: [Synecdoche](rc://en/ta/man/translate/figs-synecdoche)) Many times the term “bread” can be translated more generally as “food.”
+* Since bread was the main food for many people in biblical times, this term is also used in the Bible to refer to food in general. (See: [Synecdoche](../../translate/figs-synecdoche)) Many times the term “bread” can be translated more generally as “food.”
 * The phrase “bread of the presence” refers to twelve loaves of bread that were placed on a golden table in the tabernacle or temple building as a sacrifice to God. These loaves represented the twelve tribes of Israel and were only for the priests to eat. This could be translated as “bread showing that God lived among them.”
 * The term “bread from heaven” refers to the special white food called “manna” that God provided for the Israelites when they were wandering through the desert. Jesus also called himself the “bread that came down from heaven” and the “bread of life.”
 

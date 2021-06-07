@@ -10,7 +10,7 @@
 * It was also Herod Antipas who questioned Jesus before his crucifixion.
 * The other Herods in the New Testament were Antipas’ son (Agrippa) and grandson (Agrippa 2) who ruled during the time of the apostles.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [crucify](../kt/crucify.md), [Herod the Great](../names/herodthegreat.md), [John (the Baptist)](../names/johnthebaptist.md), [king](../other/king.md), [Rome](../names/rome.md))
 

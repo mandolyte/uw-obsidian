@@ -15,7 +15,7 @@ In the Old Testament, “Lord Yahweh” is frequently used to refer to the one t
 * If the translation follows the tradition of rendering “Yahweh” as “Lord” or “LORD,” the term “Lord Yahweh” could be translated as “Lord God” or “God who is the Lord.” Other possible translations could be, “Master LORD” or “God the LORD.”
 * The term “Lord Yahweh” _should not_ be rendered as “Lord LORD” because readers may not notice the difference in letter size that has traditionally been used to distinguish these two words and it would look very strange.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [God](../kt/god.md), [lord](../kt/lord.md), [Lord](../kt/lord.md), [Yahweh](../kt/yahweh.md))
 

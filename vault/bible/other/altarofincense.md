@@ -9,7 +9,7 @@ The altar of incense was a piece of furniture on which a priest would burn incen
 * Every morning and evening a priest would burn incense on it.
 * This can also be translated as “altar for burning incense” or “golden altar” or “incense burner” or “incense table.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [incense](../other/incense.md))
 

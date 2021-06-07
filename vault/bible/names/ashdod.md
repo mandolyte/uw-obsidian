@@ -8,7 +8,7 @@ Ashdod was one of the five most important cities of the Philistines. It was loca
 * God severely punished the people of Ashdod when the Philistines stole the ark of the covenant and put it in the pagan temple at Ashdod.
 * The Greek name for this city was Azotus. It was one of the cities where the evangelist Philip preached the gospel.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ekron](../names/ekron.md), [Gath](../names/gath.md), [Gaza](../names/gaza.md), [Joppa](../names/joppa.md), [Philip](../names/philip.md), [Philistines](../names/philistines.md))
 

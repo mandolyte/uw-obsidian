@@ -9,7 +9,7 @@ Miriam was the older sister of Aaron and Moses.
 * Years later as the Israelites were wandering in the desert, Miram and Aaron began speaking badly about Moses because he had married a Cushite woman.
 * Because of her rebellion in speaking against Moses, God caused Miriam to become sick with leprosy. But later God healed her when Moses interceded for her.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Aaron](../names/aaron.md), [Cush](../names/cush.md), [intercede](../kt/intercede.md), [Moses](../names/moses.md), [Nile River](../names/nileriver.md), [Pharaoh](../names/pharaoh.md), [rebel](../other/rebel.md))
 

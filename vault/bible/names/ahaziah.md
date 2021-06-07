@@ -7,7 +7,7 @@ Ahaziah was the name of two kings: one ruled over the kingdom of Israel, and the
 * Judah’s King Ahaziah was the son of King Jehoram. He reigned for one year (841 B.C.) and then was killed by Jehu. Ahaziah’s young son Joash eventually took his place as king.
 * Israel’s King Ahaziah was the son of King Ahab. He reigned for two years (850-49 B.C.). He died from injuries suffered in a fall at his palace, and his brother Joram became king.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Jehu](../names/jehu.md), [Ahab](../names/ahab.md), [Jeroboam](../names/jeroboam.md), [Joash](../names/joash.md))
 

@@ -10,7 +10,7 @@ Syria is a country located northeast of Israel. During the time of the New Testa
 * Damascus, the capital city of Syria, was mentioned many times in the Bible.
 * Saul went to the city of Damascus with plans to persecute Christians there, but Jesus stopped him.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Aram](../names/aram.md), [commander](../other/commander.md), [Damascus](../names/damascus.md), [descendant](../other/descendant.md), [Elisha](../names/elisha.md), [leprosy](../other/leprosy.md), [Naaman](../names/naaman.md), [persecute](../other/persecute.md), [prophet](../kt/prophet.md))
 

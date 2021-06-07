@@ -9,7 +9,7 @@ Solomon was one of King David’s sons. His mother was Bathsheba.
 * Although Solomon ruled wisely in the first years of his reign, later on he foolishly married many foreign women and started worshiping their gods.
 * Because of Solomon’s unfaithfulness, after his death God divided the Israelites into two kingdoms, Israel and Judah. These kingdoms often fought against each other.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Bathsheba](../names/bathsheba.md), [David](../names/david.md), [Israel](../kt/israel.md), [Judah](../names/kingdomofjudah.md), [kingdom of Israel](../names/kingdomofisrael.md), [temple](../kt/temple.md))
 

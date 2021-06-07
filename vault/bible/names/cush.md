@@ -8,7 +8,7 @@ Cush was the oldest son of Noah’s son Ham. He was also the ancestor of Nimrod.
 * The ancient region of Cush covered an area of land that may have, at different times, included parts of the modern-day countries of Sudan, Egypt, Ethiopia, and possibly, Saudi Arabia.
 * Another man named Cush is mentioned in the Psalms. He was a Benjamite.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Arabia](../names/arabia.md), [Canaan](../names/canaan.md), [Egypt](../names/egypt.md), [Ethiopia](../names/ethiopia.md))
 

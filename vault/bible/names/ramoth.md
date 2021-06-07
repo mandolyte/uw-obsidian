@@ -9,7 +9,7 @@ Ramoth was an important city in the mountains of Gilead near the Jordan River. I
 * Sometime later, King Ahaziah and King Joram tried to take the city of Ramoth from the king of Aram.
 * Ramoth Gilead was where Jehu was anointed king over Israel.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Ahab](../names/ahab.md), [Ahaziah](../names/ahaziah.md), [Aram](../names/aram.md), [Gad](../names/gad.md), [Jehoshaphat](../names/jehoshaphat.md), [Jehu](../names/jehu.md), [Joram](../names/joram.md), [Jordan River](../names/jordanriver.md), [Judah](../names/kingdomofjudah.md), [refuge](../other/refuge.md))
 

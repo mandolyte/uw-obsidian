@@ -10,7 +10,7 @@ Manasseh was the older son of Joseph. His descendants became one of the tribes o
 * God punished King Manasseh by allowing him to be captured by an enemy army. Manasseh turned back to God and destroyed the altars where idols were worshiped.
 * Three other men named Manasseh are mentioned in the Old Testament. One of them was the grandfather of some Danites who were priests for false gods. The other two were men who lived during the time of Ezra and were required to divorce their pagan wives, who had influenced them to worship false gods.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Joseph](../names/josephot.md), [Ephraim](../names/ephraim.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 

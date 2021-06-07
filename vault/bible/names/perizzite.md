@@ -7,7 +7,7 @@ The Perizzites were one of several people groups in the land of Canaan. Little i
 * The Perizzites are mentioned most frequently in the Old Testament Book of Judges, where it is recorded that the Perizzites intermarried with the Israelites and influenced them to worship false gods.
 * Note that the clan of Perez, called the “Perezites,” was a different people group from the Perizzites. It may be necessary to spell the names very differently to make this clear.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [false god](../kt/falsegod.md))
 

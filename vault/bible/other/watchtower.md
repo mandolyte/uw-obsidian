@@ -7,7 +7,7 @@ The term “watchtower” refers to a tall structure built as a place from which
 * Landowners sometimes built watchtowers from which they could guard their crops and protect them from being stolen.
 * The towers often included rooms where the watchmen or family lived, so that they could guard the crops day and night.
 * Watchtowers for cities were built higher than the city walls so that watchmen could see if any enemies were coming to attack the city.
-* The term “watchtower” is also used as a symbol of protection from enemies. (See: [Metaphor](rc://en/ta/man/translate/figs-metaphor))
+* The term “watchtower” is also used as a symbol of protection from enemies. (See: [Metaphor](../../translate/figs-metaphor))
 
 (See also: [adversary](../other/adversary.md), [watch](../other/watch.md))
 

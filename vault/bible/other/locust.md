@@ -9,7 +9,7 @@ The term “locust” refers to a type of large, flying grasshopper that sometim
 * God sent locusts as one of the ten plagues against the Egyptians.
 * The New Testament says that locusts were a main source of food for John the Baptist while he was living in the desert.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [captive](../other/captive.md), [Egypt](../names/egypt.md), [Israel](../kt/israel.md), [John (the Baptist)](../names/johnthebaptist.md), [plague](../other/plague.md))
 

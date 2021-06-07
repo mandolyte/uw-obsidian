@@ -4,7 +4,7 @@
 
 The terms “like” and “likeness” refer to something being the same as, or similar to, something else.
 
-* The word “like” is also often used in a figurative expressions called a “simile” in which something is compared to something else, usually highlighting a shared characteristic. For example, “his clothes shined like the sun” and “the voice boomed like thunder.” (See: [Simile](rc://en/ta/man/translate/figs-simile))
+* The word “like” is also often used in a figurative expressions called a “simile” in which something is compared to something else, usually highlighting a shared characteristic. For example, “his clothes shined like the sun” and “the voice boomed like thunder.” (See: [Simile](../../translate/figs-simile))
 * To “be like” or “sound like” or “look like” something or someone means to have qualities that are similar to the thing or person being compared to.
 * People were created in God’s “likeness,” that is, in his “image.” It means that they have qualities or characteristics that are “like” or “similar to” qualities that God has, such as the ability to think, feel, and communicate.
 * To have “the likeness of” something or someone means to have characteristics that look like that thing or person.

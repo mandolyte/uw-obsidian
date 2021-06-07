@@ -10,7 +10,7 @@ The Philistines were a people group who occupied a region known as Philistia alo
 * The judge Samson was a famous warrior against the Philistines, using supernatural strength from God.
 * King David often led battles against the Philistines, including the time as a youth when he defeated the Philistine warrior, Goliath.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ashdod](../names/ashdod.md), [Ashkelon](../names/ashkelon.md), [David](../names/david.md), [Ekron](../names/ekron.md), [Gath](../names/gath.md), [Gaza](../names/gaza.md), [Goliath](../names/goliath.md), [Salt Sea](../names/saltsea.md))
 

@@ -8,7 +8,7 @@ Antioch was the name of two cities in the New Testament. One was in Syria, near 
 * The leaders of the church in Jerusalem sent a letter to the believers in the church at Antioch in Syria to help them know they didn’t have to keep the Jewish laws in order to be Christians.
 * Paul, Barnabas and John Mark traveled to the Antioch in Pisidia to share the gospel. Some Jews from other cities came there to stir up trouble, and they tried to kill Paul. But many other people, both Jews and Gentiles, listened to the teaching and believed in Jesus.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also:[Barnabas](../names/barnabas.md), [Colossae](../names/colossae.md), [John Mark](../names/johnmark.md), [Paul](../names/paul.md), [province](../other/province.md), [Rome](../names/rome.md), [Syria](../names/syria.md))
 

@@ -8,7 +8,7 @@ Tirzah was an important Canaanite city that was conquered by the Israelites. It 
 * Years later, Tirzah became a temporary capital city of the northern kingdom of Israel, during the reigns of four kings of Israel.
 * Tirzah was also the name of one of Manasseh’s granddaughters. They asked to be given a portion of the land since their father had died and he had no sons to inherit it as would normally be the custom.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [inherit](../kt/inherit.md), [kingdom of Israel](../names/kingdomofisrael.md), [Manasseh](../names/manasseh.md), [Shechem](../names/shechem.md))
 

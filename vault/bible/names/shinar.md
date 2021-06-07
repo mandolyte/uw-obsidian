@@ -8,7 +8,7 @@ Shinar means “country of two rivers” and was the name of a plain or region i
 * Ancient peoples living in the city of Babel in the Plain of Shinar built a tall tower to try to make themselves great.
 * Generations later, the Jewish patriarch Abraham lived in the city of Ur in this region, which by that time was called “Chaldea.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Abraham](../names/abraham.md), [Babel](../names/babel.md), [Babylon](../names/babylon.md), [Chaldea](../names/chaldeans.md), [Mesopotamia](../names/mesopotamia.md), [patriarchs](../other/patriarchs.md), [Ur](../names/ur.md))
 

@@ -8,7 +8,7 @@ Iconium was a city in the south central part of what is now the country of Turke
 * Then the unbelieving Jews and Gentiles in Iconium also planned to stone Paul and his coworkers, but they escaped to the nearby city of Lystra.
 * After that the people from both Antioch and Iconium came to Lystra and stirred up the people there to stone Paul.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Barnabas](../names/barnabas.md), [Lystra](../names/lystra.md), [stone](../kt/stone.md))
 

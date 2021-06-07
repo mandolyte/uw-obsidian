@@ -12,7 +12,7 @@ The “apostles” were men sent by Jesus to preach about God and his kingdom. T
 
 * The word “apostle” can also be translated with a word or phrase that means “someone who is sent out” or “sent-out one” or “person who is called to go out and preach God’s message to people.”
 * It is important to translate the terms “apostle” and “disciple” in different ways.
-* Also consider how this term was translated in a Bible translation in a local or national language. (See [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+* Also consider how this term was translated in a Bible translation in a local or national language. (See [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [authority](../kt/authority.md), [disciple](../kt/disciple.md), [James (son of Zebedee)](../names/jamessonofzebedee.md), [Paul](../names/paul.md), [the twelve](../kt/thetwelve.md))
 

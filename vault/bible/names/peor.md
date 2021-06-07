@@ -7,7 +7,7 @@ The terms “Peor” and “Mount Peor” refer to a mountain located northeast 
 * The name “Beth Peor” was the name of a city, probably located on that mountain or near it. This was where Moses died after God showed him the Promised Land.
 * “Baal Peor” was a false god of the Moabites that they worshiped at Mount Peor. The Israelites also started worshiping this idol and God punished them for it.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Baal](../names/baal.md), [false god](../kt/falsegod.md), [Moab](../names/moab.md), [Salt Sea](../names/saltsea.md), [worship](../kt/worship.md))
 

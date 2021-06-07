@@ -7,7 +7,7 @@ Zebedee was a fisherman from Galilee who is known because of his sons, James and
 * Zebedee’s sons were also fishermen and worked with him to catch fish.
 * James and John quit their fishing work with their father Zebedee and left to go follow Jesus.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [disciple](../kt/disciple.md), [fishermen](../other/fisherman.md), [James (son of Zebedee)](../names/jamessonofzebedee.md), [John (the apostle)](../names/johntheapostle.md))
 

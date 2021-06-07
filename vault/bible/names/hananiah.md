@@ -11,7 +11,7 @@ Hananiah was the name of several different men in the Old Testament.
 * A different Hananiah was a false prophet during the time of the prophet Jeremiah.
 * One man named Hananiah was a priest who helped lead a celebration during the time of Nehemiah.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Azariah](../names/azariah.md), [Babylon](../names/babylon.md), [Daniel](../names/daniel.md), [false prophet](../other/falseprophet.md), [Jeremiah](../names/jeremiah.md), [Mishael](../names/mishael.md))
 

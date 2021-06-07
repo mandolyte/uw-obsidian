@@ -7,7 +7,7 @@ The term “darkness” literally means an absence of light. There are also seve
 * As a metaphor, “darkness” means “impurity” or “evil” or “spiritual blindness.”
 * It also refers to anything related to sin and moral corruption.
 * The expression “dominion of darkness” refers to all that is evil and ruled by Satan.
-* The term “darkness” can also be used as a metaphor for death. (See: [Metaphor](rc://en/ta/man/translate/figs-metaphor))
+* The term “darkness” can also be used as a metaphor for death. (See: [Metaphor](../../translate/figs-metaphor))
 * People who do not know God are said to be “living in darkness,” which means they do not understand or practice righteousness.
 * God is light (righteousness) and the darkness (evil) cannot overcome that light.
 * The place of punishment for those who reject God is sometimes referred to as “outer darkness.”

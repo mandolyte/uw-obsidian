@@ -8,7 +8,7 @@ The terms “Ephrath” and “Ephrathah” are probably derived from the name �
 * There is a woman named “Ephrath” in the OT, who was the wife of Caleb.
 * Both cities of Bethlehem and Kirjath-Jearim are also called “Ephrathah,” even though both cities are in a different region than described above (near Bethel).
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Bethlehem](../names/bethlehem.md), [Boaz](../names/boaz.md), [Caleb](../names/caleb.md), [David](../names/david.md), [Israel](../kt/israel.md))
 

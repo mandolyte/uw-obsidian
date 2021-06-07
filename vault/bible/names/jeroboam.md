@@ -10,7 +10,7 @@ Jeroboam son of Nebat was the first king of the northern kingdom of Israel aroun
 * Almost 120 years later, another King Jeroboam began ruling the northern kingdom of Israel. This Jeroboam was the son of King Jehoash and was wicked like all the previous kings of Israel had been.
 * In spite of the Israelite’s wickedness, God had mercy on them and helped this King Jeroboam to gain land and establish boundaries for their territory.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [false god](../kt/falsegod.md), [kingdom of Israel](../names/kingdomofisrael.md), [Judah](../names/kingdomofjudah.md), [Solomon](../names/solomon.md))
 

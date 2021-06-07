@@ -8,7 +8,7 @@ In biblical times, the city of Joppa was an important commercial seaport located
 * In the Old Testament, Joppa was the city where Jonah got on a boat that was going to Tarshish.
 * In the New Testament, a Christian woman named Tabitha died in Joppa, and Peter raised her back to life.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [the sea](../names/mediterranean.md), [Jerusalem](../names/jerusalem.md), [Sharon](../names/sharon.md), [Tarshish](../names/tarshish.md))
 

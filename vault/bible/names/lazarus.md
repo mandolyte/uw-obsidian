@@ -8,7 +8,7 @@ Lazarus and his sisters, Mary and Martha, were special friends of Jesus. Jesus o
 * The Jewish leaders were angry at Jesus and jealous that he had done this miracle, and they tried to find a way to kill both Jesus and Lazarus.
 * Jesus also told a parable about a poor beggar and a rich man in which the beggar was a different man named “Lazarus.”
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [beg](../other/beg.md), [Jewish leaders](../other/jewishleaders.md), [Martha](../names/martha.md), [Mary](../names/mary.md), [raise](../other/raise.md))
 

@@ -30,7 +30,7 @@ The terms “justify” and “justification” refer to causing a guilty person
 * Depending on the context, “unjust” could also be translated as “unfair” or “partial” or “unrighteous.”
 * The phrase “the unjust” could be translated as “the unjust ones” or “unjust people” or “people who treat others unfairly” or “unrighteous people” or “people who disobey God.”
 * The term “unjustly” could be translated as “in an unfair manner” or “wrongly” or “unfairly.”
-* Ways to translate “injustice” could include, “wrong treatment” or “unfair treatment” or “acting unfairly.” (See: [abstractnouns](rc://en/ta/man/translate/figs-abstractnouns))
+* Ways to translate “injustice” could include, “wrong treatment” or “unfair treatment” or “acting unfairly.” (See: [abstractnouns](../../translate/figs-abstractnouns))
 
 * Other ways to translate “justify” could include “declare (someone) to be righteous” or “cause (someone) to be righteous.”
 * The term “justification” could be translated as “being declared righteous” or “becoming righteous” or “causing people to be righteous.”

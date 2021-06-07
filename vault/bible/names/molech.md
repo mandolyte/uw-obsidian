@@ -7,7 +7,7 @@ Molech was the name of one of the false gods that the Canaanites worshiped. Othe
 * People who worshiped Molech sacrificed their children to him by means of fire.
 * Some of the Israelites also worshiped Molech instead of the one true God, Yahweh. They followed the evil practices of Molech worshipers, including sacrificing their children.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Canaan](../names/canaan.md), [evil](../kt/evil.md), [false god](../kt/falsegod.md), [God](../kt/god.md), [false god](../kt/falsegod.md), [sacrifice](../other/sacrifice.md), [true](../kt/true.md), [worship](../kt/worship.md), [Yahweh](../kt/yahweh.md))
 

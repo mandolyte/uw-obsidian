@@ -11,7 +11,7 @@ Stephen is most remembered as the first Christian martyr, that is, the first per
 * His execution was witnessed by Saul of Tarsus, who later became the apostle Paul.
 * Stephen is also well-known for his last words before he died, “Lord, please do not hold this sin against them,” which showed the love he had for others.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [appoint](../kt/appoint.md), [deacon](../kt/deacon.md), [Jerusalem](../names/jerusalem.md), [Paul](../names/paul.md), [stone](../kt/stone.md), [true](../kt/true.md))
 

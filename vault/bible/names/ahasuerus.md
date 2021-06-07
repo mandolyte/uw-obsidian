@@ -8,7 +8,7 @@ Ahasuerus was a king who ruled over the ancient kingdom of Persia for twenty yea
 * Another name for this king may have been Xerxes.
 * After sending away his queen in a fit of anger, King Ahasuerus later chose a Jewish woman named Esther to be his new wife and queen.
 
-(Translation suggestions: [Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [Translate Names](../../translate/translate-names))
 
 (See also: [Babylon](../names/babylon.md), [Esther](../names/esther.md), [Ethiopia](../names/ethiopia.md), [exile](../other/exile.md), [Persia](../names/persia.md))
 

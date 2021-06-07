@@ -22,7 +22,7 @@ The term “death” refers to being physically dead instead of alive.
 * Many languages use figurative expressions to describe death, such as to “pass away” in English. However, in the Bible it is best to use the most direct term for death that is used in everyday language.
 * In the Bible, eternal life and eternal death are often compared to physical life and physical death. It is important in a translation to use the same word or phrase for both physical death and eternal death.
 * In some languages it may be more clear to say “eternal death” when the context requires that meaning. Some translators may also feel it is best to say “physical death” in contexts where it is being contrasted to spiritual death.
-* The expression “the dead” is a nominal adjective that refers to people who have died. Some languages will translate this as “dead people” or “people who have died.” (See: [nominal adjective](rc://en/ta/man/translate/figs-nominaladj))
+* The expression “the dead” is a nominal adjective that refers to people who have died. Some languages will translate this as “dead people” or “people who have died.” (See: [nominal adjective](../../translate/figs-nominaladj))
 * The expression “put to death” could also be translated as “kill” or “murder” or “execute.”
 
 (See also: [believe](../kt/believe.md), [faith](../kt/faith.md), [life](../kt/life.md))

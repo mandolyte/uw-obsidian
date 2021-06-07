@@ -10,7 +10,7 @@ Isaiah was a prophet of God who prophesied during the reigns of four kings of Ju
 * Isaiah is especially known for the prophecies he wrote about the Messiah that came true 700 years later when Jesus was living on earth.
 * Jesus and his disciples quoted Isaiah’s prophecies to teach people about the Messiah.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Ahaz](../names/ahaz.md), [Assyria](../names/assyria.md), [Christ](../kt/christ.md), [Hezekiah](../names/hezekiah.md), [Jotham](../names/jotham.md), [Judah](../names/kingdomofjudah.md), [prophet](../kt/prophet.md), [Uzziah](../names/uzziah.md))
 

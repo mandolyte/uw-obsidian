@@ -9,7 +9,7 @@ John was one of Jesus’ twelve apostles and one of Jesus’ closest friends.
 * The Apostle John wrote five New Testament books: the gospel of John, the Revelation of Jesus Christ, and three letters written to other believers.
 * Note that the Apostle John was a different person than John the Baptist.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [apostle](../kt/apostle.md), [reveal](../kt/reveal.md), [James (son of Zebedee)](../names/jamessonofzebedee.md), [John (the Baptist)](../names/johnthebaptist.md), [Zebedee](../names/zebedee.md))
 

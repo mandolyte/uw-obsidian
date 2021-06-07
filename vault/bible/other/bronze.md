@@ -10,7 +10,7 @@ The term “bronze” refers to a kind of metal that is made from melting togeth
 * Idols of false gods were also often made of bronze metal.
 * Bronze objects were made by first melting the bronze metal into a liquid and then pouring it into molds. This process was called “casting.”
 
-(See also: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See also: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [armor](../other/armor.md), [tabernacle](../kt/tabernacle.md), [temple](../kt/temple.md))
 

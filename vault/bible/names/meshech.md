@@ -9,7 +9,7 @@ Meshech is the name of two men in the Old Testament.
 * Meshech was also the name of a region of land, which was probably named after one of these men.
 * The region of Meshech may have been located in part of what is now the country of Turkey.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Japheth](../names/japheth.md), [Noah](../names/noah.md), [Shem](../names/shem.md))
 

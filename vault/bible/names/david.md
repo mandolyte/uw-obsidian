@@ -10,7 +10,7 @@ David was the second king of Israel and he loved and served God. He was the main
 * David committed a terrible sin, but he repented and God forgave him.
 * Jesus, the Messiah, is called the “Son of David” because he is a descendant of King David.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Goliath](../names/goliath.md), [Philistines](../names/philistines.md), [Saul (OT)](../names/saul.md))
 

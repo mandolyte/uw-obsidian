@@ -14,7 +14,7 @@ All these terms refer to demons, which are spirit beings that oppose God’s wil
 * The term “demon” could also be translated as “evil spirit.”
 * The term “unclean spirit” could also be translated as “impure spirit” or “corrupt spirit” or “evil spirit.”
 * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
-* Also consider how the term “demon” is translated in a local or national language. (See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+* Also consider how the term “demon” is translated in a local or national language. (See: [How to Translate Unknowns](../../translate/translate-unknown))
 
 (See also: [demon-possessed](../kt/demonpossessed.md), [Satan](../kt/satan.md), [false god](../kt/falsegod.md), [false god](../kt/falsegod.md), [angel](../kt/angel.md), [evil](../kt/evil.md), [clean](../kt/clean.md))
 

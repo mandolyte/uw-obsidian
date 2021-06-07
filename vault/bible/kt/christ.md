@@ -14,12 +14,12 @@ The terms “Messiah” and “Christ” mean “Anointed One” and refer to Je
 ## Translation Suggestions:
 
 * This term could be translated using its meaning, “the Anointed One” or “God’s Anointed Savior.”
-* Many languages use a transliterated word that looks or sounds like “Christ” or “Messiah.” (See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+* Many languages use a transliterated word that looks or sounds like “Christ” or “Messiah.” (See: [How to Translate Unknowns](../../translate/translate-unknown))
 * The transliterated word could be followed by the definition of the term as in, “Christ, the Anointed One.”
 * Be consistent in how this is translated throughout the Bible so that it is clear that the same term is being referred to.
 * Make sure the translations of “Messiah” and “Christ” work well in contexts where both terms occur in the same verse (such as John 1:41).
 
-(See also: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(See also: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Son of God](../kt/sonofgod.md), [David](../names/david.md), [Jesus](../kt/jesus.md), [anoint](../kt/anoint.md))
 

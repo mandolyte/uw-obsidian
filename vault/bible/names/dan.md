@@ -8,7 +8,7 @@ Dan was Jacob’s fifth son. He was Bilhah’s first son. His descendants became
 * The tribe of Dan settled in the northern part of Canaan. When used as the name of a region of land, the term “Dan” refers to the land given to the tribe of Dan.
 * “Dan” was also the name an Israelite city located about 60 miles north of Jerusalem. In the Old Testament times, the city of Dan served as a landmark for the northern boundary of the country of Israel, opposite the city of Beersheba as a landmark for the southern boundary.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [twelve tribes of Israel](../other/12tribesofisrael.md), [Jacob](../names/jacob.md), [Bilhah](../names/bilhah.md))
 

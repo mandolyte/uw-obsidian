@@ -8,8 +8,8 @@ The term “voice” refers to audible sound that a person makes when speaking o
 
 * The expression “to hear someone’s voice” can mean either “to hear someone speaking” or “to heed what someone says.”
 * The Bible describes God as “speaking” and having a “voice,” even though God doesn’t have a physical body in the same way a human being does.
-* The term “voice” sometimes implies the presence of a person, as in this statement: “A voice is heard in the desert saying, ‘Prepare the way of the Lord.’” This could be translated as “A person is heard calling out in the desert….” (See: [synecdoche](rc://en/ta/man/translate/figs-synecdoche))
-* However, sometimes the word “voice” is used for objects that cannot literally speak, such as when David exclaims in the psalms that the heavens have a “voice” that reaches the whole earth. This means that the objects in the sky communicate something to human beings about God the Creator. (See: [metaphor](rc://en/ta/man/translate/figs-metaphor))
+* The term “voice” sometimes implies the presence of a person, as in this statement: “A voice is heard in the desert saying, ‘Prepare the way of the Lord.’” This could be translated as “A person is heard calling out in the desert….” (See: [synecdoche](../../translate/figs-synecdoche))
+* However, sometimes the word “voice” is used for objects that cannot literally speak, such as when David exclaims in the psalms that the heavens have a “voice” that reaches the whole earth. This means that the objects in the sky communicate something to human beings about God the Creator. (See: [metaphor](../../translate/figs-metaphor))
 
 (See also: [call](../kt/call.md), [proclaim](../other/preach.md), [splendor](../other/splendor.md).)
 

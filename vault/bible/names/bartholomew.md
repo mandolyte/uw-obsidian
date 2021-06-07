@@ -8,7 +8,7 @@ Bartholomew was one of Jesus’ twelve apostles.
 * He was also one of those who saw Jesus return to heaven.
 * A few weeks after that, he was with the other apostles in Jerusalem at Pentecost when the Holy Spirit came upon them.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [apostle](../kt/apostle.md), [good news](../kt/goodnews.md), [Holy Spirit](../kt/holyspirit.md), [miracle](../kt/miracle.md), [Pentecost](../kt/pentecost.md), [the twelve](../kt/thetwelve.md))
 

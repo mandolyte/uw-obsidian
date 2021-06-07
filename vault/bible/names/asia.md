@@ -8,7 +8,7 @@ In Bible times, “Asia” was the name of a province of the Roman Empire. It wa
 * To avoid confusion with modern day Asia, it may be necessary to translate this as, “the ancient Roman province called Asia” or “Asia Province.”
 * All of the churches referenced in Revelation were in the Roman province of Asia.
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [Rome](../names/rome.md), [Paul](../names/paul.md), [Ephesus](../names/ephesus.md))
 

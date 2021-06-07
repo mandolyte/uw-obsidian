@@ -17,9 +17,9 @@ Although the devil is a spirit being that God created, he rebelled against God a
 * These terms should be translated differently from demon and evil spirit.
 * Consider how these terms are translated in a local or national language.
 
-(See: [How to Translate Unknowns](rc://en/ta/man/translate/translate-unknown))
+(See: [How to Translate Unknowns](../../translate/translate-unknown))
 
-(Translation suggestions: [How to Translate Names](rc://en/ta/man/translate/translate-names))
+(Translation suggestions: [How to Translate Names](../../translate/translate-names))
 
 (See also: [demon](../kt/demon.md), [evil](../kt/evil.md), [kingdom of God](../kt/kingdomofgod.md), [tempt](../kt/tempt.md))
 
