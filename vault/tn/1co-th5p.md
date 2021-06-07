@@ -1,3 +1,0 @@
-# General Information:
-
-Paul is speaking here of “weak” brothers, people who cannot separate food sacrificed to idols from the worship of those idols. If a Christian eats food that has been sacrificed to an idol, weak brothers might think that God will allow them to worship the idol by eating the food. Even if the eater has not worshiped the idol and is simply eating the food, he has still corrupted his weak brothers’ conscience.

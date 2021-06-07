@@ -14,7 +14,7 @@ import (
 func main() {
 	inputBook := flag.String("book", "", "Input Book filename")
 	inputTwl := flag.String("twl", "", "Input twl filename")
-	outputDir := flag.String("dir", "vault", "Output folder; default 'vault'")
+	outputDir := flag.String("dir", "../vault", "Output folder; default 'vault'")
 	flag.Parse()
 
 	// punctuation characters
@@ -22,14 +22,19 @@ func main() {
 
 	// check for args
 	if *inputBook == "" {
+		usage("")
 		log.Fatal("book argument is missing")
 	}
 	if *inputTwl == "" {
+		usage("")
 		log.Fatal("TWL argument is missing")
 	}
 
 	// open output file (info: https://golangbot.com/write-files/)
-	fo, foerr := os.Create(*outputDir + "/" + *inputBook)
+	// output file:
+	otfile := *outputDir + "/" + *inputBook
+	log.Printf("Output file is:%v", otfile)
+	fo, foerr := os.Create(otfile)
 	if foerr != nil {
 		log.Fatal("os.Create() Error:" + foerr.Error())
 	}

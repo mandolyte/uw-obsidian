@@ -79,8 +79,8 @@ func main() {
 		}
 		if cells[4] != "" {
 			markdown += "### " + cells[4] + " (" + cells[5] + ")\n"
-			markdown += cells[6] + "\n"
-		} else {
+		}
+		if cells[6][0] == '#' {
 			fnote, fnerr := os.Create(*outputDir + "/" + *inputBookId + "-" + cells[1] + ".md")
 			if fnerr != nil {
 				log.Fatal("os.Create() Error:" + fnerr.Error())
@@ -90,6 +90,8 @@ func main() {
 			_content = strings.Replace(_content, "rc://*/ta/man/translate/", "", -1)
 			fnote.WriteString(_content)
 			markdown += "See [[" + *inputBookId + "-" + cells[1] + "]]"
+		} else {
+			markdown += cells[6] + "\n"
 		}
 		markdown += "\n"
 	}
