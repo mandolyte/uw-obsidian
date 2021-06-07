@@ -18,7 +18,7 @@ When the word is written with a capital letter, as in the expressions “the Spi
 
 ### Loving God
 
-If people love God, they should show it in the way they live and the way they treat other people. Doing this may assure us that God has saved us and that we belong to him. But loving others does not save us. Be sure that this is clear in your translation. John says in 4:7 that “everyone who loves is begotten from God and knows God.” As the notes explain, this means that God is the spiritual father of everyone who loves, and everyone who loves is in a close relationship with God. But that love is a sign that they belong to God because of what Jesus did for them on the cross, as John says in 4:10. They were saved by what Jesus did, not because they themselves loved others. (See: [[rc://*/tw/dict/bible/kt/save]])
+If people love God, they should show it in the way they live and the way they treat other people. Doing this may assure us that God has saved us and that we belong to him. But loving others does not save us. Be sure that this is clear in your translation. John says in 4:7 that “everyone who loves is begotten from God and knows God.” As the notes explain, this means that God is the spiritual father of everyone who loves, and everyone who loves is in a close relationship with God. But that love is a sign that they belong to God because of what Jesus did for them on the cross, as John says in 4:10. They were saved by what Jesus did, not because they themselves loved others. (See: [[../bible/kt/save]])
 
 ## Important textual issues in this chapter
 

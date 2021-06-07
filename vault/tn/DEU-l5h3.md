@@ -1,6 +1,6 @@
 # Deuteronomy 24 General Notes
 ## Structure and formatting
-This chapter continues the teaching about how to maintain justice in Israel. (See: [[rc://*/tw/dict/bible/kt/justice]])
+This chapter continues the teaching about how to maintain justice in Israel. (See: [[../bible/kt/justice]])
 
 ## Special concepts in this chapter
 

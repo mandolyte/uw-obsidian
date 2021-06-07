@@ -2,10 +2,10 @@
 ## Special concepts in this chapter
 
 ### Justice
-Another way justice would be maintained in Israel was by avoiding revenge killings. This chapter describes the establishment of special cities to protect those fleeing from revenge killings. (See: [[rc://*/tw/dict/bible/kt/justice]] and [[rc://*/tw/dict/bible/other/avenge]])
+Another way justice would be maintained in Israel was by avoiding revenge killings. This chapter describes the establishment of special cities to protect those fleeing from revenge killings. (See: [[../bible/kt/justice]] and [[../bible/other/avenge]])
 
 ### Witnesses
-In the ancient Near East, it was common for a person to be punished by the testimony of a single person, especially if this was an important person. The rules in this chapter give protection to people, especially the poor by requiring multiple witnesses. This allowed justice to be done. (See: [[rc://*/tw/dict/bible/kt/testimony]])
+In the ancient Near East, it was common for a person to be punished by the testimony of a single person, especially if this was an important person. The rules in this chapter give protection to people, especially the poor by requiring multiple witnesses. This allowed justice to be done. (See: [[../bible/kt/testimony]])
 
 ## Other possible translation difficulties in this chapter
 

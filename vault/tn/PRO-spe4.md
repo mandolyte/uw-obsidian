@@ -31,7 +31,7 @@ Proverbs begins with the words, “The Proverbs of Solomon, son of David and Kin
 
 ### What is meant by “wisdom” and “foolishness” in the Book of Proverbs?
 
-“Wisdom” means the understanding and doing of what is true and morally right. A wise person understands and does what Yahweh would judge to be right. Anyone living in this way will also learn to live well with other people and to make good practical decisions in life. The book of Proverbs also acknowledges that it is important to maintain one’s honor or reputation in the opinion of other people. Those who fail to live in this way are called “foolish.” For this reason, it is possible for a person to be very intelligent and still be foolish. (See: [[rc://*/tw/dict/bible/kt/wise]] and [[rc://*/tw/dict/bible/kt/foolish]])
+“Wisdom” means the understanding and doing of what is true and morally right. A wise person understands and does what Yahweh would judge to be right. Anyone living in this way will also learn to live well with other people and to make good practical decisions in life. The book of Proverbs also acknowledges that it is important to maintain one’s honor or reputation in the opinion of other people. Those who fail to live in this way are called “foolish.” For this reason, it is possible for a person to be very intelligent and still be foolish. (See: [[../bible/kt/wise]] and [[../bible/kt/foolish]])
 
 ## Part 3: Important Translation Issues
 

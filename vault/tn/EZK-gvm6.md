@@ -3,4 +3,4 @@
 
 ### Inherited Guilt
 
-God does not punish children for the sins of their parents, but only punishes them for their own sins. Despite this, the parents’ sins may still have consequences for their children. (See: [[rc://*/tw/dict/bible/kt/sin]])
+God does not punish children for the sins of their parents, but only punishes them for their own sins. Despite this, the parents’ sins may still have consequences for their children. (See: [[../bible/kt/sin]])

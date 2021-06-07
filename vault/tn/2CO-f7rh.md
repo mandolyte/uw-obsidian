@@ -6,7 +6,7 @@ Paul continues his defense. Paul views the Corinthian Christians as the proof of
 ## Special concepts in this chapter
 
 ### Law of Moses
-Paul alludes to God giving the Ten Commandments on stone tablets. This represents the law of Moses. The law was good because it came from God. But God punished the Israelites because they disobeyed it. This chapter may be difficult for translators to understand if the Old Testament has not yet been translated. (See: [[rc://*/tw/dict/bible/kt/lawofmoses]] and [[rc://*/tw/dict/bible/kt/covenant]] and [[rc://*/tw/dict/bible/kt/reveal]])
+Paul alludes to God giving the Ten Commandments on stone tablets. This represents the law of Moses. The law was good because it came from God. But God punished the Israelites because they disobeyed it. This chapter may be difficult for translators to understand if the Old Testament has not yet been translated. (See: [[../bible/kt/lawofmoses]] and [[../bible/kt/covenant]] and [[../bible/kt/reveal]])
 
 ## Important figures of speech in this chapter
 
@@ -16,4 +16,4 @@ Paul uses many metaphors used in this chapter to explain complex spiritual truth
 ## Other possible translation difficulties in this chapter
 
 ### “This is a covenant not of the letter but of the Spirit.”
-Paul contrasts the old and new covenants. The new covenant is not a system of rules and regulations. Here “Spirit” probably refers to the Holy Spirit. It may also refer to the new covenant being “spiritual” in nature. (See: [[rc://*/tw/dict/bible/kt/spirit]])
+Paul contrasts the old and new covenants. The new covenant is not a system of rules and regulations. Here “Spirit” probably refers to the Holy Spirit. It may also refer to the new covenant being “spiritual” in nature. (See: [[../bible/kt/spirit]])

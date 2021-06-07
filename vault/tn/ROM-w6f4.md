@@ -8,14 +8,14 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Flesh
-Paul uses the word “flesh” in this chapter only to refer to Israelites, people physically descending from Abraham through Jacob, who God named Israel. (See: [[rc://*/tw/dict/bible/kt/flesh]])
+Paul uses the word “flesh” in this chapter only to refer to Israelites, people physically descending from Abraham through Jacob, who God named Israel. (See: [[../bible/kt/flesh]])
 
 In other chapters, Paul uses the word “brother” to mean fellow Christians. However, in this chapter, he uses “my brothers” to mean his kinsmen the Israelites.
 
 Paul refers to those who believe in Jesus as “children of God” and “children of the promise.”
 
 ### Predestination
-Many scholars believe Paul in this chapter teaches extensively on a subject known as “predestination.” This is related to the biblical concept of “predestine.” Some take this to indicate that God has, from before the foundation of the world, chosen some people to eternally save. Christians have different views on what the Bible teaches on this subject. So translators need to take extra care when translating this chapter. (See: [[rc://*/tw/dict/bible/kt/predestine]] and [[rc://*/tw/dict/bible/kt/save]])
+Many scholars believe Paul in this chapter teaches extensively on a subject known as “predestination.” This is related to the biblical concept of “predestine.” Some take this to indicate that God has, from before the foundation of the world, chosen some people to eternally save. Christians have different views on what the Bible teaches on this subject. So translators need to take extra care when translating this chapter. (See: [[../bible/kt/predestine]] and [[../bible/kt/save]])
 
 ### Important figures of speech in this chapter
 

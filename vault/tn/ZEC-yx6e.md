@@ -24,7 +24,7 @@
 
 ### What is the Book of Zechariah about?
 
-Zechariah wrote to the people of Judah who returned from being exiled in Babylon. The people of Judah continued to sin, as their ancestors did before they went into exile. Zechariah called the people to repent and to obey Yahweh. And he called them to renew the covenant with Yahweh. Zechariah also prophesied about the Messiah and about Israel finally being victorious over her enemies. (See: [[rc://*/tw/dict/bible/kt/covenant]])
+Zechariah wrote to the people of Judah who returned from being exiled in Babylon. The people of Judah continued to sin, as their ancestors did before they went into exile. Zechariah called the people to repent and to obey Yahweh. And he called them to renew the covenant with Yahweh. Zechariah also prophesied about the Messiah and about Israel finally being victorious over her enemies. (See: [[../bible/kt/covenant]])
 
 ### How should the title of this book be translated?
 
@@ -48,8 +48,8 @@ The name “Israel” is used in many different ways in the Bible. Jacob was a s
 
 ### What imagery does Zechariah use in reference to the Messiah?
 
-Zechariah presented the Messiah as both a king and a shepherd. Zechariah said that the Messiah would come and deliver his people. However, the Messiah would also be pierced (12:10) and struck with the sword (13:7). (See: [[rc://*/tw/dict/bible/kt/christ]])
+Zechariah presented the Messiah as both a king and a shepherd. Zechariah said that the Messiah would come and deliver his people. However, the Messiah would also be pierced (12:10) and struck with the sword (13:7). (See: [[../bible/kt/christ]])
 
 ### What does the phrase “that day” mean?
 
-Zechariah often spoke of the last days by using the phrase “that day” or “in that day.” When referring to a future “day,” the translator should be aware that the author may be speaking about the last days. (See: [[rc://*/tw/dict/bible/kt/lastday]])
+Zechariah often spoke of the last days by using the phrase “that day” or “in that day.” When referring to a future “day,” the translator should be aware that the author may be speaking about the last days. (See: [[../bible/kt/lastday]])

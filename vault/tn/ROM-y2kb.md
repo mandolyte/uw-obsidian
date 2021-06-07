@@ -5,15 +5,15 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ## Special concepts in this chapter
 
-Chapter 3 answers the question, “What advantage does being a Jew have over being a Gentile?” (See: [[rc://*/tw/dict/bible/kt/lawofmoses]] and [[rc://*/tw/dict/bible/kt/save]])
+Chapter 3 answers the question, “What advantage does being a Jew have over being a Gentile?” (See: [[../bible/kt/lawofmoses]] and [[../bible/kt/save]])
 
 ### “For all have sinned and come short of the glory of God”
-Because God is holy, anyone with him in heaven must be perfect. Any sin at all will condemn a person. (See: [[rc://*/tw/dict/bible/kt/heaven]] and [[rc://*/tw/dict/bible/kt/condemn]])
+Because God is holy, anyone with him in heaven must be perfect. Any sin at all will condemn a person. (See: [[../bible/kt/heaven]] and [[../bible/kt/condemn]])
 
 ### The purpose of the law of Moses
-Obeying the law cannot make a person right with God. Obeying God’s law is a way a person shows they believe in God. People have always been justified only by faith. (See: [[rc://*/tw/dict/bible/kt/justice]] and [[rc://*/tw/dict/bible/kt/faith]])
+Obeying the law cannot make a person right with God. Obeying God’s law is a way a person shows they believe in God. People have always been justified only by faith. (See: [[../bible/kt/justice]] and [[../bible/kt/faith]])
 
 ## Important figures of speech in this chapter
 
 ### Rhetorical Questions
-Paul frequently uses rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[figs-rquestion]] and [[rc://*/tw/dict/bible/kt/guilt]])
+Paul frequently uses rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[figs-rquestion]] and [[../bible/kt/guilt]])

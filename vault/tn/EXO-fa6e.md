@@ -6,4 +6,4 @@ This chapter is repetitive and should read as a series of instructions. It is re
 ## Other possible translation difficulties in this chapter
 
 ### “Yahweh’s glory filled the tabernacle”
-This phrase indicates that Yahweh began to dwell within the tabernacle, among Israel, in a special way. (See: [[rc://*/tw/dict/bible/kt/glory]] and [[rc://*/tw/dict/bible/kt/tabernacle]])
+This phrase indicates that Yahweh began to dwell within the tabernacle, among Israel, in a special way. (See: [[../bible/kt/glory]] and [[../bible/kt/tabernacle]])

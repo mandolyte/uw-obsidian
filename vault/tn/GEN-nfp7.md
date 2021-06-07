@@ -11,7 +11,7 @@ Gen. 2:4-25 presents an account of creation from a different viewpoint than the 
 
 ### Yahweh, the name of God
 
-“Yahweh,” the personal name of God in the Old Testament, appears for the first time in this chapter. Translators must decide how to represent it in their versions. For 2,000 years, it has been traditional for many Christians to represent it with the term “the Lord.” Indeed, it is demanded by Roman Catholics for their Bible versions to continue doing this. Of course, the disadvantage of using “the Lord” is that this is a title for God, not a personal name. (See: [[rc://*/tw/dict/bible/kt/yahweh]])
+“Yahweh,” the personal name of God in the Old Testament, appears for the first time in this chapter. Translators must decide how to represent it in their versions. For 2,000 years, it has been traditional for many Christians to represent it with the term “the Lord.” Indeed, it is demanded by Roman Catholics for their Bible versions to continue doing this. Of course, the disadvantage of using “the Lord” is that this is a title for God, not a personal name. (See: [[../bible/kt/yahweh]])
 
 Translators who are not producing versions for Roman Catholics can consider transliterating the name “Yahweh,” approximating the name as best as their project languages allow.
 
@@ -21,4 +21,4 @@ Translators can also consider pairing a transliteration of “Yahweh” with a m
 
 ### The Garden of Eden
 
-This was not a vegetable garden or cultivated field. Instead, it was probably a large area of land with fruit trees and other plants bearing leaves, etc., that were good to eat. A river flowed out from the Garden of Eden, giving the impression that the Garden was a holy place; in the ancient Near East, temples had gardens and waterways. In Rev. 22:1-2, the throne of God in the New Jerusalem is pictured with a river flowing out from it. (See: [[rc://*/tw/dict/bible/kt/holy]])
+This was not a vegetable garden or cultivated field. Instead, it was probably a large area of land with fruit trees and other plants bearing leaves, etc., that were good to eat. A river flowed out from the Garden of Eden, giving the impression that the Garden was a holy place; in the ancient Near East, temples had gardens and waterways. In Rev. 22:1-2, the throne of God in the New Jerusalem is pictured with a river flowing out from it. (See: [[../bible/kt/holy]])

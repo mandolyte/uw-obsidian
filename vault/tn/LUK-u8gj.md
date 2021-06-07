@@ -12,11 +12,11 @@ Some translations set quotations from the Old Testament farther to the right on 
 
 ### Centurion
 
-A centurion was a Roman military commander. The centurion who asked Jesus to heal his slave (Luke 7:2) was doing some unusual things. A Roman soldier, especially an officer, would almost never go to a Jew for help, and most wealthy people did not love or care for their slaves. (See: [[rc://*/tw/dict/bible/kt/centurion]] and [[rc://*/tw/dict/bible/kt/faith]])
+A centurion was a Roman military commander. The centurion who asked Jesus to heal his slave (Luke 7:2) was doing some unusual things. A Roman soldier, especially an officer, would almost never go to a Jew for help, and most wealthy people did not love or care for their slaves. (See: [[../bible/kt/centurion]] and [[../bible/kt/faith]])
 
 ### John’s Baptism
 
-This chapter refers again to the baptism of John (7:29). John baptized people who wanted to show that they knew they were sinners and that they were sorry for their sin. (See: [[rc://*/tw/dict/bible/kt/repent]] and [[rc://*/tw/dict/bible/kt/sin]])
+This chapter refers again to the baptism of John (7:29). John baptized people who wanted to show that they knew they were sinners and that they were sorry for their sin. (See: [[../bible/kt/repent]] and [[../bible/kt/sin]])
 
 ### “Sinners”
 

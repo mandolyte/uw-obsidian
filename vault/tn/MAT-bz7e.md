@@ -11,4 +11,4 @@ Many people call the words in Matthew 5-7 the Sermon on the Mount. This is one l
 
 ### “By their fruits you will know them”
 
-Fruit is a common image in the scriptures. It is used to describe the results of either good or bad actions. In this chapter, good fruit is the result of living as God commands. (See: [[rc://*/tw/dict/bible/other/fruit]])
+Fruit is a common image in the scriptures. It is used to describe the results of either good or bad actions. In this chapter, good fruit is the result of living as God commands. (See: [[../bible/other/fruit]])

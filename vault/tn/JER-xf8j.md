@@ -3,4 +3,4 @@
 
 ### Idiom
 
-The people called Ashtoreth the goddess of the Canaanites, “the queen of heaven.” (See: [[figs-idiom]] and [[rc://*/tw/dict/bible/kt/prophet]])
+The people called Ashtoreth the goddess of the Canaanites, “the queen of heaven.” (See: [[figs-idiom]] and [[../bible/kt/prophet]])

@@ -27,7 +27,7 @@ The writers of 1 and 2 Chronicles are unknown. They mention that they used other
 
 ### Why are there multiple books that give the history of the kings of Israel?
 
-The books of Chronicles and the books of Kings tell much of the same history, but they are not exactly the same. The writers of Chronicles wrote mostly about the kings of Judah who were faithful to Yahweh and his covenant. The writers wanted the Jews to think carefully about David and Solomon. They also wanted the Jews to think about how Jehoshaphat, Hezekiah, and Josiah caused their ancestors to repent and to worship Yahweh. The writers wanted to encourage the Jews and their leaders to obey the law and to honor God’s covenant with them. (See: [[rc://*/tw/dict/bible/kt/covenant]])
+The books of Chronicles and the books of Kings tell much of the same history, but they are not exactly the same. The writers of Chronicles wrote mostly about the kings of Judah who were faithful to Yahweh and his covenant. The writers wanted the Jews to think carefully about David and Solomon. They also wanted the Jews to think about how Jehoshaphat, Hezekiah, and Josiah caused their ancestors to repent and to worship Yahweh. The writers wanted to encourage the Jews and their leaders to obey the law and to honor God’s covenant with them. (See: [[../bible/kt/covenant]])
 
 ## Part 2: Important Religious and Cultural Concepts
 

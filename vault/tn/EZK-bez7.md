@@ -3,4 +3,4 @@
 
 ### Repentance
 
-God does not want sinners to die. He wants them to repent and live. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/repent]])
+God does not want sinners to die. He wants them to repent and live. (See: [[../bible/kt/sin]] and [[../bible/kt/repent]])

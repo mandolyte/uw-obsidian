@@ -6,10 +6,10 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Polygamy
-Abraham married another wife. This was sinful of him. Many other Hebrew leaders came to marry multiple wives. This is known as “polygamy.” It has never been an acceptable practice. (See: [[rc://*/tw/dict/bible/kt/sin]])
+Abraham married another wife. This was sinful of him. Many other Hebrew leaders came to marry multiple wives. This is known as “polygamy.” It has never been an acceptable practice. (See: [[../bible/kt/sin]])
 
 ### Inheritance
-In the ancient Near East, inheritance was passed on through the eldest son. Even though Esau and Jacob were twins, it is very important that Esau was born first. It was his birthright to receive his inheritance, but he foolishly gave it up. (See: [[rc://*/tw/dict/bible/kt/inherit]] and [[rc://*/tw/dict/bible/kt/birthright]] and [[rc://*/tw/dict/bible/kt/foolish]])
+In the ancient Near East, inheritance was passed on through the eldest son. Even though Esau and Jacob were twins, it is very important that Esau was born first. It was his birthright to receive his inheritance, but he foolishly gave it up. (See: [[../bible/kt/inherit]] and [[../bible/kt/birthright]] and [[../bible/kt/foolish]])
 
 ## Other possible translation difficulties in this chapter
 

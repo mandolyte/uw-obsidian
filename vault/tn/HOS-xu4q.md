@@ -1,7 +1,7 @@
 # Hosea 06 General Notes
 ## Structure and formatting
 
-This chapter continues using the poetic form to show how Yahweh will still show mercy to his wayward people, the northern kingdom of Israel and the southern kingdom of Judah. Gilead is an area in the northern kingdom of Israel where several of the tribes lived. (See: [[rc://*/tw/dict/bible/kt/mercy]])
+This chapter continues using the poetic form to show how Yahweh will still show mercy to his wayward people, the northern kingdom of Israel and the southern kingdom of Judah. Gilead is an area in the northern kingdom of Israel where several of the tribes lived. (See: [[../bible/kt/mercy]])
 
 ## Special concepts in this chapter
 

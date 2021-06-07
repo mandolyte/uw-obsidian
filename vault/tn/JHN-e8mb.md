@@ -3,7 +3,7 @@
 
 ### Blasphemy
 
-When a person claims that he is God or that God has told him to speak when God has not told him to speak, this is called blasphemy. The law of Moses commanded the Israelites to kill blasphemers by stoning them to death. When Jesus said, “I and the Father are one,” the Jews thought he was blaspheming, so they took up stones to kill him. (See: [[rc://*/tw/dict/bible/kt/blasphemy]] and [[rc://*/tw/dict/bible/kt/lawofmoses]])
+When a person claims that he is God or that God has told him to speak when God has not told him to speak, this is called blasphemy. The law of Moses commanded the Israelites to kill blasphemers by stoning them to death. When Jesus said, “I and the Father are one,” the Jews thought he was blaspheming, so they took up stones to kill him. (See: [[../bible/kt/blasphemy]] and [[../bible/kt/lawofmoses]])
 
 ## Important metaphors in this chapter
 

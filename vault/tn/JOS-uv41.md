@@ -3,4 +3,4 @@
 
 ### Sin brought defeat
 
-It was great sin to take what was to be destroyed. Because of their sin, Yahweh withheld victory from the Israelites. Sin resulted in defeat in battle. (See: [[rc://*/tw/dict/bible/kt/sin]])
+It was great sin to take what was to be destroyed. Because of their sin, Yahweh withheld victory from the Israelites. Sin resulted in defeat in battle. (See: [[../bible/kt/sin]])

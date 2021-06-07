@@ -1,7 +1,7 @@
 # Joel 03 General Notes
 ## Structure and formatting
 
-There is a change in focus in this chapter from the people of Israel to her enemies. The events of this chapters also contain many prophecies about the events of the end of this world. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+There is a change in focus in this chapter from the people of Israel to her enemies. The events of this chapters also contain many prophecies about the events of the end of this world. (See: [[../bible/kt/prophet]])
 
 ## Other possible translation difficulties in this chapter
 

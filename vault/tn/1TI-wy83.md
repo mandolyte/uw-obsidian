@@ -37,7 +37,7 @@ Translators may choose to call this book by its customary title, “1 Timothy”
 
 ### What is discipleship?
 
-Discipleship is the process of making people to be disciples of Christ. The goal of discipleship is to encourage other Christians to be more like Christ. This letter gives many instructions about how a leader should train a less mature Christian. (See: [[rc://*/tw/dict/bible/kt/disciple]])
+Discipleship is the process of making people to be disciples of Christ. The goal of discipleship is to encourage other Christians to be more like Christ. This letter gives many instructions about how a leader should train a less mature Christian. (See: [[../bible/kt/disciple]])
 
 ## Part 3: Important Translation Issues
 

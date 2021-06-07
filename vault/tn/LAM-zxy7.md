@@ -20,7 +20,7 @@
 
 The Babylonians captured the city of Jerusalem in 586 B.C. In the Book of Lamentations, the writer grieves over Jerusalem being destroyed.
 
-The Book of Lamentations is organized into five poems. The writer describes how God allowed Jerusalem to be destroyed because the people sinned against him. However, the writer also states that God is always loving and faithful to his people. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/faith]])
+The Book of Lamentations is organized into five poems. The writer describes how God allowed Jerusalem to be destroyed because the people sinned against him. However, the writer also states that God is always loving and faithful to his people. (See: [[../bible/kt/sin]] and [[../bible/kt/faith]])
 
 ### Who wrote the Book of Lamentations?
 
@@ -37,7 +37,7 @@ Translators may use the traditional title of “Lamentations.” Or they may cal
 The author of Lamentations often speaks of God abandoning Israel. But this did not mean that God had completely given up on Israel.
 He rejected Israel for a period of time as the special place where he would be present. However, God remained faithful to what he promised Israel in his covenant.
 
-While it was common in the ancient Near East to think that a god might leave its city, it usually did so because it was too weak to defend the city. In Lamentations, Yahweh abandons Jerusalem because the people sinned against him, not because he was too weak to defend the city. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+While it was common in the ancient Near East to think that a god might leave its city, it usually did so because it was too weak to defend the city. In Lamentations, Yahweh abandons Jerusalem because the people sinned against him, not because he was too weak to defend the city. (See: [[../bible/kt/falsegod]])
 
 ### What is a funeral song?
 

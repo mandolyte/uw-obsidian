@@ -11,7 +11,7 @@ This song is about how God protects the weak and strengthens them. He humbles th
 
 ### Eli’s Sons
 
-Eli, the chief priest, had two sons. They were ungodly priests who continually sinned and did not honor God. Eli corrected them but they did not listen. A prophet warned Eli that God would stop his family from being priests and his sons would both die on the same day. At the same time, Samuel was growing up and serving God. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/godly]] and [[rc://*/tw/dict/bible/kt/prophet]])
+Eli, the chief priest, had two sons. They were ungodly priests who continually sinned and did not honor God. Eli corrected them but they did not listen. A prophet warned Eli that God would stop his family from being priests and his sons would both die on the same day. At the same time, Samuel was growing up and serving God. (See: [[../bible/kt/sin]] and [[../bible/kt/godly]] and [[../bible/kt/prophet]])
 
 ## Important figures of speech in this chapter
 

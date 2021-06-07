@@ -11,7 +11,7 @@ These two words occur together in ([James 1:12-13](./12.md)). Both words speak o
 
 ### Crowns
 
-The crown that a man who passes the test receives is a reward, something that people who do something especially good receive. (See: [[rc://*/tw/dict/bible/other/reward]])
+The crown that a man who passes the test receives is a reward, something that people who do something especially good receive. (See: [[../bible/other/reward]])
 
 ## Important figures of speech in this chapter
 

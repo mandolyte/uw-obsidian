@@ -16,7 +16,7 @@ Jesus uses Noah and Lot’s wife as examples to teach his followers. Noah was re
 
 ### Rhetorical Questions
 
-Jesus asks his disciples three questions in (17:7–9) to teach them that even those who serve him well are righteous only because of his grace. (See: [[figs-rquestion]] and [[rc://*/tw/dict/bible/kt/grace]] and [[rc://*/tw/dict/bible/kt/righteous]])
+Jesus asks his disciples three questions in (17:7–9) to teach them that even those who serve him well are righteous only because of his grace. (See: [[figs-rquestion]] and [[../bible/kt/grace]] and [[../bible/kt/righteous]])
 
 ## Other possible translation difficulties in this chapter
 

@@ -6,4 +6,4 @@ Psalm 132 is a royal psalm praising David. It might have been sung when David br
 ## Special concepts in this chapter
 
 ### Ark
-The Ark had been moved from one place to another several times. David wanted to make a permanent home for it. God had promised David that his son would be king after him. (See: [[rc://*/tw/dict/bible/kt/promise]])
+The Ark had been moved from one place to another several times. David wanted to make a permanent home for it. God had promised David that his son would be king after him. (See: [[../bible/kt/promise]])

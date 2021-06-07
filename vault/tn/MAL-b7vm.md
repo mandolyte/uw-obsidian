@@ -2,7 +2,7 @@
 ## Special concepts in this chapter
 
 ### Yahweh of hosts
-This is an important title used in this chapter. It reminds the reader of the great power Yahweh has to punish the nations. (See: [[rc://*/tw/dict/bible/kt/yahwehofhosts]])
+This is an important title used in this chapter. It reminds the reader of the great power Yahweh has to punish the nations. (See: [[../bible/kt/yahwehofhosts]])
 
 ## Important figures of speech in this chapter
 

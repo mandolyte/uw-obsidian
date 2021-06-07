@@ -1,7 +1,7 @@
 # Psalm 072 General Notes
 ## Type of psalm
 
-Psalm 72 is a psalm for the king when he begins to be the king. David wrote it as a blessing on his son, Solomon. (See: [[rc://*/tw/dict/bible/kt/bless]])
+Psalm 72 is a psalm for the king when he begins to be the king. David wrote it as a blessing on his son, Solomon. (See: [[../bible/kt/bless]])
 
 ## Special concepts in this chapter
 

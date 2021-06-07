@@ -6,4 +6,4 @@ The story of King Jehoshaphat is completed in this chapter.
 ## Special concepts in this chapter
 
 ### Deliverance and trust
-God rescues those who trust him. An enormous army came against Jehoshaphat but God promised that he would defeat them without Judah having to fight. Then the enemy fought among themselves and when the army of Judah arrived there were dead bodies. (See: [[rc://*/tw/dict/bible/kt/trust]] and [[rc://*/tw/dict/bible/kt/promise]])
+God rescues those who trust him. An enormous army came against Jehoshaphat but God promised that he would defeat them without Judah having to fight. Then the enemy fought among themselves and when the army of Judah arrived there were dead bodies. (See: [[../bible/kt/trust]] and [[../bible/kt/promise]])

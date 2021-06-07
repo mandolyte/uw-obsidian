@@ -3,4 +3,4 @@
 
 ### Consecrating the altar
 
-When the tabernacle was completed, they consecrated the altar. Each tribe brought an offering to consecrate the altar. (See: [[rc://*/tw/dict/bible/kt/tabernacle]] and [[rc://*/tw/dict/bible/kt/consecrate]])
+When the tabernacle was completed, they consecrated the altar. Each tribe brought an offering to consecrate the altar. (See: [[../bible/kt/tabernacle]] and [[../bible/kt/consecrate]])

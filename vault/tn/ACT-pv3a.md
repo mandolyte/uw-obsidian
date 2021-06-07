@@ -17,7 +17,7 @@ This phrase refers to things that only God can do. The Christians wanted God to 
 
 ### Cornerstone
 
-The cornerstone was the first piece of stone that people put down when they were building a building. This is a metaphor for the most important part of something, the part on which everything depends. To say that Jesus is the cornerstone of the church is to say that nothing in the church is more important than Jesus and that everything about the church depends on Jesus. (See: [[figs-metaphor]] and [[rc://*/tw/dict/bible/kt/faith]])
+The cornerstone was the first piece of stone that people put down when they were building a building. This is a metaphor for the most important part of something, the part on which everything depends. To say that Jesus is the cornerstone of the church is to say that nothing in the church is more important than Jesus and that everything about the church depends on Jesus. (See: [[figs-metaphor]] and [[../bible/kt/faith]])
 
 ## Other possible translation difficulties in this chapter
 

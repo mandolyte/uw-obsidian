@@ -1,7 +1,7 @@
 # Psalm 002 General Notes
 ## Type of psalm
 
-Psalm 2 is usually considered a royal psalm because it is about the king. It was probably first sung when a new person became the king. It is often thought to be about the Messiah because of verse 6 and 7 reference the Son of God. (See: [[rc://*/tw/dict/bible/kt/christ]] and [[rc://*/tw/dict/bible/kt/sonofgod]])
+Psalm 2 is usually considered a royal psalm because it is about the king. It was probably first sung when a new person became the king. It is often thought to be about the Messiah because of verse 6 and 7 reference the Son of God. (See: [[../bible/kt/christ]] and [[../bible/kt/sonofgod]])
 
 ## Special concepts in this chapter
 

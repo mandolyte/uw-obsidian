@@ -11,15 +11,15 @@
 
 ### “You will catch men”
 
-Peter, James, and John were fishermen. When Jesus told them that they would catch men, he was using a metaphor to tell them he wanted them to help people believe the good news about him. See the last note to 5:10. (See: [[rc://*/tw/dict/bible/kt/disciple]] and [[figs-metaphor]])
+Peter, James, and John were fishermen. When Jesus told them that they would catch men, he was using a metaphor to tell them he wanted them to help people believe the good news about him. See the last note to 5:10. (See: [[../bible/kt/disciple]] and [[figs-metaphor]])
 
 ### Sinners
 
-When the people of Jesus’ time spoke of “sinners,” they were talking about people who did not obey the law of Moses. But when Jesus said that he came to call “sinners,” he meant that only people who understand that they are sinners who have disobeyed God can be his followers. This is true even if they are not what most people think of as “sinners.” (See: [[rc://*/tw/dict/bible/kt/sin]])
+When the people of Jesus’ time spoke of “sinners,” they were talking about people who did not obey the law of Moses. But when Jesus said that he came to call “sinners,” he meant that only people who understand that they are sinners who have disobeyed God can be his followers. This is true even if they are not what most people think of as “sinners.” (See: [[../bible/kt/sin]])
 
 ### Fasting and feasting
 
-People would fast, or not eat food for a long time, when they were sad or in order to show God that they were sorry for their sins. When they were happy, such as during weddings, they would have feasts, or meals where they would eat much food. (See: [[rc://*/tw/dict/bible/other/fast]])
+People would fast, or not eat food for a long time, when they were sad or in order to show God that they were sorry for their sins. When they were happy, such as during weddings, they would have feasts, or meals where they would eat much food. (See: [[../bible/other/fast]])
 
 ## Important figures of speech in this chapter
 

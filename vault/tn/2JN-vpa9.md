@@ -34,7 +34,7 @@ Hospitality was an important concept in the ancient Near East. It was important 
 
 ### Who were the people John spoke against?
 
-The people John spoke against may have been those who later became known as Gnostics. These people believed that the physical world was evil. Since the physical body was seen as evil, they did not think that God could become human. Therefore, they believed that Jesus was divine but denied that he was human. (See: [[rc://*/tw/dict/bible/kt/evil]])
+The people John spoke against may have been those who later became known as Gnostics. These people believed that the physical world was evil. Since the physical body was seen as evil, they did not think that God could become human. Therefore, they believed that Jesus was divine but denied that he was human. (See: [[../bible/kt/evil]])
 
 ## Part 3: Important Translation Issues
 

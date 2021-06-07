@@ -5,7 +5,7 @@ This is the first chapter about King Saul.
 
 ## Special concepts in this chapter
 ### Saul as the New King
-Samuel told Saul that God had chosen him to be king, and on the way home he would meet some prophets. Saul would then begin prophesying and God would give him the Holy Spirit to help him to know what to do. Samuel told everyone to come to Mizpah where he announced that God had chosen Saul to be their king. (See: [[rc://*/tw/dict/bible/kt/prophet]] and [[rc://*/tw/dict/bible/kt/holyspirit]])
+Samuel told Saul that God had chosen him to be king, and on the way home he would meet some prophets. Saul would then begin prophesying and God would give him the Holy Spirit to help him to know what to do. Samuel told everyone to come to Mizpah where he announced that God had chosen Saul to be their king. (See: [[../bible/kt/prophet]] and [[../bible/kt/holyspirit]])
 
 ## Important figures of speech in this chapter
 

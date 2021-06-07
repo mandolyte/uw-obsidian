@@ -34,7 +34,7 @@ Some scholars think the author was a faithful man. Other scholars think that the
 
 ### What does this book teach about how God repays people?
 
-In the ancient Near East, people were concerned with why they were being punished or blessed. They often connected these things to their gods. The writer of Ecclesiastes explains that Yahweh will bless and reward people for the right things they do and punish people for the evil things they do. But this might not happen in this life. (See: [[rc://*/tw/dict/bible/kt/bless]], [[rc://*/tw/dict/bible/kt/justice]], [[rc://*/tw/dict/bible/kt/falsegod]] and [[rc://*/tw/dict/bible/kt/righteous]] and [[rc://*/tw/dict/bible/kt/evil]])
+In the ancient Near East, people were concerned with why they were being punished or blessed. They often connected these things to their gods. The writer of Ecclesiastes explains that Yahweh will bless and reward people for the right things they do and punish people for the evil things they do. But this might not happen in this life. (See: [[../bible/kt/bless]], [[../bible/kt/justice]], [[../bible/kt/falsegod]] and [[../bible/kt/righteous]] and [[../bible/kt/evil]])
 
 ### What value did the Israelites place on the Book of Ecclesiastes?
 

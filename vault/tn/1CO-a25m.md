@@ -6,7 +6,7 @@ Paul begins to answer a series of questions that the Corinthians may have asked 
 ## Special concepts in this chapter
 
 ### Divorce
-Paul says married Christians should not divorce. A Christian married to an unbeliever should not leave their husband or wife. If the unbelieving husband or wife leaves, this is not a sin. Paul advises that, because of the difficult times and being near to time that Jesus will return, it is acceptable to remain unmarried. (See: [[rc://*/tw/dict/bible/kt/believe]] and [[rc://*/tw/dict/bible/kt/sin]])
+Paul says married Christians should not divorce. A Christian married to an unbeliever should not leave their husband or wife. If the unbelieving husband or wife leaves, this is not a sin. Paul advises that, because of the difficult times and being near to time that Jesus will return, it is acceptable to remain unmarried. (See: [[../bible/kt/believe]] and [[../bible/kt/sin]])
 
 ## Important figures of speech in this chapter
 

@@ -1,7 +1,7 @@
 # Psalm 120 General Notes
 ## Type of psalm
 
-Psalm 120 is a psalm of deliverance from liars. (See: [[rc://*/tw/dict/bible/other/deliverer]])
+Psalm 120 is a psalm of deliverance from liars. (See: [[../bible/other/deliverer]])
 
 ## Special concepts in this chapter
 

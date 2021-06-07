@@ -1,7 +1,7 @@
 # Nahum 02 General Notes
 ## Structure and formatting
 
-Some translations prefer to set apart extended quotations, prayers and songs. The ULT and many other English translations set the lines of the entire book (except for verse 1 of chapter 1) farther to the right on the page than regular text because they are poetic prophecy. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+Some translations prefer to set apart extended quotations, prayers and songs. The ULT and many other English translations set the lines of the entire book (except for verse 1 of chapter 1) farther to the right on the page than regular text because they are poetic prophecy. (See: [[../bible/kt/prophet]])
 
 Despite being divided into three chapters, this book contains one long prophecy.
 

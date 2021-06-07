@@ -1,7 +1,7 @@
 # 1 Chronicles 22 General Notes
 ## Structure and formatting
 
-This chapter begins a new section lasting for the remainder of the book. David begins preparing the things needed for building the temple. (See: [[rc://*/tw/dict/bible/kt/temple]])
+This chapter begins a new section lasting for the remainder of the book. David begins preparing the things needed for building the temple. (See: [[../bible/kt/temple]])
 
 ## Special concepts in this chapter
 

@@ -3,13 +3,13 @@
 
 Paul continues defending his authority in this chapter.
 
-When Paul was with the Corinthians, he proved himself to be an apostle by his powerful deeds. He had not ever taken anything from them. Now that he is coming for the third time, he will still not take anything. He hopes that when he visits, he will not need to be harsh with them. (See: [[rc://*/tw/dict/bible/kt/apostle]])
+When Paul was with the Corinthians, he proved himself to be an apostle by his powerful deeds. He had not ever taken anything from them. Now that he is coming for the third time, he will still not take anything. He hopes that when he visits, he will not need to be harsh with them. (See: [[../bible/kt/apostle]])
 
 ## Special concepts in this chapter
 
 ### Paul’s vision
 
-Paul now defends his authority by telling about a wonderful vision of heaven. Although he speaks in the third person in verses 2-5, verse 7 indicates that he was the person who experienced the vision. It was so great, God gave him a physical handicap to keep him humble. (See: [[rc://*/tw/dict/bible/kt/heaven]])
+Paul now defends his authority by telling about a wonderful vision of heaven. Although he speaks in the third person in verses 2-5, verse 7 indicates that he was the person who experienced the vision. It was so great, God gave him a physical handicap to keep him humble. (See: [[../bible/kt/heaven]])
 
 ### Third heaven
 Many scholars believe the “third” heaven is the dwelling place of God. This is because Scripture also uses “heaven” to refer to the sky (the “first” heaven) and the universe (the “second” heaven).

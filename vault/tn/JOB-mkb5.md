@@ -6,4 +6,4 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 ## Special concepts in this chapter
 
 ### Job’s righteousness
-Despite being upset about his circumstances, Job does not curse God. Instead, he recognizes Yahweh’s authority. (See: [[rc://*/tw/dict/bible/kt/curse]])
+Despite being upset about his circumstances, Job does not curse God. Instead, he recognizes Yahweh’s authority. (See: [[../bible/kt/curse]])

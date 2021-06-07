@@ -6,7 +6,7 @@ Paul includes a prayer in the beginning of this letter. At that time, religious 
 ## Special concepts in this chapter
 
 ### The day of Christ
-This probably refers to the day when Christ returns. Paul often connected the return of Christ with motivating godly living. (See: [[rc://*/tw/dict/bible/kt/godly]])
+This probably refers to the day when Christ returns. Paul often connected the return of Christ with motivating godly living. (See: [[../bible/kt/godly]])
 
 ## Other possible translation difficulties in this chapter
 

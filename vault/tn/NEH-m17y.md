@@ -8,4 +8,4 @@ This chapter concludes the passage beginning in chapter 9.
 
 ### The vow
 
-By signing this document, the people vowed or agreed to obey God, not to buy things on the Sabbath, and to pay their temple tax. (See: [[rc://*/tw/dict/bible/kt/vow]] and [[rc://*/tw/dict/bible/kt/sabbath]] and [[rc://*/tw/dict/bible/kt/temple]])
+By signing this document, the people vowed or agreed to obey God, not to buy things on the Sabbath, and to pay their temple tax. (See: [[../bible/kt/vow]] and [[../bible/kt/sabbath]] and [[../bible/kt/temple]])

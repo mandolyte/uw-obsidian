@@ -1,7 +1,7 @@
 # Leviticus 04 General Notes
 ## Structure and formatting
 
-This chapter gives instructions on how to offer a sacrifice for unintentional sins. This is known as a sin offering. (See: [[rc://*/tw/dict/bible/kt/sin]])
+This chapter gives instructions on how to offer a sacrifice for unintentional sins. This is known as a sin offering. (See: [[../bible/kt/sin]])
 
 ## Special concepts in this chapter
 

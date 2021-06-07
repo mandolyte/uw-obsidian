@@ -47,7 +47,7 @@ Translators may choose to call this book by its traditional title, “James.” 
 
 ### Did James disagree with Paul about how a person is justified before God?
 
-Paul taught in Romans that Christians are justified by faith and not by works. James seems to teach that Christians are justified by works. This can be confusing. But a better understanding of what Paul and James taught shows that they agree with one another. Both of them taught that a person needs faith in order to be justified. And they both taught that true faith will cause a person to do good works. Paul and James taught about these things in different ways because they had different audiences who needed to know different things about being justified. (See: [[rc://*/tw/dict/bible/kt/justice]] and [[rc://*/tw/dict/bible/kt/faith]] and [[rc://*/tw/dict/bible/kt/works]])
+Paul taught in Romans that Christians are justified by faith and not by works. James seems to teach that Christians are justified by works. This can be confusing. But a better understanding of what Paul and James taught shows that they agree with one another. Both of them taught that a person needs faith in order to be justified. And they both taught that true faith will cause a person to do good works. Paul and James taught about these things in different ways because they had different audiences who needed to know different things about being justified. (See: [[../bible/kt/justice]] and [[../bible/kt/faith]] and [[../bible/kt/works]])
 
 ## Part 3: Important Translation Issues
 

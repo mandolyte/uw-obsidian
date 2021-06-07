@@ -6,7 +6,7 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 ## Special concepts in this chapter
 
 ### God’s holiness and man’s sin
-Bildad describes the holiness of Yahweh and the universal nature of man’s sinfulness. While his points are accurate, they are not convincing for Job because he has been righteous. (See: [[rc://*/tw/dict/bible/kt/holy]] and [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/righteous]])
+Bildad describes the holiness of Yahweh and the universal nature of man’s sinfulness. While his points are accurate, they are not convincing for Job because he has been righteous. (See: [[../bible/kt/holy]] and [[../bible/kt/sin]] and [[../bible/kt/righteous]])
 
 ## Important figures of speech in this chapter
 

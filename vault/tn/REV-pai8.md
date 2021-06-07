@@ -7,7 +7,7 @@ This chapter gives a detailed picture of the new Jerusalem.
 
 ### Second death
 
-Death is a type of separation. The first death is physically dying, when the soul is separated from the body. The second death is being eternally separated from God. (See: [[rc://*/tw/dict/bible/other/death]] and [[rc://*/tw/dict/bible/kt/soul]] and [[rc://*/tw/dict/bible/kt/eternity]])
+Death is a type of separation. The first death is physically dying, when the soul is separated from the body. The second death is being eternally separated from God. (See: [[../bible/other/death]] and [[../bible/kt/soul]] and [[../bible/kt/eternity]])
 
 ## Important figures of speech in this chapter
 

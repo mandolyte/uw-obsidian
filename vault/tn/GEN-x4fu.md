@@ -2,7 +2,7 @@
 ## Special concepts in this chapter
 
 ### Going to Egypt
-Yahweh allowed Israel to go to Egypt. He was to trust in Yahweh and his covenant faithfulness. God continued to bless them in Egypt. (See: [[rc://*/tw/dict/bible/kt/trust]] and [[rc://*/tw/dict/bible/kt/covenantfaith]] and [[rc://*/tw/dict/bible/kt/bless]])
+Yahweh allowed Israel to go to Egypt. He was to trust in Yahweh and his covenant faithfulness. God continued to bless them in Egypt. (See: [[../bible/kt/trust]] and [[../bible/kt/covenantfaith]] and [[../bible/kt/bless]])
 
 ### Shepherds
 

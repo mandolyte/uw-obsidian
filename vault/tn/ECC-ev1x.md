@@ -6,4 +6,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Important figures of speech in this chapter
 
 ### Irony
-The teacher looks at the oppression in the world and is saddened by it, but he is the king and has the power to change things. He also laments being alone even though he has many wives, children, and concubines. (See: [[rc://*/tw/dict/bible/other/oppress]] and [[rc://*/tw/dict/bible/kt/lament]] and [[figs-irony]])
+The teacher looks at the oppression in the world and is saddened by it, but he is the king and has the power to change things. He also laments being alone even though he has many wives, children, and concubines. (See: [[../bible/other/oppress]] and [[../bible/kt/lament]] and [[figs-irony]])

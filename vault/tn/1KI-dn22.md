@@ -1,7 +1,7 @@
 # 1 Kings 06 General Notes
 ## Structure and formatting
 
-The building of the temple continues in this chapter. (See: [[rc://*/tw/dict/bible/kt/temple]])
+The building of the temple continues in this chapter. (See: [[../bible/kt/temple]])
 
 ## Special concepts in this chapter
 

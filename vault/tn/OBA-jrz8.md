@@ -30,7 +30,7 @@ Obadiah referred to Edom as Israel’s brother. This is because the Edomites des
 
 ### How do I translate the concept of “pride?”
 
-The Book of Obadiah speaks of the pride of Edom. This meant that the Edomites thought that neither their enemies nor Yahweh could defeat them. (See: [[rc://*/tw/dict/bible/other/proud]])
+The Book of Obadiah speaks of the pride of Edom. This meant that the Edomites thought that neither their enemies nor Yahweh could defeat them. (See: [[../bible/other/proud]])
 
 ### When Obadiah is addressing Edom, should I use a singular or plural form of “you?”
 

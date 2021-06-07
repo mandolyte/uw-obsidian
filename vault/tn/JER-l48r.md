@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Trusting God or humans
 
-Trust is an important part of this chapter. Those who trust in human wisdom will not prosper. Those who trust in God will have all of their needs met. (See: [[rc://*/tw/dict/bible/kt/trust]] and [[rc://*/tw/dict/bible/kt/wise]])
+Trust is an important part of this chapter. Those who trust in human wisdom will not prosper. Those who trust in God will have all of their needs met. (See: [[../bible/kt/trust]] and [[../bible/kt/wise]])
 
 ## Important figures of speech in this chapter
 

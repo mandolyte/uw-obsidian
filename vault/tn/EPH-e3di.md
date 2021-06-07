@@ -38,7 +38,7 @@ The expression translated in the ULT as “mystery” or “hidden” occurs six
 
 ### What did Paul say about salvation and righteous living?
 
-Paul said much about salvation and righteous living in this letter and in many of his letters. He said that God has been very kind and saved Christians because they believe in Jesus. Therefore, after they become Christians, they should live in a righteous way to show that they have faith in Christ. (See: [[rc://*/tw/dict/bible/kt/righteous]])
+Paul said much about salvation and righteous living in this letter and in many of his letters. He said that God has been very kind and saved Christians because they believe in Jesus. Therefore, after they become Christians, they should live in a righteous way to show that they have faith in Christ. (See: [[../bible/kt/righteous]])
 
 ## Part 3: Important Translation Issues
 

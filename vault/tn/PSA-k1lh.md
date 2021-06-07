@@ -1,7 +1,7 @@
 # Psalm 079 General Notes
 ## Type of psalm
 
-Psalm 79 is a deliverance psalm and a prayer for revenge against their enemies. (See: [[rc://*/tw/dict/bible/other/deliverer]] and [[rc://*/tw/dict/bible/other/avenge]])
+Psalm 79 is a deliverance psalm and a prayer for revenge against their enemies. (See: [[../bible/other/deliverer]] and [[../bible/other/avenge]])
 
 ## Special concepts in this chapter
 

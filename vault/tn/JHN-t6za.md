@@ -24,7 +24,7 @@ The Gospel of John is one of four books in the New Testament that describe some 
 
 John’s Gospel is very different from the other three Gospels. John does not include some of the teachings and events that the other writers included in their gospels. Also, John wrote about some teachings and events that are not in the other gospels.
 
-John wrote much about the signs Jesus did to prove that what Jesus said about himself was true. (See: [[rc://*/tw/dict/bible/kt/sign]])
+John wrote much about the signs Jesus did to prove that what Jesus said about himself was true. (See: [[../bible/kt/sign]])
 
 ### How should the title of this book be translated?
 
@@ -37,7 +37,7 @@ This book does not give the name of the author. However, since early Christian t
 
 ### Why does John write so much about the final week of Jesus’ life?
 
-John wrote much about Jesus’ final week. He wanted his readers to think deeply about Jesus’ final week and his death on the cross. He wanted people to understand that Jesus willingly died on the cross so that God could forgive them for sinning against him. (See: [[rc://*/tw/dict/bible/kt/sin]])
+John wrote much about Jesus’ final week. He wanted his readers to think deeply about Jesus’ final week and his death on the cross. He wanted people to understand that Jesus willingly died on the cross so that God could forgive them for sinning against him. (See: [[../bible/kt/sin]])
 
 ## Part 3: Important Translation Issues
 

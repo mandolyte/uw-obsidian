@@ -1,7 +1,7 @@
 # 1 Kings 05 General Notes
 ## Structure and formatting
 
-This is the beginning of the description of the building of the temple. (See: [[rc://*/tw/dict/bible/kt/temple]])
+This is the beginning of the description of the building of the temple. (See: [[../bible/kt/temple]])
 
 ## Special concepts in this chapter
 

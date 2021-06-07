@@ -8,4 +8,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Prophecies against other nations
-The first two verses show that the prophecy concerns neighboring countries. Hamath, Damscus, Tyre and Sidon are cities in areas that were near Israel. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+The first two verses show that the prophecy concerns neighboring countries. Hamath, Damscus, Tyre and Sidon are cities in areas that were near Israel. (See: [[../bible/kt/prophet]])

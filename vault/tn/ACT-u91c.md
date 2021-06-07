@@ -7,7 +7,7 @@ In this chapter Luke describes Paul’s last visits to believers in the province
 
 ### Race
 
-Paul spoke of living for Jesus as if he were running in a race. By this he meant that he needed to keep working hard even when things were difficult and he wanted to quit. (See: [[figs-metaphor]] and [[rc://*/tw/dict/bible/kt/discipline]])
+Paul spoke of living for Jesus as if he were running in a race. By this he meant that he needed to keep working hard even when things were difficult and he wanted to quit. (See: [[figs-metaphor]] and [[../bible/kt/discipline]])
 
 ### “Compelled by the Spirit”
 

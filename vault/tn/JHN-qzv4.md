@@ -25,7 +25,7 @@ Scripture often speaks of God’s glory as a great, brilliant light. When people
 
 ### The metaphors of light and darkness
 
-The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. (See: [[figs-metaphor]] and [[rc://*/tw/dict/bible/kt/righteous]])
+The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. (See: [[figs-metaphor]] and [[../bible/kt/righteous]])
 
 ## Other possible translation difficulties in this chapter
 

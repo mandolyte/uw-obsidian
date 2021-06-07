@@ -3,7 +3,7 @@
 
 ### Adultery
 
-Writers in the Bible often speak of adultery as a metaphor for people who say they love God but do things that God hates. (See: [[figs-metaphor]] and [[rc://*/tw/dict/bible/kt/godly]])
+Writers in the Bible often speak of adultery as a metaphor for people who say they love God but do things that God hates. (See: [[figs-metaphor]] and [[../bible/kt/godly]])
 
 ### Law
 

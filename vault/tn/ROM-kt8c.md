@@ -7,11 +7,11 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Weak in faith
 
-Paul teaches that Christians can have real faith and at the same time be “weak in faith” in a given situation. This describes Christians whose faith is immature, not strong, or misunderstood. (See: [[rc://*/tw/dict/bible/kt/faith]])
+Paul teaches that Christians can have real faith and at the same time be “weak in faith” in a given situation. This describes Christians whose faith is immature, not strong, or misunderstood. (See: [[../bible/kt/faith]])
 
 ### Dietary restrictions
 
-Many religions in the ancient Near East restricted what was eaten. Christians have freedom to eat what they want. But they need to use this freedom wisely, in a way that honors the Lord and does not cause others to sin. (See: [[rc://*/tw/dict/bible/kt/sin]])
+Many religions in the ancient Near East restricted what was eaten. Christians have freedom to eat what they want. But they need to use this freedom wisely, in a way that honors the Lord and does not cause others to sin. (See: [[../bible/kt/sin]])
 
 ### The judgment seat of God
 

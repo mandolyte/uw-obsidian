@@ -3,7 +3,7 @@
 
 ### The king’s new idol
 
-Shadrach, Meshach, and Abednego refused to worship the new idol. In the ancient Near East, refusing to worship the king was a sign of rebellion against the king. It was often considered the crime of treason. (See: [[rc://*/tw/dict/bible/kt/sign]])
+Shadrach, Meshach, and Abednego refused to worship the new idol. In the ancient Near East, refusing to worship the king was a sign of rebellion against the king. It was often considered the crime of treason. (See: [[../bible/kt/sign]])
 
 ### The furnace
 

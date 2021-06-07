@@ -54,7 +54,7 @@ The UST will often be helpful as translators think about how to represent these 
 
 ### What is the meaning of “flesh?”
 
-Paul frequently used the terms “flesh” or “fleshly” to refer to Christians who did sinful things. However, it is not the physical world that is evil. Paul also described Christians who lived in a righteous way as “spiritual.” This is because they did what the Holy Spirit taught them to do. (See: [[rc://*/tw/dict/bible/kt/flesh]] and [[rc://*/tw/dict/bible/kt/righteous]] and [[rc://*/tw/dict/bible/kt/spirit]])
+Paul frequently used the terms “flesh” or “fleshly” to refer to Christians who did sinful things. However, it is not the physical world that is evil. Paul also described Christians who lived in a righteous way as “spiritual.” This is because they did what the Holy Spirit taught them to do. (See: [[../bible/kt/flesh]] and [[../bible/kt/righteous]] and [[../bible/kt/spirit]])
 
 ### What did Paul mean by the expression “in Christ,” “in the Lord,” etc.?
 

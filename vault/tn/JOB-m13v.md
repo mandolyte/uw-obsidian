@@ -6,7 +6,7 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 ## Special concepts in this chapter
 
 ### Repentance
-Eliphaz tries to get Job to repent in this chapter. Eliphaz assumes that he is righteous, while assuming Job is not. (See: [[rc://*/tw/dict/bible/kt/repent]] and [[rc://*/tw/dict/bible/kt/righteous]])
+Eliphaz tries to get Job to repent in this chapter. Eliphaz assumes that he is righteous, while assuming Job is not. (See: [[../bible/kt/repent]] and [[../bible/kt/righteous]])
 
 ## Important figures of speech in this chapter
 

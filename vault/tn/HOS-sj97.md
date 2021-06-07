@@ -2,7 +2,7 @@
 ## Structure and formatting
 
 This chapter continues to use the poetic form to communicate several other ways the people of Israel have sinned against God. First, Yahweh notes that they have set up a king without consulting him.
-Next, they set up or reinstalled the golden calves of Samaria. Last, they were seeking help from other nations like Egypt and Assyria. (See: [[rc://*/tw/dict/bible/kt/sin]])
+Next, they set up or reinstalled the golden calves of Samaria. Last, they were seeking help from other nations like Egypt and Assyria. (See: [[../bible/kt/sin]])
 
 ## Special concepts in this chapter
 

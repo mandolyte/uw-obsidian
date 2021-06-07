@@ -1,7 +1,7 @@
 # Hosea 07 General Notes
 ## Structure and formatting
 
-This chapter continues using poetic forms to speak of Yahweh’s anger over the sin of the people. The people are not seeking Yahweh; they are seeking other gods and looking for salvation from other nations like Egypt and Assyria. (See: [[rc://*/tw/dict/bible/kt/sin]], [[rc://*/tw/dict/bible/kt/falsegod]] and [[rc://*/tw/dict/bible/kt/save]])
+This chapter continues using poetic forms to speak of Yahweh’s anger over the sin of the people. The people are not seeking Yahweh; they are seeking other gods and looking for salvation from other nations like Egypt and Assyria. (See: [[../bible/kt/sin]], [[../bible/kt/falsegod]] and [[../bible/kt/save]])
 
 ## Important figures of speech in this chapter
 

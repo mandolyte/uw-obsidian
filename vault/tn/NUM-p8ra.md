@@ -3,4 +3,4 @@
 
 ==Passover ==
 
-This chapter records the celebration of the Passover for the first time since it began. The people kept the Passover as directed by the Lord. (See: [[rc://*/tw/dict/bible/kt/passover]])
+This chapter records the celebration of the Passover for the first time since it began. The people kept the Passover as directed by the Lord. (See: [[../bible/kt/passover]])

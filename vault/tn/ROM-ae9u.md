@@ -10,4 +10,4 @@ In [Romans 15:14](../../rom/15/14.md), Paul begins to speak more personally. He 
 ## Important figures of speech in this chapter
 
 ### Strong/Weak
-These terms are used to refer to people who are mature and immature in their faith. Paul teaches that those who are strong in faith need to help those who are weak in faith. (See: [[rc://*/tw/dict/bible/kt/faith]])
+These terms are used to refer to people who are mature and immature in their faith. Paul teaches that those who are strong in faith need to help those who are weak in faith. (See: [[../bible/kt/faith]])

@@ -5,7 +5,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Yahweh and the false gods
 
-This chapter is set up to compare Yahweh with various false Gods whom the Israelites worship. There really is no comparison between the two because Yahweh alone is God. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+This chapter is set up to compare Yahweh with various false Gods whom the Israelites worship. There really is no comparison between the two because Yahweh alone is God. (See: [[../bible/kt/falsegod]])
 
 ## Important figures of speech in this chapter
 

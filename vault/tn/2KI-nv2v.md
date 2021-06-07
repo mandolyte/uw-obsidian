@@ -44,7 +44,7 @@ The writer repeats this kind of expression throughout the Books of 1 and 2 Kings
 
 ### What is the meaning of the term “Israel”?
 
-The name “Israel” is used in many different ways in the Bible. Jacob was the son of Isaac. God changed Jacob’s name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[rc://*/tw/dict/bible/kt/israel]])
+The name “Israel” is used in many different ways in the Bible. Jacob was the son of Isaac. God changed Jacob’s name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[../bible/kt/israel]])
 
 ### What does the phrase “to this day” mean?
 

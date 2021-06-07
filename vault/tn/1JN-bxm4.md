@@ -9,11 +9,11 @@
 
 ### “a sin towards death”
 
-It is not entirely clear what John means by this phrase. The word “death” could refer either to physical death or to spiritual death, that is, to eternal separation from God. See the further discussion in the notes to [5:16](../05/16.md). (See: [[rc://*/tw/dict/bible/other/death]])
+It is not entirely clear what John means by this phrase. The word “death” could refer either to physical death or to spiritual death, that is, to eternal separation from God. See the further discussion in the notes to [5:16](../05/16.md). (See: [[../bible/other/death]])
 
 ### “the whole world lies in the power of the evil one”
 
-The phrase “the evil one” refers to Satan. God has allowed him to rule the world, but, ultimately, God is in control over everything. God keeps his children safe from the evil one. (See: [[rc://*/tw/dict/bible/kt/satan]])
+The phrase “the evil one” refers to Satan. God has allowed him to rule the world, but, ultimately, God is in control over everything. God keeps his children safe from the evil one. (See: [[../bible/kt/satan]])
 
 ## Important textual issues in this chapter
 

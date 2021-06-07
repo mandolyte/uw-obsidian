@@ -3,7 +3,7 @@
 
 ### Too many sins to be forgiven
 
-The people of Jerusalem cannot be cleaned from their sin. (See: [[rc://*/tw/dict/bible/kt/clean]] and [[rc://*/tw/dict/bible/kt/sin]])
+The people of Jerusalem cannot be cleaned from their sin. (See: [[../bible/kt/clean]] and [[../bible/kt/sin]])
 
 ## Important figures of speech in this chapter
 

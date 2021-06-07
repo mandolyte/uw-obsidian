@@ -11,7 +11,7 @@
 
 ### What is the Book of Ezra about?
 
-The book of Ezra is about how the people of Israel returned from Babylon and tried to worship Yahweh again as the law required. To do this, they needed to rebuild their temple so they could sacrifice to Yahweh. (See: [[rc://*/tw/dict/bible/kt/temple]])
+The book of Ezra is about how the people of Israel returned from Babylon and tried to worship Yahweh again as the law required. To do this, they needed to rebuild their temple so they could sacrifice to Yahweh. (See: [[../bible/kt/temple]])
 
 ### How should the title of this book be translated?
 
@@ -21,17 +21,17 @@ The book of Ezra is named for the priest Ezra who led the first group of Jews ou
 
 ### Why were Israelites not allowed to marry people from other nations?
 
-Foreigners worshiped many false gods. Yahweh did not allow his people to marry foreigners. He knew this would cause the people of Israel to worship false gods. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+Foreigners worshiped many false gods. Yahweh did not allow his people to marry foreigners. He knew this would cause the people of Israel to worship false gods. (See: [[../bible/kt/falsegod]])
 
 ### Did all of the people of Israel return to their homeland?
 
-Many of the Jews remained in Babylon instead of returning to the Promised Land. Many of them were successful in Babylon and desired to remain there. However, this meant that they were unable to worship Yahweh in Jerusalem as their ancestors had done. (See: [[rc://*/tw/dict/bible/kt/promisedland]])
+Many of the Jews remained in Babylon instead of returning to the Promised Land. Many of them were successful in Babylon and desired to remain there. However, this meant that they were unable to worship Yahweh in Jerusalem as their ancestors had done. (See: [[../bible/kt/promisedland]])
 
 ## Part 3: Important Translation Issues
 
 ### How does the Book of Ezra use the term “Israel”?
 
-The book of Ezra uses the term “Israel” to refer to the kingdom of Judah. It was mostly made up of the tribes of Judah and Benjamin. The other ten tribes had ended their loyalty to any kings descended from David. God allowed the Assyrians to conquer the other ten tribes and take them into exile. As a result, they mixed with other people groups and did not return to the land of Israel. (See: [[rc://*/tw/dict/bible/kt/israel]])
+The book of Ezra uses the term “Israel” to refer to the kingdom of Judah. It was mostly made up of the tribes of Judah and Benjamin. The other ten tribes had ended their loyalty to any kings descended from David. God allowed the Assyrians to conquer the other ten tribes and take them into exile. As a result, they mixed with other people groups and did not return to the land of Israel. (See: [[../bible/kt/israel]])
 
 ### Are the events in the Book of Ezra told in the order that they actually happened?
 

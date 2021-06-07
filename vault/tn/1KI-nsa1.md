@@ -1,12 +1,12 @@
 # 1 Kings 02 General Notes
 ## Structure and formatting
 
-This chapter has two stories: David’s last advice to Solomon and Solomon’s punishment of those who supported Adonijah and also Shimei, who had cursed David when David was fleeing from Absalom. (See: [[rc://*/tw/dict/bible/kt/curse]])
+This chapter has two stories: David’s last advice to Solomon and Solomon’s punishment of those who supported Adonijah and also Shimei, who had cursed David when David was fleeing from Absalom. (See: [[../bible/kt/curse]])
 
 ## Special concepts in this chapter
 
 ### Exalting oneself
-Exalting oneself can lead to disaster as when Adonijah made himself king. (See: [[rc://*/tw/dict/bible/kt/exalt]])
+Exalting oneself can lead to disaster as when Adonijah made himself king. (See: [[../bible/kt/exalt]])
 
 ## Important figures of speech in this chapter
 

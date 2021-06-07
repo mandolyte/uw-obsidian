@@ -6,4 +6,4 @@ In Thessalonica, there apparently was a problem with people in the church who we
 
 ### What should you do if your brother sins?
 
-In this chapter, Paul teaches that Christians need to live in a way that honors God. Christians should also encourage one another and hold each other accountable for what they do. The church is also responsible for encouraging believers to repent if they sin. (See: [[rc://*/tw/dict/bible/kt/repent]] and [[rc://*/tw/dict/bible/kt/sin]])
+In this chapter, Paul teaches that Christians need to live in a way that honors God. Christians should also encourage one another and hold each other accountable for what they do. The church is also responsible for encouraging believers to repent if they sin. (See: [[../bible/kt/repent]] and [[../bible/kt/sin]])

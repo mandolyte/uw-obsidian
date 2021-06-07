@@ -1,7 +1,7 @@
 # Proverbs 09 General Notes
 ## Structure and formatting
 
-Chapter 9 concludes a collection of proverbs that operate as a unit about wisdom. (See: [[rc://*/tw/dict/bible/kt/wise]])
+Chapter 9 concludes a collection of proverbs that operate as a unit about wisdom. (See: [[../bible/kt/wise]])
 
 ## Special concepts in this chapter
 

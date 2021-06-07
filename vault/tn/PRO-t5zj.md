@@ -9,7 +9,7 @@ The second half of this chapter and the first half of the next chapter are attri
 
 ### Themes
 
-There are individual proverbs that run along common themes, often including contrasting elements: wise/foolish, money, lazy/diligent, truth telling, wicked/righteous, sluggard, pride/humility, integrity/crookedness. (See: [[rc://*/tw/dict/bible/kt/wise]], [[rc://*/tw/dict/bible/kt/foolish]] and [[rc://*/tw/dict/bible/kt/evil]] and [[rc://*/tw/dict/bible/kt/righteous]])
+There are individual proverbs that run along common themes, often including contrasting elements: wise/foolish, money, lazy/diligent, truth telling, wicked/righteous, sluggard, pride/humility, integrity/crookedness. (See: [[../bible/kt/wise]], [[../bible/kt/foolish]] and [[../bible/kt/evil]] and [[../bible/kt/righteous]])
 
 ## Important figures of speech in this chapter
 ### Rhetorical questions

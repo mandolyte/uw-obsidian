@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Babylon destroyed
 
-Babylon will be conquered and the Jews will return to their homeland. At this time, Babylon controlled almost the entire Near East. The fulfillment of this prophecy would have been unthinkable. (See: [[rc://*/tw/dict/bible/kt/fulfill]] and [[rc://*/tw/dict/bible/kt/prophet]])
+Babylon will be conquered and the Jews will return to their homeland. At this time, Babylon controlled almost the entire Near East. The fulfillment of this prophecy would have been unthinkable. (See: [[../bible/kt/fulfill]] and [[../bible/kt/prophet]])
 
 ## Other possible translation difficulties in this chapter
 ### Israel

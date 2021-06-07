@@ -16,7 +16,7 @@
 
 ### What is the Book of Zephaniah about?
 
-Zechariah warned Judah and other nations that Yahweh was about to punish them. He also prophesied about how Yahweh would restore Judah. (See: [[rc://*/tw/dict/bible/kt/dayofthelord]])
+Zechariah warned Judah and other nations that Yahweh was about to punish them. He also prophesied about how Yahweh would restore Judah. (See: [[../bible/kt/dayofthelord]])
 
 ### How should the title of this book be translated?
 
@@ -30,7 +30,7 @@ Zephaniah wrote this book. But four different Old Testament people have the name
 
 ### Were the people of Judah faithful to Yahweh at the time Zephaniah started to prophesy?
 
-Manasseh, the grandfather of Josiah, had been one of the worst kings of Judah. He led the people to worship other gods. After his death, his son Amon ruled for only two years before he was killed. Amon’s son Josiah became king when he was eight years old. Josiah learned to worship and honor Yahweh. Zephaniah likely began his work after Josiah had destroyed most of the idols and shrines of false gods in Judah. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+Manasseh, the grandfather of Josiah, had been one of the worst kings of Judah. He led the people to worship other gods. After his death, his son Amon ruled for only two years before he was killed. Amon’s son Josiah became king when he was eight years old. Josiah learned to worship and honor Yahweh. Zephaniah likely began his work after Josiah had destroyed most of the idols and shrines of false gods in Judah. (See: [[../bible/kt/falsegod]])
 
 ### What country is coming to invade Judah?
 

@@ -3,7 +3,7 @@
 
 ### “transfigured”
 
-Scripture often speaks of God’s glory as a great, brilliant light. When people see this light, they are afraid. Mark says in this chapter that Jesus’ clothing shone with this glorious light so that his followers could see that Jesus truly was God’s Son. At the same time, God told them that Jesus was his Son. (See: [[rc://*/tw/dict/bible/kt/glory]] and [[rc://*/tw/dict/bible/kt/fear]])
+Scripture often speaks of God’s glory as a great, brilliant light. When people see this light, they are afraid. Mark says in this chapter that Jesus’ clothing shone with this glorious light so that his followers could see that Jesus truly was God’s Son. At the same time, God told them that Jesus was his Son. (See: [[../bible/kt/glory]] and [[../bible/kt/fear]])
 
 ## Important figures of speech in this chapter
 
@@ -19,7 +19,7 @@ Elijah and Moses suddenly appear to Jesus, James, John, and Peter, and then they
 
 ### “Son of Man”
 
-Jesus refers to himself as the “Son of Man” in this chapter ([Mark 9:31](../../mrk/09/31.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://*/tw/dict/bible/kt/sonofman]] and [[figs-123person]])
+Jesus refers to himself as the “Son of Man” in this chapter ([Mark 9:31](../../mrk/09/31.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[../bible/kt/sonofman]] and [[figs-123person]])
 
 ### Paradox
 

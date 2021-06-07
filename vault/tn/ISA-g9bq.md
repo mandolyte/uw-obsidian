@@ -6,12 +6,12 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Heaven
-This vision described in this chapter is probably a scene in heaven. (See: [[rc://*/tw/dict/bible/kt/heaven]])
+This vision described in this chapter is probably a scene in heaven. (See: [[../bible/kt/heaven]])
 
 ### Isaiah’s call
-This chapter record Isaiah’s call to prophetic ministry. It recognizes the holiness of God and Isaiah recognizes his need for holiness. (See: [[rc://*/tw/dict/bible/kt/call]] and [[rc://*/tw/dict/bible/kt/prophet]] and [[rc://*/tw/dict/bible/kt/holy]])
+This chapter record Isaiah’s call to prophetic ministry. It recognizes the holiness of God and Isaiah recognizes his need for holiness. (See: [[../bible/kt/call]] and [[../bible/kt/prophet]] and [[../bible/kt/holy]])
 
 ## Other possible translation difficulties in this chapter
 
 ### Inevitability
-The way Yahweh speaks in this chapter shows the inevitability of the punishment of Yahweh against the people of Judah. The punishment must now come. It is too late for repentance. (See: [[rc://*/tw/dict/bible/kt/repent]])
+The way Yahweh speaks in this chapter shows the inevitability of the punishment of Yahweh against the people of Judah. The punishment must now come. It is too late for repentance. (See: [[../bible/kt/repent]])

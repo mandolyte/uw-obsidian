@@ -16,7 +16,7 @@ The vow that Paul and his three friends made was probably a Nazarite vow, becaus
 
 ### Gentiles in the temple
 
-The Jews accused Paul of bringing a Gentile man into a part of the temple into which God only allowed Jews to go. They thought that God wanted them to punish Paul by killing him. (See: [[rc://*/tw/dict/bible/kt/holy]])
+The Jews accused Paul of bringing a Gentile man into a part of the temple into which God only allowed Jews to go. They thought that God wanted them to punish Paul by killing him. (See: [[../bible/kt/holy]])
 
 ### Roman citizenship
 

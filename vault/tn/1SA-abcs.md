@@ -3,7 +3,7 @@
 
 ### Talking to the dead
 
-Talking to the dead was against the law of Moses. God or the Holy Spirit left Saul because of his sin and would not help him. (See: [[rc://*/tw/dict/bible/other/death]], [[rc://*/tw/dict/bible/kt/lawofmoses]] and [[rc://*/tw/dict/bible/kt/holyspirit]] and [[rc://*/tw/dict/bible/kt/sin]])
+Talking to the dead was against the law of Moses. God or the Holy Spirit left Saul because of his sin and would not help him. (See: [[../bible/other/death]], [[../bible/kt/lawofmoses]] and [[../bible/kt/holyspirit]] and [[../bible/kt/sin]])
 
 ## Important figures of speech in this chapter
 

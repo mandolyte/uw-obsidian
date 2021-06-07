@@ -10,4 +10,4 @@ Many relationships are used in this chapter that are metaphors for the relations
 
 ## Other possible translation difficulties in this chapter
 
-This chapter creates an abrupt change of address. The prophet is now addressing the children directly in the first few verses, but the whole chapter is written against Gomer as an illustration of Israel as an adulterous people. God uses Gomer as an illustration to teach the people of Israel how they should be faithful to him. (See: [[rc://*/tw/dict/bible/kt/adultery]] and [[rc://*/tw/dict/bible/kt/faithful]])
+This chapter creates an abrupt change of address. The prophet is now addressing the children directly in the first few verses, but the whole chapter is written against Gomer as an illustration of Israel as an adulterous people. God uses Gomer as an illustration to teach the people of Israel how they should be faithful to him. (See: [[../bible/kt/adultery]] and [[../bible/kt/faithful]])

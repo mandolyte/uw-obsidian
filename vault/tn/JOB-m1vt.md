@@ -7,7 +7,7 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 
 ### Zophar’s advice
 
-Zophar tells Job to curse Yahweh. The advice Zophar gives to Job is bad advice. He even questions the character of God. (See: [[rc://*/tw/dict/bible/kt/curse]])
+Zophar tells Job to curse Yahweh. The advice Zophar gives to Job is bad advice. He even questions the character of God. (See: [[../bible/kt/curse]])
 
 ## Important figures of speech in this chapter
 

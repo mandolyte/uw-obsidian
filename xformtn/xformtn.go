@@ -74,9 +74,11 @@ func main() {
 		if cells[2] != "" {
 			markdown += "Tags:" + cells[2] + "\n"
 		}
+		/* support reference not needed since it will be in the text content
 		if cells[3] != "" {
 			markdown += cells[3] + "\n"
 		}
+		*/
 		if cells[4] != "" {
 			markdown += "### " + cells[4] + " (" + cells[5] + ")\n"
 		}
@@ -86,12 +88,12 @@ func main() {
 				log.Fatal("os.Create() Error:" + fnerr.Error())
 			}
 			defer fnote.Close()
-			_content := strings.Replace(cells[6], "\\n", "\n", -1)
-			_content = strings.Replace(_content, "rc://*/ta/man/translate/", "", -1)
+			_content := fixLinks(cells[6])
 			fnote.WriteString(_content)
 			markdown += "See [[" + *inputBookId + "-" + cells[1] + "]]"
 		} else {
-			markdown += cells[6] + "\n"
+			_content := fixLinks(cells[6])
+			markdown += _content + "\n"
 		}
 		markdown += "\n"
 	}
@@ -104,4 +106,12 @@ func usage(msg string) {
 	fmt.Println(msg + "\n")
 	fmt.Print("Usage: go run xformtn -bookId bookId -tntsv inputtn.tsv -dir outputDirectory \n")
 	flag.PrintDefaults()
+}
+
+func fixLinks(content string) string {
+	_content := strings.Replace(content, "\\n", "\n", -1)
+	_content = strings.Replace(_content, `rc://*/ta/man/translate/`, "", -1)
+	_content = strings.Replace(_content, `rc://en/ta/man/translate/`, "", -1)
+	_content = strings.Replace(_content, `rc://*/tw/dict/`, "../", -1)
+	return _content
 }

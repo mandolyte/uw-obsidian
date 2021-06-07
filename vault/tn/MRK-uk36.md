@@ -17,4 +17,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### “Son of Man”
 
-Jesus refers to himself as the “Son of Man” in this chapter ([Mark 14:20](../../mrk/14/20.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://*/tw/dict/bible/kt/sonofman]] and [[figs-123person]])
+Jesus refers to himself as the “Son of Man” in this chapter ([Mark 14:20](../../mrk/14/20.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[../bible/kt/sonofman]] and [[figs-123person]])

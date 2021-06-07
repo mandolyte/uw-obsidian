@@ -1,7 +1,7 @@
 # Psalm 007 General Notes
 ## Type of psalm
 
-Psalm 7 is a deliverance psalm. (See: [[rc://*/tw/dict/bible/other/deliverer]])
+Psalm 7 is a deliverance psalm. (See: [[../bible/other/deliverer]])
 
 ## Special concepts in this chapter
 

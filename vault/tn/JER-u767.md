@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Prophesying lies
 
-The false prophets had encouraged people to continue sinning by saying everything will be alright. (See: [[rc://*/tw/dict/bible/kt/prophet]] and [[rc://*/tw/dict/bible/kt/sin]])
+The false prophets had encouraged people to continue sinning by saying everything will be alright. (See: [[../bible/kt/prophet]] and [[../bible/kt/sin]])
 
 ## Other possible translation difficulties in this chapter
 

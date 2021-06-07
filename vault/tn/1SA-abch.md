@@ -6,11 +6,11 @@ This chapter introduced David as a soldier, a skill that will be important for t
 ## Special concepts in this chapter
 
 ### David kills Goliath
-Trust in God is more powerful than physical might or military training and equipment. David, trusting in the Lord and armed only with a sling, defeats Goliath who is well-armed and physically strong but who did not believe in Yahweh. (See: [[rc://*/tw/dict/bible/kt/trust]] and [[rc://*/tw/dict/bible/kt/believe]])
+Trust in God is more powerful than physical might or military training and equipment. David, trusting in the Lord and armed only with a sling, defeats Goliath who is well-armed and physically strong but who did not believe in Yahweh. (See: [[../bible/kt/trust]] and [[../bible/kt/believe]])
 
 ### Uncircumcised
 
-The people of Israel often used the term “uncircumcised” to refer to Gentiles. Here it is used to describe the Philistines. (See: [[rc://*/tw/dict/bible/kt/circumcise]])
+The people of Israel often used the term “uncircumcised” to refer to Gentiles. Here it is used to describe the Philistines. (See: [[../bible/kt/circumcise]])
 
 ## Important figures of speech in this chapter
 

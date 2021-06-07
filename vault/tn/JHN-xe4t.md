@@ -13,7 +13,7 @@ Bread was the most common and important food in Jesus’ day, and so the word �
 
 ### Eating the flesh and drinking the blood
 
-When Jesus said, “Unless you eat the flesh of the Son of Man and drink his blood, you will not have life in yourselves,” he knew that before he died he would tell his followers to do this by eating bread and drinking wine. In the event this chapter describes, he expected that his hearers would understand that he was using a metaphor but would not understand what the metaphor referred to. (See: [[rc://*/tw/dict/bible/kt/flesh]] and [[rc://*/tw/dict/bible/kt/blood]])
+When Jesus said, “Unless you eat the flesh of the Son of Man and drink his blood, you will not have life in yourselves,” he knew that before he died he would tell his followers to do this by eating bread and drinking wine. In the event this chapter describes, he expected that his hearers would understand that he was using a metaphor but would not understand what the metaphor referred to. (See: [[../bible/kt/flesh]] and [[../bible/kt/blood]])
 
 ## Other possible translation difficulties in this chapter
 
@@ -22,4 +22,4 @@ Several times in this passage, John explains something or gives the reader some 
 
 ### “Son of Man”
 
-Jesus refers to himself as the “Son of Man” in this chapter ([John 6;26](./26.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://*/tw/dict/bible/kt/sonofman]] and [[figs-123person]])
+Jesus refers to himself as the “Son of Man” in this chapter ([John 6;26](./26.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[../bible/kt/sonofman]] and [[figs-123person]])

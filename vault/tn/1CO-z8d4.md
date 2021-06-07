@@ -16,7 +16,7 @@ Paul uses many metaphors in this chapter. These metaphors teach complex truths. 
 ## Other possible translation difficulties in this chapter
 
 ### Contextualization
-This passage is important because Paul “contextualizes” ministering the gospel to different audiences. This means that Paul makes himself and the gospel understandable without his actions hindering the gospel being received. The translator should take extra care to preserve aspects of this “contextualization” if possible. (See: [[rc://*/tw/dict/bible/kt/goodnews]])
+This passage is important because Paul “contextualizes” ministering the gospel to different audiences. This means that Paul makes himself and the gospel understandable without his actions hindering the gospel being received. The translator should take extra care to preserve aspects of this “contextualization” if possible. (See: [[../bible/kt/goodnews]])
 
 ### Rhetorical questions
 Paul uses many rhetorical questions in this chapter. He uses them to emphasize various points as he teaches the Corinthians. (See: figs-rquestion)

@@ -13,4 +13,4 @@ Apparently, Nehemiah’s character made an impression on the king. It was very u
 In ancient Persia, people thought it was important for their conquered peoples to retain and practice their own cultural customs. It was thought that this independence promoted peace in their vast kingdom. The rebuilding of Jerusalem may have been seen as a way to allow for the Jewish cultural practices.
 
 ### Yahweh’s control
-Yahweh is seen as very powerful. He is able to provide for his people even through a foreign king. (See: [[rc://*/tw/dict/bible/kt/peopleofgod]])
+Yahweh is seen as very powerful. He is able to provide for his people even through a foreign king. (See: [[../bible/kt/peopleofgod]])

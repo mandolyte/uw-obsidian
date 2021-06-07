@@ -1,7 +1,7 @@
 # Deuteronomy 25 General Notes
 ## Structure and formatting
 
-This chapter continues to teach about justice in Israel. (See: [[rc://*/tw/dict/bible/kt/justice]])
+This chapter continues to teach about justice in Israel. (See: [[../bible/kt/justice]])
 
 ## Other possible translation difficulties in this chapter
 

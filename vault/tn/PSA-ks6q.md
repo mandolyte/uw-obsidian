@@ -1,7 +1,7 @@
 # Psalm 077 General Notes
 ## Type of psalm
 
-The author felt abandoned by God. This is a psalm of lament. (See: [[rc://*/tw/dict/bible/kt/lament]])
+The author felt abandoned by God. This is a psalm of lament. (See: [[../bible/kt/lament]])
 
 ## Special concepts in this chapter
 

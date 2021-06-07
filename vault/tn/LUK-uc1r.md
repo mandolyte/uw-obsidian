@@ -14,11 +14,11 @@
 
 ### Elijah
 
-God had promised the Jews that the prophet Elijah would return before the Messiah came. So some people who saw Jesus do miracles thought Jesus was Elijah (9:9, 9:19). He was not. However, Elijah did come to earth to speak with Jesus (9:30). (See: [[rc://*/tw/dict/bible/kt/prophet]] and [[rc://*/tw/dict/bible/kt/christ]] and [[rc://*/tw/dict/bible/names/elijah]])
+God had promised the Jews that the prophet Elijah would return before the Messiah came. So some people who saw Jesus do miracles thought Jesus was Elijah (9:9, 9:19). He was not. However, Elijah did come to earth to speak with Jesus (9:30). (See: [[../bible/kt/prophet]] and [[../bible/kt/christ]] and [[../bible/names/elijah]])
 
 ### Glory
 
-Scripture often speaks of God’s glory as a great, brilliant light. When people see this light, they are afraid. Luke says in this chapter that Jesus’ clothing shone with this glorious light so that his followers could see that Jesus truly was God’s Son. At the same time, God told them that Jesus was his Son. (See: [[rc://*/tw/dict/bible/kt/glory]] and [[rc://*/tw/dict/bible/kt/fear]])
+Scripture often speaks of God’s glory as a great, brilliant light. When people see this light, they are afraid. Luke says in this chapter that Jesus’ clothing shone with this glorious light so that his followers could see that Jesus truly was God’s Son. At the same time, God told them that Jesus was his Son. (See: [[../bible/kt/glory]] and [[../bible/kt/fear]])
 
 ## Other possible translation difficulties in this chapter
 
@@ -28,4 +28,4 @@ A paradox is a statement that describes two things that seem as if they cannot b
 
 ### “Receiving”
 
-This word appears several times in this chapter and means different things. When Jesus says, “If someone receives a little child like this in my name, he also is receiving me, and if someone receives me, he is also receiving the one who sent me” (9:48), he is speaking of people serving the child. When Luke says, “the people there did not receive him” (9:53), he means that the people did not believe in or accept Jesus. (See: [[rc://*/tw/dict/bible/kt/believe]])
+This word appears several times in this chapter and means different things. When Jesus says, “If someone receives a little child like this in my name, he also is receiving me, and if someone receives me, he is also receiving the one who sent me” (9:48), he is speaking of people serving the child. When Luke says, “the people there did not receive him” (9:53), he means that the people did not believe in or accept Jesus. (See: [[../bible/kt/believe]])

@@ -34,7 +34,7 @@
 
 The Book of Jeremiah gives the prophesies of a priest named Jeremiah. It also tells how Jeremiah suffered in different ways while he prophesied.
 
-Jeremiah began prophesying about 626 B.C. After the death of King Josiah, many groups of people in Israel opposed Jeremiah. Some of these people wanted to depend on Egypt to protect the nation. Others were idol worshipers. They hated Jeremiah for denouncing their gods. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+Jeremiah began prophesying about 626 B.C. After the death of King Josiah, many groups of people in Israel opposed Jeremiah. Some of these people wanted to depend on Egypt to protect the nation. Others were idol worshipers. They hated Jeremiah for denouncing their gods. (See: [[../bible/kt/falsegod]])
 
 During the reign of King Jehoiakim, Jeremiah prophesied about the temple of Yahweh. King Jehoiakim received some of these prophecies in writing and burned the document. The next king, Zedekiah, put Jeremiah in prison when he told the king to surrender to Babylon.
 
@@ -54,11 +54,11 @@ Jeremiah was a priest and a prophet living in Judah. He spoke the prophesies in 
 
 ### What is the new covenant that is presented in the Book of Jeremiah?
 
-Jeremiah introduced a “new covenant” between Yahweh and Israel (chapter 31). Yahweh would “write this covenant on the hearts” of the people. This means that the covenant would be a part of the people instead of just written on stone or paper. The people would obey the new covenant with all their heart. (See: [[rc://*/tw/dict/bible/kt/covenant]])
+Jeremiah introduced a “new covenant” between Yahweh and Israel (chapter 31). Yahweh would “write this covenant on the hearts” of the people. This means that the covenant would be a part of the people instead of just written on stone or paper. The people would obey the new covenant with all their heart. (See: [[../bible/kt/covenant]])
 
 ### What relationship do Jeremiah’s prophecies have to the other nations besides Israel?
 
-Much of the Old Testament before this time is only about the nation of Israel. But Jeremiah also spoke of how Yahweh would judge other nations of the world. Yahweh would also punish the other nations for their wicked deeds. (See: [[rc://*/tw/dict/bible/kt/judge]] and [[rc://*/tw/dict/bible/kt/sin]])
+Much of the Old Testament before this time is only about the nation of Israel. But Jeremiah also spoke of how Yahweh would judge other nations of the world. Yahweh would also punish the other nations for their wicked deeds. (See: [[../bible/kt/judge]] and [[../bible/kt/sin]])
 
 ## Part 3: Important Translation Issues
 

@@ -1,7 +1,7 @@
 # Psalm 088 General Notes
 ## Type of psalm
 
-Psalm 88 is a psalm of deliverance from sickness. (See: [[rc://*/tw/dict/bible/other/deliverer]])
+Psalm 88 is a psalm of deliverance from sickness. (See: [[../bible/other/deliverer]])
 
 ## Special concepts in this chapter
 ### Abandon

@@ -4,7 +4,7 @@
 
 ### Reading of the law
 
-During the exile, the Hebrew language was no longer spoken. Only the priests and Levites still understood it. Ezra read the book of the law to the people in Hebrew and the Levites walked among the crowd translating it into Aramaic for the people to understand. (See: [[rc://*/tw/dict/bible/kt/priest]] and [[rc://*/tw/dict/bible/kt/lawofmoses]])
+During the exile, the Hebrew language was no longer spoken. Only the priests and Levites still understood it. Ezra read the book of the law to the people in Hebrew and the Levites walked among the crowd translating it into Aramaic for the people to understand. (See: [[../bible/kt/priest]] and [[../bible/kt/lawofmoses]])
 
 ### Festival of Shelters
 

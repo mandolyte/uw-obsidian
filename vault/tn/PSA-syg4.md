@@ -1,7 +1,7 @@
 # Psalm 137 General Notes
 ## Type of psalm
 
-Psalm 137 is a psalm of mourning and vengeance. (See: [[rc://*/tw/dict/bible/other/avenge]])
+Psalm 137 is a psalm of mourning and vengeance. (See: [[../bible/other/avenge]])
 
 ## Special concepts in this chapter
 

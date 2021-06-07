@@ -5,4 +5,4 @@
 Embalming was practiced in Egypt on very important people when they died. They removed the liquids from the body then wrapped it in an attempt to preserve the body from decay.
 
 ### Joseph’s character
-Joseph’s character was so upright that Pharaoh’s officials went with him to Canaan to bury Jacob. This was a very large funeral procession. He also learned lessons from earlier in his life and unified his family. (See: [[rc://*/tw/dict/bible/kt/righteous]])
+Joseph’s character was so upright that Pharaoh’s officials went with him to Canaan to bury Jacob. This was a very large funeral procession. He also learned lessons from earlier in his life and unified his family. (See: [[../bible/kt/righteous]])

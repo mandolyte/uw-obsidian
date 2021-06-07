@@ -13,7 +13,7 @@ John wrote this book to seven actual churches in Asia Minor, which is now the co
 
 ### White
 
-The Bible often speaks of something that belongs to a person as being “white.” This is metaphor and metonym for that person living rightly and pleasing God. (See: [[figs-metaphor]] and [[figs-metonymy]] and [[rc://*/tw/dict/bible/kt/righteous]])
+The Bible often speaks of something that belongs to a person as being “white.” This is metaphor and metonym for that person living rightly and pleasing God. (See: [[figs-metaphor]] and [[figs-metonymy]] and [[../bible/kt/righteous]])
 
 ### “Him who is, and who was, and who is to come”
 

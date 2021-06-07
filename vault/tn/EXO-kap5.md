@@ -20,18 +20,18 @@ The first of over 400 occurrences throughout the Old Testament of a standard phr
 The encounter recorded from [4:24](../04/24.md) to [4:26](../04/26.md) is one of the strangest and most difficult passages in the entire book. Difficulties include:
 
 * To whom do the pronouns refer? Masculine pronouns are used throughout the section, but there are two possible antecedents, Moses (who is not named in the narrative) and Zipporah’s son (who was presumably also Moses’ son, but this is how he is referred to in this text. For why, see below on why Yahweh did this). Most commentators believe the pronouns refer to Moses.
-* Circumcision is described in fairly graphic detail. Different cultures will need to approach this differently. Some may have terms for circumcision, while others may be comfortable translating mostly literally, and others will need to use euphemisms or other strategies to translate. (See: [[rc://*/tw/dict/bible/kt/circumcise]])* The meaning of the phrase **a bridegroom of blood** (ULT) is unknown.
+* Circumcision is described in fairly graphic detail. Different cultures will need to approach this differently. Some may have terms for circumcision, while others may be comfortable translating mostly literally, and others will need to use euphemisms or other strategies to translate. (See: [[../bible/kt/circumcise]])* The meaning of the phrase **a bridegroom of blood** (ULT) is unknown.
 * Why did Yahweh attack Moses? Many commentators conclude that Moses had neglected to circumcise one of his sons because it displeased Zipporah, and Yahweh was holding Moses responsible before he returned to lead the Israelites (who should have been circumcised). When Zipporah repented by circumcising the son herself and touching the foreskin to Moses’ feet, Yahweh relents. These conclusions should help inform translation but should not be made explicit in the text.
 
 ## Study concepts in this chapter
 
 ### Moses does not understand
 
-Although Moses believes in Yahweh, he does not trust in him. This is because Moses lacks understanding. Moses tries to believe the things he is asked to do are done by his own power. Yahweh is trying to get Moses to trust that these things are Yahweh’s doing. (See: [[rc://*/tw/dict/bible/kt/believe]] and [[rc://*/tw/dict/bible/kt/trust]])
+Although Moses believes in Yahweh, he does not trust in him. This is because Moses lacks understanding. Moses tries to believe the things he is asked to do are done by his own power. Yahweh is trying to get Moses to trust that these things are Yahweh’s doing. (See: [[../bible/kt/believe]] and [[../bible/kt/trust]])
 
 ### Children of God
 
-This chapter introduces the concept that Israel, the people group, is the chosen people of God and God’s firstborn son. (See: [[rc://*/tw/dict/bible/kt/elect]] and [[rc://*/tw/dict/bible/kt/peopleofgod]] and [[rc://*/tw/dict/bible/other/firstborn]])
+This chapter introduces the concept that Israel, the people group, is the chosen people of God and God’s firstborn son. (See: [[../bible/kt/elect]] and [[../bible/kt/peopleofgod]] and [[../bible/other/firstborn]])
 
 ### Yahweh hardened Pharaoh’s heart
 

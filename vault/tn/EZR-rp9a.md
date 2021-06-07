@@ -2,7 +2,7 @@
 
 ## Structure and formatting
 
-This chapter begins the story of the building of the temple and re-establishment of worship in the new temple. (See: [[rc://*/tw/dict/bible/kt/temple]])
+This chapter begins the story of the building of the temple and re-establishment of worship in the new temple. (See: [[../bible/kt/temple]])
 
 ## Special concepts in this chapter
 

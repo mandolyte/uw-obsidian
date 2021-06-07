@@ -15,15 +15,15 @@ The word “tongues” has two meanings in this chapter. Luke describes what cam
 
 ### Last days
 
-No one knows for sure when the “last days” ([Acts 2:17](../../act/02/17.md)) began. Your translation should not say more than the ULT does about this. (See: [[rc://*/tw/dict/bible/kt/lastday]])
+No one knows for sure when the “last days” ([Acts 2:17](../../act/02/17.md)) began. Your translation should not say more than the ULT does about this. (See: [[../bible/kt/lastday]])
 
 ### Baptize
 
-The word “baptize” in this chapter refers to Christian baptism ([Acts 2:38-41](../02/38.md)). Though the event described in [Acts 2:1-11](./01.md) is the baptism of the Holy Spirit that Jesus promised in [Acts 1:5](../../act/01/05.md), the word “baptize” here does not refer to that event. (See: [[rc://*/tw/dict/bible/kt/baptize]])
+The word “baptize” in this chapter refers to Christian baptism ([Acts 2:38-41](../02/38.md)). Though the event described in [Acts 2:1-11](./01.md) is the baptism of the Holy Spirit that Jesus promised in [Acts 1:5](../../act/01/05.md), the word “baptize” here does not refer to that event. (See: [[../bible/kt/baptize]])
 
 ### The prophecy of Joel
 
-Many of the things that Joel said would happen did happen on the day of Pentecost ([Acts 2:17-18](../02/17.md)), but some things Joel spoke of did not happen ([Acts 2:19-20](../02/19.md)). (See: [[rc://*/tw/dict/bible/kt/prophet]])
+Many of the things that Joel said would happen did happen on the day of Pentecost ([Acts 2:17-18](../02/17.md)), but some things Joel spoke of did not happen ([Acts 2:19-20](../02/19.md)). (See: [[../bible/kt/prophet]])
 
 ### Wonders and signs
 

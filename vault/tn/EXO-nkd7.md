@@ -2,16 +2,16 @@
 ## Special concepts in this chapter
 
 ### Complaints
-The Israelites complained about the amount of food Yahweh gave them, even when he miraculously provided their food for them. This is intended to show their ungratefulness and their sinful view of Yahweh. (See: [[rc://*/tw/dict/bible/kt/sin]])
+The Israelites complained about the amount of food Yahweh gave them, even when he miraculously provided their food for them. This is intended to show their ungratefulness and their sinful view of Yahweh. (See: [[../bible/kt/sin]])
 
 ### Prohibition against storing food
-The people were not allowed to store the food, called manna, they were provided with. This is because they were to trust in Yahweh to provide for their needs every day. (See: [[rc://*/tw/dict/bible/kt/trust]])
+The people were not allowed to store the food, called manna, they were provided with. This is because they were to trust in Yahweh to provide for their needs every day. (See: [[../bible/kt/trust]])
 
 ### Sabbath
-This is the first recorded celebration of the Sabbath rest. (See: [[rc://*/tw/dict/bible/kt/sabbath]])
+This is the first recorded celebration of the Sabbath rest. (See: [[../bible/kt/sabbath]])
 
 ### Ark of the covenant
-Although the covenant has not yet been made, it is referenced in [Exodus 16:34](../../exo/16/34.md). This is probably done either in anticipation of the building of the ark or as an editorial comment made by Moses after these events. (See: [[rc://*/tw/dict/bible/kt/covenant]])
+Although the covenant has not yet been made, it is referenced in [Exodus 16:34](../../exo/16/34.md). This is probably done either in anticipation of the building of the ark or as an editorial comment made by Moses after these events. (See: [[../bible/kt/covenant]])
 
 ## Other possible translation difficulties in this chapter
 

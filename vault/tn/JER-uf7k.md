@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Seventy years
 
-Babylon will rule over Judah for seventy years. Because Yahweh is just, he will soon punish Babylon for their evil actions. (See: [[rc://*/tw/dict/bible/kt/justice]] and [[rc://*/tw/dict/bible/kt/evil]])
+Babylon will rule over Judah for seventy years. Because Yahweh is just, he will soon punish Babylon for their evil actions. (See: [[../bible/kt/justice]] and [[../bible/kt/evil]])
 
 ## Important figures of speech in this chapter
 

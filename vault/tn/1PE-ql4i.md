@@ -13,11 +13,11 @@ When Jesus comes again, everyone will see how good God’s people were to have f
 
 ### Holiness
 
-God wants his people to be holy because God is holy. (See: [[rc://*/tw/dict/bible/kt/holy]])
+God wants his people to be holy because God is holy. (See: [[../bible/kt/holy]])
 
 ### Eternity
 
-Peter tells Christians to live for things that will last forever and not to live for the things of this world, which will end. (See: [[rc://*/tw/dict/bible/kt/eternity]])
+Peter tells Christians to live for things that will last forever and not to live for the things of this world, which will end. (See: [[../bible/kt/eternity]])
 
 ## Other possible translation difficulties in this chapter
 

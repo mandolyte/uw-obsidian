@@ -13,7 +13,7 @@ After the flood, people began to live shorter lives. This chapter begins to reco
 ## Important figures of speech in this chapter
 
 ### Personification
-The statement “Yahweh came down to see” is a type of personification. Yahweh always knows what happens on earth. This statement indicates that Yahweh is about to bring judgment on mankind. (See: [[figs-personification]] and [[rc://*/tw/dict/bible/kt/judge]])
+The statement “Yahweh came down to see” is a type of personification. Yahweh always knows what happens on earth. This statement indicates that Yahweh is about to bring judgment on mankind. (See: [[figs-personification]] and [[../bible/kt/judge]])
 
 ## Other possible translation difficulties in this chapter
 

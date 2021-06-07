@@ -21,7 +21,7 @@ Nineveh was the capital city of the Assyrian Empire. The Assyrians had already c
 
 The prophet Nahum probably wrote this book. He was a prophet from Elkosh, an unknown city probably in Judah.
 
-Nahum wrote before Nineveh fell in about 612 B.C. Nahum also mentions the destruction of Thebes, a city in Egypt, which happened about 663 B.C. Therefore, the Book of Nahum was written sometime between 663 and 612 B.C. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+Nahum wrote before Nineveh fell in about 612 B.C. Nahum also mentions the destruction of Thebes, a city in Egypt, which happened about 663 B.C. Therefore, the Book of Nahum was written sometime between 663 and 612 B.C. (See: [[../bible/kt/prophet]])
 
 ## Part 2: Important Religious and Cultural Concepts
 

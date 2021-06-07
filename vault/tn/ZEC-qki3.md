@@ -13,4 +13,4 @@ This book contains a number of visions given to Zechariah, so the images are not
 ## Other possible translation difficulties in this chapter
 
 ### Date
-Zechariah uses two separate dates in this first chapter. When compared to the book of Haggai, Zechariah’s prophecy was proclaimed just a few weeks after Haggai. However, they prophesied in two different places: Haggai was in Jerusalem and Zechariah was somewhere outside of Jerusalem. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+Zechariah uses two separate dates in this first chapter. When compared to the book of Haggai, Zechariah’s prophecy was proclaimed just a few weeks after Haggai. However, they prophesied in two different places: Haggai was in Jerusalem and Zechariah was somewhere outside of Jerusalem. (See: [[../bible/kt/prophet]])

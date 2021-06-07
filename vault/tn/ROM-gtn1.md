@@ -50,7 +50,7 @@ Translators should also remember that some of these terms have more than one mea
 
 The idea of a “remnant” is important both in the Old Testament and for Paul. Most of the Israelites were either killed or scattered among other people when the Assyrians and then the Babylonians conquered their land. Only a relatively few Jews survived. They were known as “the remnant.”
 
-In 11:1-9, Paul speaks of another remnant. This remnant is the Jews whom God saved because they believed in Jesus. (See: [[rc://*/tw/dict/bible/kt/remnant]])
+In 11:1-9, Paul speaks of another remnant. This remnant is the Jews whom God saved because they believed in Jesus. (See: [[../bible/kt/remnant]])
 
 ## Part 3: Important Translation Issues
 
@@ -60,7 +60,7 @@ The phrase “in Christ” and similar phrases occur in 3:24; 6:11, 23; 8:1,2,39
 
 These phrases also have specific meanings that depend on how Paul used them in a particular passage. For example, in 3:24 (“the redemption that is in Christ Jesus”), Paul referred to our being redeemed “because” of Jesus Christ. In 8:9 (“you are not in the flesh but in the Spirit”), Paul spoke of believers submitting “to” the Holy Spirit. In 9:1 (“I tell the truth in Christ”), Paul meant that he is telling the truth that “is in agreement with” Jesus Christ.
 
-Nevertheless, the basic idea of our being united with Jesus Christ (and with the Holy Spirit) is seen in these passages as well. Therefore, the translator has a choice in many passages that use “in.” He will often decide to represent the more immediate sense of “in,” such as, “by means of,” “in the manner of,” or “in regard to.” But, if possible, the translator should choose a word or phrase that reprents the immediate sense and the sense of “in union with.” (See: [[rc://*/tw/dict/bible/kt/inchrist]])
+Nevertheless, the basic idea of our being united with Jesus Christ (and with the Holy Spirit) is seen in these passages as well. Therefore, the translator has a choice in many passages that use “in.” He will often decide to represent the more immediate sense of “in,” such as, “by means of,” “in the manner of,” or “in regard to.” But, if possible, the translator should choose a word or phrase that reprents the immediate sense and the sense of “in union with.” (See: [[../bible/kt/inchrist]])
 
 ### How are the ideas of “holy,” “saints” or “holy ones,” and “sanctify” represented in Romans in the ULT?
 

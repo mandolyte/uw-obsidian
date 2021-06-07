@@ -42,7 +42,7 @@ It is uncertain who wrote 2 Samuel. It may have been someone alive soon after Ki
 
 ### What covenant had its beginning in the Book of 2 Samuel?
 
-In 2 Samuel 7, Yahweh made a covenant with David. God promised to make a descendant of David rule forever over Israel. Christians believe that Jesus Christ fulfills this covenant. Jesus was a descendant of David. Jesus is the true “anointed one,” the person God chose to be king forever. (See: [[rc://*/tw/dict/bible/kt/covenant]])
+In 2 Samuel 7, Yahweh made a covenant with David. God promised to make a descendant of David rule forever over Israel. Christians believe that Jesus Christ fulfills this covenant. Jesus was a descendant of David. Jesus is the true “anointed one,” the person God chose to be king forever. (See: [[../bible/kt/covenant]])
 
 ## Part 3: Important Translation Issues
 
@@ -56,6 +56,6 @@ The Book of 1 Samuel should be translated before 2 Samuel, since 2 Samuel contin
 
 ### How is the name “Israel” used in the Bible?
 
-The name “Israel” is used in many different ways in the Bible. Jacob was the son of Isaac. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[rc://*/tw/dict/bible/kt/israel]])
+The name “Israel” is used in many different ways in the Bible. Jacob was the son of Isaac. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[../bible/kt/israel]])
 
 2 Samuel speaks of both the northern kingdom of Israel and the whole nation of Israel as “Israel.” However, these references appear in the narrative long before the two kingdoms split apart. It seems clear that the references to Israel and Judah indicate that the author wrote 2 Samuel at a time after the kingdoms split. (See: [2 Samuel 2:10](../02/10.md); [2 Samuel 3:10](../03/10.md); [2 Samuel 5:5](../05/05.md); [2 Samuel 11:11](../11/11.md); [2 Samuel 12:8](../12/08.md); [2 Samuel 19:42-43](../19/42.md); [2 Samuel 21:2](../21/02.md); [2 Samuel 24:1](../24/01.md)).

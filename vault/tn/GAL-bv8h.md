@@ -10,10 +10,10 @@ Paul writes the words in this chapter to Christians. He calls them “brothers.�
 
 ### New Creation
 
-People who are born again are a new creation in Christ. Christians have been given new life in Christ. They have a new nature in them after they come to faith in Christ. To Paul, this is more significant than a person’s ancestry. (See: [[rc://*/tw/dict/bible/kt/bornagain]] and [[rc://*/tw/dict/bible/kt/faith]])
+People who are born again are a new creation in Christ. Christians have been given new life in Christ. They have a new nature in them after they come to faith in Christ. To Paul, this is more significant than a person’s ancestry. (See: [[../bible/kt/bornagain]] and [[../bible/kt/faith]])
 
 ## Other possible translation difficulties in this chapter
 
 ### Flesh
 
-This is a complex issue. “Flesh” is contrasted with “spirit.” In this chapter, flesh is also used to refer to the physical body. (See: [[rc://*/tw/dict/bible/kt/flesh]] and [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/spirit]])
+This is a complex issue. “Flesh” is contrasted with “spirit.” In this chapter, flesh is also used to refer to the physical body. (See: [[../bible/kt/flesh]] and [[../bible/kt/sin]] and [[../bible/kt/spirit]])

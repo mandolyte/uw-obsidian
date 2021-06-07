@@ -9,7 +9,7 @@
 
 ### Parable
 
-Jesus told the parable in Luke 14:15-24 to teach that the kingdom of God will be something that everyone can enjoy, but many people will refuse to be part of it. (See: [[figs-metaphor]] and [[rc://*/tw/dict/bible/kt/kingdomofgod]])
+Jesus told the parable in Luke 14:15-24 to teach that the kingdom of God will be something that everyone can enjoy, but many people will refuse to be part of it. (See: [[figs-metaphor]] and [[../bible/kt/kingdomofgod]])
 
 ## Other possible translation difficulties in this chapter
 

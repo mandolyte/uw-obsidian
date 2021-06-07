@@ -12,4 +12,4 @@ The second half of this chapter finishes the section.
 Unlike much of Proverbs, verses 30-34 tell a short story about a lazy man, which ends in a very memorable proverb.
 
 ### Themes
-There are individual proverbs that run along common themes, often including contrasting elements: wise/foolish, money, lazy/diligent, truth telling, wicked/righteous, sluggard, pride/humility, integrity/crookedness. (See: [[rc://*/tw/dict/bible/kt/wise]], [[rc://*/tw/dict/bible/kt/foolish]] and [[rc://*/tw/dict/bible/kt/evil]] and [[rc://*/tw/dict/bible/kt/righteous]])
+There are individual proverbs that run along common themes, often including contrasting elements: wise/foolish, money, lazy/diligent, truth telling, wicked/righteous, sluggard, pride/humility, integrity/crookedness. (See: [[../bible/kt/wise]], [[../bible/kt/foolish]] and [[../bible/kt/evil]] and [[../bible/kt/righteous]])

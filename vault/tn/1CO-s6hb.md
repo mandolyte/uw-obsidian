@@ -3,7 +3,7 @@
 
 ### Lawsuits
 
-Paul teaches that a Christian should not take another Christian to court before a non-Christian judge. It is better to be cheated. Christians will judge the angels. So they should be able to solve problems among themselves. It is especially bad to use a court to cheat another believer. (See: [[rc://*/tw/dict/bible/kt/judge]])
+Paul teaches that a Christian should not take another Christian to court before a non-Christian judge. It is better to be cheated. Christians will judge the angels. So they should be able to solve problems among themselves. It is especially bad to use a court to cheat another believer. (See: [[../bible/kt/judge]])
 
 ## Important figures of speech in this chapter
 

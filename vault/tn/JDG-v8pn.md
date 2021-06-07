@@ -41,7 +41,7 @@ These tribes were descended from the same ancestors: Abraham, Isaac, and Jacob. 
 
 ### What spiritual struggles did Israel experience during the time of the judges?
 
-During this time, Israel struggled to remain faithful to Yahweh. The best judges encouraged Israel to be faithful to him, but some of the judges failed to do so. (See: [[rc://*/tw/dict/bible/kt/faithful]])
+During this time, Israel struggled to remain faithful to Yahweh. The best judges encouraged Israel to be faithful to him, but some of the judges failed to do so. (See: [[../bible/kt/faithful]])
 
 ## Part 3: Important Translation Issues
 

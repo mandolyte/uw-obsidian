@@ -10,7 +10,7 @@ This phrase serves as an introduction to this entire book.
 
 ### Repentance
 
-This chapter is a single long record of Nehemiah’s repentance on behalf of the people of Israel. (See: [[rc://*/tw/dict/bible/kt/repent]])
+This chapter is a single long record of Nehemiah’s repentance on behalf of the people of Israel. (See: [[../bible/kt/repent]])
 
 ## Other possible translation difficulties in this chapter
 

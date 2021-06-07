@@ -7,4 +7,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Metaphors
 
-Paul uses three agricultural metaphors. He uses them to teach about giving to needy believers. The metaphors help Paul explain that God will reward those who give generously. Paul does not say how or when God will reward them. (See: [[figs-metaphor]] and [[rc://*/tw/dict/bible/other/reward]])
+Paul uses three agricultural metaphors. He uses them to teach about giving to needy believers. The metaphors help Paul explain that God will reward those who give generously. Paul does not say how or when God will reward them. (See: [[figs-metaphor]] and [[../bible/other/reward]])

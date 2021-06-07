@@ -9,12 +9,12 @@ Paul writes much of this chapter around two subjects: who Christ is, and what Ch
 
 ### Secret truth
 
-Paul refers to a “secret truth” in this chapter. The role of the church in the plans of God was once unknown. But God has now revealed it. Part of this involves the Gentiles having equal standing with the Jews in the plans of God. (See: [[rc://*/tw/dict/bible/kt/reveal]])
+Paul refers to a “secret truth” in this chapter. The role of the church in the plans of God was once unknown. But God has now revealed it. Part of this involves the Gentiles having equal standing with the Jews in the plans of God. (See: [[../bible/kt/reveal]])
 
 ## Important figures of speech in this chapter
 
 ### Images for Christian living
-Paul uses many different images to describe Christian living. In this chapter, he uses the images of “walking” and “bearing fruit.” (See: [[rc://*/tw/dict/bible/other/fruit]])
+Paul uses many different images to describe Christian living. In this chapter, he uses the images of “walking” and “bearing fruit.” (See: [[../bible/other/fruit]])
 
 ## Other possible translation difficulties in this chapter
 

@@ -6,7 +6,7 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 ## Special concepts in this chapter
 
 ### Job’s righteousness
-Despite being upset about his circumstances, Job does not curse Yahweh. Instead, he defends himself to Yahweh, while trusting in his decision. (See: [[rc://*/tw/dict/bible/kt/curse]] and [[rc://*/tw/dict/bible/kt/trust]])
+Despite being upset about his circumstances, Job does not curse Yahweh. Instead, he defends himself to Yahweh, while trusting in his decision. (See: [[../bible/kt/curse]] and [[../bible/kt/trust]])
 
 ## Important figures of speech in this chapter
 

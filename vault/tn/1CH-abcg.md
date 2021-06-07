@@ -1,7 +1,7 @@
 # 1 Chronicles 16 General Notes
 ## Structure and formatting
 
-Chapters 15 and 16 tell how David organized the priests and Levites. (See: [[rc://*/tw/dict/bible/kt/priest]])
+Chapters 15 and 16 tell how David organized the priests and Levites. (See: [[../bible/kt/priest]])
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetic song in 16:8-36.
 

@@ -6,7 +6,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Prophecies
-These statements made by Jacob to his sons are probably prophecies. These prophecies are concerned with the descendants of each of Jacob’s sons who would become the twelve tribes of Israel. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+These statements made by Jacob to his sons are probably prophecies. These prophecies are concerned with the descendants of each of Jacob’s sons who would become the twelve tribes of Israel. (See: [[../bible/kt/prophet]])
 
 ## Other possible translation difficulties in this chapter
 

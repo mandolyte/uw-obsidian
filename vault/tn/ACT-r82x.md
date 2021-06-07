@@ -7,7 +7,7 @@ People who lived near the sea traveled by boat powered by the wind. During some 
 
 ### Trust
 
-Paul trusted God to bring him safely to land. He told the sailers and soldiers to trust that God would also keep them alive. (See: [[rc://*/tw/dict/bible/kt/trust]])
+Paul trusted God to bring him safely to land. He told the sailers and soldiers to trust that God would also keep them alive. (See: [[../bible/kt/trust]])
 
 ### Paul breaks bread
 

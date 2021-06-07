@@ -5,4 +5,4 @@ Psalm 46 is a psalm of praise to God.
 
 ## Special concepts in this chapter
 
-God is all-powerful, controls nature, and protects his people. (See: [[rc://*/tw/dict/bible/kt/peopleofgod]])
+God is all-powerful, controls nature, and protects his people. (See: [[../bible/kt/peopleofgod]])

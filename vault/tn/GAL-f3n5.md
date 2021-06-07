@@ -6,11 +6,11 @@ Paul started this letter differently than his other letters. He adds that he was
 ## Special concepts in this chapter
 
 ### Heresy
-God eternally saves people only through the true, biblical gospel. God condemns any other version of the gospel. Paul asks God to curse those who teach a false gospel. They might not be saved. They should be treated as non-Christians. (See: [[rc://*/tw/dict/bible/kt/save]], [[rc://*/tw/dict/bible/kt/eternity]], [[rc://*/tw/dict/bible/kt/goodnews]] and [[rc://*/tw/dict/bible/kt/condemn]] and [[rc://*/tw/dict/bible/kt/curse]])
+God eternally saves people only through the true, biblical gospel. God condemns any other version of the gospel. Paul asks God to curse those who teach a false gospel. They might not be saved. They should be treated as non-Christians. (See: [[../bible/kt/save]], [[../bible/kt/eternity]], [[../bible/kt/goodnews]] and [[../bible/kt/condemn]] and [[../bible/kt/curse]])
 
 ### Paul’s qualifications
 
-Some people in the early church were teaching that Gentiles needed to obey the law of Moses. To refute this teaching, in verses 13-16 Paul explains how he was formerly a zealous Jew. But God still needed to save him and show him the true gospel. As a Jew, and the apostle to Gentile people, Paul was uniquely qualified to address this issue. (See: [[rc://*/tw/dict/bible/kt/lawofmoses]])
+Some people in the early church were teaching that Gentiles needed to obey the law of Moses. To refute this teaching, in verses 13-16 Paul explains how he was formerly a zealous Jew. But God still needed to save him and show him the true gospel. As a Jew, and the apostle to Gentile people, Paul was uniquely qualified to address this issue. (See: [[../bible/kt/lawofmoses]])
 
 ## Other possible translation difficulties in this chapter
 

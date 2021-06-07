@@ -1,7 +1,7 @@
 # 1 Kings 08 General Notes
 ## Structure and formatting
 
-The ark is placed in the new temple. This is a very significant event in the history of the Israelites. (See: [[rc://*/tw/dict/bible/kt/temple]])
+The ark is placed in the new temple. This is a very significant event in the history of the Israelites. (See: [[../bible/kt/temple]])
 
 ## Special concepts in this chapter
 

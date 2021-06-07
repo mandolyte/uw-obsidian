@@ -1,7 +1,7 @@
 # Psalm 042 General Notes
 ## Type of psalm
 
-Psalm 42 is a psalm of praise for all that God has done and a prayer for deliverance from the psalmist’s enemies. (See: [[rc://*/tw/dict/bible/other/deliverer]])
+Psalm 42 is a psalm of praise for all that God has done and a prayer for deliverance from the psalmist’s enemies. (See: [[../bible/other/deliverer]])
 
 ## Special concepts in this chapter
 ### Yahweh’s deliverance

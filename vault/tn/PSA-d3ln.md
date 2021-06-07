@@ -1,7 +1,7 @@
 # Psalm 035 General Notes
 ## Type of psalm
 
-Psalm 35 is a prayer for deliverance. His enemies are coming against him. (See: [[rc://*/tw/dict/bible/other/deliverer]])
+Psalm 35 is a prayer for deliverance. His enemies are coming against him. (See: [[../bible/other/deliverer]])
 
 ## Special concepts in this chapter
 

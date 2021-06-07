@@ -12,4 +12,4 @@ It was common in the ancient Near East for the author to speak and someone else 
 
 ### Secret truth
 
-Paul refers to a “secret truth” in this chapter. The role of the church in the plans of God was once unknown. But God has now revealed it. Part of this involves the Gentiles having equal standing with the Jews in the plans of God. (See: [[rc://*/tw/dict/bible/kt/reveal]])
+Paul refers to a “secret truth” in this chapter. The role of the church in the plans of God was once unknown. But God has now revealed it. Part of this involves the Gentiles having equal standing with the Jews in the plans of God. (See: [[../bible/kt/reveal]])

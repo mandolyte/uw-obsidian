@@ -7,10 +7,10 @@ In verses 2-4, Paul finishes his defense. He then writes about Titus’ return a
 
 ### Clean and unclean
 
-Christians are “clean” in the sense that God has cleansed them from sin. They do not need to be concerned with being clean according to the law of Moses. Ungodly living can still make a Christian unclean. (See: [[rc://*/tw/dict/bible/kt/clean]] and [[rc://*/tw/dict/bible/kt/lawofmoses]])
+Christians are “clean” in the sense that God has cleansed them from sin. They do not need to be concerned with being clean according to the law of Moses. Ungodly living can still make a Christian unclean. (See: [[../bible/kt/clean]] and [[../bible/kt/lawofmoses]])
 
 ### Sadness and sorrow
-The words “sad” and “sorrow” in this chapter indicate that the Corinthians were upset to the point of repenting. (See: [[rc://*/tw/dict/bible/kt/repent]])
+The words “sad” and “sorrow” in this chapter indicate that the Corinthians were upset to the point of repenting. (See: [[../bible/kt/repent]])
 
 ## Other possible translation difficulties in this chapter
 

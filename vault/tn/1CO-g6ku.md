@@ -6,7 +6,7 @@ Some translations set quotations from the Old Testament farther to the right on 
 ## Special concepts in this chapter
 
 ### Fleshly people
-The Corinthian believers were immature because of their unrighteous actions. He calls them “fleshly,” meaning acting as nonbelievers. This term is used in opposition to those who are “spiritual.” Christians following their “flesh” are acting foolishly. They are following the wisdom of the world. (See: [[rc://*/tw/dict/bible/kt/righteous]], [[rc://*/tw/dict/bible/kt/flesh]], [[rc://*/tw/dict/bible/kt/spirit]] and [[rc://*/tw/dict/bible/kt/foolish]] and [[rc://*/tw/dict/bible/kt/wise]])
+The Corinthian believers were immature because of their unrighteous actions. He calls them “fleshly,” meaning acting as nonbelievers. This term is used in opposition to those who are “spiritual.” Christians following their “flesh” are acting foolishly. They are following the wisdom of the world. (See: [[../bible/kt/righteous]], [[../bible/kt/flesh]], [[../bible/kt/spirit]] and [[../bible/kt/foolish]] and [[../bible/kt/wise]])
 
 ## Important figures of speech in this chapter
 

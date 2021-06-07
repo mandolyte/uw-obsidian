@@ -6,9 +6,9 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Hosea’s marriage
-God does not approve of prostitution, but he told Hosea to marry a prostitute so that the message of Israel’s unfaithfulness would be shown to the people. (See: [[rc://*/tw/dict/bible/kt/faithful]])
+God does not approve of prostitution, but he told Hosea to marry a prostitute so that the message of Israel’s unfaithfulness would be shown to the people. (See: [[../bible/kt/faithful]])
 
-Hosea’s marriage to Gomer is a metaphor for the kingdom of Israel’s relationship to Yahweh. Israel was unfaithful to Yahweh and broke the covenant with him. Gomer was a woman who was unfaithful to her husband broke her marriage agreement with him. (See: [[figs-metaphor]] and [[rc://*/tw/dict/bible/kt/covenant]])
+Hosea’s marriage to Gomer is a metaphor for the kingdom of Israel’s relationship to Yahweh. Israel was unfaithful to Yahweh and broke the covenant with him. Gomer was a woman who was unfaithful to her husband broke her marriage agreement with him. (See: [[figs-metaphor]] and [[../bible/kt/covenant]])
 
 ## Important figures of speech in this chapter
 

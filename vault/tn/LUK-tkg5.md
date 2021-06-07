@@ -10,7 +10,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Justice
-John’s instructions to the soldiers and tax collectors in Luke 3:12–15 are things that a person who wanted to live rightly would find reasonable and willingly do. (See: [[rc://*/tw/dict/bible/kt/justice]] and Luke [3:12-15](./12.md))
+John’s instructions to the soldiers and tax collectors in Luke 3:12–15 are things that a person who wanted to live rightly would find reasonable and willingly do. (See: [[../bible/kt/justice]] and Luke [3:12-15](./12.md))
 
 ### Genealogy
 A genealogy is a list that records a person’s ancestors or descendants. Such lists were very important in determining who had the right be king, because the king’s authority was usually passed down or inherited from his father. It was also common for other important people to have a recorded genealogy.
@@ -19,7 +19,7 @@ A genealogy is a list that records a person’s ancestors or descendants. Such l
 
 ### Metaphor
 
-Prophecy often involves the use of metaphors to express its meaning. Spiritual discernment is needed for proper interpretation of the prophecy. The prophecy that Luke quotes in 3:4–6 from Isaiah 40:3–5 is an extended metaphor that describes the ministry of John the Baptist. See the individual notes to 3:4–6 for recommendations about how to translate this passage. (See: [[rc://*/tw/dict/bible/kt/prophet]] and [[figs-metaphor]])
+Prophecy often involves the use of metaphors to express its meaning. Spiritual discernment is needed for proper interpretation of the prophecy. The prophecy that Luke quotes in 3:4–6 from Isaiah 40:3–5 is an extended metaphor that describes the ministry of John the Baptist. See the individual notes to 3:4–6 for recommendations about how to translate this passage. (See: [[../bible/kt/prophet]] and [[figs-metaphor]])
 
 ## Other possible translation difficulties in this chapter
 

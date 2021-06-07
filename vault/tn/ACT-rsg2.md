@@ -3,11 +3,11 @@
 
 ### “The message of his grace”
 
-The message of Jesus is the message that God will show grace to those who believe in Jesus. (See: [[rc://*/tw/dict/bible/kt/grace]] and [[rc://*/tw/dict/bible/kt/believe]])
+The message of Jesus is the message that God will show grace to those who believe in Jesus. (See: [[../bible/kt/grace]] and [[../bible/kt/believe]])
 
 ### Zeus and Hermes
 
-The Gentiles in the Roman Empire worshiped many different false gods who do not really exist. Paul and Barnabas told them to believe in the “living God.” (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+The Gentiles in the Roman Empire worshiped many different false gods who do not really exist. Paul and Barnabas told them to believe in the “living God.” (See: [[../bible/kt/falsegod]])
 
 ## Other possible translation difficulties in this chapter
 

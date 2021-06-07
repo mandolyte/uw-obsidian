@@ -3,4 +3,4 @@
 
 ### King Manasseh
 
-Manasseh angered God more than any other king of Judah. He worshiped the sun, stars and many foreign gods and even sacrificed his sons to the sun. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+Manasseh angered God more than any other king of Judah. He worshiped the sun, stars and many foreign gods and even sacrificed his sons to the sun. (See: [[../bible/kt/falsegod]])

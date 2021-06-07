@@ -1,7 +1,7 @@
 # 2 Kings 04 General Notes
 ## Structure and formatting
 
-The story of Elisha continues with a group of stories about the miracles Elisha did. (See: [2 Kings 4-6](./01.md) and [[rc://*/tw/dict/bible/kt/miracle]])
+The story of Elisha continues with a group of stories about the miracles Elisha did. (See: [2 Kings 4-6](./01.md) and [[../bible/kt/miracle]])
 
 ## Special concepts in this chapter
 

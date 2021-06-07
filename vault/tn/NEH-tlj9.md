@@ -3,7 +3,7 @@
 ## Special concepts in this chapter
 
 ### Dedication
-The people were so dedicated to rebuilding the walls that they worked with their weapons ready for battle right next to them. Even when they were threatened with an attack, they continued to trust in Yahweh. (See: [[rc://*/tw/dict/bible/kt/trust]])
+The people were so dedicated to rebuilding the walls that they worked with their weapons ready for battle right next to them. Even when they were threatened with an attack, they continued to trust in Yahweh. (See: [[../bible/kt/trust]])
 
 ## Important figures of speech in this chapter
 

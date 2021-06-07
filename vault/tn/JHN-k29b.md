@@ -7,15 +7,15 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### “The Word”
 
-John uses the phrase “the Word” to refer to Jesus ([John 1:1, 14](./01.md)). John is saying that God’s most important message to all people is actually Jesus, a person with a physical body. (See: [[rc://*/tw/dict/bible/kt/wordofgod]])
+John uses the phrase “the Word” to refer to Jesus ([John 1:1, 14](./01.md)). John is saying that God’s most important message to all people is actually Jesus, a person with a physical body. (See: [[../bible/kt/wordofgod]])
 
 ### Light and darkness
 
-The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. (See: [[rc://*/tw/dict/bible/kt/righteous]])
+The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. (See: [[../bible/kt/righteous]])
 
 ### “Children of God”
 
-When people believes in Jesus, they go from being “children of wrath” to “children of God.” They are adopted into the “family of God.”They are adopted into the “family of God.” This is an important image that will be unfolded in the New Testament. (See: [[rc://*/tw/dict/bible/kt/believe]] and [[rc://*/tw/dict/bible/kt/adoption]])
+When people believes in Jesus, they go from being “children of wrath” to “children of God.” They are adopted into the “family of God.”They are adopted into the “family of God.” This is an important image that will be unfolded in the New Testament. (See: [[../bible/kt/believe]] and [[../bible/kt/adoption]])
 
 ## Important figures of speech in this chapter
 
@@ -31,4 +31,4 @@ Some languages and cultures speak of the world as if it has always existed, as i
 
 ### “Son of Man”
 
-Jesus refers to himself as the “Son of Man” in this chapter ([John 1:51](../../jhn/01/51.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://*/tw/dict/bible/kt/sonofman]] and [[figs-123person]])
+Jesus refers to himself as the “Son of Man” in this chapter ([John 1:51](../../jhn/01/51.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[../bible/kt/sonofman]] and [[figs-123person]])

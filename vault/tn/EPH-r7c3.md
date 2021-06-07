@@ -7,4 +7,4 @@ Paul does not write in this chapter about whether slavery is good or bad. Paul t
 ## Important figures of speech in this chapter
 
 ### Armor of God
-This extended metaphor describes how Christians can protect themselves when spiritually attacked. (See: [[rc://*/tw/dict/bible/kt/spirit]] and [[figs-metaphor]])
+This extended metaphor describes how Christians can protect themselves when spiritually attacked. (See: [[../bible/kt/spirit]] and [[figs-metaphor]])

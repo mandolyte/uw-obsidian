@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### The “traditions of the elders”
 
-The “traditions of the elders” were oral laws that the Jewish religious leaders developed because they wanted to make sure that everyone obeyed the law of Moses. However, they often worked harder to obey these rules than to obey the law of Moses itself. Jesus rebuked the religious leaders for this, and they became angry as a result. (See: [[rc://*/tw/dict/bible/kt/lawofmoses]])
+The “traditions of the elders” were oral laws that the Jewish religious leaders developed because they wanted to make sure that everyone obeyed the law of Moses. However, they often worked harder to obey these rules than to obey the law of Moses itself. Jesus rebuked the religious leaders for this, and they became angry as a result. (See: [[../bible/kt/lawofmoses]])
 
 ### Jews and Gentiles
 

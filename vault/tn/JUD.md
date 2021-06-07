@@ -3,12 +3,10 @@
 See [[JUD-xh5n]]
 # 1:1
 ## ek3q
-rc://*/ta/man/translate/figs-you
 See [[JUD-ek3q]]
 ## npc3
-rc://*/ta/man/translate/translate-names
 ### Ἰούδας, Ἰησοῦ Χριστοῦ δοῦλος (1)
-Jude is the brother of James. Alternate translation: “I am Jude, a servant of” (See: [[rc://*/ta/man/translate/translate-names]])
+Jude is the brother of James. Alternate translation: “I am Jude, a servant of” (See: [[translate-names]])
 
 ## m3v1
 ### ἀδελφὸς & Ἰακώβου (1)
@@ -16,13 +14,11 @@ James and Jude were half brothers of Jesus.
 
 # 1:2
 ## r5ae
-rc://*/ta/man/translate/figs-abstractnouns
 ### ἔλεος ὑμῖν, καὶ εἰρήνη, καὶ ἀγάπη πληθυνθείη (1)
-“may mercy, peace, and love be increased many times for you.” These ideas are spoken of as if they were objects that could grow in size or number. This can be restate to remove the abstract nouns “mercy,” “peace,” and “love.” Alternate translation: “May God continue to be merciful to you so that you live peacefully and love one another more and more (See: [[rc://*/ta/man/translate/figs-abstractnouns]])
+“may mercy, peace, and love be increased many times for you.” These ideas are spoken of as if they were objects that could grow in size or number. This can be restate to remove the abstract nouns “mercy,” “peace,” and “love.” Alternate translation: “May God continue to be merciful to you so that you live peacefully and love one another more and more (See: [[figs-abstractnouns]])
 
 # 1:3
 ## kjk6
-rc://*/ta/man/translate/figs-exclusive
 See [[JUD-kjk6]]
 ## yfa8
 See [[JUD-yfa8]]
@@ -48,14 +44,12 @@ See [[JUD-yfa8]]
 “For some men have come in among the believers without drawing attention to themselves”
 
 ## wwz3
-rc://*/ta/man/translate/figs-activepassive
 ### οἱ & προγεγραμμένοι εἰς & τὸ κρίμα (1)
-This can also be put into the active voice. Alternate translation: “men whom God chose to condemn” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can also be put into the active voice. Alternate translation: “men whom God chose to condemn” (See: [[figs-activepassive]])
 
 ## c642
-rc://*/ta/man/translate/figs-metaphor
 ### τὴν τοῦ Θεοῦ ἡμῶν χάριτα μετατιθέντες εἰς ἀσέλγειαν (1)
-God’s grace is spoken of as if it were a thing that could be changed into something horrible. Alternate translation: “who teach that God’s grace permits one to continue to live in sexual sin” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+God’s grace is spoken of as if it were a thing that could be changed into something horrible. Alternate translation: “who teach that God’s grace permits one to continue to live in sexual sin” (See: [[figs-metaphor]])
 
 ## ws1b
 ### τὸν μόνον Δεσπότην καὶ Κύριον ἡμῶν, Ἰησοῦν Χριστὸν, ἀρνούμενοι (1)
@@ -78,9 +72,8 @@ See [[JUD-fa5e]]
 “God has put these angels in a dark prison from which they will never escape”
 
 ## s1j9
-rc://*/ta/man/translate/figs-metonymy
 ### ζόφον (1)
-Here “darkness” is a metonym which represents the place of the dead or hell. Alternate translation: “in utter darkness in hell” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “darkness” is a metonym which represents the place of the dead or hell. Alternate translation: “in utter darkness in hell” (See: [[figs-metonymy]])
 
 ## ccz6
 ### μεγάλης ἡμέρας (1)
@@ -88,9 +81,8 @@ the final day when God will judge everyone
 
 # 1:7
 ## yn36
-rc://*/ta/man/translate/figs-metonymy
 ### αἱ περὶ αὐτὰς πόλεις (1)
-Here “cities” stands for the people who lived in them. (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “cities” stands for the people who lived in them. (See: [[figs-metonymy]])
 
 ## r3e9
 ### τὸν ὅμοιον τρόπον τούτοις ἐκπορνεύσασαι (1)
@@ -106,9 +98,8 @@ The destruction of the people of Sodom and Gomorrah became an example of the fat
 the people who disobey God, probably because they claimed to see visions that gave them authority to do so
 
 ## ez4l
-rc://*/ta/man/translate/figs-metaphor
 ### σάρκα μὲν μιαίνουσιν (1)
-This metaphor says that their sin makes their bodies—that is, their actions—unacceptable the way garbage in a stream makes the water undrinkable. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This metaphor says that their sin makes their bodies—that is, their actions—unacceptable the way garbage in a stream makes the water undrinkable. (See: [[figs-metaphor]])
 
 ## e73k
 ### βλασφημοῦσιν (1)
@@ -144,9 +135,8 @@ the ungodly people
 
 # 1:11
 ## j3g9
-rc://*/ta/man/translate/figs-metaphor
 ### τῇ ὁδῷ τοῦ Κάϊν ἐπορεύθησαν (1)
-“Walked in the way” here is a metaphor for “lived in the same way as.” Alternate translation: “lived the same way Cain lived” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+“Walked in the way” here is a metaphor for “lived in the same way as.” Alternate translation: “lived the same way Cain lived” (See: [[figs-metaphor]])
 
 # 1:12
 ## s4az
@@ -156,40 +146,33 @@ See [[JUD-s4az]]
 The word “These” refers to the “ungodly men” of [Jude 1:4](../01/04.md).
 
 ## e25d
-rc://*/ta/man/translate/figs-metaphor
 ### σπιλάδες (1)
-Reefs are large rocks that are very close to the surface of water in the sea. Because sailors cannot see them, they are very dangerous. Ships can easily be destroyed if they hit these rocks. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Reefs are large rocks that are very close to the surface of water in the sea. Because sailors cannot see them, they are very dangerous. Ships can easily be destroyed if they hit these rocks. (See: [[figs-metaphor]])
 
 ## zk57
-rc://*/ta/man/translate/figs-metaphor
 ### δὶς ἀποθανόντα ἐκριζωθέντα (1)
-A tree that someone has uprooted is a metaphor for death. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+A tree that someone has uprooted is a metaphor for death. (See: [[figs-metaphor]])
 
 ## t28p
-rc://*/ta/man/translate/figs-metaphor
 ### ἐκριζωθέντα (1)
-Like trees that have been completely pulled out of the ground by their roots, the ungodly people have been separated from God, who is the source of life. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Like trees that have been completely pulled out of the ground by their roots, the ungodly people have been separated from God, who is the source of life. (See: [[figs-metaphor]])
 
 # 1:13
 ## e4rm
-rc://*/ta/man/translate/figs-metaphor
 ### κύματα ἄγρια θαλάσσης (1)
-As the sea’s waves are blown by a strong wind, so the ungodly people are easily moved in many directions. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+As the sea’s waves are blown by a strong wind, so the ungodly people are easily moved in many directions. (See: [[figs-metaphor]])
 
 ## fgr9
-rc://*/ta/man/translate/figs-metaphor
 ### ἐπαφρίζοντα τὰς ἑαυτῶν αἰσχύνας (1)
-As wind causes wild waves to stir up dirty foam—so these men, through their false teaching and actions, shame themselves. Alternate translation: “and just as waves bring up foam and dirt, these men pollute others with their shame” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+As wind causes wild waves to stir up dirty foam—so these men, through their false teaching and actions, shame themselves. Alternate translation: “and just as waves bring up foam and dirt, these men pollute others with their shame” (See: [[figs-metaphor]])
 
 ## r6rj
-rc://*/ta/man/translate/figs-metaphor
 ### ἀστέρες πλανῆται (1)
-Those who studied the stars in ancient times noticed that what we call planets do not move the way that stars do. Alternate translation: “They are like moving stars” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Those who studied the stars in ancient times noticed that what we call planets do not move the way that stars do. Alternate translation: “They are like moving stars” (See: [[figs-metaphor]])
 
 ## djm4
-rc://*/ta/man/translate/figs-metonymy
 ### οἷς ὁ ζόφος τοῦ σκότους εἰς αἰῶνα τετήρηται (1)
-Here “darkness” is a metonym that represents the place of the dead or hell. Here “thick darkness” is an idiom that means “very dark.” The phrase “has been reserved” can be stated in active form. Alternate translation: “and God will put them in the gloom and darkness of hell forever” (See: [[rc://*/ta/man/translate/figs-metonymy]] and [[rc://*/ta/man/translate/figs-idiom]] and [[rc://*/ta/man/translate/figs-activepassive]])
+Here “darkness” is a metonym that represents the place of the dead or hell. Here “thick darkness” is an idiom that means “very dark.” The phrase “has been reserved” can be stated in active form. Alternate translation: “and God will put them in the gloom and darkness of hell forever” (See: [[figs-metonymy]] and [[figs-idiom]] and [[figs-activepassive]])
 
 # 1:14
 ## e5wv
@@ -220,14 +203,12 @@ People who praise themselves so that others can hear.
 
 # 1:18
 ## w1mx
-rc://*/ta/man/translate/figs-metaphor
 ### κατὰ τὰς ἑαυτῶν ἐπιθυμίας πορευόμενοι τῶν ἀσεβειῶν (1)
-These people are spoken of as if their desires were kings who ruled over them. Alternate translation: “are never able to stop dishonoring God by doing the evil things they wish to do” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+These people are spoken of as if their desires were kings who ruled over them. Alternate translation: “are never able to stop dishonoring God by doing the evil things they wish to do” (See: [[figs-metaphor]])
 
 ## j5m4
-rc://*/ta/man/translate/figs-metaphor
 ### κατὰ τὰς ἑαυτῶν ἐπιθυμίας πορευόμενοι τῶν ἀσεβειῶν (1)
-Ungodly desires are spoken of as if they were a path that a person will follow. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Ungodly desires are spoken of as if they were a path that a person will follow. (See: [[figs-metaphor]])
 
 # 1:19
 ## r28j
@@ -235,9 +216,8 @@ Ungodly desires are spoken of as if they were a path that a person will follow. 
 “It is these mockers” or “These mockers are the ones”
 
 ## ba6u
-rc://*/ta/man/translate/figs-metaphor
 ### ψυχικοί (1)
-think as other ungodly people think, they value the things that unbelievers value (See: [[rc://*/ta/man/translate/figs-metaphor]])
+think as other ungodly people think, they value the things that unbelievers value (See: [[figs-metaphor]])
 
 ## qn4p
 ### Πνεῦμα μὴ ἔχοντες (1)
@@ -251,24 +231,21 @@ See [[JUD-e3ga]]
 “Do not be like them, beloved. Instead”
 
 ## cc68
-rc://*/ta/man/translate/figs-metaphor
 ### ἐποικοδομοῦντες ἑαυτοὺς (1)
-Becoming increasingly able to trust in God and obey him is spoken of as if it were the process of constructing a building. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Becoming increasingly able to trust in God and obey him is spoken of as if it were the process of constructing a building. (See: [[figs-metaphor]])
 
 # 1:21
 ## zd2c
-rc://*/ta/man/translate/figs-metaphor
 ### ἑαυτοὺς ἐν ἀγάπῃ Θεοῦ τηρήσατε (1)
-Remaining able to receive God’s love is spoken of as if one were keeping oneself in a certain place. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Remaining able to receive God’s love is spoken of as if one were keeping oneself in a certain place. (See: [[figs-metaphor]])
 
 ## s6w6
 ### προσδεχόμενοι (1)
 “eagerly look forward to”
 
 ## p3bw
-rc://*/ta/man/translate/figs-metonymy
 ### τὸ ἔλεος τοῦ Κυρίου ἡμῶν, Ἰησοῦ Χριστοῦ, εἰς ζωὴν αἰώνιον (1)
-Here “mercy” stands for Jesus Christ himself, who will show his mercy to the believers by making them live forever with him. (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “mercy” stands for Jesus Christ himself, who will show his mercy to the believers by making them live forever with him. (See: [[figs-metonymy]])
 
 # 1:22
 ## wbr5
@@ -277,31 +254,27 @@ Here “mercy” stands for Jesus Christ himself, who will show his mercy to the
 
 # 1:23
 ## wkj9
-rc://*/ta/man/translate/figs-metaphor
 ### ἐκ πυρὸς ἁρπάζοντες (1)
-The picture is that of pulling people from a fire before they start to burn. Alternate translation: “doing for them whatever needs to be done to keep them from dying without Christ. This is like pulling them from the fire” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The picture is that of pulling people from a fire before they start to burn. Alternate translation: “doing for them whatever needs to be done to keep them from dying without Christ. This is like pulling them from the fire” (See: [[figs-metaphor]])
 
 ## ign7
 ### οὓς & ἐλεᾶτε ἐν φόβῳ (1)
 “Be kind to others, but be afraid of sinning the way they did”
 
 ## u4px
-rc://*/ta/man/translate/figs-hyperbole
 ### μισοῦντες καὶ τὸν ἀπὸ τῆς σαρκὸς ἐσπιλωμένον χιτῶνα (1)
-Jude exaggerates to warn his readers that they can become like those sinners. Alternate translation: “Treat them as though you could become guilty of sin just by touching their clothes” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+Jude exaggerates to warn his readers that they can become like those sinners. Alternate translation: “Treat them as though you could become guilty of sin just by touching their clothes” (See: [[figs-hyperbole]])
 
 # 1:24
 ## r3jx
 See [[JUD-r3jx]]
 ## w1dc
-rc://*/ta/man/translate/figs-metaphor
 ### στῆσαι κατενώπιον τῆς δόξης αὐτοῦ (1)
-His glory is brilliant light that represents his greatness. Alternate translation: “and to allow you to enjoy and worship his glory” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+His glory is brilliant light that represents his greatness. Alternate translation: “and to allow you to enjoy and worship his glory” (See: [[figs-metaphor]])
 
 ## gq9e
-rc://*/ta/man/translate/figs-metaphor
 ### τῆς δόξης αὐτοῦ ἀμώμους ἐν (1)
-Here sin is spoken of as if it were dirt on one’s body or a flaw on one’s body. Alternate translation: “glorious presence, where you will be without sin and have” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here sin is spoken of as if it were dirt on one’s body or a flaw on one’s body. Alternate translation: “glorious presence, where you will be without sin and have” (See: [[figs-metaphor]])
 
 # 1:25
 ## a3ua

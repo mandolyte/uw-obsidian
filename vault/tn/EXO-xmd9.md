@@ -2,7 +2,7 @@
 ## Special concepts in this chapter
 
 ### Consecrating priests
-This chapter records the process of consecrating priests. The priests were to be set apart from the rest of Israel because Yahweh is holy. (See: [[rc://*/tw/dict/bible/kt/consecrate]] and [[rc://*/tw/dict/bible/kt/priest]] and [[rc://*/tw/dict/bible/kt/holy]])
+This chapter records the process of consecrating priests. The priests were to be set apart from the rest of Israel because Yahweh is holy. (See: [[../bible/kt/consecrate]] and [[../bible/kt/priest]] and [[../bible/kt/holy]])
 
 ## Other possible translation difficulties in this chapter
 

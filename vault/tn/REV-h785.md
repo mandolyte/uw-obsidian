@@ -9,7 +9,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Songs
 
-The Book of Revelation often describes heaven as a place where people sing. They worship God with songs. This illustrates that heaven is a place where God is always worshiped. (See: [[rc://*/tw/dict/bible/kt/heaven]])
+The Book of Revelation often describes heaven as a place where people sing. They worship God with songs. This illustrates that heaven is a place where God is always worshiped. (See: [[../bible/kt/heaven]])
 
 ### Wedding celebration
 

@@ -6,10 +6,10 @@ Peter formally introduces this letter in verses 1-2. Writers often began letters
 ## Special concepts in this chapter
 
 ### Knowledge of God
-Having knowledge of God means to belong to him or to have a relationship with him. Here, “knowledge” is more than just mentally knowing about God. It is a knowledge that causes God to save a person and to give him grace and peace. (See: [[rc://*/tw/dict/bible/other/know]])
+Having knowledge of God means to belong to him or to have a relationship with him. Here, “knowledge” is more than just mentally knowing about God. It is a knowledge that causes God to save a person and to give him grace and peace. (See: [[../bible/other/know]])
 
 ### Living godly lives
-Peter teaches that God has given believers all that they need for living godly lives. Therefore, believers should do everything they can to obey God more and more. If believers continue to do this, then they will be effective and productive through their relationship with Jesus. However, if believers do not continue living godly lives, then it is like they have forgotten what God did through Christ to save them. (See: [[rc://*/tw/dict/bible/kt/godly]] and [[rc://*/tw/dict/bible/kt/save]])
+Peter teaches that God has given believers all that they need for living godly lives. Therefore, believers should do everything they can to obey God more and more. If believers continue to do this, then they will be effective and productive through their relationship with Jesus. However, if believers do not continue living godly lives, then it is like they have forgotten what God did through Christ to save them. (See: [[../bible/kt/godly]] and [[../bible/kt/save]])
 
 ## Other possible translation difficulties in this chapter
 

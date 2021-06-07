@@ -1,7 +1,7 @@
 # Psalm 090 General Notes
 ## Type of psalm
 
-Psalm is a wisdom psalm. God is eternal but a human’s life is short. (See: [[rc://*/tw/dict/bible/kt/wise]] and [[rc://*/tw/dict/bible/kt/eternity]])
+Psalm is a wisdom psalm. God is eternal but a human’s life is short. (See: [[../bible/kt/wise]] and [[../bible/kt/eternity]])
 
 ## Special concepts in this chapter
 

@@ -6,13 +6,13 @@
 2. Jesus chooses twelve apostles (6:12–16)
 3. Jesus teaches about being his disciple (6:17–49)
 
-The long teaching in Luke 6:20-49 begins with blessings and woes that are similar to the beginning of the long teaching in Matthew 5-7. That part of Matthew has traditionally been called the “Sermon on the Mount.” The teaching here in Luke has many other similarities with the one in Matthew’s gospel. (See: [[rc://*/tw/dict/bible/kt/kingdomofgod]])
+The long teaching in Luke 6:20-49 begins with blessings and woes that are similar to the beginning of the long teaching in Matthew 5-7. That part of Matthew has traditionally been called the “Sermon on the Mount.” The teaching here in Luke has many other similarities with the one in Matthew’s gospel. (See: [[../bible/kt/kingdomofgod]])
 
 ## Special concepts in this chapter
 
 ### “Eating the grain”
 
-When the disciples plucked and ate the grain in a field they were walking through on the Sabbath (Luke 6:1), the Pharisees said that they were breaking the law of Moses. The Pharisees said this because they thought that the disciples were doing work by picking the grain, and so they were disobeying God’s command to rest and not work on the Sabbath. The Pharisees did not think the disciples were stealing. That is because the law of Moses told farmers to allow travelers to pluck and eat small amounts of grain from plants in fields that they traveled through or near. (See: [[rc://*/tw/dict/bible/kt/lawofmoses]] and [[rc://*/tw/dict/bible/kt/works]] and [[rc://*/tw/dict/bible/kt/sabbath]])
+When the disciples plucked and ate the grain in a field they were walking through on the Sabbath (Luke 6:1), the Pharisees said that they were breaking the law of Moses. The Pharisees said this because they thought that the disciples were doing work by picking the grain, and so they were disobeying God’s command to rest and not work on the Sabbath. The Pharisees did not think the disciples were stealing. That is because the law of Moses told farmers to allow travelers to pluck and eat small amounts of grain from plants in fields that they traveled through or near. (See: [[../bible/kt/lawofmoses]] and [[../bible/kt/works]] and [[../bible/kt/sabbath]])
 
 ## Other possible translation difficulties in this chapter
 

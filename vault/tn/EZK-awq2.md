@@ -3,7 +3,7 @@
 
 ### Breaking allegiance
 
-The king of Judah had vowed to obey Babylon but instead he followed Egypt. Therefore, God said he would not prosper. (See: [[rc://*/tw/dict/bible/kt/vow]])
+The king of Judah had vowed to obey Babylon but instead he followed Egypt. Therefore, God said he would not prosper. (See: [[../bible/kt/vow]])
 
 ## Important figures of speech in this chapter
 

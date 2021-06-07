@@ -17,7 +17,7 @@ It is uncertain when Paul wrote this letter and where he was when he wrote it. S
 
 ### What is the Book of Galatians about?
 
-Paul wrote this letter to both Jewish and non-Jewish Christians in the region of Galatia. He wanted to write against the false teachers who said that Christians need to follow the law of Moses. Paul defended the gospel by explaining that a person is saved by believing in Jesus Christ. People are saved as result of God being kind and not as a result of people doing good works. No person can perfectly obey the law. Any attempt to please God by obeying the law of Moses will only result in God condemning them. (See: [[rc://*/tw/dict/bible/kt/goodnews]], [[rc://*/tw/dict/bible/kt/save]], [[rc://*/tw/dict/bible/kt/faith]] and [[rc://*/tw/dict/bible/kt/lawofmoses]] and [[rc://*/tw/dict/bible/kt/works]])
+Paul wrote this letter to both Jewish and non-Jewish Christians in the region of Galatia. He wanted to write against the false teachers who said that Christians need to follow the law of Moses. Paul defended the gospel by explaining that a person is saved by believing in Jesus Christ. People are saved as result of God being kind and not as a result of people doing good works. No person can perfectly obey the law. Any attempt to please God by obeying the law of Moses will only result in God condemning them. (See: [[../bible/kt/goodnews]], [[../bible/kt/save]], [[../bible/kt/faith]] and [[../bible/kt/lawofmoses]] and [[../bible/kt/works]])
 
 ### How should the title of this book be translated?
 
@@ -33,7 +33,7 @@ To “live like Jews” means to obey the law of Moses, even though one trusts i
 
 ### How did Paul use the terms “law” and “grace” in the Book of Galatians?
 
-These terms are used in a unique way in Galatians. There is an important teaching in Galatians about Christian living. Under the law of Moses, righteous or holy living required a person to obey a set of rules and regulations. As Christians, holy living is now motivated by grace. This means that Christians have freedom in Christ and are not required to obey a specific set of rules. Instead, Christians are to live a holy life because they are thankful that God has been so kind to them. This is called “the law of Christ.” (See: [[rc://*/tw/dict/bible/kt/righteous]] and [[rc://*/tw/dict/bible/kt/holy]])
+These terms are used in a unique way in Galatians. There is an important teaching in Galatians about Christian living. Under the law of Moses, righteous or holy living required a person to obey a set of rules and regulations. As Christians, holy living is now motivated by grace. This means that Christians have freedom in Christ and are not required to obey a specific set of rules. Instead, Christians are to live a holy life because they are thankful that God has been so kind to them. This is called “the law of Christ.” (See: [[../bible/kt/righteous]] and [[../bible/kt/holy]])
 
 ### What did Paul mean by the expression “in Christ,” “in the Lord,” etc.?
 

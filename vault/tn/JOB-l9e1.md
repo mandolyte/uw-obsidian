@@ -11,4 +11,4 @@ Yahweh is far greater than any man. He is the creator of the earth, and his ways
 ## Important figures of speech in this chapter
 
 ### Rhetorical questions
-Yahweh uses a series of rhetorical questions in this chapter in order to defend his character. Many of these questions focus on nature because Yahweh is the creator of the heavens and the earth. (See: [[figs-rquestion]] and [[rc://*/tw/dict/bible/kt/heaven]])
+Yahweh uses a series of rhetorical questions in this chapter in order to defend his character. Many of these questions focus on nature because Yahweh is the creator of the heavens and the earth. (See: [[figs-rquestion]] and [[../bible/kt/heaven]])

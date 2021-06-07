@@ -13,7 +13,7 @@
 
 ### What is the Book of Joshua about?
 
-The Book of Joshua is about the Israelites entering and occupying the Promised Land. Joshua was the leader that replaced Moses. He led the Israelites as they fought the people living in the Promised Land. This book also tells how the Israelites divided the land among the twelve tribes. (See: [[rc://*/tw/dict/bible/kt/promisedland]])
+The Book of Joshua is about the Israelites entering and occupying the Promised Land. Joshua was the leader that replaced Moses. He led the Israelites as they fought the people living in the Promised Land. This book also tells how the Israelites divided the land among the twelve tribes. (See: [[../bible/kt/promisedland]])
 
 ### How should the title of this book be translated?
 

@@ -2,7 +2,7 @@
 ## Special concepts in this chapter
 
 ### Miracles
-When Yahweh had Moses perform miracles, Pharaoh’s men were able to copy these miracles. It is unknown how they were able to do this, but since it was not from Yahweh, they were probably done under some evil power. (See: [[rc://*/tw/dict/bible/kt/miracle]] and [[rc://*/tw/dict/bible/kt/evil]])
+When Yahweh had Moses perform miracles, Pharaoh’s men were able to copy these miracles. It is unknown how they were able to do this, but since it was not from Yahweh, they were probably done under some evil power. (See: [[../bible/kt/miracle]] and [[../bible/kt/evil]])
 
 ### Pharaoh’s hard heart
 Pharaoh’s heart is often described as hard, strong, or heavy in this chapter. This means that his heart was not open or willing to understand Yahweh’s instructions. 

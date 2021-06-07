@@ -14,4 +14,4 @@ v. 17-22: Some details of the exodus
 ## Other possible translation difficulties in this chapter
 * There a a number of names of people groups and places in this chapter. However, many have been translated in earlier passages.
 * Transporting the bones of Joseph may be an unknown concept in some places.
-* It may take some time to decide on a good translation for the pillars of fire and cloud that leads the Israelites.
+* It may take some time to decide on a good translation for the pillar of fire and cloud that leads the Israelites.

@@ -7,7 +7,7 @@ The story of the Ark of the Covenant in Philistia continues.
 
 ### The Ark in the Philistine Cities
 
-The Philistines took the Ark of God to Ashdod and put it in their idol temple, but their idol fell down in front of the Ark and the people got sick with bubonic plague. They took it to Gath next, and the people of Gath began dying of the plague. When they took the Ark to Ekron, the people of Ekron were afraid of it too and did not want it there. Finally they decided to send it back to Israel. (See: [[rc://*/tw/dict/bible/kt/temple]])
+The Philistines took the Ark of God to Ashdod and put it in their idol temple, but their idol fell down in front of the Ark and the people got sick with bubonic plague. They took it to Gath next, and the people of Gath began dying of the plague. When they took the Ark to Ekron, the people of Ekron were afraid of it too and did not want it there. Finally they decided to send it back to Israel. (See: [[../bible/kt/temple]])
 
 ## Important figures of speech in this chapter
 

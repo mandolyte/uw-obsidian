@@ -6,4 +6,4 @@ Psalm 136 is a worship psalm. It was written to be sung by two parts of the choi
 ## Special concepts in this chapter
 
 ### Israel blessed
-God has blessed Israel throughout its history and taken care of the needy people. (See: [[rc://*/tw/dict/bible/kt/bless]])
+God has blessed Israel throughout its history and taken care of the needy people. (See: [[../bible/kt/bless]])

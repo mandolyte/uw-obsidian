@@ -6,4 +6,4 @@ This chapter begins the story of Hezekiah, one of the great kings of Judah (2 Ki
 ## Special concepts in this chapter
 
 ### Trust in Yahweh
-Hezekiah trusted and obeyed God. He stopped paying tribute to Assyria so the Assyrians invaded Judah. The Assyrian king told the people of Judah that resistance was useless. Despite this, Hezekiah trusted in the power of Yahweh. (See: [[rc://*/tw/dict/bible/kt/trust]])
+Hezekiah trusted and obeyed God. He stopped paying tribute to Assyria so the Assyrians invaded Judah. The Assyrian king told the people of Judah that resistance was useless. Despite this, Hezekiah trusted in the power of Yahweh. (See: [[../bible/kt/trust]])

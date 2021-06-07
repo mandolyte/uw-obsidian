@@ -1,7 +1,7 @@
 # Exodus 12 General Notes
 ## Structure and formatting
 
-The events of this chapter are known as the Passover. They are remembered in the celebration of Passover. (See: [[rc://*/tw/dict/bible/kt/passover]])
+The events of this chapter are known as the Passover. They are remembered in the celebration of Passover. (See: [[../bible/kt/passover]])
 1. Instruction v. 1-28
    - v. 1-20: Yahweh gives instructions
      - v. 1-11: how to eat this Passover
@@ -15,10 +15,10 @@ The events of this chapter are known as the Passover. They are remembered in the
 ## Special concepts in this chapter
 
 ### Unleavened bread
-The concept of unleavened bread is introduced in this chapter. Its significance stems from its connection to the events in this chapter. (See: [[rc://*/tw/dict/bible/kt/unleavenedbread]])
+The concept of unleavened bread is introduced in this chapter. Its significance stems from its connection to the events in this chapter. (See: [[../bible/kt/unleavenedbread]])
 
 ### Ethnic segregation
-The Hebrew people were to be separate from the rest of the world. Because of this, they separated themselves from other people groups. At this time, these foreigners were looked upon as unholy. (See: [[rc://*/tw/dict/bible/kt/holy]])
+The Hebrew people were to be separate from the rest of the world. Because of this, they separated themselves from other people groups. At this time, these foreigners were looked upon as unholy. (See: [[../bible/kt/holy]])
 
 
 ## Potential translation issues:

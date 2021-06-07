@@ -39,7 +39,7 @@ In the Book of Leviticus, God continues to give laws through Moses to the people
 
 ### How should the title of this book be translated?
 
-“Leviticus” means “about the Levites.” The Levites were the tribe of Israel that provided priests and other workers in the tabernacle. If the people in the project language do not understand the term “Levites,” you can call it “The Book about the Priests” or “The Book about the Tabernacle Workers.” (See: [[rc://*/tw/dict/bible/kt/tabernacle]] and [[translate-names]])
+“Leviticus” means “about the Levites.” The Levites were the tribe of Israel that provided priests and other workers in the tabernacle. If the people in the project language do not understand the term “Levites,” you can call it “The Book about the Priests” or “The Book about the Tabernacle Workers.” (See: [[../bible/kt/tabernacle]] and [[translate-names]])
 
 ### Who wrote the book of Leviticus?
 
@@ -67,7 +67,7 @@ On seventeen occasions, the phrase “The Lord said to Moses” (and sometimes A
 
 ### Why did the Israelites need so many rules about sacrificing animals?
 
-Leviticus shows that God is holy. That means God is very different from humanity and the rest of the created world. God does not sin. Because of this, it is impossible to be acceptable to him without being “cleansed.” The many kinds of sacrifices were meant to make people and things acceptable to God. However, the people had to continue making animal sacrifices so that they would continue to be acceptable to God. This was a sign that pointed to a need for a better sacrifice. They needed a sacrifice that would cause them to be acceptable to God forever. (See: [[rc://*/tw/dict/bible/kt/holy]] and [[rc://*/tw/dict/bible/kt/sin]])
+Leviticus shows that God is holy. That means God is very different from humanity and the rest of the created world. God does not sin. Because of this, it is impossible to be acceptable to him without being “cleansed.” The many kinds of sacrifices were meant to make people and things acceptable to God. However, the people had to continue making animal sacrifices so that they would continue to be acceptable to God. This was a sign that pointed to a need for a better sacrifice. They needed a sacrifice that would cause them to be acceptable to God forever. (See: [[../bible/kt/holy]] and [[../bible/kt/sin]])
 
 ### Why was the priesthood important in the book of Leviticus?
 

@@ -2,7 +2,7 @@
 ## Special concepts in this chapter
 
 ### Jacob does not trust Yahweh
-Jacob does not trust in Yahweh. Instead, he fears that his brother Esau could kill him and his family. He should have known that Yahweh would continue to bless him and protect his family. He should have trusted in Yahweh’s covenant faithfulness. (See: [[rc://*/tw/dict/bible/kt/bless]] and [[rc://*/tw/dict/bible/kt/trust]] and [[rc://*/tw/dict/bible/kt/covenantfaith]])
+Jacob does not trust in Yahweh. Instead, he fears that his brother Esau could kill him and his family. He should have known that Yahweh would continue to bless him and protect his family. He should have trusted in Yahweh’s covenant faithfulness. (See: [[../bible/kt/bless]] and [[../bible/kt/trust]] and [[../bible/kt/covenantfaith]])
 
 ### Name change
 

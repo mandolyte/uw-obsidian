@@ -3,4 +3,4 @@
 
 ### The people want to kill Jeremiah
 
-The people wanted to kill Jeremiah but other people intervened and said that they should listen to Jeremiah and repent. They represent the remnant of the faithful Jews. (See: [[rc://*/tw/dict/bible/kt/repent]] and [[rc://*/tw/dict/bible/kt/remnant]] and [[rc://*/tw/dict/bible/kt/faithful]])
+The people wanted to kill Jeremiah but other people intervened and said that they should listen to Jeremiah and repent. They represent the remnant of the faithful Jews. (See: [[../bible/kt/repent]] and [[../bible/kt/remnant]] and [[../bible/kt/faithful]])

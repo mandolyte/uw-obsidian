@@ -1,7 +1,7 @@
 # Psalm 059 General Notes
 ## Type of psalm
 
-Psalm 59 is a deliverance psalm. (See: [[rc://*/tw/dict/bible/other/deliverer]])
+Psalm 59 is a deliverance psalm. (See: [[../bible/other/deliverer]])
 
 ## Special concepts in this chapter
 

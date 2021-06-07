@@ -3,7 +3,7 @@
 
 ### Favor
 
-This word is used in two different ways in this chapter. When the Jewish leaders asked Festus for a favor, they were asking him to do something special for them on that day. They wanted him to do for them something that he would not usually do. When Festus “wanted to gain the favor of the Jews,” he wanted them to like him and be willing to obey him in the months and years to come. (See: [[rc://*/tw/dict/bible/kt/favor]])
+This word is used in two different ways in this chapter. When the Jewish leaders asked Festus for a favor, they were asking him to do something special for them on that day. They wanted him to do for them something that he would not usually do. When Festus “wanted to gain the favor of the Jews,” he wanted them to like him and be willing to obey him in the months and years to come. (See: [[../bible/kt/favor]])
 
 ### Roman citizenship
 

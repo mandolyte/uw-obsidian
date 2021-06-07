@@ -42,11 +42,11 @@ Luke was a medical doctor. His way of writing shows that he was an educated man.
 
 ### Why does Luke write so much about the final week of Jesus’ life?
 
-Luke wrote much about Jesus’ final week. He wanted his readers to think deeply about Jesus’ final week and his death on the cross. He wanted people to understand that Jesus willingly died on the cross so that God could forgive them for sinning against him. (See: [[rc://*/tw/dict/bible/kt/sin]])
+Luke wrote much about Jesus’ final week. He wanted his readers to think deeply about Jesus’ final week and his death on the cross. He wanted people to understand that Jesus willingly died on the cross so that God could forgive them for sinning against him. (See: [[../bible/kt/sin]])
 
 ### What are the roles of women in the Gospel of Luke?
 
-Luke described women in a very positive way in his gospel. For example, he often showed women being more faithful to God than most men. (See: [[rc://*/tw/dict/bible/kt/faithful]])
+Luke described women in a very positive way in his gospel. For example, he often showed women being more faithful to God than most men. (See: [[../bible/kt/faithful]])
 
 ## Part 3: Important Translation Issues
 
@@ -60,7 +60,7 @@ Passages are considered “parallel” when they are the same or almost the same
 
 In the gospels, Jesus calls himself the “Son of Man.” This is a reference to Daniel [7:13–14](../dan/07/13.md). In that passage, there is a person who is described as like a “son of man.” That means that the person was someone who looked like a human being. God gave authority to this “son of man” to rule over the nations forever. All people will worship him forever.
 
-Jews of Jesus’ time did not use “Son of Man” as a title for anyone. But Jesus used it for himself to help them understand who he truly was. (See: [[rc://*/tw/dict/bible/kt/sonofman]])
+Jews of Jesus’ time did not use “Son of Man” as a title for anyone. But Jesus used it for himself to help them understand who he truly was. (See: [[../bible/kt/sonofman]])
 
 Translating the title “Son of Man” can be difficult in many languages. Readers may misunderstand a literal translation. Translators can consider alternatives, such as “The Human One.” It may also be helpful to include a footnote to explain the title.
 

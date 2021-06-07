@@ -2,7 +2,7 @@
 ## Special concepts in this chapter
 
 ### Manasseh’s lack of faith
-Even though they were one of the largest and most powerful tribes of Israel, the tribe of Manasseh lacked faith in the power of Yahweh. This caused them many problems. It would also cause their descendants many problems. (See: [[rc://*/tw/dict/bible/kt/faith]])
+Even though they were one of the largest and most powerful tribes of Israel, the tribe of Manasseh lacked faith in the power of Yahweh. This caused them many problems. It would also cause their descendants many problems. (See: [[../bible/kt/faith]])
 
 ## Other possible translation difficulties in this chapter
 

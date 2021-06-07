@@ -7,7 +7,7 @@ Paul formally introduces this letter in verses 1-2. Writers often began letters 
 ## Special concepts in this chapter
 
 ### Spiritual children
-In this chapter, Paul calls Timothy a “son” and his “child.” Paul discipled Timothy as a Christian and a church leader. Paul may also have led him to believe in Christ. Therefore, Paul called Timothy his “son in the faith.” (See: [[rc://*/tw/dict/bible/kt/disciple]], [[rc://*/tw/dict/bible/kt/faith]] and [[rc://*/tw/dict/bible/kt/spirit]] and [[figs-metaphor]])
+In this chapter, Paul calls Timothy a “son” and his “child.” Paul discipled Timothy as a Christian and a church leader. Paul may also have led him to believe in Christ. Therefore, Paul called Timothy his “son in the faith.” (See: [[../bible/kt/disciple]], [[../bible/kt/faith]] and [[../bible/kt/spirit]] and [[figs-metaphor]])
 
 ### Metaphor
 

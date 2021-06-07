@@ -3,4 +3,4 @@
 
 ### Continuous evil
 
-Murder, idolatry and all sorts of evil have been done in Jerusalem; so God will destroy the city and scatter the people among the nations. (See: [[rc://*/tw/dict/bible/kt/evil]])
+Murder, idolatry and all sorts of evil have been done in Jerusalem; so God will destroy the city and scatter the people among the nations. (See: [[../bible/kt/evil]])

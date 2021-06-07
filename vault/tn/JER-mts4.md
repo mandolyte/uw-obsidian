@@ -7,8 +7,8 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Coming punishment
 
-The punishment that is prophesied in this chapter will happen quickly. The author gives many illustrations which describe how quickly this punishment will come. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+The punishment that is prophesied in this chapter will happen quickly. The author gives many illustrations which describe how quickly this punishment will come. (See: [[../bible/kt/prophet]])
 
 ### Israel restored
 
-God will bring his people back from captivity. Even though the punishment of Judah will be great, Yahweh promised a future restoration. (See: [[rc://*/tw/dict/bible/kt/promise]] and [[rc://*/tw/dict/bible/kt/restore]])
+God will bring his people back from captivity. Even though the punishment of Judah will be great, Yahweh promised a future restoration. (See: [[../bible/kt/promise]] and [[../bible/kt/restore]])

@@ -13,4 +13,4 @@ Scholars disagree on the exact meaning of the gift of tongues. Paul describes th
 
 ### Prophecy
 
-Scholars disagree on the exact meaning of prophecy as a spiritual gift. Paul says prophets can build up the entire church. He describes prophecy as a gift for believers. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+Scholars disagree on the exact meaning of prophecy as a spiritual gift. Paul says prophets can build up the entire church. He describes prophecy as a gift for believers. (See: [[../bible/kt/prophet]])

@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Intermarriage
 
-Abraham would not allow his son to marry anyone from the people of Canaan. This is because it would cause his son to worship other gods. Intermarriage and worshiping false gods are things that frequently caused Abraham’s descendants to struggle. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+Abraham would not allow his son to marry anyone from the people of Canaan. This is because it would cause his son to worship other gods. Intermarriage and worshiping false gods are things that frequently caused Abraham’s descendants to struggle. (See: [[../bible/kt/falsegod]])
 
 ### Abraham’s wealth
 

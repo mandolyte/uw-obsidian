@@ -5,12 +5,12 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 The ULT sets 31:29 farther to the right on the page than the rest of the text because it is an important quotation.
 
-This chapter begins with a transition from the previous chapter. “At that time” is a reference to the day of restoration mentioned in [Jeremiah 30:24](../../jer/30/24.md). (See: [[rc://*/tw/dict/bible/kt/restore]])
+This chapter begins with a transition from the previous chapter. “At that time” is a reference to the day of restoration mentioned in [Jeremiah 30:24](../../jer/30/24.md). (See: [[../bible/kt/restore]])
 ## Special concepts in this chapter
 
 ### The new covenant
 
-This chapter is an important teaching regarding the new covenant. God will make a new covenant that will bring forgiveness of sins and a desire to obey God. Scholars disagree about whether this new covenant has begun. (See: [[rc://*/tw/dict/bible/kt/covenant]] and [[rc://*/tw/dict/bible/kt/forgive]] and [[rc://*/tw/dict/bible/kt/sin]])
+This chapter is an important teaching regarding the new covenant. God will make a new covenant that will bring forgiveness of sins and a desire to obey God. Scholars disagree about whether this new covenant has begun. (See: [[../bible/kt/covenant]] and [[../bible/kt/forgive]] and [[../bible/kt/sin]])
 
 ## Other possible translation difficulties in this chapter
 

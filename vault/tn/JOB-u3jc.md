@@ -37,7 +37,7 @@ We do not know who wrote the Book of Job. Many people suggest that Moses compose
 
 ### Does sin cause suffering?
 
-When a person sins against Yahweh, it can cause the person to experience suffering. People in the ancient Near East generally believed that a person suffered because they or their ancestors sinned against God. This is what many religions teach. However, the Book of Job shows that a person may suffer even if he or she has not sinned. (See: [[rc://*/tw/dict/bible/kt/sin]])
+When a person sins against Yahweh, it can cause the person to experience suffering. People in the ancient Near East generally believed that a person suffered because they or their ancestors sinned against God. This is what many religions teach. However, the Book of Job shows that a person may suffer even if he or she has not sinned. (See: [[../bible/kt/sin]])
 
 ### Were Eliphaz, Bildad, and Zophar really Job’s friends?
 

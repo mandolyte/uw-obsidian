@@ -6,7 +6,7 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 ## Special concepts in this chapter
 
 ### Job’s righteousness
-Despite being upset about his circumstances, and desiring his own death, Job does not curse God. He would rather have God end his life than to curse him. (See: [[rc://*/tw/dict/bible/kt/curse]])
+Despite being upset about his circumstances, and desiring his own death, Job does not curse God. He would rather have God end his life than to curse him. (See: [[../bible/kt/curse]])
 
 ## Important figures of speech in this chapter
 

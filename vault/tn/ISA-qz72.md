@@ -6,7 +6,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Cush
-This chapter records prophecies against the nation of Cush. They are being punished by Yahweh. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+This chapter records prophecies against the nation of Cush. They are being punished by Yahweh. (See: [[../bible/kt/prophet]])
 
 ## Important figures of speech in this chapter
 

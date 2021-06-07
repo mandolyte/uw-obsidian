@@ -1,7 +1,7 @@
 # Psalm 056 General Notes
 ## Type of psalm
 
-Psalm 56 is a psalm of deliverance. (See: [[rc://*/tw/dict/bible/other/deliverer]])
+Psalm 56 is a psalm of deliverance. (See: [[../bible/other/deliverer]])
 
 ## Special concepts in this chapter
 

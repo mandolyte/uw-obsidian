@@ -34,7 +34,7 @@ Although this book tells what Hosea prophesied, it is uncertain whether Hosea wr
 
 ### Why did God command Hosea to marry a prostitute?
 
-God told Hosea to marry the prostitute Gomer. This represented how the kingdom of Israel related to Yahweh. Israel was unfaithful to Yahweh and broke the covenant with him. This is compared to a woman who is unfaithful to her husband breaks her marriage agreement with him. (See: [[figs-metaphor]] and [[rc://*/tw/dict/bible/kt/faithful]] and [[rc://*/tw/dict/bible/kt/covenant]])
+God told Hosea to marry the prostitute Gomer. This represented how the kingdom of Israel related to Yahweh. Israel was unfaithful to Yahweh and broke the covenant with him. This is compared to a woman who is unfaithful to her husband breaks her marriage agreement with him. (See: [[figs-metaphor]] and [[../bible/kt/faithful]] and [[../bible/kt/covenant]])
 
 ### What is a lawsuit?
 
@@ -42,7 +42,7 @@ Many cultures have a process for resolving disputes through law courts. These le
 
 ### Who did the people of the kingdom of Israel worship?
 
-Israel was supposed to worship Yahweh alone. But they worshiped both Yahweh and the Canaanite gods such as Baal. This was a major reason why Yahweh judged the kingdom of Israel. (See: [[rc://*/tw/dict/bible/kt/falsegod]] and [[rc://*/tw/dict/bible/kt/judge]])
+Israel was supposed to worship Yahweh alone. But they worshiped both Yahweh and the Canaanite gods such as Baal. This was a major reason why Yahweh judged the kingdom of Israel. (See: [[../bible/kt/falsegod]] and [[../bible/kt/judge]])
 
 ## Part 3: Important Translation Issues
 
@@ -56,4 +56,4 @@ Hosea 4–14 has many problems of interpretation. Some phrases in Hosea are beyo
 
 ### What does the term “Israel” mean in Hosea?
 
-In Hosea, “Israel” is used only to refer to the northern kingdom of Israel. It is not used to refer to the southern kingdom or to the two kingdoms together. (See: [[rc://*/tw/dict/bible/names/kingdomofisrael]])
+In Hosea, “Israel” is used only to refer to the northern kingdom of Israel. It is not used to refer to the southern kingdom or to the two kingdoms together. (See: [[../bible/names/kingdomofisrael]])

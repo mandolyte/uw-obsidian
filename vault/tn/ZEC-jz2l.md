@@ -7,4 +7,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ## Special concepts in this chapter
 
-Zechariah often speaks of the last days by using the phrase “that day” or “in that day.” When referencing a future “day,” the translator should be aware that it is possible that the author is speaking about the last days. (See: [[rc://*/tw/dict/bible/kt/lastday]])
+Zechariah often speaks of the last days by using the phrase “that day” or “in that day.” When referencing a future “day,” the translator should be aware that it is possible that the author is speaking about the last days. (See: [[../bible/kt/lastday]])

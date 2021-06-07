@@ -6,7 +6,7 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 ## Special concepts in this chapter
 
 ### Eliphaz’s advice
-Eliphaz tells Job to curse Yahweh. The advice Eliphaz gives to Job is bad advice. He tries to convince Job that he is sinning and has been punished by Yahweh. (See: [[rc://*/tw/dict/bible/kt/curse]] and [[rc://*/tw/dict/bible/kt/sin]])
+Eliphaz tells Job to curse Yahweh. The advice Eliphaz gives to Job is bad advice. He tries to convince Job that he is sinning and has been punished by Yahweh. (See: [[../bible/kt/curse]] and [[../bible/kt/sin]])
 
 ## Important figures of speech in this chapter
 

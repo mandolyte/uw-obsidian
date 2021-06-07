@@ -17,4 +17,4 @@ God will make some people alive again and because he gives them his grace, they 
 
 ### The Son, the Son of God, and the Son of Man
 
-Jesus refers to himself in this chapter as the “Son” ([John 5:19](../../jhn/05/19.md)), the “Son of God” ([John 5:25](../../jhn/05/25.md)), and the “Son of Man” ([John 5:27](../../jhn/05/27.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://*/tw/dict/bible/kt/sonofman]] and [[figs-123person]])
+Jesus refers to himself in this chapter as the “Son” ([John 5:19](../../jhn/05/19.md)), the “Son of God” ([John 5:25](../../jhn/05/25.md)), and the “Son of Man” ([John 5:27](../../jhn/05/27.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[../bible/kt/sonofman]] and [[figs-123person]])

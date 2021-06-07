@@ -20,4 +20,4 @@ In verses 3-6, Paul uses many metaphors from war. He probably uses them as part 
 
 ### Flesh
 
-“Flesh” is possibly a metaphor for a person’s sinful nature. Paul is not teaching that our physical bodies are sinful. Paul appears to be teaching that as long as Christians are alive (“in the flesh”), we will continue to sin. But our new nature will be fighting against our old nature. (See: [[rc://*/tw/dict/bible/kt/flesh]])
+“Flesh” is possibly a metaphor for a person’s sinful nature. Paul is not teaching that our physical bodies are sinful. Paul appears to be teaching that as long as Christians are alive (“in the flesh”), we will continue to sin. But our new nature will be fighting against our old nature. (See: [[../bible/kt/flesh]])

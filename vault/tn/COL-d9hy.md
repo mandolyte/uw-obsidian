@@ -44,7 +44,7 @@ In the church in Colossae, there were false teachers. Their exact teaching is un
 
 ### How did Paul use the imagery of heaven and earth?
 
-In this letter, Paul frequently spoke of heaven as “above.” He distinguished it from the earth, which Scripture speaks of as being “below.” The purpose of this imagery was to teach Christians to live in a way that honors God who lives in heaven above. Paul is not teaching that the earth or the physical world is evil. (See: [[rc://*/tw/dict/bible/kt/evil]])
+In this letter, Paul frequently spoke of heaven as “above.” He distinguished it from the earth, which Scripture speaks of as being “below.” The purpose of this imagery was to teach Christians to live in a way that honors God who lives in heaven above. Paul is not teaching that the earth or the physical world is evil. (See: [[../bible/kt/evil]])
 
 ## Part 3: Important Translation Issues
 

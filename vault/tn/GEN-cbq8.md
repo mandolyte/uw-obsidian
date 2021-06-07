@@ -11,4 +11,4 @@ Although the exact reasoning for the shepherds’ unwillingness to give water to
 It was common in the ancient Near East for relatives to greet each other with a kiss. There was nothing sexual about this type of kissing.
 
 ### Marriage
-It was customary in the ancient Near East for a man to work for a woman’s father in order to earn the right to marry her. It is unknown how common it was for a father to have his younger daughter marry before an older daughter. It was also sinful for Jacob to marry more than one wife. (See: [[rc://*/tw/dict/bible/kt/sin]])
+It was customary in the ancient Near East for a man to work for a woman’s father in order to earn the right to marry her. It is unknown how common it was for a father to have his younger daughter marry before an older daughter. It was also sinful for Jacob to marry more than one wife. (See: [[../bible/kt/sin]])

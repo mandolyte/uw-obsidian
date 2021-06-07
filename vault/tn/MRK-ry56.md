@@ -8,7 +8,7 @@ Yeast is the ingredient that causes bread to become larger before it is baked. I
 
 ### “Adulterous generation”
 
-When Jesus called the people an “adulterous generation,” he was telling them that they were not faithful to God. (See: [[rc://*/tw/dict/bible/kt/faithful]] and [[rc://*/tw/dict/bible/kt/peopleofgod]])
+When Jesus called the people an “adulterous generation,” he was telling them that they were not faithful to God. (See: [[../bible/kt/faithful]] and [[../bible/kt/peopleofgod]])
 
 ## Important figures of speech in this chapter
 

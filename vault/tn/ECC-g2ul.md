@@ -6,4 +6,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Wisdom
-Solomon, known for his wisdom, gives a detailed description of wisdom. True wisdom is seeking to honor God. This is the only thing that lasts. (See: [[rc://*/tw/dict/bible/kt/wise]])
+Solomon, known for his wisdom, gives a detailed description of wisdom. True wisdom is seeking to honor God. This is the only thing that lasts. (See: [[../bible/kt/wise]])

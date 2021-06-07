@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### “His star”
 
-These words probably refer to a star that the learned men believed to be the sign of a new king of Israel. (See: [[rc://*/tw/dict/bible/kt/sign]])
+These words probably refer to a star that the learned men believed to be the sign of a new king of Israel. (See: [[../bible/kt/sign]])
 
 ## Other possible translation difficulties in this chapter
 

@@ -14,7 +14,7 @@
 
 ### What is the Book of Amos about?
 
-The Book of Amos contains the words of Amos, a shepherd of Tekoa. Amos began to prophesy about 760 BC. He spoke Yahweh’s messages against God’s people behaving wickedly. He spoke messages to both the southern kingdom of Judah and the northern kingdom of Israel. (See: [[rc://*/tw/dict/bible/kt/evil]])
+The Book of Amos contains the words of Amos, a shepherd of Tekoa. Amos began to prophesy about 760 BC. He spoke Yahweh’s messages against God’s people behaving wickedly. He spoke messages to both the southern kingdom of Judah and the northern kingdom of Israel. (See: [[../bible/kt/evil]])
 
 Yahweh gave Amos prophecies of judgment (Chapters 1-6) to proclaim to the people. Each of them begins with the phrase “This is what Yahweh says” (ULT).
 
@@ -32,7 +32,7 @@ The prophet Amos probably wrote this book. He lived in the southern kingdom of J
 
 ### How is justice described in Amos?
 
-Justice is an important theme in the Book of Amos. Justice means people treating others fairly according to the law of Yahweh. People in Israel were oppressing and taking advantage of poor people, orphans, and widows. Amos explained that Yahweh would prefer that the people act justly rather than sacrifice to him. Truly obeying the law of Moses meant being just to other people. (See: [[rc://*/tw/dict/bible/kt/justice]] and [[rc://*/tw/dict/bible/kt/lawofmoses]])
+Justice is an important theme in the Book of Amos. Justice means people treating others fairly according to the law of Yahweh. People in Israel were oppressing and taking advantage of poor people, orphans, and widows. Amos explained that Yahweh would prefer that the people act justly rather than sacrifice to him. Truly obeying the law of Moses meant being just to other people. (See: [[../bible/kt/justice]] and [[../bible/kt/lawofmoses]])
 
 ### What is a lawsuit?
 
@@ -42,7 +42,7 @@ Many cultures have a process for resolving disputes through the use of courts. T
 
 ### What is the meaning of the term “Israel”?
 
-The name “Israel” is used in many different ways in the Bible. Jacob was a son of Isaac. God changed Jacob’s name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. In Amos, “Israel” almost always refers to the northern kingdom of Israel. (See: [[rc://*/tw/dict/bible/kt/israel]])
+The name “Israel” is used in many different ways in the Bible. Jacob was a son of Isaac. God changed Jacob’s name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. In Amos, “Israel” almost always refers to the northern kingdom of Israel. (See: [[../bible/kt/israel]])
 
 ### Where do the various narratives begin and end?
 

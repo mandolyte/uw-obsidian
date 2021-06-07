@@ -1,7 +1,7 @@
 # John 07 General Notes
 ## Structure and formatting
 
-This whole chapter concerns the concept of believing Jesus to be the Messiah. Some people believed this to be true while others rejected it. Some were willing to recognize his power and even the possibility that he was a prophet, but most were unwilling to believe that he was the Messiah. (See: [[rc://*/tw/dict/bible/kt/christ]] and [[rc://*/tw/dict/bible/kt/prophet]])
+This whole chapter concerns the concept of believing Jesus to be the Messiah. Some people believed this to be true while others rejected it. Some were willing to recognize his power and even the possibility that he was a prophet, but most were unwilling to believe that he was the Messiah. (See: [[../bible/kt/christ]] and [[../bible/kt/prophet]])
 
 Translators may wish to include a note at verse 53 to explain to the reader why they have chosen or chosen not to translate verses 7:53-8:11.
 
@@ -24,7 +24,7 @@ Nicodemus explains to the other Pharisees that the Law requires him to hear dire
 ## Other possible translation difficulties in this chapter
 
 ### “Did not believe in him”
-Jesus’ brothers did not believe Jesus was the Messiah. (See: [[rc://*/tw/dict/bible/kt/believe]])
+Jesus’ brothers did not believe Jesus was the Messiah. (See: [[../bible/kt/believe]])
 
 ### “The Jews”
 This term is used in two different ways in this passage. It is used specifically in reference to the opposition of the Jewish leaders who were trying to kill him ([John 7:1](../../jhn/07/01.md)). It is also used in reference to the people of Judea in general who had a positive opinion of Jesus ([John 7:13](../../jhn/07/13.md)). The translator may wish to use the terms “Jewish leaders” and “Jewish people” or “Jews (leaders)” and “Jews (in general).”

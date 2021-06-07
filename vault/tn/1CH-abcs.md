@@ -1,7 +1,7 @@
 # 1 Chronicles 28 General Notes
 ## Structure and formatting
 
-The preparation for the temple continues in this chapter. David lectured the people and Solomon on what they should do. (See: [[rc://*/tw/dict/bible/kt/temple]])
+The preparation for the temple continues in this chapter. David lectured the people and Solomon on what they should do. (See: [[../bible/kt/temple]])
 
 ## Special concepts in this chapter
 

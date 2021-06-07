@@ -43,7 +43,7 @@ Translators should simply translate the locust attacks and drought as Joel descr
 
 ### What did Joel prophesy about the future for God’s people?
 
-Joel prophesied that God will defeat Israel’s enemies, rebuild the city of Jerusalem, and rule as victorious king over the whole world. At the same time, God will give his Spirit to all his people, and they will receive messages from him in dreams and visions. (See: [[rc://*/tw/dict/bible/kt/holyspirit]])
+Joel prophesied that God will defeat Israel’s enemies, rebuild the city of Jerusalem, and rule as victorious king over the whole world. At the same time, God will give his Spirit to all his people, and they will receive messages from him in dreams and visions. (See: [[../bible/kt/holyspirit]])
 
 ## Part 3: Important Translation Issues
 

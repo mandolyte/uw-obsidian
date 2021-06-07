@@ -6,4 +6,4 @@ This chapter gives instructions about how to make a grain offering.
 ## Special concepts in this chapter
 
 ### Yeast
-Yeast is connected to the events of the Passover. Any prohibition of yeast may be connected to the original Passover. (See: [[rc://*/tw/dict/bible/kt/passover]])
+Yeast is connected to the events of the Passover. Any prohibition of yeast may be connected to the original Passover. (See: [[../bible/kt/passover]])

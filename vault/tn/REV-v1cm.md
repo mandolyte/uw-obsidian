@@ -1,7 +1,7 @@
 # Revelation 16 General Notes
 ## Structure and formatting
 
-This chapter continues the vision of chapter 15. Together they give the seven plagues that complete the wrath of God. (See: [[rc://*/tw/dict/bible/kt/wrath]])
+This chapter continues the vision of chapter 15. Together they give the seven plagues that complete the wrath of God. (See: [[../bible/kt/wrath]])
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with verses 5-7.
 

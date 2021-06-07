@@ -10,64 +10,52 @@ See [[2KI-t6cl]]
 
 # 1:2
 ## qdg9
-rc://*/ta/man/translate/figs-explicit
-The upper room was built on the roof of the palace. The lattice was made of thin boards decoratively crossed over one another to form a balcony or window covering. Alternate translation: “the wooden boards around the flat roof of his palace” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The upper room was built on the roof of the palace. The lattice was made of thin boards decoratively crossed over one another to form a balcony or window covering. Alternate translation: “the wooden boards around the flat roof of his palace” (See: [[figs-explicit]])
 
 ## n4u5
-rc://*/ta/man/translate/translate-names
-(See: [[rc://*/ta/man/translate/translate-names]])
+(See: [[translate-names]])
 
 # 1:3
 ## xk53
 This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
 
 ## vu6l
-rc://*/ta/man/translate/translate-names
-This refers to someone from the city of Tishbe. (See: [[rc://*/ta/man/translate/translate-names]])
+This refers to someone from the city of Tishbe. (See: [[translate-names]])
 
 ## sql3
-rc://*/ta/man/translate/figs-rquestion
-This rhetorical question is asked as a rebuke for consulting Baal-Zebub. This may be written as a statement. This is irony because they are definitely aware of the God of Israel. Alternate translation: “You fools! You know there is a God in Israel, but you were acting as though you did not know when you sent men to consult Baal-Zebub, the god of Ekron!” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-irony]])
+This rhetorical question is asked as a rebuke for consulting Baal-Zebub. This may be written as a statement. This is irony because they are definitely aware of the God of Israel. Alternate translation: “You fools! You know there is a God in Israel, but you were acting as though you did not know when you sent men to consult Baal-Zebub, the god of Ekron!” (See: [[figs-rquestion]] and [[figs-irony]])
 
 ## ns1x
 The word “consult” means to get the opinion of someone about a question.
 
 # 1:4
 ## hs1g
-rc://*/ta/man/translate/figs-explicit
-This is Yahweh’s message to King Ahaziah. Alternate translation: “Therefore Yahweh says to King Ahaziah” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This is Yahweh’s message to King Ahaziah. Alternate translation: “Therefore Yahweh says to King Ahaziah” (See: [[figs-explicit]])
 
 ## ea7z
-rc://*/ta/man/translate/figs-explicit
-When King Ahaziah was injured, he was placed in a bed. Yahweh said that he will never become well and be able to get out of the bed. Alternate translation: “You will not recover and you will not get up from the bed on which you are lying” (See: [[rc://*/ta/man/translate/figs-explicit]])
+When King Ahaziah was injured, he was placed in a bed. Yahweh said that he will never become well and be able to get out of the bed. Alternate translation: “You will not recover and you will not get up from the bed on which you are lying” (See: [[figs-explicit]])
 
 # 1:5
 ## h8rr
-rc://*/ta/man/translate/figs-explicit
-After meeting with Elijah, the messengers returned to the king instead of going to Ekron. (See: [[rc://*/ta/man/translate/figs-explicit]])
+After meeting with Elijah, the messengers returned to the king instead of going to Ekron. (See: [[figs-explicit]])
 
 # 1:6
 ## hrs2
-rc://*/ta/man/translate/figs-rquestion
-This rhetorical question is asked as a rebuke for consulting Baal-Zebub. This may be written as a statement. This is irony because they are definitely aware of the God of Israel. See how you translated a similar question in [2 Kings 3:3](../03/03.md). Alternate translation: “You fools! You know there is a God in Israel, but you were acting as though you did not know when you sent men to consult Baal-Zebub, the god of Ekron!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This rhetorical question is asked as a rebuke for consulting Baal-Zebub. This may be written as a statement. This is irony because they are definitely aware of the God of Israel. See how you translated a similar question in [2 Kings 3:3](../03/03.md). Alternate translation: “You fools! You know there is a God in Israel, but you were acting as though you did not know when you sent men to consult Baal-Zebub, the god of Ekron!” (See: [[figs-rquestion]])
 
 ## q7jq
-rc://*/ta/man/translate/figs-explicit
-When King Ahaziah was injured, he was placed in a bed. Yahweh said that he will never become well and be able to get out of the bed. See how you translated this statement in [2 Kings 3:4](../03/04.md). Alternate translation: “you will not recover and you will not get up from the bed on which you are lying” (See: [[rc://*/ta/man/translate/figs-explicit]])
+When King Ahaziah was injured, he was placed in a bed. Yahweh said that he will never become well and be able to get out of the bed. See how you translated this statement in [2 Kings 3:4](../03/04.md). Alternate translation: “you will not recover and you will not get up from the bed on which you are lying” (See: [[figs-explicit]])
 
 # 1:8
 ## ivq2
-rc://*/ta/man/translate/figs-explicit
-Possible meanings are (1) this is a metaphor that speaks of him being very hairy as if his hair were a garment. Alternate translation: “He was very hairy” or (2) “His clothes were made from animal hair” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Possible meanings are (1) this is a metaphor that speaks of him being very hairy as if his hair were a garment. Alternate translation: “He was very hairy” or (2) “His clothes were made from animal hair” (See: [[figs-explicit]])
 
 # 1:9
 ## n9cs
-rc://*/ta/man/translate/figs-explicit
-The king sent the leader of the army with fifty men to bring Elijah back to him. Alternate translation: “Then the king sent a captain with fifty soldiers to seize Elijah” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The king sent the leader of the army with fifty men to bring Elijah back to him. Alternate translation: “Then the king sent a captain with fifty soldiers to seize Elijah” (See: [[figs-explicit]])
 
 ## a83f
-rc://*/ta/man/translate/translate-numbers
-“50 soldiers” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“50 soldiers” (See: [[translate-numbers]])
 
 # 1:10
 ## p9xj
@@ -78,111 +66,92 @@ The captain had called Elijah a man of God, but the captain and the king did not
 
 # 1:11
 ## u4yt
-rc://*/ta/man/translate/translate-numbers
-“50 soldiers” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“50 soldiers” (See: [[translate-numbers]])
 
 # 1:12
 ## ft4v
 The captain had called Elijah a man of God, but the captain and the king did not show Elijah proper respect. Elijah said this so that fire would come down from heaven, and this would prove that Elijah really was a man of God and he deserved their respect. See how you translated this phrase in [2 Kings 1:10](../01/10.md). Alternate translation: “Since I am a man of God, let fire come down from heaven” or “If I am a man of God as you have said, let fire come down from heaven”
 
 ## pr93
-rc://*/ta/man/translate/figs-possession
-This means that the fire came from God. Alternate translation: “fire from God” (See: [[rc://*/ta/man/translate/figs-possession]])
+This means that the fire came from God. Alternate translation: “fire from God” (See: [[figs-possession]])
 
 # 1:13
 ## j2vk
-rc://*/ta/man/translate/translate-numbers
-“50 warriors” or “50 soldiers” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“50 warriors” or “50 soldiers” (See: [[translate-numbers]])
 
 ## ptv6
 “begged him”
 
 ## ye4v
-rc://*/ta/man/translate/figs-explicit
-The captain says that his servants are Elijah’s servants to show him honor. AT “my fifty soldiers” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The captain says that his servants are Elijah’s servants to show him honor. AT “my fifty soldiers” (See: [[figs-explicit]])
 
 ## b8jf
-rc://*/ta/man/translate/figs-metaphor
-Here Elijah’s “sight” represents him judgement or evaluation. The captain is pleading with Elijah to let them live. Alternate translation: “please consider my life and the life of … as precious to you” or “consider my life and the life of … to be of worth to you and do not kill us” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-explicit]])
+Here Elijah’s “sight” represents him judgement or evaluation. The captain is pleading with Elijah to let them live. Alternate translation: “please consider my life and the life of … as precious to you” or “consider my life and the life of … to be of worth to you and do not kill us” (See: [[figs-metaphor]] and [[figs-explicit]])
 
 # 1:14
 ## t3sy
-rc://*/ta/man/translate/figs-metaphor
-Here Elijah’s “sight” represents him judgement or evaluation. The captain is repeating his request for Elijah to show kindness to him and let him live. Alternate translation: “please be kind to me” or “please allow me to live” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-explicit]])
+Here Elijah’s “sight” represents him judgement or evaluation. The captain is repeating his request for Elijah to show kindness to him and let him live. Alternate translation: “please be kind to me” or “please allow me to live” (See: [[figs-metaphor]] and [[figs-explicit]])
 
 # 1:16
 ## akr3
-rc://*/ta/man/translate/figs-rquestion
-This rhetorical question is asked as a rebuke for consulting Baal-Zebub. This may be written as a statement. This is irony because the king is definitely aware of the God of Israel. Alternate translation: “You must think there is no God in Israel whom you may ask for information!” or “You fool! You know there is a God in Israel to consult, but you acted as if you did not know.” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-irony]])
+This rhetorical question is asked as a rebuke for consulting Baal-Zebub. This may be written as a statement. This is irony because the king is definitely aware of the God of Israel. Alternate translation: “You must think there is no God in Israel whom you may ask for information!” or “You fool! You know there is a God in Israel to consult, but you acted as if you did not know.” (See: [[figs-rquestion]] and [[figs-irony]])
 
 ## bgi9
-rc://*/ta/man/translate/figs-explicit
-When King Ahaziah was injured, he was placed in a bed. Yahweh said that he will never become well and be able to get out of the bed. See how you translated this statement in [2 Kings 3:4](../03/04.md). Alternate translation: “you will not recover and you will not get up from the bed where you are lying” (See: [[rc://*/ta/man/translate/figs-explicit]])
+When King Ahaziah was injured, he was placed in a bed. Yahweh said that he will never become well and be able to get out of the bed. See how you translated this statement in [2 Kings 3:4](../03/04.md). Alternate translation: “you will not recover and you will not get up from the bed where you are lying” (See: [[figs-explicit]])
 
 # 1:17
 ## sl2v
 “what Yahweh had told Elijah that Elijah had spoken”
 
 ## s5cd
-rc://*/ta/man/translate/figs-explicit
-This describes the time that Joram began to reign over Israel by stating how long Jehoram had been reigning over Jerusalem. Alternate translation: “in the second year that Jehoram son of Jehoshaphat was king of Judah” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-ordinal]])
+This describes the time that Joram began to reign over Israel by stating how long Jehoram had been reigning over Jerusalem. Alternate translation: “in the second year that Jehoram son of Jehoshaphat was king of Judah” (See: [[figs-explicit]] and [[translate-ordinal]])
 
 # 1:18
 ## emi5
-rc://*/ta/man/translate/figs-rquestion
-This rhetorical question can be written as a statement. It can also be stated in active form. Alternate translation: “they are written … Israel.” or “someone has written about them in … Israel.” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-activepassive]])
+This rhetorical question can be written as a statement. It can also be stated in active form. Alternate translation: “they are written … Israel.” or “someone has written about them in … Israel.” (See: [[figs-rquestion]] and [[figs-activepassive]])
 
 # 2:intro
 ## i216
 See [[2KI-i216]]
 # 2:1
 ## u56u
-rc://*/ta/man/translate/writing-newevent
-“So it happened.” This phrase is used to introduce the next event in the story line. (See: [[rc://*/ta/man/translate/writing-newevent]])
+“So it happened.” This phrase is used to introduce the next event in the story line. (See: [[writing-newevent]])
 
 ## pmc1
 a strong wind that spins around and around
 
 # 2:2
 ## w2jb
-rc://*/ta/man/translate/figs-simile
-“As surely as Yahweh lives and as you live.” Here Elisha compares the certainty that Yahweh and Elijah are alive to the certainty of what he is saying. This is a way of making a solemn promise. Alternate translation: “I solemnly promise you that” (See: [[rc://*/ta/man/translate/figs-simile]])
+“As surely as Yahweh lives and as you live.” Here Elisha compares the certainty that Yahweh and Elijah are alive to the certainty of what he is saying. This is a way of making a solemn promise. Alternate translation: “I solemnly promise you that” (See: [[figs-simile]])
 
 # 2:3
 ## w5x1
-rc://*/ta/man/translate/figs-idiom
-This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. Alternate translation: “A group of men who were prophets” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. Alternate translation: “A group of men who were prophets” (See: [[figs-idiom]])
 
 # 2:4
 ## q628
-rc://*/ta/man/translate/figs-simile
-“As surely as Yahweh lives and as you live, I will not leave you.” Here Elisha compares the certainty that Yahweh and Elijah are alive to the certainty of what he is saying. This is a way of making a solemn promise. See how you translated this phrase in [2 Kings 2:2](../02/02.md). Alternate translation: “I solemnly promise you that I will not leave you” (See: [[rc://*/ta/man/translate/figs-simile]])
+“As surely as Yahweh lives and as you live, I will not leave you.” Here Elisha compares the certainty that Yahweh and Elijah are alive to the certainty of what he is saying. This is a way of making a solemn promise. See how you translated this phrase in [2 Kings 2:2](../02/02.md). Alternate translation: “I solemnly promise you that I will not leave you” (See: [[figs-simile]])
 
 # 2:5
 ## w9wu
 “When Elijah and Elisha came near Jericho, the sons of the prophets who were from there said to Elisha”
 
 ## g9du
-rc://*/ta/man/translate/figs-idiom
-This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the group of men who were prophets” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the group of men who were prophets” (See: [[figs-idiom]])
 
 # 2:6
 ## y3ml
-rc://*/ta/man/translate/figs-simile
-“As surely as Yahweh lives and as you live, I will not leave you.” Here Elisha compares the certainty that Yahweh and Elijah are alive to the certainty of what he is saying. This is a way of making a solemn promise. See how you translated this phrase in [2 Kings 2:2](../02/02.md). Alternate translation: “I solemnly promise you that I will not leave you” (See: [[rc://*/ta/man/translate/figs-simile]])
+“As surely as Yahweh lives and as you live, I will not leave you.” Here Elisha compares the certainty that Yahweh and Elijah are alive to the certainty of what he is saying. This is a way of making a solemn promise. See how you translated this phrase in [2 Kings 2:2](../02/02.md). Alternate translation: “I solemnly promise you that I will not leave you” (See: [[figs-simile]])
 
 # 2:7
 ## u37h
-rc://*/ta/man/translate/translate-numbers
-“50 of the sons” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“50 of the sons” (See: [[translate-numbers]])
 
 ## b5cd
-rc://*/ta/man/translate/figs-idiom
-This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the group of men who were prophets” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the group of men who were prophets” (See: [[figs-idiom]])
 
 ## t6qz
-rc://*/ta/man/translate/figs-idiom
-This means that they were standing, facing them. Alternate translation: “stood facing them” or “stood watching them” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This means that they were standing, facing them. Alternate translation: “stood facing them” or “stood watching them” (See: [[figs-idiom]])
 
 # 2:8
 ## v3mg
@@ -199,24 +168,20 @@ outer piece of clothing used as a covering
 “it happened”
 
 ## b2aw
-rc://*/ta/man/translate/figs-explicit
-This refers to crossing the Jordan River. Alternate translation: “crossed over the Jordan River” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This refers to crossing the Jordan River. Alternate translation: “crossed over the Jordan River” (See: [[figs-explicit]])
 
 ## q4e3
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “before Yahweh takes me from you” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “before Yahweh takes me from you” (See: [[figs-activepassive]])
 
 ## kk6z
-rc://*/ta/man/translate/figs-metonymy
-Here Elijah’s spirit refers to his spiritual power. Alternate translation: “twice as much of your spiritual power” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here Elijah’s spirit refers to his spiritual power. Alternate translation: “twice as much of your spiritual power” (See: [[figs-metonymy]])
 
 # 2:11
 ## ikl9
 The word “behold” here alerts us to pay attention to the surprising information that follows.
 
 ## c6ne
-rc://*/ta/man/translate/figs-possession
-Here the phrase “of fire” means that these were surround by fire. Alternate translation: “a chariot surrounded by fire pulled by horses surrounded by fire” (See: [[rc://*/ta/man/translate/figs-possession]])
+Here the phrase “of fire” means that these were surround by fire. Alternate translation: “a chariot surrounded by fire pulled by horses surrounded by fire” (See: [[figs-possession]])
 
 ## xmx8
 “was carried into the sky by a whirlwind.” Translate the word “whirlwind” the same as you did in [2 Kings 2:1](../02/01.md).
@@ -226,8 +191,7 @@ Here the phrase “of fire” means that these were surround by fire. Alternate 
 Elisha is calling Elijah his respected leader.
 
 ## bb7w
-rc://*/ta/man/translate/translate-symaction
-People would often tear their clothes as a sign of great sadness or grief. Alternate translation: “ripped them in two pieces to show his great sadness” (See: [[rc://*/ta/man/translate/translate-symaction]])
+People would often tear their clothes as a sign of great sadness or grief. Alternate translation: “ripped them in two pieces to show his great sadness” (See: [[translate-symaction]])
 
 # 2:13
 ## t6ri
@@ -235,8 +199,7 @@ The cloak was the otter clothing of a prophet. It was the sign of his job. When 
 
 # 2:14
 ## l45f
-rc://*/ta/man/translate/figs-explicit
-Elisha is asking if Yahweh is with him as he was with Elijah. Alternate translation: “Yahweh, the God of Elijah, are you here with me?” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Elisha is asking if Yahweh is with him as he was with Elijah. Alternate translation: “Yahweh, the God of Elijah, are you here with me?” (See: [[figs-explicit]])
 
 ## jjx1
 The river separated and Elisha walked to the other side on dry ground, the same way he did previously when he was with Elijah.
@@ -246,42 +209,35 @@ The river separated and Elisha walked to the other side on dry ground, the same 
 
 # 2:15
 ## dm3g
-rc://*/ta/man/translate/figs-idiom
-This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the group of prophets” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the group of prophets” (See: [[figs-idiom]])
 
 ## cz8j
 They are showing him deep respect and acknowledging him as their new leader.
 
 ## fu1h
-rc://*/ta/man/translate/figs-metonymy
-Here Elijah’s “spirit” refers to his spiritual power. This speaks of Elisha having this spiritual power as if it were something that physically rested upon him. Alternate translation: “Elisha does have the same spiritual power that Elijah did” or “The spiritual power Elijah had is now with Elisha” (See: [[rc://*/ta/man/translate/figs-metonymy]] and [[rc://*/ta/man/translate/figs-metaphor]])
+Here Elijah’s “spirit” refers to his spiritual power. This speaks of Elisha having this spiritual power as if it were something that physically rested upon him. Alternate translation: “Elisha does have the same spiritual power that Elijah did” or “The spiritual power Elijah had is now with Elisha” (See: [[figs-metonymy]] and [[figs-metaphor]])
 
 # 2:16
 ## tz77
-rc://*/ta/man/translate/figs-explicit
-These men are referring to themselves when they say “fifty strong men.” Alternate translation: “See now, we are fifty strong men and we are now your servants. Let us go” (See: [[rc://*/ta/man/translate/figs-explicit]])
+These men are referring to themselves when they say “fifty strong men.” Alternate translation: “See now, we are fifty strong men and we are now your servants. Let us go” (See: [[figs-explicit]])
 
 ## pig4
-rc://*/ta/man/translate/translate-numbers
-“50 strong men” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“50 strong men” (See: [[translate-numbers]])
 
 # 2:17
 ## x4m5
-rc://*/ta/man/translate/figs-explicit
-The sons of the prophets kept asking Elisha until he felt bad about saying “no.” Alternate translation: “They kept asking Elisha until he felt bad for denying their request, so” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The sons of the prophets kept asking Elisha until he felt bad about saying “no.” Alternate translation: “They kept asking Elisha until he felt bad for denying their request, so” (See: [[figs-explicit]])
 
 # 2:18
 ## s7q6
-rc://*/ta/man/translate/figs-rquestion
-Elisha uses this rhetorical question to emphasize that he had told them previously what would happen. This can be written as a statement. Alternate translation: “I told you that you should not go, because you would not find him!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Elisha uses this rhetorical question to emphasize that he had told them previously what would happen. This can be written as a statement. Alternate translation: “I told you that you should not go, because you would not find him!” (See: [[figs-rquestion]])
 
 # 2:19
 ## s884
 “The leaders of the city”
 
 ## k9c8
-rc://*/ta/man/translate/figs-explicit
-This means that the city is located in a good place. Alternate translation: “this city is in a good place” or “this city is in a good location” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that the city is located in a good place. Alternate translation: “this city is in a good place” or “this city is in a good location” (See: [[figs-explicit]])
 
 ## jfc3
 The men refer to Elisha here as “my master” to honor him.
@@ -291,107 +247,87 @@ producing good crops
 
 # 2:21
 ## jc7z
-rc://*/ta/man/translate/figs-metaphor
-This speaks of Yahweh making the bad water pure as if he healed it. Alternate translation: “made the waters pure” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This speaks of Yahweh making the bad water pure as if he healed it. Alternate translation: “made the waters pure” (See: [[figs-metaphor]])
 
 ## q6wj
-rc://*/ta/man/translate/figs-doublenegatives
-This refers to things caused by the bad water. This also can be written in positive form. Alternate translation: “there will be no more death or problems with crops caused by this water” or “from now on this water will bring life and help the land become fruitful” (See: [[rc://*/ta/man/translate/figs-doublenegatives]])
+This refers to things caused by the bad water. This also can be written in positive form. Alternate translation: “there will be no more death or problems with crops caused by this water” or “from now on this water will bring life and help the land become fruitful” (See: [[figs-doublenegatives]])
 
 # 2:22
 ## cpa7
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “the waters have remained pure” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “the waters have remained pure” (See: [[figs-activepassive]])
 
 ## ygc2
-rc://*/ta/man/translate/figs-idiom
-This means that something remains in a certain condition until the present time. Alternate translation: “by the word which Elisha spoke, and have always remained pure since” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This means that something remains in a certain condition until the present time. Alternate translation: “by the word which Elisha spoke, and have always remained pure since” (See: [[figs-idiom]])
 
 # 2:23
 ## jl1u
 The phrase “went up” is used her because Bethel is higher in elevation than Jericho.
 
 ## y5ld
-rc://*/ta/man/translate/figs-idiom
-The young boys wanted Elisha to go away from them and expressed this by saying “go up.” Alternate translation: “Go away” (See: [[rc://*/ta/man/translate/figs-idiom]])
+The young boys wanted Elisha to go away from them and expressed this by saying “go up.” Alternate translation: “Go away” (See: [[figs-idiom]])
 
 ## gyr2
 A bald person does not have any hair on their head. The young boys were mocking Elisha for having a bald head.
 
 # 2:24
 ## tzw2
-rc://*/ta/man/translate/translate-numbers
-“42 of the boys” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“42 of the boys” (See: [[translate-numbers]])
 
 # 3:intro
 ## k5ke
 See [[2KI-k5ke]]
 # 3:1
 ## hcb2
-rc://*/ta/man/translate/figs-explicit
-This describes the time that Joram began to reign by stating how long the current king of Judah had reigned. The meaning of this statement can be made clear. Alternate translation: “in the eighteenth year that Jehoshaphat was king of Judah” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This describes the time that Joram began to reign by stating how long the current king of Judah had reigned. The meaning of this statement can be made clear. Alternate translation: “in the eighteenth year that Jehoshaphat was king of Judah” (See: [[figs-explicit]])
 
 ## t9pu
-rc://*/ta/man/translate/translate-ordinal
-“year 18” (See: [[rc://*/ta/man/translate/translate-ordinal]])
+“year 18” (See: [[translate-ordinal]])
 
 ## gh3r
 Sometimes this man is referred to as “Jehoram.” This is not the same person as the man mentioned in [2 Kings 1:17](../01/17.md) named “Jehoram.”
 
 # 3:2
 ## dqh6
-rc://*/ta/man/translate/figs-metaphor
-Here “sight” refers to Yahweh’s thoughts or opinion. Alternate translation: “what Yahweh considers to be evil” or “what is evil in Yahweh’s judgement” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here “sight” refers to Yahweh’s thoughts or opinion. Alternate translation: “what Yahweh considers to be evil” or “what is evil in Yahweh’s judgement” (See: [[figs-metaphor]])
 
 ## ry4x
-rc://*/ta/man/translate/figs-simile
-This compares how much evil he did to being less that the amount that his parents did. Alternate translation: “but he did not do as much evil as his father and mother had done” (See: [[rc://*/ta/man/translate/figs-simile]])
+This compares how much evil he did to being less that the amount that his parents did. Alternate translation: “but he did not do as much evil as his father and mother had done” (See: [[figs-simile]])
 
 ## v3k7
-rc://*/ta/man/translate/figs-possession
-This pillar was used in the worship of Baal, though it is unknown what the pillar looked like. Alternate translation: “the sacred stone pillar for worshiping Baal” (See: [[rc://*/ta/man/translate/figs-possession]])
+This pillar was used in the worship of Baal, though it is unknown what the pillar looked like. Alternate translation: “the sacred stone pillar for worshiping Baal” (See: [[figs-possession]])
 
 # 3:3
 ## u5f7
-rc://*/ta/man/translate/figs-idiom
-This is an idiom. Here “holding on” to something means to continue doing it. Alternate translation: “he continued to commit the sins” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This is an idiom. Here “holding on” to something means to continue doing it. Alternate translation: “he continued to commit the sins” (See: [[figs-idiom]])
 
 ## n4ct
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## zgj1
-rc://*/ta/man/translate/figs-idiom
-“Turning away” from something is an idiom which means to stop doing it. Alternate translation: “he did not stop committing those sins” or “he continued committing those sins” (See: [[rc://*/ta/man/translate/figs-idiom]])
+“Turning away” from something is an idiom which means to stop doing it. Alternate translation: “he did not stop committing those sins” or “he continued committing those sins” (See: [[figs-idiom]])
 
 # 3:4
 ## r82y
-rc://*/ta/man/translate/figs-explicit
-Mesha had to give these things to the king of Israel because his kingdom was controlled by the king of Israel. The full meaning of this statement can be made explicit. Alternate translation: “Every year he was forced to give 100,000 lambs and the wool from 100,000 rams to the king of Israel, because his kingdom was controlled by the king of Israel” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Mesha had to give these things to the king of Israel because his kingdom was controlled by the king of Israel. The full meaning of this statement can be made explicit. Alternate translation: “Every year he was forced to give 100,000 lambs and the wool from 100,000 rams to the king of Israel, because his kingdom was controlled by the king of Israel” (See: [[figs-explicit]])
 
 ## n1ad
-rc://*/ta/man/translate/translate-numbers
-“one hundred thousand lambs … one hundred thousand rams” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“one hundred thousand lambs … one hundred thousand rams” (See: [[translate-numbers]])
 
 # 3:6
 ## kkb2
-rc://*/ta/man/translate/figs-synecdoche
-“to prepare the people of Israel for war.” Here “all Israel” refers to all of the Israelite soldiers. Alternate translation: “to mobilize all of the Israelite soldiers for war” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+“to prepare the people of Israel for war.” Here “all Israel” refers to all of the Israelite soldiers. Alternate translation: “to mobilize all of the Israelite soldiers for war” (See: [[figs-synecdoche]])
 
 # 3:7
 ## q4bl
 See [[2KI-q4bl]]
 ## uqt2
-rc://*/ta/man/translate/figs-synecdoche
-The word “you” refers to Jehoshaphat, but refers to both him and his army. Here “Moab” stands for “the army of Moab.” Alternate translation: “Will you and your army go with me to fight against the army of Moab?” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The word “you” refers to Jehoshaphat, but refers to both him and his army. Here “Moab” stands for “the army of Moab.” Alternate translation: “Will you and your army go with me to fight against the army of Moab?” (See: [[figs-synecdoche]])
 
 ## zuz1
-rc://*/ta/man/translate/figs-synecdoche
-Jehoshaphat is saying that he and his entire army will fight with King Joram against Moab. Alternate translation: “We will go with you” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Jehoshaphat is saying that he and his entire army will fight with King Joram against Moab. Alternate translation: “We will go with you” (See: [[figs-synecdoche]])
 
 ## qh7x
-rc://*/ta/man/translate/figs-explicit
-Jehoshaphat is letting Joram use himself, his people, and his horses for his purposes. He speaks of this as if they belonged to Joram. The full meaning of this statement can be made clear. Alternate translation: “We are ready to do whatever you want us to. My soldiers and my horses are ready to help you” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Jehoshaphat is letting Joram use himself, his people, and his horses for his purposes. He speaks of this as if they belonged to Joram. The full meaning of this statement can be made clear. Alternate translation: “We are ready to do whatever you want us to. My soldiers and my horses are ready to help you” (See: [[figs-explicit]])
 
 # 3:8
 ## cld5
@@ -399,72 +335,57 @@ Jehoshaphat is letting Joram use himself, his people, and his horses for his pur
 
 # 3:9
 ## luy3
-rc://*/ta/man/translate/figs-synecdoche
-This refers to the kings accompanied by their armies. Alternate translation: “the king of Israel and his army went with the king of Judah and his army and the king of Edom and his army” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+This refers to the kings accompanied by their armies. Alternate translation: “the king of Israel and his army went with the king of Judah and his army and the king of Edom and his army” (See: [[figs-synecdoche]])
 
 ## ei9n
 Possible meanings are (1) the kings were not sure where they were going, and so they changed direction often or (2) the kings knew where they were going and they walked around Moab ([2 Kings 3:8](../03/08.md)).
 
 # 3:10
 ## w5es
-rc://*/ta/man/translate/figs-rquestion
-The king uses a rhetorical question to emphasize how ridiculous and terrible their situation is. This can be written as a statement. Alternate translation: “It looks like Yahweh will allow all three of us to be captured by Moab!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The king uses a rhetorical question to emphasize how ridiculous and terrible their situation is. This can be written as a statement. Alternate translation: “It looks like Yahweh will allow all three of us to be captured by Moab!” (See: [[figs-rquestion]])
 
 ## lze9
-rc://*/ta/man/translate/figs-synecdoche
-Here “Moab” refers to its army. Also, “the hand of Moab” refers to the “control” of Moab’s army. Alternate translation: “to give us over to Moab’s control” or “so the army of Moab will defeat us” (See: [[rc://*/ta/man/translate/figs-synecdoche]] and [[rc://*/ta/man/translate/figs-metonymy]])
+Here “Moab” refers to its army. Also, “the hand of Moab” refers to the “control” of Moab’s army. Alternate translation: “to give us over to Moab’s control” or “so the army of Moab will defeat us” (See: [[figs-synecdoche]] and [[figs-metonymy]])
 
 # 3:11
 ## m7as
-rc://*/ta/man/translate/figs-rquestion
-Jehoshaphat uses a rhetorical question here to state that he is certain that there is a prophet there and to find out where he is. This may be written as a statement. Alternate translation: “I am sure there is a prophet of Yahweh here! Tell me where one is, so we may consult Yahweh by him.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Jehoshaphat uses a rhetorical question here to state that he is certain that there is a prophet there and to find out where he is. This may be written as a statement. Alternate translation: “I am sure there is a prophet of Yahweh here! Tell me where one is, so we may consult Yahweh by him.” (See: [[figs-rquestion]])
 
 ## ql15
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## y2h5
-rc://*/ta/man/translate/figs-idiom
-This idiom means that he was Elijah’s helper. The phrase “poured water on the hands” is a description of one of the ways he served Elijah. Alternate translation: “who was a helper to Elijah” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This idiom means that he was Elijah’s helper. The phrase “poured water on the hands” is a description of one of the ways he served Elijah. Alternate translation: “who was a helper to Elijah” (See: [[figs-idiom]])
 
 # 3:12
 ## gjn5
-rc://*/ta/man/translate/figs-explicit
-This means that he is a prophet and that Yahweh tells him what to say. Alternate translation: “He speaks what Yahweh tells him to say” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that he is a prophet and that Yahweh tells him what to say. Alternate translation: “He speaks what Yahweh tells him to say” (See: [[figs-explicit]])
 
 ## xm7z
-rc://*/ta/man/translate/figs-explicit
-They went to see Elijah and to consult with him about what they should do. The full meaning of this statement can be made clear. Alternate translation: “went to see Elisha to ask him what they should do” (See: [[rc://*/ta/man/translate/figs-explicit]])
+They went to see Elijah and to consult with him about what they should do. The full meaning of this statement can be made clear. Alternate translation: “went to see Elisha to ask him what they should do” (See: [[figs-explicit]])
 
 # 3:13
 ## r7z3
-rc://*/ta/man/translate/figs-rquestion
-Elisha uses this rhetorical question to emphasize that he and the king have nothing in common. This question can be translated as a statement. Alternate translation: “I have nothing to do with you.” or “I have nothing in common with you.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Elisha uses this rhetorical question to emphasize that he and the king have nothing in common. This question can be translated as a statement. Alternate translation: “I have nothing to do with you.” or “I have nothing in common with you.” (See: [[figs-rquestion]])
 
 ## b5fg
-rc://*/ta/man/translate/figs-metonymy
-Here the “hand of Moab” refers the Moab’s “control.” Alternate translation: “to give them over to the control of Moab” or “to allow them to be captured by the Moabite army” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the “hand of Moab” refers the Moab’s “control.” Alternate translation: “to give them over to the control of Moab” or “to allow them to be captured by the Moabite army” (See: [[figs-metonymy]])
 
 # 3:14
 ## y4by
-rc://*/ta/man/translate/figs-simile
-“As I know that Yahweh of hosts lives, before whom I stand, surely.” Here Elisha compares the certainty that Yahweh is alive to the certainty that, if it were not for Jehoshaphat being there, he would not pay attention to Joram. This is a way of making a solemn promise. Alternate translation: “As surely as Yahweh of hosts lives, before whom I stand, I promise you, if it” (See: [[rc://*/ta/man/translate/figs-simile]])
+“As I know that Yahweh of hosts lives, before whom I stand, surely.” Here Elisha compares the certainty that Yahweh is alive to the certainty that, if it were not for Jehoshaphat being there, he would not pay attention to Joram. This is a way of making a solemn promise. Alternate translation: “As surely as Yahweh of hosts lives, before whom I stand, I promise you, if it” (See: [[figs-simile]])
 
 ## g8m7
-rc://*/ta/man/translate/figs-metaphor
-Here serving Yahweh is spoken of as standing in his presence. Alternate translation: “whom I serve” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here serving Yahweh is spoken of as standing in his presence. Alternate translation: “whom I serve” (See: [[figs-metaphor]])
 
 ## js2s
-rc://*/ta/man/translate/figs-doublenegatives
-This can be written in positive form. Alternate translation: “I pay attention to you only because I honor the presence of Jehoshaphat king of Judah” (See: [[rc://*/ta/man/translate/figs-doublenegatives]])
+This can be written in positive form. Alternate translation: “I pay attention to you only because I honor the presence of Jehoshaphat king of Judah” (See: [[figs-doublenegatives]])
 
 ## p915
-rc://*/ta/man/translate/figs-metonymy
-Here Jehoshaphat is referred to by his presence. Alternate translation: “I honor Jehoshaphat” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here Jehoshaphat is referred to by his presence. Alternate translation: “I honor Jehoshaphat” (See: [[figs-metonymy]])
 
 ## w5fa
-rc://*/ta/man/translate/figs-parallelism
-These two phrases have similar meaning and are used together to emphasize that he would not pay any attention to Joram. Alternate translation: “I would not have anything at all to do with you” (See: [[rc://*/ta/man/translate/figs-parallelism]])
+These two phrases have similar meaning and are used together to emphasize that he would not pay any attention to Joram. Alternate translation: “I would not have anything at all to do with you” (See: [[figs-parallelism]])
 
 # 3:15
 ## hy8s
@@ -474,8 +395,7 @@ These two phrases have similar meaning and are used together to emphasize that h
 someone who plays the harp
 
 ## hae4
-rc://*/ta/man/translate/figs-metonymy
-Here Yahweh’s “hand” refers to his “power.” Alternate translation: “the power of Yahweh came upon Elisha” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here Yahweh’s “hand” refers to his “power.” Alternate translation: “the power of Yahweh came upon Elisha” (See: [[figs-metonymy]])
 
 # 3:16
 ## wr49
@@ -483,25 +403,21 @@ A trench is a long ditch that workers dig in the ground to collect water.
 
 # 3:17
 ## yt5g
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “I will fill this river valley with water” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “I will fill this river valley with water” (See: [[figs-activepassive]])
 
 ## yr9t
-rc://*/ta/man/translate/figs-explicit
-This refers to drinking the water that Yahweh provides. Alternate translation: “you will drink the water” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This refers to drinking the water that Yahweh provides. Alternate translation: “you will drink the water” (See: [[figs-explicit]])
 
 # 3:18
 ## er4m
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. Alternate translation: “Yahweh considers this as an easy thing to do” or “This is an easy thing for Yahweh to do” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. Alternate translation: “Yahweh considers this as an easy thing to do” or “This is an easy thing for Yahweh to do” (See: [[figs-metaphor]])
 
 # 3:19
 ## u249
 A fortified city is well protected from enemies by such things as high walls or a easily defensible location.
 
 ## ig6l
-rc://*/ta/man/translate/figs-explicit
-This means to put rocks on the fertile land so that it is difficult to use. The meaning of this statement can be made clear. Alternate translation: “ruin every good piece of land by covering them with rocks” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means to put rocks on the fertile land so that it is difficult to use. The meaning of this statement can be made clear. Alternate translation: “ruin every good piece of land by covering them with rocks” (See: [[figs-explicit]])
 
 # 3:20
 ## bag3
@@ -515,50 +431,41 @@ land, ground
 
 # 3:21
 ## by8m
-rc://*/ta/man/translate/writing-background
-This word is used here to mark a break in the main story line. Here the author tells background information about the Moabite army preparing to meet the three kings and their armies in battle. (See: [[rc://*/ta/man/translate/writing-background]])
+This word is used here to mark a break in the main story line. Here the author tells background information about the Moabite army preparing to meet the three kings and their armies in battle. (See: [[writing-background]])
 
 ## yqn5
-rc://*/ta/man/translate/figs-metonymy
-Here “armor” represents ability to fight. Alternate translation: “all the men who could fight” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “armor” represents ability to fight. Alternate translation: “all the men who could fight” (See: [[figs-metonymy]])
 
 ## ct3t
-rc://*/ta/man/translate/figs-synecdoche
-Here the word “kings” refers to both the kings and their armies. Alternate translation: “the kings had come with their armies” or “the kings and their armies had come” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here the word “kings” refers to both the kings and their armies. Alternate translation: “the kings had come with their armies” or “the kings and their armies had come” (See: [[figs-synecdoche]])
 
 # 3:22
 ## bxk5
-rc://*/ta/man/translate/figs-simile
-This compares the red appearance of the water to the color of blood. Alternate translation: “it was red like blood” (See: [[rc://*/ta/man/translate/figs-simile]])
+This compares the red appearance of the water to the color of blood. Alternate translation: “it was red like blood” (See: [[figs-simile]])
 
 # 3:23
 ## di7v
-rc://*/ta/man/translate/figs-synecdoche
-The soldiers are referring to themselves here as “Moab.” Alternate translation: “soldiers of Moab” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The soldiers are referring to themselves here as “Moab.” Alternate translation: “soldiers of Moab” (See: [[figs-synecdoche]])
 
 ## bft2
 “steal their belongings.” After an army defeated their enemies, they would often plunder their towns by stealing whatever was left of value.
 
 # 3:24
 ## eny7
-rc://*/ta/man/translate/figs-synecdoche
-Here “Israel” refers only to the Israelite soldiers and not to the whole nation of Israel. Alternate translation: “the area where the Israelite soldiers had set up their tents” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “Israel” refers only to the Israelite soldiers and not to the whole nation of Israel. Alternate translation: “the area where the Israelite soldiers had set up their tents” (See: [[figs-synecdoche]])
 
 ## v7zw
-rc://*/ta/man/translate/figs-synecdoche
-Here “Israelites” refers only to the Israelite soldiers and not to the whole nation of Israel. Alternate translation: “the Israelite soldiers surprised” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “Israelites” refers only to the Israelite soldiers and not to the whole nation of Israel. Alternate translation: “the Israelite soldiers surprised” (See: [[figs-synecdoche]])
 
 ## g9vn
 “ran away from them”
 
 # 3:25
 ## g449
-rc://*/ta/man/translate/translate-names
-This is the capital of Moab. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the capital of Moab. (See: [[translate-names]])
 
 ## fq8h
-rc://*/ta/man/translate/figs-explicit
-The walls and buildings of the city were made of stones. The meaning of this can be made clear. Alternate translation: “still had its stone walls and buildings in place” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The walls and buildings of the city were made of stones. The meaning of this can be made clear. Alternate translation: “still had its stone walls and buildings in place” (See: [[figs-explicit]])
 
 ## a4lh
 A “sling” is piece of animal skin with long cords at both ends in which a person can put a stone or other small, hard object and throw it a long distance.
@@ -571,8 +478,7 @@ Translate the name of this king the same as you did in [2 Kings 3:4](../03/04.md
 “that his army was being defeated”
 
 ## lyu6
-rc://*/ta/man/translate/translate-numbers
-“700 swordsmen” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“700 swordsmen” (See: [[translate-numbers]])
 
 ## d77c
 soldiers who fight with swords
@@ -582,20 +488,17 @@ soldiers who fight with swords
 
 # 3:27
 ## d4k7
-rc://*/ta/man/translate/figs-explicit
-King Mesha burned his son with fire until he died. He did this as an offering to Chemosh, the false god of Moab. The full meaning of this statement can be made explicit. (See: [[rc://*/ta/man/translate/figs-explicit]])
+King Mesha burned his son with fire until he died. He did this as an offering to Chemosh, the false god of Moab. The full meaning of this statement can be made explicit. (See: [[figs-explicit]])
 
 ## izf1
-rc://*/ta/man/translate/figs-abstractnouns
-Here the word “anger” can be expressed as a verb. There are two possibilities for who is angry here: (1) The Moabite soldiers. Alternate translation: “So the Moabite soldiers were very angry with Israel” or (2) God. Alternate translation: “So God was very angry with Israel” (See: [[rc://*/ta/man/translate/figs-abstractnouns]])
+Here the word “anger” can be expressed as a verb. There are two possibilities for who is angry here: (1) The Moabite soldiers. Alternate translation: “So the Moabite soldiers were very angry with Israel” or (2) God. Alternate translation: “So God was very angry with Israel” (See: [[figs-abstractnouns]])
 
 # 4:intro
 ## ma9j
 See [[2KI-ma9j]]
 # 4:1
 ## x1ua
-rc://*/ta/man/translate/figs-idiom
-This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the prophets” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the prophets” (See: [[figs-idiom]])
 
 ## iu5k
 “My husband, who was your servant”
@@ -608,13 +511,11 @@ person who lends other people money
 The woman refers to herself as Elisha’s servant to show him honor.
 
 ## rwy3
-rc://*/ta/man/translate/figs-hyperbole
-This is an exaggeration. The only valuable thing she had was a jar of oil. (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+This is an exaggeration. The only valuable thing she had was a jar of oil. (See: [[figs-hyperbole]])
 
 # 4:4
 ## pea2
-rc://*/ta/man/translate/figs-explicit
-This means to go inside their house. The full meaning of this statement can be made explicit. Alternate translation: “you must go inside your house” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means to go inside their house. The full meaning of this statement can be made explicit. Alternate translation: “you must go inside your house” (See: [[figs-explicit]])
 
 # 4:6
 ## ln26
@@ -622,21 +523,17 @@ This means to go inside their house. The full meaning of this statement can be m
 
 # 4:7
 ## trw8
-rc://*/ta/man/translate/figs-explicit
-This refers to Elisha. Alternate translation: “Elisha, the man of God” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This refers to Elisha. Alternate translation: “Elisha, the man of God” (See: [[figs-explicit]])
 
 ## u3px
-rc://*/ta/man/translate/figs-idiom
-This is an idiom. It means to use the money to buy the things that they need, such as food and clothing. Alternate translation: “use the rest of the money for you and your sons for what you need to live” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This is an idiom. It means to use the money to buy the things that they need, such as food and clothing. Alternate translation: “use the rest of the money for you and your sons for what you need to live” (See: [[figs-idiom]])
 
 # 4:8
 ## agh3
-rc://*/ta/man/translate/translate-names
-This is the name of a city. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a city. (See: [[translate-names]])
 
 ## aab9
-rc://*/ta/man/translate/figs-explicit
-This means that she asked him to stop and have a meal at her house. Alternate translation: “she asked him to come to her house to have a meal” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that she asked him to stop and have a meal at her house. Alternate translation: “she asked him to come to her house to have a meal” (See: [[figs-explicit]])
 
 ## zxt5
 “traveled through Shunem”
@@ -656,28 +553,23 @@ Here “us” refers to the important woman and her husband.
 
 # 4:12
 ## jqx1
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## dj7q
 “Call the Shunammite woman.” This refers to the woman from Shunem that Elisha was staying with.
 
 # 4:13
 ## u5ec
-rc://*/ta/man/translate/figs-idiom
-The phrase “gone to all this trouble” is an idiom that means to make great effort to do something. Alternate translation: “You have made a great effort to care for us” or “You have worked very hard to take care of us” (See: [[rc://*/ta/man/translate/figs-idiom]])
+The phrase “gone to all this trouble” is an idiom that means to make great effort to do something. Alternate translation: “You have made a great effort to care for us” or “You have worked very hard to take care of us” (See: [[figs-idiom]])
 
 ## vi6j
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “What can we do for you” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “What can we do for you” (See: [[figs-activepassive]])
 
 ## dm19
-rc://*/ta/man/translate/figs-explicit
-Here Elisha is asking if she would like for him to speak to the king or army commander to make a request for her. The implicit meaning of this question can be made explicit. Alternate translation: “Can we make a request for you” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Here Elisha is asking if she would like for him to speak to the king or army commander to make a request for her. The implicit meaning of this question can be made explicit. Alternate translation: “Can we make a request for you” (See: [[figs-explicit]])
 
 ## v5zv
-rc://*/ta/man/translate/figs-explicit
-The woman is implying that she does not need anything because her family cares for her needs. Alternate translation: “I live surrounded by my family, and because they take care of me, I have no needs” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The woman is implying that she does not need anything because her family cares for her needs. Alternate translation: “I live surrounded by my family, and because they take care of me, I have no needs” (See: [[figs-explicit]])
 
 # 4:15
 ## cvk3
@@ -687,8 +579,7 @@ The woman is implying that she does not need anything because her family cares f
 “When Gehazi had called her”
 
 ## tuw6
-rc://*/ta/man/translate/figs-metonymy
-This refers to the doorway. Alternate translation: “the doorway” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This refers to the doorway. Alternate translation: “the doorway” (See: [[figs-metonymy]])
 
 # 4:16
 ## ybj5
@@ -710,36 +601,30 @@ The woman refers to herself as Elisha’s servant to show him honor.
 
 # 4:19
 ## q4fx
-rc://*/ta/man/translate/figs-explicit
-The child said this because his head hurt. The meaning of this can be made clear. Alternate translation: “My head hurts! My head hurts!” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The child said this because his head hurt. The meaning of this can be made clear. Alternate translation: “My head hurts! My head hurts!” (See: [[figs-explicit]])
 
 # 4:20
 ## i924
-rc://*/ta/man/translate/figs-synecdoche
-Here the woman’s knees refer to her lap. She held her son in her lap until he died. Alternate translation: “she held him on her lap until noon and then he died” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here the woman’s knees refer to her lap. She held her son in her lap until he died. Alternate translation: “she held him on her lap until noon and then he died” (See: [[figs-synecdoche]])
 
 # 4:21
 ## hf6d
-rc://*/ta/man/translate/figs-explicit
-This was the bed in the room she had prepared for Elisha when he traveled through Shunem. (See: [[rc://*/ta/man/translate/figs-explicit]])
+This was the bed in the room she had prepared for Elisha when he traveled through Shunem. (See: [[figs-explicit]])
 
 ## a8m1
 “Elisha, the man of God”
 
 # 4:22
 ## dr4k
-rc://*/ta/man/translate/figs-explicit
-The woman told her husband she was going to see Elisha but she did not say that she was going because their son had died. This implicit information may be stated clearly. Alternate translation: “that I may hurry to the man of God and then come back.’ But she did not tell her husband that their son had died” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The woman told her husband she was going to see Elisha but she did not say that she was going because their son had died. This implicit information may be stated clearly. Alternate translation: “that I may hurry to the man of God and then come back.’ But she did not tell her husband that their son had died” (See: [[figs-explicit]])
 
 # 4:23
 ## v9f7
-rc://*/ta/man/translate/figs-explicit
-The woman states this, knowing this will be the case if her husband does as she requests. The full meaning of this statement can be made explicit. Alternate translation: “Everything will be all right if you do as I ask” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The woman states this, knowing this will be the case if her husband does as she requests. The full meaning of this statement can be made explicit. Alternate translation: “Everything will be all right if you do as I ask” (See: [[figs-explicit]])
 
 # 4:24
 ## r8pm
-rc://*/ta/man/translate/figs-metonymy
-The woman did not saddle the donkey, rather the servant would have saddled it for her. Alternate translation: “she had her servant saddle a donkey” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The woman did not saddle the donkey, rather the servant would have saddled it for her. Alternate translation: “she had her servant saddle a donkey” (See: [[figs-metonymy]])
 
 # 4:25
 ## yqh5
@@ -757,16 +642,14 @@ The woman did not saddle the donkey, rather the servant would have saddled it fo
 “Mount Carmel”
 
 ## r3nr
-rc://*/ta/man/translate/figs-explicit
-This implies that she knelt or laid on the ground in front of him and grabbed his feet. Alternate translation: “she dropped down on the ground in front of him and put her hands around his feet” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This implies that she knelt or laid on the ground in front of him and grabbed his feet. Alternate translation: “she dropped down on the ground in front of him and put her hands around his feet” (See: [[figs-explicit]])
 
 ## wjr1
 Elisha can see that the woman is upset but Yahweh has not revealed to him the cause of her problem.
 
 # 4:28
 ## ct7i
-rc://*/ta/man/translate/figs-rquestion
-The woman uses these rhetorical questions to show that she is upset about what has happened. She is speaking about her conversation with Elisha when he told her that she was going to have a son. These questions may be written as a statement. Alternate translation: “I did not ask you to give me a son, but I did ask you not to lie to me!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The woman uses these rhetorical questions to show that she is upset about what has happened. She is speaking about her conversation with Elisha when he told her that she was going to have a son. These questions may be written as a statement. Alternate translation: “I did not ask you to give me a son, but I did ask you not to lie to me!” (See: [[figs-rquestion]])
 
 # 4:29
 ## g9dl
@@ -781,12 +664,10 @@ Elisha wanted Gehazi to travel as quickly as possible, without even stopping to 
 
 # 4:31
 ## nu33
-rc://*/ta/man/translate/figs-explicit
-This means that the child was not alive. The full meaning of this statement can be made explicit. Alternate translation: “but the child did not show any signs of being alive” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that the child was not alive. The full meaning of this statement can be made explicit. Alternate translation: “but the child did not show any signs of being alive” (See: [[figs-explicit]])
 
 ## pel6
-rc://*/ta/man/translate/figs-euphemism
-Here being dead is spoken of as being asleep. Alternate translation: “is still dead” (See: [[rc://*/ta/man/translate/figs-euphemism]])
+Here being dead is spoken of as being asleep. Alternate translation: “is still dead” (See: [[figs-euphemism]])
 
 # 4:33
 ## xt9g
@@ -802,13 +683,11 @@ Here being dead is spoken of as being asleep. Alternate translation: “is still
 
 # 4:37
 ## rvs8
-rc://*/ta/man/translate/translate-symaction
-The woman bowed down before Elisha as a sign of great respect and appreciation. Alternate translation: “Then she bowed in front of Elisha with her face to the ground to show him her gratitude” (See: [[rc://*/ta/man/translate/translate-symaction]])
+The woman bowed down before Elisha as a sign of great respect and appreciation. Alternate translation: “Then she bowed in front of Elisha with her face to the ground to show him her gratitude” (See: [[translate-symaction]])
 
 # 4:38
 ## j4lk
-rc://*/ta/man/translate/figs-idiom
-This is an idiom. It does not mean that they were actually the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the group of men who were prophets” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This is an idiom. It does not mean that they were actually the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the group of men who were prophets” (See: [[figs-idiom]])
 
 ## mkn9
 This is a dish that is usually made of meat and vegetables cooked in a pot with liquid.
@@ -821,16 +700,14 @@ These vegetables were growing wild, meaning someone had not planted them.
 He lifted the bottom edge of his robe up to his waist to make a place to carry more gourds than he could carry with his hands only.
 
 ## e55c
-rc://*/ta/man/translate/figs-explicit
-Since they did not know what kind of gourds they were they did not know whether or not they were safe to eat. The full meaning of this statement can be made clear. Alternate translation: “but did not know if they were good or bad to eat” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Since they did not know what kind of gourds they were they did not know whether or not they were safe to eat. The full meaning of this statement can be made clear. Alternate translation: “but did not know if they were good or bad to eat” (See: [[figs-explicit]])
 
 # 4:40
 ## q1p2
 “they poured the stew into bowls”
 
 ## bvf8
-rc://*/ta/man/translate/figs-metonymy
-This means that there was something in the pot that could kill them, not that there is something dead in the pot. Alternate translation: “there is something in the pot that will kill us” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This means that there was something in the pot that could kill them, not that there is something dead in the pot. Alternate translation: “there is something in the pot that will kill us” (See: [[figs-metonymy]])
 
 # 4:41
 ## ss47
@@ -841,12 +718,10 @@ This means that there was something in the pot that could kill them, not that th
 
 # 4:42
 ## e27z
-rc://*/ta/man/translate/translate-names
-This is the name of a city. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a city. (See: [[translate-names]])
 
 ## p26j
-rc://*/ta/man/translate/translate-numbers
-“20 loaves” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“20 loaves” (See: [[translate-numbers]])
 
 ## h26n
 “made from the grain from the new harvest”
@@ -856,33 +731,28 @@ rc://*/ta/man/translate/translate-numbers
 
 # 4:43
 ## l9rl
-rc://*/ta/man/translate/figs-rquestion
-The man uses this rhetorical question to imply that this is not enough bread to feed 100 men. This can be written as a statement. Alternate translation: “That is not enough to feed a hundred men!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The man uses this rhetorical question to imply that this is not enough bread to feed 100 men. This can be written as a statement. Alternate translation: “That is not enough to feed a hundred men!” (See: [[figs-rquestion]])
 
 ## tp2l
-rc://*/ta/man/translate/translate-numbers
-“100 men” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“100 men” (See: [[translate-numbers]])
 
 # 4:44
 ## ra7w
-rc://*/ta/man/translate/figs-metonymy
-Here Yahweh is referred to by what he said. This phrase is a metonym for Yahweh himself. Alternate translation: “Yahweh” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here Yahweh is referred to by what he said. This phrase is a metonym for Yahweh himself. Alternate translation: “Yahweh” (See: [[figs-metonymy]])
 
 # 5:intro
 ## n1ty
 See [[2KI-n1ty]]
 # 5:1
 ## t6rp
-rc://*/ta/man/translate/figs-metonymy
-“sight.” The king’s “view” represents what he thinks about something. Alternate translation: “in the king’s opinion” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“sight.” The king’s “view” represents what he thinks about something. Alternate translation: “in the king’s opinion” (See: [[figs-metonymy]])
 
 ## pdy1
 Here “Aram” refers to the Aramean army. Alternate translation: “because through Naaman, Yahweh had given victory to the Aramean army”
 
 # 5:2
 ## seh1
-rc://*/ta/man/translate/figs-synecdoche
-Here the “Arameans” refer to the Aramean soldiers. (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here the “Arameans” refer to the Aramean soldiers. (See: [[figs-synecdoche]])
 
 ## vyi9
 “in small groups attacking.” This means to go out attacking an enemy in small groups.
@@ -896,69 +766,56 @@ Here “my master” refers to Naaman.
 
 # 5:5
 ## mq1r
-rc://*/ta/man/translate/figs-explicit
-The king is going to give the letter to Naaman to take with him to the king of Israel. Alternate translation: “I will send a letter with you” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The king is going to give the letter to Naaman to take with him to the king of Israel. Alternate translation: “I will send a letter with you” (See: [[figs-explicit]])
 
 ## kp6b
-rc://*/ta/man/translate/translate-numbers
-“10 talents of silver, 6,000 pieces of gold.” This can be written in modern measurements. Alternate translation: “330 kilograms of sliver, 6,000 pieces of gold” (See: [[rc://*/ta/man/translate/translate-numbers]] and [[rc://*/ta/man/translate/translate-bweight]])
+“10 talents of silver, 6,000 pieces of gold.” This can be written in modern measurements. Alternate translation: “330 kilograms of sliver, 6,000 pieces of gold” (See: [[translate-numbers]] and [[translate-bweight]])
 
 ## ge56
-rc://*/ta/man/translate/figs-explicit
-This were gifts from the king of Aram for the king of Israel. Alternate translation: “took with him ten … clothes, which were gifts for the king of Israel” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This were gifts from the king of Aram for the king of Israel. Alternate translation: “took with him ten … clothes, which were gifts for the king of Israel” (See: [[figs-explicit]])
 
 # 5:7
 ## q6lq
-rc://*/ta/man/translate/translate-symaction
-Often people would rip their clothes if they were in great distress. Alternate translation: “he ripped his clothes to show his distress” (See: [[rc://*/ta/man/translate/translate-symaction]])
+Often people would rip their clothes if they were in great distress. Alternate translation: “he ripped his clothes to show his distress” (See: [[translate-symaction]])
 
 ## ief7
-rc://*/ta/man/translate/figs-rquestion
-The king uses this rhetorical question to emphasize that the request of the king of Aram is outrageous and something he cannot do. This can be written as a statement. Alternate translation: “The king of Aram must think I am some sort of God, with the power over death and life! He wants me to cure this man of his leprosy, but I cannot do that.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The king uses this rhetorical question to emphasize that the request of the king of Aram is outrageous and something he cannot do. This can be written as a statement. Alternate translation: “The king of Aram must think I am some sort of God, with the power over death and life! He wants me to cure this man of his leprosy, but I cannot do that.” (See: [[figs-rquestion]])
 
 ## v9df
-rc://*/ta/man/translate/figs-explicit
-The king of Israel did not believe the request to heal Naamam was the real reason for the letter. He thought the real reason was to start a fight. Alternate translation: “It seems he is looking for an excuse to start a fight with me” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The king of Israel did not believe the request to heal Naamam was the real reason for the letter. He thought the real reason was to start a fight. Alternate translation: “It seems he is looking for an excuse to start a fight with me” (See: [[figs-explicit]])
 
 # 5:8
 ## ck82
 See [[2KI-ck82]]
 ## uj3n
-rc://*/ta/man/translate/figs-rquestion
-Elisha uses this rhetorical question to emphasize to the king that he does not need to be distressed and tear his clothes. Alternate translation: “There is no need to be distressed and tear your clothes.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Elisha uses this rhetorical question to emphasize to the king that he does not need to be distressed and tear his clothes. Alternate translation: “There is no need to be distressed and tear your clothes.” (See: [[figs-rquestion]])
 
 # 5:10
 ## qqs5
-rc://*/ta/man/translate/figs-activepassive
-This can be written in active form. Alternate translation: “your flesh will be well” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be written in active form. Alternate translation: “your flesh will be well” (See: [[figs-activepassive]])
 
 ## p9ph
-rc://*/ta/man/translate/figs-metaphor
-this means that he will no longer be unclean. A person who God considers spiritually unacceptable or defiled is spoken of as if the person were physically unclean. God considers a person who has leprosy as being defiled and unclean. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+this means that he will no longer be unclean. A person who God considers spiritually unacceptable or defiled is spoken of as if the person were physically unclean. God considers a person who has leprosy as being defiled and unclean. (See: [[figs-metaphor]])
 
 # 5:11
 ## kr9b
 This word is used here to draw someone’s attention to what is said next. Alternate translation: “Listen”
 
 ## z6ex
-rc://*/ta/man/translate/figs-metonymy
-Here Yahweh is referred to by his name. Alternate translation: “Yahweh” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here Yahweh is referred to by his name. Alternate translation: “Yahweh” (See: [[figs-metonymy]])
 
 ## an1r
 “over the diseased area of my skin” or “over my leprosy”
 
 # 5:12
 ## yxw5
-rc://*/ta/man/translate/figs-rquestion
-Naaman uses this rhetorical question to emphasize that the Abanah and the Pharpar are better rivers than the Jordan. This can be written as a statement. Alternate translation: “The Abanah and the Pharpar Rivers, in my home country of Aram, are much better than any of the rivers of Israel! (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Naaman uses this rhetorical question to emphasize that the Abanah and the Pharpar are better rivers than the Jordan. This can be written as a statement. Alternate translation: “The Abanah and the Pharpar Rivers, in my home country of Aram, are much better than any of the rivers of Israel! (See: [[figs-rquestion]])
 
 ## i532
-rc://*/ta/man/translate/translate-names
-These are the names of rivers. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of rivers. (See: [[translate-names]])
 
 ## iln3
-rc://*/ta/man/translate/figs-rquestion
-Naaman uses this rhetorical question to emphasize that he could have bathed in the other rivers easily. He believes that bathing in them could heal him just as bathing in the Jordan could. This can be written as a statement. Alternate translation: “I should have just bathed in them and been healed!” or “I could just as easily have bathed in them and been healed!” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-irony]])
+Naaman uses this rhetorical question to emphasize that he could have bathed in the other rivers easily. He believes that bathing in them could heal him just as bathing in the Jordan could. This can be written as a statement. Alternate translation: “I should have just bathed in them and been healed!” or “I could just as easily have bathed in them and been healed!” (See: [[figs-rquestion]] and [[figs-irony]])
 
 ## d7lx
 “was very angry as he walked away”
@@ -968,31 +825,26 @@ Naaman uses this rhetorical question to emphasize that he could have bathed in t
 The servants were showing respect to Naaman by addressing him as “my father” or “sir.”
 
 ## yvc6
-rc://*/ta/man/translate/figs-rquestion
-The servant uses this question to carefully rebuke Naaman. Alternate translation: “you surely would have done it!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The servant uses this question to carefully rebuke Naaman. Alternate translation: “you surely would have done it!” (See: [[figs-rquestion]])
 
 ## jg7y
-rc://*/ta/man/translate/figs-ellipsis
-The servant is comparing how much more willing Naaman should be to obey a simple command since he is willing to obey a difficult one. Alternate translation: “How much more willing you should be to obey” or “Should you not be even more willing to obey” (See: [[rc://*/ta/man/translate/figs-ellipsis]])
+The servant is comparing how much more willing Naaman should be to obey a simple command since he is willing to obey a difficult one. Alternate translation: “How much more willing you should be to obey” or “Should you not be even more willing to obey” (See: [[figs-ellipsis]])
 
 ## yyd5
-rc://*/ta/man/translate/figs-rquestion
-The servant uses this rhetorical question to emphasize to Naaman that he should obey Elisha’s command. This question can be written as statement. Alternate translation: “You should be even more willing to obey when he says to you simply, ‘Dip yourself and be clean.’” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The servant uses this rhetorical question to emphasize to Naaman that he should obey Elisha’s command. This question can be written as statement. Alternate translation: “You should be even more willing to obey when he says to you simply, ‘Dip yourself and be clean.’” (See: [[figs-rquestion]])
 
 # 5:14
 ## t8jh
 “Elisha, the man of God”
 
 ## mgk2
-rc://*/ta/man/translate/figs-simile
-This speaks how smooth Namaan’s skin is after he is healed by comparing it to the skin of a young child. Alternate translation: “His flesh was restored again and was as soft as the flesh of a young child” or “His skin was well again and was smooth like a young child’s skin” (See: [[rc://*/ta/man/translate/figs-simile]])
+This speaks how smooth Namaan’s skin is after he is healed by comparing it to the skin of a young child. Alternate translation: “His flesh was restored again and was as soft as the flesh of a young child” or “His skin was well again and was smooth like a young child’s skin” (See: [[figs-simile]])
 
 ## fh8a
 “His skin”
 
 ## y52x
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “his leprosy was gone” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “his leprosy was gone” (See: [[figs-activepassive]])
 
 # 5:15
 ## y16h
@@ -1003,36 +855,29 @@ This word is used here to draw someone’s attention to what is said next. Alter
 
 # 5:16
 ## d9cf
-rc://*/ta/man/translate/figs-simile
-“As surely as I know that Yahweh lives, before whom I stand.” Here Elisha compares the certainty that Yahweh is alive to the certainty that he will not receive any gifts from Naaman. This is a way of making a solemn promise. Alternate translation: “As surely as Yahweh lives, before whom I stand, I promise you that I” (See: [[rc://*/ta/man/translate/figs-simile]])
+“As surely as I know that Yahweh lives, before whom I stand.” Here Elisha compares the certainty that Yahweh is alive to the certainty that he will not receive any gifts from Naaman. This is a way of making a solemn promise. Alternate translation: “As surely as Yahweh lives, before whom I stand, I promise you that I” (See: [[figs-simile]])
 
 ## ha3t
-rc://*/ta/man/translate/figs-metaphor
-Here serving Yahweh is spoken of as standing in his presence. Alternate translation: “whom I serve” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here serving Yahweh is spoken of as standing in his presence. Alternate translation: “whom I serve” (See: [[figs-metaphor]])
 
 ## rt86
-rc://*/ta/man/translate/figs-explicit
-This means that he will not accept any gifts. Alternate translation: “I will not take any gifts” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that he will not accept any gifts. Alternate translation: “I will not take any gifts” (See: [[figs-explicit]])
 
 # 5:17
 ## wz69
-rc://*/ta/man/translate/figs-ellipsis
-The understood information may be supplied. Alternate translation: “If you will not take the gifts I have brought for you” (See: [[rc://*/ta/man/translate/figs-ellipsis]])
+The understood information may be supplied. Alternate translation: “If you will not take the gifts I have brought for you” (See: [[figs-ellipsis]])
 
 ## uf7s
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active from. Alternate translation: “let me have” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active from. Alternate translation: “let me have” (See: [[figs-activepassive]])
 
 ## iy2l
-rc://*/ta/man/translate/figs-explicit
-Naaman is asking to take soil from Israel and place it in sacks for two mules to carry home with him. He then plans to build an altar on the soil. Alternate translation: “as much soil from Israel as two mules can carry, so that I can build an altar to Yahweh” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Naaman is asking to take soil from Israel and place it in sacks for two mules to carry home with him. He then plans to build an altar on the soil. Alternate translation: “as much soil from Israel as two mules can carry, so that I can build an altar to Yahweh” (See: [[figs-explicit]])
 
 ## j1as
 Naaman refers to himself as Elisha’s servant to honor him.
 
 ## fvw4
-rc://*/ta/man/translate/figs-doublenegatives
-This can be written in positive form. Alternate translation: “will not offer burnt offering or sacrifice to any god but Yahweh” or “will only offer burnt offerings and sacrifices to Yahweh” (See: [[rc://*/ta/man/translate/figs-doublenegatives]])
+This can be written in positive form. Alternate translation: “will not offer burnt offering or sacrifice to any god but Yahweh” or “will only offer burnt offerings and sacrifices to Yahweh” (See: [[figs-doublenegatives]])
 
 # 5:18
 ## xb8a
@@ -1050,8 +895,7 @@ This is referring to the king of Aram, the king that Namaan works for.
 “Naaman had traveled”
 
 ## e8j4
-rc://*/ta/man/translate/translate-names
-See how you translated this man’s name in [2 Kings 4:12](../04/12.md). (See: [[rc://*/ta/man/translate/translate-names]])
+See how you translated this man’s name in [2 Kings 4:12](../04/12.md). (See: [[translate-names]])
 
 ## agk6
 This word is used here to draw someone’s attention to what is said next. Alternate translation: “Listen”
@@ -1063,40 +907,33 @@ This word is used here to draw someone’s attention to what is said next. Alter
 “by not accepting”
 
 ## d1p9
-rc://*/ta/man/translate/figs-synecdoche
-Here Naaman is referred to by his hands to emphasize the act of giving. Alternate translation: “from him” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here Naaman is referred to by his hands to emphasize the act of giving. Alternate translation: “from him” (See: [[figs-synecdoche]])
 
 ## bj14
-rc://*/ta/man/translate/figs-simile
-“As surely as Yahweh lives.” Here Gehazi compares the certainty that Yahweh is alive to the certainty of what he has decided to do. This is a way of making a solemn promise. Alternate translation: “As Yahweh lives, I promise” (See: [[rc://*/ta/man/translate/figs-simile]])
+“As surely as Yahweh lives.” Here Gehazi compares the certainty that Yahweh is alive to the certainty of what he has decided to do. This is a way of making a solemn promise. Alternate translation: “As Yahweh lives, I promise” (See: [[figs-simile]])
 
 # 5:22
 ## my23
-rc://*/ta/man/translate/figs-idiom
-This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “from among the prophets there” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “from among the prophets there” (See: [[figs-idiom]])
 
 ## e1md
-rc://*/ta/man/translate/figs-explicit
-Gehazi is asking Naaman to give these things to him so that he can take them and give them to the prophets. Alternate translation: “Please give me a talent of sliver and two changes of clothes to give to them” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Gehazi is asking Naaman to give these things to him so that he can take them and give them to the prophets. Alternate translation: “Please give me a talent of sliver and two changes of clothes to give to them” (See: [[figs-explicit]])
 
 ## a896
 This word is used here to draw someone’s attention to what is said next. Alternate translation: “Listen”
 
 ## m6yl
-rc://*/ta/man/translate/translate-bweight
-This can be written in modern measurements. Alternate translation: “33 kilograms of silver” (See: [[rc://*/ta/man/translate/translate-bweight]])
+This can be written in modern measurements. Alternate translation: “33 kilograms of silver” (See: [[translate-bweight]])
 
 # 5:23
 ## eu8w
-rc://*/ta/man/translate/translate-bweight
-This can be written in modern measurements. This talents are of silver. Alternate translation: “two talents of silver” or “66 kilograms of silver” (See: [[rc://*/ta/man/translate/translate-bweight]] and [[rc://*/ta/man/translate/figs-ellipsis]])
+This can be written in modern measurements. This talents are of silver. Alternate translation: “two talents of silver” or “66 kilograms of silver” (See: [[translate-bweight]] and [[figs-ellipsis]])
 
 ## hvj3
 “gave them to”
 
 ## dk33
-rc://*/ta/man/translate/figs-explicit
-Naaman urged him to take gifts. Alternate translation: “Naaman urged Gehazi to take the gifts” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Naaman urged him to take gifts. Alternate translation: “Naaman urged Gehazi to take the gifts” (See: [[figs-explicit]])
 
 # 5:25
 ## g7mt
@@ -1104,37 +941,31 @@ Gehazi refers to himself here as Elisha’s servant.
 
 # 5:26
 ## vnd5
-rc://*/ta/man/translate/figs-rquestion
-Elisha uses this rhetorical question to emphasize that Yahweh allowed him to see what Gehazi had done. This can be written as a statement. Alternate translation: “You should have realized that my spirit could see you when Naaman stopped his chariot and talked to you.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Elisha uses this rhetorical question to emphasize that Yahweh allowed him to see what Gehazi had done. This can be written as a statement. Alternate translation: “You should have realized that my spirit could see you when Naaman stopped his chariot and talked to you.” (See: [[figs-rquestion]])
 
 ## db2t
-rc://*/ta/man/translate/figs-rquestion
-Elisha uses this rhetorical question to emphasize that this is not the time take gifts. This can be written as a statement. Alternate translation: “This is not the time to accept money … female servants.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Elisha uses this rhetorical question to emphasize that this is not the time take gifts. This can be written as a statement. Alternate translation: “This is not the time to accept money … female servants.” (See: [[figs-rquestion]])
 
 # 5:27
 ## zy6v
 This speaks of Gehazi and his descendant getting leprosy as if Naaman’s leprosy was taken from him and given to Gehazi. Alternate translation: “you and your descendants will have leprosy, just as Naaman had leprosy”
 
 ## qcw4
-rc://*/ta/man/translate/figs-idiom
-The phrase “his presence” refers to the area where Elisha could see him. This means that he left the room where Elisha was. Alternate translation: “When Gehazi left the room, he was” (See: [[rc://*/ta/man/translate/figs-idiom]])
+The phrase “his presence” refers to the area where Elisha could see him. This means that he left the room where Elisha was. Alternate translation: “When Gehazi left the room, he was” (See: [[figs-idiom]])
 
 ## j8kw
-rc://*/ta/man/translate/figs-simile
-Leprosy makes skin white. Here Gehazi’s leprous skin is compared to the color of snow. Alternate translation: “with skin that was white like snow” (See: [[rc://*/ta/man/translate/figs-simile]])
+Leprosy makes skin white. Here Gehazi’s leprous skin is compared to the color of snow. Alternate translation: “with skin that was white like snow” (See: [[figs-simile]])
 
 # 6:intro
 ## x6uv
 See [[2KI-x6uv]]
 # 6:1
 ## u5ch
-rc://*/ta/man/translate/figs-idiom
-This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “The group of prophets” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “The group of prophets” (See: [[figs-idiom]])
 
 # 6:2
 ## g72i
-rc://*/ta/man/translate/figs-explicit
-This refers to the area by the Jordan River. Alternate translation: “let us go beside the Jordan River” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This refers to the area by the Jordan River. Alternate translation: “let us go beside the Jordan River” (See: [[figs-explicit]])
 
 # 6:3
 ## hhg8
@@ -1151,8 +982,7 @@ The ax head refers to the blade of the ax. This means that the ax head came loos
 The man said this to show that he was upset and frustrated. If you have a way of expressing these emotions in your language, you can use it here.
 
 ## e14a
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “I borrowed it” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “I borrowed it” (See: [[figs-activepassive]])
 
 # 6:6
 ## b5x5
@@ -1175,8 +1005,7 @@ God uses Elisha to perform a miracle. The ax head rises to the surface of the wa
 This word is used here to mark a break in the main story line. Here the author starts to tell a new part of the story.
 
 ## iyb8
-rc://*/ta/man/translate/figs-quotations
-The king of Aram was telling his counselors where to set up the camp. Here the phrase “such and such” is a way to refer to the information of the location of the camp without writing it out. If this phase does not translate well into your language this may be written as indirect speech. Alternate translation: “and told them where his camp would be located” (See: [[rc://*/ta/man/translate/figs-quotations]])
+The king of Aram was telling his counselors where to set up the camp. Here the phrase “such and such” is a way to refer to the information of the location of the camp without writing it out. If this phase does not translate well into your language this may be written as indirect speech. Alternate translation: “and told them where his camp would be located” (See: [[figs-quotations]])
 
 # 6:9
 ## k7a6
@@ -1190,22 +1019,18 @@ Elisha knew the specific place that the Arameans were going to set up their camp
 This refers to the place that Elisha had warned the king about in [2 Kings 6:9](../06/09.md).
 
 ## dp7h
-rc://*/ta/man/translate/figs-explicit
-Elisha would warn the king of where the Aramean army would attack so that he could alert the people before the attack happened. Alternate translation: “Elisha warned the king of Israel in this way several times and the Israelites were able to stay safe” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Elisha would warn the king of where the Aramean army would attack so that he could alert the people before the attack happened. Alternate translation: “Elisha warned the king of Israel in this way several times and the Israelites were able to stay safe” (See: [[figs-explicit]])
 
 # 6:11
 ## uas1
-rc://*/ta/man/translate/figs-rquestion
-The king of Aram assumes there is a traitor among his soldiers who is giving information to the Israelite king. He uses this rhetorical question to try to find out who that traitor is. This can be written as a statement. Alternate translation: “Tell me which of you is for the king of Israel!” or “Tell me which of you is revealing our plans to the king of Israel!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The king of Aram assumes there is a traitor among his soldiers who is giving information to the Israelite king. He uses this rhetorical question to try to find out who that traitor is. This can be written as a statement. Alternate translation: “Tell me which of you is for the king of Israel!” or “Tell me which of you is revealing our plans to the king of Israel!” (See: [[figs-rquestion]])
 
 ## i6k1
-rc://*/ta/man/translate/figs-idiom
-“To be for someone” means to be loyal to that person. In this case, it means that they would give information to help the king of Israel. Alternate translation: “is helping the king of Israel” or “is loyal to the king of Israel” (See: [[rc://*/ta/man/translate/figs-idiom]])
+“To be for someone” means to be loyal to that person. In this case, it means that they would give information to help the king of Israel. Alternate translation: “is helping the king of Israel” or “is loyal to the king of Israel” (See: [[figs-idiom]])
 
 # 6:12
 ## j6i2
-rc://*/ta/man/translate/figs-explicit
-The servant is saying that none of the king’s soldiers are giving information to the king of Israel. Alternate translation: “It is none of us” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The servant is saying that none of the king’s soldiers are giving information to the king of Israel. Alternate translation: “It is none of us” (See: [[figs-explicit]])
 
 ## utm2
 This refers to the king of Aram.
@@ -1215,8 +1040,7 @@ This refers to the king of Aram.
 
 # 6:13
 ## zc42
-rc://*/ta/man/translate/figs-metonymy
-The king plans to send the men to capture Elisha for him. The king does not plan to capture him himself. Alternate translation: “I may send men to capture him” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The king plans to send the men to capture Elisha for him. The king does not plan to capture him himself. Alternate translation: “I may send men to capture him” (See: [[figs-metonymy]])
 
 ## dwq5
 This word is used here to draw the king’s attention to what is said next. Alternate translation: “Listen”
@@ -1225,8 +1049,7 @@ This word is used here to draw the king’s attention to what is said next. Alte
 “Elisha is in Dothan”
 
 ## q8tp
-rc://*/ta/man/translate/translate-names
-This is the name of a city. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a city. (See: [[translate-names]])
 
 # 6:14
 ## m6bp
@@ -1243,18 +1066,15 @@ The word “behold” here shows that the servant was surprised by what he saw.
 “got up early in the morning and went outside, and he saw”
 
 ## nj18
-rc://*/ta/man/translate/figs-explicit
-The servant went back inside the house to tell Elisha what he had seen. Alternate translation: “The servant went back inside and said to Elisha” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The servant went back inside the house to tell Elisha what he had seen. Alternate translation: “The servant went back inside and said to Elisha” (See: [[figs-explicit]])
 
 # 6:16
 ## akl9
-rc://*/ta/man/translate/figs-idiom
-“To be with someone” in battle means to fight for their side. Alternate translation: “those who are on our side in the battle are more than those who are on their side” (See: [[rc://*/ta/man/translate/figs-idiom]])
+“To be with someone” in battle means to fight for their side. Alternate translation: “those who are on our side in the battle are more than those who are on their side” (See: [[figs-idiom]])
 
 # 6:17
 ## lck2
-rc://*/ta/man/translate/figs-idiom
-Elisha is asking that his servant may be able to see things that other people cannot see, namely the horses and chariots of fire that are around them. Alternate translation: “make him able to see” (See: [[rc://*/ta/man/translate/figs-idiom]])
+Elisha is asking that his servant may be able to see things that other people cannot see, namely the horses and chariots of fire that are around them. Alternate translation: “make him able to see” (See: [[figs-idiom]])
 
 ## z4r5
 “he could see. What he saw was that”
@@ -1266,8 +1086,7 @@ The word “Behold” here shows that the servant was surprised by what he saw.
 “the mountainside was covered with horses”
 
 ## qyw8
-rc://*/ta/man/translate/figs-metonymy
-This refers to the city where Elisha is. Alternate translation: “around the city where Elisha was” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This refers to the city where Elisha is. Alternate translation: “around the city where Elisha was” (See: [[figs-metonymy]])
 
 # 6:18
 ## a675
@@ -1278,20 +1097,17 @@ This refers to the Aramean soldiers.
 
 # 6:19
 ## w7lp
-rc://*/ta/man/translate/figs-explicit
-Elisha confuses the Arameans by telling them that they are not at the city they are searching for. Alternate translation: “This is not the way, neither is this the city you are looking for” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Elisha confuses the Arameans by telling them that they are not at the city they are searching for. Alternate translation: “This is not the way, neither is this the city you are looking for” (See: [[figs-explicit]])
 
 # 6:20
 ## i4n4
 “It happened that” or “Then,”
 
 ## ns1b
-rc://*/ta/man/translate/figs-idiom
-Elisha is asking Yahweh to cause the men to see clearly again. Alternate translation: “allow these men to see” (See: [[rc://*/ta/man/translate/figs-idiom]])
+Elisha is asking Yahweh to cause the men to see clearly again. Alternate translation: “allow these men to see” (See: [[figs-idiom]])
 
 ## vd3f
-rc://*/ta/man/translate/figs-idiom
-Yahweh allowed the men to see clearly again. Alternate translation: “Yahweh took away their blindness” or “Yahweh allowed them to see clearly” (See: [[rc://*/ta/man/translate/figs-idiom]])
+Yahweh allowed the men to see clearly again. Alternate translation: “Yahweh took away their blindness” or “Yahweh allowed them to see clearly” (See: [[figs-idiom]])
 
 ## jcr4
 The word “behold” here shows that the Arameans were surprised by what they saw.
@@ -1304,68 +1120,56 @@ The word “behold” here shows that the Arameans were surprised by what they s
 The king is speaking to Elisha the prophet and calling him “father” to show respect.
 
 ## w4i5
-rc://*/ta/man/translate/figs-metonymy
-Here the king of Israel is referring to his army as himself. Alternate translation: “Should I order my army to kill these enemy soldiers?” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the king of Israel is referring to his army as himself. Alternate translation: “Should I order my army to kill these enemy soldiers?” (See: [[figs-metonymy]])
 
 # 6:22
 ## we2x
 Elisha was replying to the king of Israel’s question.
 
 ## uvl9
-rc://*/ta/man/translate/figs-rquestion
-Elisha uses this rhetorical question to rebuke the king and tell him not to kill these men. The words “sword and bow” are a metonym for war in which soldiers use swords and bows and arrows. This can be written as a statement. Alternate translation: “You would not kill men whom you had captured in war, so you should not kill these men.” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-metonymy]])
+Elisha uses this rhetorical question to rebuke the king and tell him not to kill these men. The words “sword and bow” are a metonym for war in which soldiers use swords and bows and arrows. This can be written as a statement. Alternate translation: “You would not kill men whom you had captured in war, so you should not kill these men.” (See: [[figs-rquestion]] and [[figs-metonymy]])
 
 ## p6iq
-rc://*/ta/man/translate/figs-synecdoche
-Here “bread” refers to food in general. Alternate translation: “Give them food to eat and water to drink” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “bread” refers to food in general. Alternate translation: “Give them food to eat and water to drink” (See: [[figs-synecdoche]])
 
 ## ga8c
 This refers to the king of Aram.
 
 # 6:23
 ## bl78
-rc://*/ta/man/translate/figs-metonymy
-The king ordered his servants to prepare the food. He did not prepare the food himself. Alternate translation: “Then the king ordered his servants to prepare a lot of food for them” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The king ordered his servants to prepare the food. He did not prepare the food himself. Alternate translation: “Then the king ordered his servants to prepare a lot of food for them” (See: [[figs-metonymy]])
 
 ## ssk3
 “Those groups”
 
 ## yc6t
-rc://*/ta/man/translate/figs-explicit
-This means that they did not attack Israel for a long time. Alternate translation: “stopped attacking the land of Israel for a long time” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that they did not attack Israel for a long time. Alternate translation: “stopped attacking the land of Israel for a long time” (See: [[figs-explicit]])
 
 # 6:24
 ## wce5
-rc://*/ta/man/translate/translate-names
-The name of the king of Aram. His name means “son of Hadad.” (See: [[rc://*/ta/man/translate/translate-names]])
+The name of the king of Aram. His name means “son of Hadad.” (See: [[translate-names]])
 
 ## qq7j
-rc://*/ta/man/translate/figs-synecdoche
-The king and his army attacked Samaria. Alternate translation: “they attacked Samaria” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The king and his army attacked Samaria. Alternate translation: “they attacked Samaria” (See: [[figs-synecdoche]])
 
 # 6:25
 ## qv4k
 The word “behold” here alerts us to pay attention to the surprising information that follows.
 
 ## fhe7
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “a donkey’s head cost” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “a donkey’s head cost” (See: [[figs-activepassive]])
 
 ## w1hd
-rc://*/ta/man/translate/translate-numbers
-“80 pieces of silver” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“80 pieces of silver” (See: [[translate-numbers]])
 
 ## zt5y
-rc://*/ta/man/translate/translate-bvolume
-This can be written in modern measurements. Alternate translation: “a fourth part of a liter” or “a quarter of a liter” (See: [[rc://*/ta/man/translate/translate-bvolume]])
+This can be written in modern measurements. Alternate translation: “a fourth part of a liter” or “a quarter of a liter” (See: [[translate-bvolume]])
 
 ## qsq1
-rc://*/ta/man/translate/translate-fraction
-This is one part out of four equal parts. Alternate translation: “one fourth” or “a quarter” or “1/4” (See: [[rc://*/ta/man/translate/translate-fraction]])
+This is one part out of four equal parts. Alternate translation: “one fourth” or “a quarter” or “1/4” (See: [[translate-fraction]])
 
 ## rs62
-rc://*/ta/man/translate/figs-ellipsis
-The words “was sold for” are understood from the previous phrase. They can be repeated here. Alternate translation: “dove’s dung was sold for” or “dove’s dung cost” (See: [[rc://*/ta/man/translate/figs-ellipsis]])
+The words “was sold for” are understood from the previous phrase. They can be repeated here. Alternate translation: “dove’s dung was sold for” or “dove’s dung cost” (See: [[figs-ellipsis]])
 
 # 6:26
 ## s9jn
@@ -1379,12 +1183,10 @@ The woman referred to the king by this name to show him respect.
 “The king of Israel answered the woman,”
 
 ## i7qs
-rc://*/ta/man/translate/figs-rquestion
-The king uses this rhetorical question to tell the woman that he cannot help her. This can be written as a statement. Alternate translation: “If Yahweh is not helping you, then I cannot help you.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The king uses this rhetorical question to tell the woman that he cannot help her. This can be written as a statement. Alternate translation: “If Yahweh is not helping you, then I cannot help you.” (See: [[figs-rquestion]])
 
 ## x15q
-rc://*/ta/man/translate/figs-rquestion
-The king uses this rhetorical question to emphasize that there is no food available. Here the threshing floor refers to grain and the winepress refers to wine. This can be written as a statement. Alternate translation: “There is nothing coming from the threshing floor or the winepress.” or “There is no food to harvest or any grapes to make wine to drink.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The king uses this rhetorical question to emphasize that there is no food available. Here the threshing floor refers to grain and the winepress refers to wine. This can be written as a statement. Alternate translation: “There is nothing coming from the threshing floor or the winepress.” or “There is no food to harvest or any grapes to make wine to drink.” (See: [[figs-rquestion]])
 
 # 6:28
 ## ud9v
@@ -1396,72 +1198,58 @@ The king uses this rhetorical question to emphasize that there is no food availa
 
 # 6:30
 ## b5qa
-rc://*/ta/man/translate/figs-metonymy
-The words “the words” are a metonym for what the woman said. Alternate translation: “heard the woman tell what she and the other woman had done” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The words “the words” are a metonym for what the woman said. Alternate translation: “heard the woman tell what she and the other woman had done” (See: [[figs-metonymy]])
 
 ## run8
-rc://*/ta/man/translate/translate-symaction
-The king ripped his outer garment to show his distress. Alternate translation: “he tore his clothes in grief” (See: [[rc://*/ta/man/translate/translate-symaction]])
+The king ripped his outer garment to show his distress. Alternate translation: “he tore his clothes in grief” (See: [[translate-symaction]])
 
 ## ht3d
 He had been walking on the city wall when the woman called out to him in [2 Kings 6:24](../06/24.md). Now he continued walking along it.
 
 ## ss3c
-rc://*/ta/man/translate/translate-symaction
-By wearing sackcloth even for his undergarments, the king showed that he was very sad and upset. Alternate translation: “he had sackcloth underneath his outer garment, against his skin” or “he was wearing sackcloth underneath his robe because he was very upset” (See: [[rc://*/ta/man/translate/translate-symaction]])
+By wearing sackcloth even for his undergarments, the king showed that he was very sad and upset. Alternate translation: “he had sackcloth underneath his outer garment, against his skin” or “he was wearing sackcloth underneath his robe because he was very upset” (See: [[translate-symaction]])
 
 # 6:31
 ## uj2p
-rc://*/ta/man/translate/figs-euphemism
-The king is saying he hopes God will punish him and even kill him if Elisha the prophet does not die because of the things that have happened in the city of Samaria. Alternate translation: “May God punish me and kill me” (See: [[rc://*/ta/man/translate/figs-euphemism]])
+The king is saying he hopes God will punish him and even kill him if Elisha the prophet does not die because of the things that have happened in the city of Samaria. Alternate translation: “May God punish me and kill me” (See: [[figs-euphemism]])
 
 ## se8b
-rc://*/ta/man/translate/figs-explicit
-This refers to Elisha dying, specifically be being beheaded. Alternate translation: “if Elisha son of Shaphat is not beheaded today” or “if my soldiers do not behead Elisha son of Shaphat today” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This refers to Elisha dying, specifically be being beheaded. Alternate translation: “if Elisha son of Shaphat is not beheaded today” or “if my soldiers do not behead Elisha son of Shaphat today” (See: [[figs-explicit]])
 
 # 6:32
 ## l5iz
-rc://*/ta/man/translate/figs-idiom
-“To be before the king” means to be one of his servants. Alternate translation: “The king of Israel sent one of his servants as a messenger” (See: [[rc://*/ta/man/translate/figs-idiom]])
+“To be before the king” means to be one of his servants. Alternate translation: “The king of Israel sent one of his servants as a messenger” (See: [[figs-idiom]])
 
 ## q454
-rc://*/ta/man/translate/figs-explicit
-Here Elisha is speaking to the elders right before the king’s messenger arrived. Alternate translation: “when the messenger had almost arrived, Elisha said to the elders” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Here Elisha is speaking to the elders right before the king’s messenger arrived. Alternate translation: “when the messenger had almost arrived, Elisha said to the elders” (See: [[figs-explicit]])
 
 ## n9c4
-rc://*/ta/man/translate/figs-rquestion
-Elisha uses this rhetorical question to draw attention to the kings messenger and to insult the king. This can be written as a statement. Alternate translation: “See, this son of a murderer has sent someone to remove my head!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Elisha uses this rhetorical question to draw attention to the kings messenger and to insult the king. This can be written as a statement. Alternate translation: “See, this son of a murderer has sent someone to remove my head!” (See: [[figs-rquestion]])
 
 ## vw57
-rc://*/ta/man/translate/figs-idiom
-This means that the king of Israel has the characteristics of a murderer. Alternate translation: “this man who is like a murderer” or “that murderer” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This means that the king of Israel has the characteristics of a murderer. Alternate translation: “this man who is like a murderer” or “that murderer” (See: [[figs-idiom]])
 
 ## evx7
-rc://*/ta/man/translate/figs-ellipsis
-It is understood that he sent a person. Alternate translation: “has sent someone to” (See: [[rc://*/ta/man/translate/figs-ellipsis]])
+It is understood that he sent a person. Alternate translation: “has sent someone to” (See: [[figs-ellipsis]])
 
 ## xt8t
-rc://*/ta/man/translate/figs-euphemism
-This means to behead him. Alternate translation: “to cut off my head” or “to behead me” (See: [[rc://*/ta/man/translate/figs-euphemism]])
+This means to behead him. Alternate translation: “to cut off my head” or “to behead me” (See: [[figs-euphemism]])
 
 ## nrb2
 Elisha uses this word here to draw the elder’s attention to what he says next. Alternate translation: “Listen to what I want you to do: when”
 
 ## sy1a
-rc://*/ta/man/translate/figs-idiom
-If a door is shut against someone it means that it is closed and that they may not enter through it. Alternate translation: “hold the door shut so that he cannot come in” (See: [[rc://*/ta/man/translate/figs-idiom]])
+If a door is shut against someone it means that it is closed and that they may not enter through it. Alternate translation: “hold the door shut so that he cannot come in” (See: [[figs-idiom]])
 
 ## m2uv
-rc://*/ta/man/translate/figs-rquestion
-Elisha uses this question to assure the elders that the king is coming not far behind him. This rhetorical question may be written as a statement. Alternate translation: “The sound of his master’s feet is right behind him.” or “The king will be coming along soon after he arrives.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Elisha uses this question to assure the elders that the king is coming not far behind him. This rhetorical question may be written as a statement. Alternate translation: “The sound of his master’s feet is right behind him.” or “The king will be coming along soon after he arrives.” (See: [[figs-rquestion]])
 
 # 6:33
 ## uca5
 The word “behold” alerts us to the arrival of the messenger.
 
 ## qg92
-rc://*/ta/man/translate/figs-explicit
-The messenger arrived, and so did the king, as Elisha had said he would. The phrase “came down to him” means that they arrived at the place where he was. Alternate translation: “the messenger and the king arrived” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/figs-idiom]])
+The messenger arrived, and so did the king, as Elisha had said he would. The phrase “came down to him” means that they arrived at the place where he was. Alternate translation: “the messenger and the king arrived” (See: [[figs-explicit]] and [[figs-idiom]])
 
 ## q6nq
 “Pay attention, because what I am about to say is both true and important”
@@ -1470,41 +1258,33 @@ The messenger arrived, and so did the king, as Elisha had said he would. The phr
 “Indeed, this trouble.” The word “behold” here adds emphasis to what follows. The phrase “this trouble” refers to the famine in Samaria and the suffering it caused.
 
 ## txv7
-rc://*/ta/man/translate/figs-explicit
-This king use this rhetorical question to emphasize that he does not believe that Yahweh is going to help them. This can be written as a statement. Alternate translation: “Why should I continue to wait for Yahweh to help us?” or “I will not wait any longer for help from Yahweh!” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/figs-rquestion]])
+This king use this rhetorical question to emphasize that he does not believe that Yahweh is going to help them. This can be written as a statement. Alternate translation: “Why should I continue to wait for Yahweh to help us?” or “I will not wait any longer for help from Yahweh!” (See: [[figs-explicit]] and [[figs-rquestion]])
 
 # 7:intro
 ## tr2p
 See [[2KI-tr2p]]
 # 7:1
 ## tu65
-rc://*/ta/man/translate/figs-explicit
-It is implied that the Israelites will be paying less money for these item than they had been. This can be stated in active form. Alternate translation: “people will sell a measure of fine flour for a shekel and two measures of barley for a shekel” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/figs-activepassive]])
+It is implied that the Israelites will be paying less money for these item than they had been. This can be stated in active form. Alternate translation: “people will sell a measure of fine flour for a shekel and two measures of barley for a shekel” (See: [[figs-explicit]] and [[figs-activepassive]])
 
 ## cq3p
-rc://*/ta/man/translate/translate-bvolume
-Here the word “measure” translates the word “seah,” which is a unit of dry measurement equal to about 7 liters. Alternate translation: “7 liters of fine flour … 14 liters of barley” (See: [[rc://*/ta/man/translate/translate-bvolume]])
+Here the word “measure” translates the word “seah,” which is a unit of dry measurement equal to about 7 liters. Alternate translation: “7 liters of fine flour … 14 liters of barley” (See: [[translate-bvolume]])
 
 ## y4hp
-rc://*/ta/man/translate/translate-bmoney
-A shekel is a unit of weight equal to about 11 grams. Alternate translation: “about 11 grams of silver” or “one silver coin” (See: [[rc://*/ta/man/translate/translate-bmoney]])
+A shekel is a unit of weight equal to about 11 grams. Alternate translation: “about 11 grams of silver” or “one silver coin” (See: [[translate-bmoney]])
 
 # 7:2
 ## su6x
-rc://*/ta/man/translate/figs-metaphor
-A high ranking captain who was the king’s personal assistant is spoken of as if he was a person on whom the king leaned his hand. Alternate translation: “the captain who was close to the king” or “the captain who was the king’s personal assistant” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+A high ranking captain who was the king’s personal assistant is spoken of as if he was a person on whom the king leaned his hand. Alternate translation: “the captain who was close to the king” or “the captain who was the king’s personal assistant” (See: [[figs-metaphor]])
 
 ## s4x6
-rc://*/ta/man/translate/figs-metaphor
-Yahweh causing much rain to fall in order to make the crops grow is spoken of as if Yahweh were opening windows in heaven through which he pours down rain. Alternate translation: “even if Yahweh were to cause much rain to fall from heaven” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Yahweh causing much rain to fall in order to make the crops grow is spoken of as if Yahweh were opening windows in heaven through which he pours down rain. Alternate translation: “even if Yahweh were to cause much rain to fall from heaven” (See: [[figs-metaphor]])
 
 ## wdq1
-rc://*/ta/man/translate/figs-rquestion
-The captain asks this question to express his unbelief. This rhetorical question can be translated as a statement. Alternate translation: “this could never happen!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The captain asks this question to express his unbelief. This rhetorical question can be translated as a statement. Alternate translation: “this could never happen!” (See: [[figs-rquestion]])
 
 ## wqh6
-rc://*/ta/man/translate/figs-synecdoche
-The phrase “with your own eyes” emphasizes that the captain will certainly see the things that Elisha prophesied. Alternate translation: “you yourself will watch these things happen” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The phrase “with your own eyes” emphasizes that the captain will certainly see the things that Elisha prophesied. Alternate translation: “you yourself will watch these things happen” (See: [[figs-synecdoche]])
 
 ## d4g8
 “but you will not eat any of the flour or barely”
@@ -1514,8 +1294,7 @@ The phrase “with your own eyes” emphasizes that the captain will certainly s
 This word is used here to mark a break in the main story line. Here the writer starts to tell a new part of the story.
 
 ## bwd4
-rc://*/ta/man/translate/figs-rquestion
-Although there were four men, probably only one of them asks this question. The question is rhetorical and emphasizes that they should not do this. It can be translated as a statement. Alternate translation: “Certainly we should not sit here until we die” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Although there were four men, probably only one of them asks this question. The question is rhetorical and emphasizes that they should not do this. It can be translated as a statement. Alternate translation: “Certainly we should not sit here until we die” (See: [[figs-rquestion]])
 
 # 7:4
 ## phg1
@@ -1536,8 +1315,7 @@ The soldiers of the Aramean army heard noises that sounded like a large army app
 “the Aramean soldiers said to each other”
 
 ## msm4
-rc://*/ta/man/translate/figs-synecdoche
-Here the word “kings” represents the kings and their armies. Alternate translation: “the armies of the Hittites and the Egyptians” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here the word “kings” represents the kings and their armies. Alternate translation: “the armies of the Hittites and the Egyptians” (See: [[figs-synecdoche]])
 
 ## z55a
 “to fight us” or “to attack us”
@@ -1557,22 +1335,18 @@ This refers to items that a conquering army takes from another army that they ha
 “until morning”
 
 ## bw6k
-rc://*/ta/man/translate/figs-metaphor
-Someone punishing the four men is spoken of as if punishment were a person who captures them. Alternate translation: “the people will punish us” or “someone will punish us” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-personification]])
+Someone punishing the four men is spoken of as if punishment were a person who captures them. Alternate translation: “the people will punish us” or “someone will punish us” (See: [[figs-metaphor]] and [[figs-personification]])
 
 ## mg3r
-rc://*/ta/man/translate/figs-metonymy
-Here the word “household” represents the people who live in the king’s palace. Alternate translation: “tell the king and his people” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the word “household” represents the people who live in the king’s palace. Alternate translation: “tell the king and his people” (See: [[figs-metonymy]])
 
 # 7:10
 ## n961
-rc://*/ta/man/translate/figs-explicit
-The implicit information may be stated clearly. Alternate translation: “as they were when the soldiers were still there” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The implicit information may be stated clearly. Alternate translation: “as they were when the soldiers were still there” (See: [[figs-explicit]])
 
 # 7:11
 ## c178
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “then people told it inside the king’s household” or “then people told it to the king and those in his palace” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “then people told it inside the king’s household” or “then people told it to the king and those in his palace” (See: [[figs-activepassive]])
 
 # 7:12
 ## i2pp
@@ -1583,87 +1357,71 @@ This means that they would capture the people and not kill them.
 
 # 7:13
 ## sp83
-rc://*/ta/man/translate/figs-explicit
-Many of the horses belonging to the Israelites had died because of the famine. The meaning of this can be made clear. Alternate translation: “the horses in the city that are still alive” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Many of the horses belonging to the Israelites had died because of the famine. The meaning of this can be made clear. Alternate translation: “the horses in the city that are still alive” (See: [[figs-explicit]])
 
 ## gv7r
-rc://*/ta/man/translate/figs-explicit
-The implicit information about what he wanted to see may be expressed clearly. Alternate translation: “see if what these lepers have said is true” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The implicit information about what he wanted to see may be expressed clearly. Alternate translation: “see if what these lepers have said is true” (See: [[figs-explicit]])
 
 # 7:14
 ## ns26
-rc://*/ta/man/translate/figs-explicit
-The implicit information about what the king wanted them to see may be stated clearly. Alternate translation: “Go and see if what these lepers have said is true” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The implicit information about what the king wanted them to see may be stated clearly. Alternate translation: “Go and see if what these lepers have said is true” (See: [[figs-explicit]])
 
 # 7:15
 ## zcq2
 “They followed the path the Aramean army took all the way to the Jordan River”
 
 ## l1aa
-rc://*/ta/man/translate/figs-hyperbole
-This is an exaggeration that means the men saw these items scattered along the road as they traveled. Alternate translation: “there were clothes and equipment all along the road” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+This is an exaggeration that means the men saw these items scattered along the road as they traveled. Alternate translation: “there were clothes and equipment all along the road” (See: [[figs-hyperbole]])
 
 # 7:16
 ## e95z
 This refers to taking items from a defeated army.
 
 ## pu67
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “So people sold a measure of fine flour for a shekel and two measures of barley for a shekel” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “So people sold a measure of fine flour for a shekel and two measures of barley for a shekel” (See: [[figs-activepassive]])
 
 ## eh13
-rc://*/ta/man/translate/translate-bvolume
-Here the word “measure” translates the word “seah,” which is a unit of dry measurement equal to about 7 liters. Alternate translation: “7 liters of fine flour … 14 liters of barley” (See: [[rc://*/ta/man/translate/translate-bvolume]])
+Here the word “measure” translates the word “seah,” which is a unit of dry measurement equal to about 7 liters. Alternate translation: “7 liters of fine flour … 14 liters of barley” (See: [[translate-bvolume]])
 
 ## pys5
-rc://*/ta/man/translate/translate-bmoney
-A shekel is a unit of weight equal to about 11 grams. Alternate translation: “about 11 grams of silver” or “one silver coin”(See: [[rc://*/ta/man/translate/translate-bmoney]])
+A shekel is a unit of weight equal to about 11 grams. Alternate translation: “about 11 grams of silver” or “one silver coin”(See: [[translate-bmoney]])
 
 ## tv5d
-rc://*/ta/man/translate/figs-metonymy
-Here “word” represents Yahweh. Alternate translation: “just as Yahweh had said” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “word” represents Yahweh. Alternate translation: “just as Yahweh had said” (See: [[figs-metonymy]])
 
 # 7:17
 ## hws6
-rc://*/ta/man/translate/figs-metaphor
-A high ranking captain who was the king’s personal assistant is spoken of as if he were a person on whom the king leaned his hand. See how you translated this in [2 Kings 7:2](../07/02.md). Alternate translation: “the captain who was close to the king” or “the captain who was the king’s personal assistant” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+A high ranking captain who was the king’s personal assistant is spoken of as if he were a person on whom the king leaned his hand. See how you translated this in [2 Kings 7:2](../07/02.md). Alternate translation: “the captain who was close to the king” or “the captain who was the king’s personal assistant” (See: [[figs-metaphor]])
 
 ## r27e
 The crowd of people were in such a rush to get to the food in the camp that they knocked over the man and trampled him to death.
 
 # 7:18
 ## a3ew
-rc://*/ta/man/translate/writing-endofstory
 See [[2KI-a3ew]]
 ## ky49
 “About this time tomorrow”
 
 ## y32g
-rc://*/ta/man/translate/translate-bvolume
-Here the word “measure” translates the word “seah,” which is a unit of dry measurement equal to about 7 liters. Alternate translation: “14 liters of barley … 7 liters of fine flour” (See: [[rc://*/ta/man/translate/translate-bvolume]])
+Here the word “measure” translates the word “seah,” which is a unit of dry measurement equal to about 7 liters. Alternate translation: “14 liters of barley … 7 liters of fine flour” (See: [[translate-bvolume]])
 
 ## kz43
-rc://*/ta/man/translate/translate-bmoney
-A shekel is a unit of weight equal to about 11 grams. Alternate translation: “about 11 grams of silver” or “one silver coin” (See: [[rc://*/ta/man/translate/translate-bmoney]])
+A shekel is a unit of weight equal to about 11 grams. Alternate translation: “about 11 grams of silver” or “one silver coin” (See: [[translate-bmoney]])
 
 # 7:19
 ## n3ly
-rc://*/ta/man/translate/writing-endofstory
 See [[2KI-n3ly]]
 ## g1xx
 “Look” or “Listen” or “Pay attention to what I am about to tell you”
 
 ## gkc2
-rc://*/ta/man/translate/figs-metaphor
-Yahweh causing much rain to fall in order to make the crops grow is spoken of as if Yahweh were opening windows in heaven through which he pours down rain. See how you translated this in [2 Kings 7:2](../07/02.md). Alternate translation: “even if Yahweh were to cause much rain to fall from heaven” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Yahweh causing much rain to fall in order to make the crops grow is spoken of as if Yahweh were opening windows in heaven through which he pours down rain. See how you translated this in [2 Kings 7:2](../07/02.md). Alternate translation: “even if Yahweh were to cause much rain to fall from heaven” (See: [[figs-metaphor]])
 
 ## k7aj
-rc://*/ta/man/translate/figs-rquestion
-The captain asks this question to express his unbelief. This question can be translated as a statement. See how you translated this in [2 Kings 7:2](../07/02.md). Alternate translation: “this could never happen!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The captain asks this question to express his unbelief. This question can be translated as a statement. See how you translated this in [2 Kings 7:2](../07/02.md). Alternate translation: “this could never happen!” (See: [[figs-rquestion]])
 
 ## z799
-rc://*/ta/man/translate/figs-synecdoche
-The phrase “with your own eyes” emphasizes that the captain will certainly see the things that Elisha prophesied. See how you translated this in [2 Kings 7:2](../07/02.md). Alternate translation: “you yourself will watch these things happen” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The phrase “with your own eyes” emphasizes that the captain will certainly see the things that Elisha prophesied. See how you translated this in [2 Kings 7:2](../07/02.md). Alternate translation: “you yourself will watch these things happen” (See: [[figs-synecdoche]])
 
 ## e8ni
 “but you will not eat any of the flour or barley”
@@ -1696,48 +1454,39 @@ To arise here is for a person to stop what he is doing and begin to do what he n
 This refers to the king of Israel.
 
 ## z25q
-rc://*/ta/man/translate/figs-explicit
-While the woman was gone, her home and property were sieged. She is begging for them to be returned to her. The full meaning of this statement can be made clear. Alternate translation: “for her home and her property to be returned to her” (See: [[rc://*/ta/man/translate/figs-explicit]])
+While the woman was gone, her home and property were sieged. She is begging for them to be returned to her. The full meaning of this statement can be made clear. Alternate translation: “for her home and her property to be returned to her” (See: [[figs-explicit]])
 
 # 8:4
 ## a78n
-rc://*/ta/man/translate/writing-background
-This word is used here to mark a break in the main story line. Here the author tells us background information about what the king was doing when the woman arrived. (See: [[rc://*/ta/man/translate/writing-background]])
+This word is used here to mark a break in the main story line. Here the author tells us background information about what the king was doing when the woman arrived. (See: [[writing-background]])
 
 # 8:5
 ## dt7a
 “had caused the child who was dead to become alive again”
 
 ## yfr8
-rc://*/ta/man/translate/figs-explicit
-While the woman was gone, her home and property were sieged. She is begging for them to be returned to her. The meaning of this can be made clear. Alternate translation: “for her home and her property to be returned to her” (See: [[rc://*/ta/man/translate/figs-explicit]])
+While the woman was gone, her home and property were sieged. She is begging for them to be returned to her. The meaning of this can be made clear. Alternate translation: “for her home and her property to be returned to her” (See: [[figs-explicit]])
 
 # 8:6
 ## zv9x
-rc://*/ta/man/translate/figs-explicit
-This refers to the story of her son dying and Elisha bringing him back to life. The meaning of this statement can be made explicit. Alternate translation: “about what had happened to her son” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This refers to the story of her son dying and Elisha bringing him back to life. The meaning of this statement can be made explicit. Alternate translation: “about what had happened to her son” (See: [[figs-explicit]])
 
 ## lmk8
-rc://*/ta/man/translate/figs-metonymy
-This metonym refers to the amount of money that the harvests of her fields were worth while she was away. Alternate translation: “all the profit from the harvests of her fields” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This metonym refers to the amount of money that the harvests of her fields were worth while she was away. Alternate translation: “all the profit from the harvests of her fields” (See: [[figs-metonymy]])
 
 # 8:7
 ## e6xa
-rc://*/ta/man/translate/translate-names
-This is the name of the king of Aram. His name means “son of Hadad.” See how you translated this man’s name in [2 Kings 6:24](../06/24.md). (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of the king of Aram. His name means “son of Hadad.” See how you translated this man’s name in [2 Kings 6:24](../06/24.md). (See: [[translate-names]])
 
 # 8:8
 ## ds2t
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## q5ru
-rc://*/ta/man/translate/figs-synecdoche
-Hazael was to take many gifts, not just one. Alternate translation: “take many gifts” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Hazael was to take many gifts, not just one. Alternate translation: “take many gifts” (See: [[figs-synecdoche]])
 
 ## gw6t
-rc://*/ta/man/translate/figs-idiom
-The phrase “in your hand” is an idiom meaning for him to take the gifts with him. Alternate translation: “with you” (See: [[rc://*/ta/man/translate/figs-idiom]])
+The phrase “in your hand” is an idiom meaning for him to take the gifts with him. Alternate translation: “with you” (See: [[figs-idiom]])
 
 ## weg2
 “Elisha, the man of God”
@@ -1750,12 +1499,10 @@ The phrase “in your hand” is an idiom meaning for him to take the gifts with
 This can be stated in active form. Alternate translation: “which forty camels carried”
 
 ## n2g2
-rc://*/ta/man/translate/translate-numbers
-“40 camels” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“40 camels” (See: [[translate-numbers]])
 
 ## sg7r
-rc://*/ta/man/translate/figs-metaphor
-Ben Hadad was not actually Elisha’s son, but Hazael called him that to show a close relationship between them. Alternate translation: “Ben Hadad, the king of Aram, who is like a son to you” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Ben Hadad was not actually Elisha’s son, but Hazael called him that to show a close relationship between them. Alternate translation: “Ben Hadad, the king of Aram, who is like a son to you” (See: [[figs-metaphor]])
 
 # 8:11
 ## y1jt
@@ -1769,35 +1516,29 @@ Hazael refers to Elisha this way to honor him.
 God has shown Elisha what will take place in the future.
 
 ## cp79
-rc://*/ta/man/translate/figs-synecdoche
-The word “you” represents Hazael and refers to himself and the soldiers under his control when he is king. Alternate translation: “you will cause to happen” or “you will order your soldiers” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The word “you” represents Hazael and refers to himself and the soldiers under his control when he is king. Alternate translation: “you will cause to happen” or “you will order your soldiers” (See: [[figs-synecdoche]])
 
 ## rs1h
-rc://*/ta/man/translate/figs-metonymy
-The word “you” represents Hazel but here refers to his soldiers and not to Hazael personally. Alternate translation: “You soldiers will set … your soldiers will kill” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The word “you” represents Hazel but here refers to his soldiers and not to Hazael personally. Alternate translation: “You soldiers will set … your soldiers will kill” (See: [[figs-metonymy]])
 
 ## mwe9
 “crush their little children.” This is a brutal description of the soldiers killing children.
 
 ## c5cf
-rc://*/ta/man/translate/figs-metonymy
-This means that the men will be killed in battle. The sword was the main weapon used in battle. Alternate translation: “kill their young men in battle” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This means that the men will be killed in battle. The sword was the main weapon used in battle. Alternate translation: “kill their young men in battle” (See: [[figs-metonymy]])
 
 ## m5j3
-rc://*/ta/man/translate/figs-explicit
-Specifically this refers to tear open their stomachs. Alternate translation: “rip open the stomachs of their pregnant women with swords” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Specifically this refers to tear open their stomachs. Alternate translation: “rip open the stomachs of their pregnant women with swords” (See: [[figs-explicit]])
 
 # 8:13
 ## t6fk
-rc://*/ta/man/translate/figs-rquestion
-Hazel refers to himself here as Elisha’s servant. Hazel uses this rhetorical question to emphasize that he does not think he could do the terrible things that Elisha has said. This can be written as a statement. Alternate translation: “I could never do such great things!” or “Who am I, that I would have the power to do such things?” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Hazel refers to himself here as Elisha’s servant. Hazel uses this rhetorical question to emphasize that he does not think he could do the terrible things that Elisha has said. This can be written as a statement. Alternate translation: “I could never do such great things!” or “Who am I, that I would have the power to do such things?” (See: [[figs-rquestion]])
 
 ## jrg4
 “this terrible thing.” Here the word “great” refers to something that has a large effect and is terrible.
 
 ## pk37
-rc://*/ta/man/translate/figs-metaphor
-Hazael is talking about himself. He speaks of his low status and lack of influence by comparing himself to a dog. Here a dog represents a lowly animal. Alternate translation: “I am as powerless as a dog” or “I am as powerless as a lowly animal” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Hazael is talking about himself. He speaks of his low status and lack of influence by comparing himself to a dog. Here a dog represents a lowly animal. Alternate translation: “I am as powerless as a dog” or “I am as powerless as a lowly animal” (See: [[figs-metaphor]])
 
 # 8:14
 ## u24x
@@ -1805,68 +1546,57 @@ The phrase “his master” refers to Ben Hadad.
 
 # 8:15
 ## k77k
-rc://*/ta/man/translate/figs-explicit
-This means that Ben Hadad suffocated under the wet blanket. The full meaning of this statement can be made clear. Alternate translation: “face. Ben Hadad was unable to breathe through it, and so he died” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that Ben Hadad suffocated under the wet blanket. The full meaning of this statement can be made clear. Alternate translation: “face. Ben Hadad was unable to breathe through it, and so he died” (See: [[figs-explicit]])
 
 # 8:16
 ## x6vk
 See [[2KI-x6vk]]
 ## twh9
-rc://*/ta/man/translate/figs-explicit
-This describes the time that Jehoram began to reign over Judah by stating how long Joram, the current king of Israel, had been reigning. Alternate translation: “In the fifth year that Jorman son of Ahab was king of Israel” or “In year five of the reign of Joram son of Ahab, king of Israel” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This describes the time that Jehoram began to reign over Judah by stating how long Joram, the current king of Israel, had been reigning. Alternate translation: “In the fifth year that Jorman son of Ahab was king of Israel” or “In year five of the reign of Joram son of Ahab, king of Israel” (See: [[figs-explicit]])
 
 ## th81
-rc://*/ta/man/translate/translate-ordinal
-“year 5” (See: [[rc://*/ta/man/translate/translate-ordinal]])
+“year 5” (See: [[translate-ordinal]])
 
 ## kr57
 Jehoram, son of Jehoshaphat, became the king of Judah.
 
 # 8:17
 ## yy79
-rc://*/ta/man/translate/translate-numbers
-“32 years old” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“32 years old” (See: [[translate-numbers]])
 
 # 8:18
 ## n85x
-rc://*/ta/man/translate/figs-idiom
-Here “walking” is an idiom that refers to how he lived and reigned as king. At this time in history, the recent kings of Israel had been evil kings. The full meaning of this statement can be made clear. Alternate translation: “Jehoram was an evil king, just as other kings of Israel who ruled before him had been” (See: [[rc://*/ta/man/translate/figs-idiom]] and [[rc://*/ta/man/translate/figs-explicit]])
+Here “walking” is an idiom that refers to how he lived and reigned as king. At this time in history, the recent kings of Israel had been evil kings. The full meaning of this statement can be made clear. Alternate translation: “Jehoram was an evil king, just as other kings of Israel who ruled before him had been” (See: [[figs-idiom]] and [[figs-explicit]])
 
 ## dj52
-rc://*/ta/man/translate/figs-metonymy
-Here the “house” of Ahab refers to the members of Ahab’s family and his recent descendants. Ahab is Jehoram father-in-law. Alternate translation: “the same as the rest of the family of Ahab was doing” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the “house” of Ahab refers to the members of Ahab’s family and his recent descendants. Ahab is Jehoram father-in-law. Alternate translation: “the same as the rest of the family of Ahab was doing” (See: [[figs-metonymy]])
 
 ## s1wc
 Jehoram had married king Ahab’s daughter.
 
 ## p4ym
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 # 8:19
 ## j8s5
-rc://*/ta/man/translate/figs-metonymy
-Here “Judah” is a metonym for the people who live there. Alternate translation: “destroy the people of Judah” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “Judah” is a metonym for the people who live there. Alternate translation: “destroy the people of Judah” (See: [[figs-metonymy]])
 
 ## yb5a
-rc://*/ta/man/translate/figs-explicit
-“since Yahweh had told David that he would always give David descendants.” This refers to Yahweh’s promise to David that his descendants would always rule Judah. The full meaning of this statement can be made explicit. Alternate translation: “since he had told David that his descendants would always rule Judah” (See: [[rc://*/ta/man/translate/figs-explicit]])
+“since Yahweh had told David that he would always give David descendants.” This refers to Yahweh’s promise to David that his descendants would always rule Judah. The full meaning of this statement can be made explicit. Alternate translation: “since he had told David that his descendants would always rule Judah” (See: [[figs-explicit]])
 
 # 8:20
 ## g8i2
 “Edom rebelled against”
 
 ## lj7q
-rc://*/ta/man/translate/figs-metonymy
-Here the word “hand” refers to the control of Judah, and “Judah” refers specifically to the king of Judah. Alternate translation: “the control of the king of Judah” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the word “hand” refers to the control of Judah, and “Judah” refers specifically to the king of Judah. Alternate translation: “the control of the king of Judah” (See: [[figs-metonymy]])
 
 ## m55m
 “they appointed a king to rule over themselves”
 
 # 8:21
 ## gqd7
-rc://*/ta/man/translate/figs-explicit
-What was “crossed over” can be stated clearly. Alternate translation: “Then Jehoram crossed the enemy lines” (See: [[rc://*/ta/man/translate/figs-explicit]])
+What was “crossed over” can be stated clearly. Alternate translation: “Then Jehoram crossed the enemy lines” (See: [[figs-explicit]])
 
 # 8:22
 ## bue7
@@ -1875,32 +1605,27 @@ See [[2KI-bue7]]
 “So after that, Edom was no longer controlled by Judah, and it is still like that”
 
 ## za77
-rc://*/ta/man/translate/figs-metonymy
-Here “Judah” refers to the king of Judah. Alternate translation: “the rule of the king of Judah” or “the authority of the king of Judah” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “Judah” refers to the king of Judah. Alternate translation: “the rule of the king of Judah” or “the authority of the king of Judah” (See: [[figs-metonymy]])
 
 ## gu5q
 to the time that this book was written
 
 ## c7ws
-rc://*/ta/man/translate/figs-explicit
-Libnah rebelled against the king of Judah just as Edom had. Alternate translation: “During that same time, Libnah also rebelled against the king of Judah” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Libnah rebelled against the king of Judah just as Edom had. Alternate translation: “During that same time, Libnah also rebelled against the king of Judah” (See: [[figs-explicit]])
 
 ## ezk7
-rc://*/ta/man/translate/translate-names
-This is another city that was originally part of Judah. Here “Libnah” refers to the people who live there. Alternate translation: “the people of Libnah” (See: [[rc://*/ta/man/translate/translate-names]] and [[rc://*/ta/man/translate/figs-metonymy]])
+This is another city that was originally part of Judah. Here “Libnah” refers to the people who live there. Alternate translation: “the people of Libnah” (See: [[translate-names]] and [[figs-metonymy]])
 
 # 8:23
 ## nxu4
 “To read more about the history of Jehoram and what he did,”
 
 ## ys1v
-rc://*/ta/man/translate/figs-rquestion
-This question is used to either inform or remind the readers that the information about Jehoram is in this other book. Alternate translation: “these things are written … Judah.” or “someone has written about them … Judah.” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-activepassive]])
+This question is used to either inform or remind the readers that the information about Jehoram is in this other book. Alternate translation: “these things are written … Judah.” or “someone has written about them … Judah.” (See: [[figs-rquestion]] and [[figs-activepassive]])
 
 # 8:24
 ## a4g1
-rc://*/ta/man/translate/figs-euphemism
-Here “rested” is a polite way of referring to someone dying. After he died, his body was buried in the same place as the bodies of his forefathers. The phrase “was buried” can be stated in active form. Alternate translation: “Jehoram died as his ancestors had died, and they buried him with his ancestors” (See: [[rc://*/ta/man/translate/figs-euphemism]] and [[rc://*/ta/man/translate/figs-activepassive]])
+Here “rested” is a polite way of referring to someone dying. After he died, his body was buried in the same place as the bodies of his forefathers. The phrase “was buried” can be stated in active form. Alternate translation: “Jehoram died as his ancestors had died, and they buried him with his ancestors” (See: [[figs-euphemism]] and [[figs-activepassive]])
 
 ## a8hw
 “Then Ahaziah, Jehoram’s son, became king after he died”
@@ -1909,77 +1634,61 @@ Here “rested” is a polite way of referring to someone dying. After he died, 
 ## xk56
 See [[2KI-xk56]]
 ## f3kd
-rc://*/ta/man/translate/figs-explicit
-This describes the time that Ahaziah began to reign as king of Judah by stating how long Joram, the current king of Israel, had reigned. Alternate translation: “in the twelfth year that Joram son of Ahab was king of Israel” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This describes the time that Ahaziah began to reign as king of Judah by stating how long Joram, the current king of Israel, had reigned. Alternate translation: “in the twelfth year that Joram son of Ahab was king of Israel” (See: [[figs-explicit]])
 
 ## x65c
-rc://*/ta/man/translate/translate-ordinal
-“12th year” (See: [[rc://*/ta/man/translate/translate-ordinal]])
+“12th year” (See: [[translate-ordinal]])
 
 # 8:26
 ## jxz8
-rc://*/ta/man/translate/translate-numbers
-“22 years” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“22 years” (See: [[translate-numbers]])
 
 ## ja9u
-rc://*/ta/man/translate/translate-names
-Athaliah is the name of a woman. Omri is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+Athaliah is the name of a woman. Omri is the name of a man. (See: [[translate-names]])
 
 # 8:27
 ## tvy6
-rc://*/ta/man/translate/figs-idiom
-Here “walking” refers his behavior or the way in which he lived. Alternate translation: “Ahaziah lived the same way as the others in” (See: [[rc://*/ta/man/translate/figs-idiom]])
+Here “walking” refers his behavior or the way in which he lived. Alternate translation: “Ahaziah lived the same way as the others in” (See: [[figs-idiom]])
 
 ## a5ad
-rc://*/ta/man/translate/figs-metonymy
-Here the “house” of Ahab refers to his family. Alternate translation: “the family of Ahab” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the “house” of Ahab refers to his family. Alternate translation: “the family of Ahab” (See: [[figs-metonymy]])
 
 ## r7k2
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 ## h1s1
-rc://*/ta/man/translate/figs-explicit
-This explains Ahaziah’s family relationship to Ahab. Ahaziah’s father was married to Ahab’s daughter. The meaning of this can be made clear. Alternate translation: “the son of Ahab’s son-in-law” or “a grandson of King Ahab” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This explains Ahaziah’s family relationship to Ahab. Ahaziah’s father was married to Ahab’s daughter. The meaning of this can be made clear. Alternate translation: “the son of Ahab’s son-in-law” or “a grandson of King Ahab” (See: [[figs-explicit]])
 
 # 8:28
 ## hi68
-rc://*/ta/man/translate/figs-synecdoche
-The names of the three kings listed here are synecdoches and refer also to their armies that accompany them. Alternate translation: “Ahaziah’s army joined the army of King Joram of Israel to fight against the army of King Hazael of Aram” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The names of the three kings listed here are synecdoches and refer also to their armies that accompany them. Alternate translation: “Ahaziah’s army joined the army of King Joram of Israel to fight against the army of King Hazael of Aram” (See: [[figs-synecdoche]])
 
 # 8:29
 ## e1qq
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “to heal” or “to recover” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “to heal” or “to recover” (See: [[figs-activepassive]])
 
 ## wi44
-rc://*/ta/man/translate/figs-synecdoche
-Here “Hazael” refers to himself and his army. Alternate translation: “the army of Hazael king of Aram” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “Hazael” refers to himself and his army. Alternate translation: “the army of Hazael king of Aram” (See: [[figs-synecdoche]])
 
 ## c1ui
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “the Arameans had wounded Joram” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “the Arameans had wounded Joram” (See: [[figs-activepassive]])
 
 # 9:intro
 ## eu4t
 See [[2KI-eu4t]]
 # 9:1
 ## yn86
-rc://*/ta/man/translate/figs-idiom
-This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the group of the prophets” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [2 Kings 2:3](../02/03.md). Alternate translation: “the group of the prophets” (See: [[figs-idiom]])
 
 ## xc5s
-rc://*/ta/man/translate/figs-synecdoche
-The phrase “in your hand” refers to him taking the bottle with him. Alternate translation: “with you” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The phrase “in your hand” refers to him taking the bottle with him. Alternate translation: “with you” (See: [[figs-synecdoche]])
 
 ## u975
-rc://*/ta/man/translate/translate-names
-Translate the name of this city the same as you did in [2 Kings 8:28](../08/28.md). (See: [[rc://*/ta/man/translate/translate-names]])
+Translate the name of this city the same as you did in [2 Kings 8:28](../08/28.md). (See: [[translate-names]])
 
 # 9:2
 ## bsu9
-rc://*/ta/man/translate/translate-names
-This means that Jehoshaphat is Jehu’s father and that Nimshi is Jehoshapat’s father. (See: [[rc://*/ta/man/translate/translate-names]])
+This means that Jehoshaphat is Jehu’s father and that Nimshi is Jehoshapat’s father. (See: [[translate-names]])
 
 ## suq1
 These are the people with whom Jehu was sitting.
@@ -1995,8 +1704,7 @@ These are the people with whom Jehu was sitting.
 The writer uses the word “behold” to direct attention to what follows. If you have a way of doing this in your language, you can use it here.
 
 ## nk22
-rc://*/ta/man/translate/figs-explicit
-Jehu was sitting among the captains. You may introduce Jehu to the story line here if this is necessary in your language. Alternate translation: “Jehu and some other army officers were sitting together” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Jehu was sitting among the captains. You may introduce Jehu to the story line here if this is necessary in your language. Alternate translation: “Jehu and some other army officers were sitting together” (See: [[figs-explicit]])
 
 ## y24h
 The word “us” refers to Jehu and the other army captains.
@@ -2005,49 +1713,39 @@ The word “us” refers to Jehu and the other army captains.
 ## n5fj
 See [[2KI-n5fj]]
 ## e949
-rc://*/ta/man/translate/figs-metonymy
-Here the “blood” of the prophets and the servants refers to their deaths. Alternate translation: “I may avenge the deaths of my servants the prophets and all the servants of Yahweh” or “so that I may punish them for murdering my servants the prophets and all the servants of Yahweh” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the “blood” of the prophets and the servants refers to their deaths. Alternate translation: “I may avenge the deaths of my servants the prophets and all the servants of Yahweh” or “so that I may punish them for murdering my servants the prophets and all the servants of Yahweh” (See: [[figs-metonymy]])
 
 ## v3iw
-rc://*/ta/man/translate/figs-ellipsis
-The understood verb may be supplied. Alternate translation: “avenge the blood” (See: [[rc://*/ta/man/translate/figs-ellipsis]])
+The understood verb may be supplied. Alternate translation: “avenge the blood” (See: [[figs-ellipsis]])
 
 ## t494
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “whom Jezebel commanded her servants to murder” or “whose deaths were commanded by Jezebel” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “whom Jezebel commanded her servants to murder” or “whose deaths were commanded by Jezebel” (See: [[figs-activepassive]])
 
 ## f5vj
-rc://*/ta/man/translate/figs-metonymy
-This means that Jezebel commanded the people to be killed. Alternate translation: “by an order from Jezebel” or “by Jezebel’s command” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This means that Jezebel commanded the people to be killed. Alternate translation: “by an order from Jezebel” or “by Jezebel’s command” (See: [[figs-metonymy]])
 
 # 9:8
 ## xlv4
-rc://*/ta/man/translate/figs-euphemism
-Here to be “cut off” means to be killed. Alternate translation: “For the whole family of Ahab will perish, and I will cause every male child in his family to be killed” or “Every member of Ahab’s family will die, including every male child” (See: [[rc://*/ta/man/translate/figs-euphemism]])
+Here to be “cut off” means to be killed. Alternate translation: “For the whole family of Ahab will perish, and I will cause every male child in his family to be killed” or “Every member of Ahab’s family will die, including every male child” (See: [[figs-euphemism]])
 
 ## nm7u
-rc://*/ta/man/translate/figs-synecdoche
-This phrase is used to refer to every male, but it specifies “child” to emphasize that it includes children. Alternate translation: “every male” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+This phrase is used to refer to every male, but it specifies “child” to emphasize that it includes children. Alternate translation: “every male” (See: [[figs-synecdoche]])
 
 # 9:9
 ## wgr2
 See [[2KI-wgr2]]
 ## ev98
-rc://*/ta/man/translate/figs-explicit
-This means that God will destroy Ahab and his family just as he destroyed Jeroboam and Baasha and their families. Alternate translation: “I will get rid of the house of Ahab like I got rid of” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that God will destroy Ahab and his family just as he destroyed Jeroboam and Baasha and their families. Alternate translation: “I will get rid of the house of Ahab like I got rid of” (See: [[figs-explicit]])
 
 ## t27a
-rc://*/ta/man/translate/figs-metonymy
-This phrase is used in this verse three times. Each time, the word “house” refers to the “family” of the man specified. Alternate translation: “the family of” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This phrase is used in this verse three times. Each time, the word “house” refers to the “family” of the man specified. Alternate translation: “the family of” (See: [[figs-metonymy]])
 
 ## xb8q
-rc://*/ta/man/translate/translate-transliterate
-These are the names of men. Translate the name “Nebat” the same as you did in [2 Kings 3:3](../03/03.md). (See: [[rc://*/ta/man/translate/translate-transliterate]])
+These are the names of men. Translate the name “Nebat” the same as you did in [2 Kings 3:3](../03/03.md). (See: [[translate-transliterate]])
 
 # 9:10
 ## lvi6
-rc://*/ta/man/translate/figs-explicit
-This means that the dogs will eat her dead body. Alternate translation: “Dogs will eat the dead body of Jezebel” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that the dogs will eat her dead body. Alternate translation: “Dogs will eat the dead body of Jezebel” (See: [[figs-explicit]])
 
 # 9:11
 ## b369
@@ -2068,58 +1766,46 @@ Jehu says that he is a young prophet and they all are familiar with the kinds of
 
 # 9:13
 ## zdb5
-rc://*/ta/man/translate/figs-explicit
-In this culture, putting clothing on the ground was a way of honoring the king, so that his feet would not touch the dirty ground. Alternate translation: “took off their outer clothes and put them in front of Jehu for him to walk on” (See: [[rc://*/ta/man/translate/figs-explicit]])
+In this culture, putting clothing on the ground was a way of honoring the king, so that his feet would not touch the dirty ground. Alternate translation: “took off their outer clothes and put them in front of Jehu for him to walk on” (See: [[figs-explicit]])
 
 ## ex32
-rc://*/ta/man/translate/figs-synecdoche
-Not every man blew a trumpet. It is likely only one man blew a trumpet. Alternate translation: “One of them blew the trumpet and they all said” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Not every man blew a trumpet. It is likely only one man blew a trumpet. Alternate translation: “One of them blew the trumpet and they all said” (See: [[figs-synecdoche]])
 
 # 9:14
 ## hv9p
-rc://*/ta/man/translate/translate-names
-Translate the name of this man the same as you did in [2 Kings 9:2](../09/02.md). (See: [[rc://*/ta/man/translate/translate-names]])
+Translate the name of this man the same as you did in [2 Kings 9:2](../09/02.md). (See: [[translate-names]])
 
 ## s5nw
-rc://*/ta/man/translate/writing-background
-This word is used here to mark a break in the main story line. Here the author tells background information about how Joram was wounded and went to recover in Jezreel. (See: [[rc://*/ta/man/translate/writing-background]])
+This word is used here to mark a break in the main story line. Here the author tells background information about how Joram was wounded and went to recover in Jezreel. (See: [[writing-background]])
 
 ## pd6w
-rc://*/ta/man/translate/figs-synecdoche
-These refers only to the Israelite army and not to everyone who lives in Israel. Alternate translation: “he and his army” or “he and the Israelite army” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+These refers only to the Israelite army and not to everyone who lives in Israel. Alternate translation: “he and his army” or “he and the Israelite army” (See: [[figs-synecdoche]])
 
 ## w256
-rc://*/ta/man/translate/translate-names
-Translate the name of this man the same as you did in [2 Kings 8:8](../08/08.md). (See: [[rc://*/ta/man/translate/translate-names]])
+Translate the name of this man the same as you did in [2 Kings 8:8](../08/08.md). (See: [[translate-names]])
 
 # 9:15
 ## lga8
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “to recover from” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “to recover from” (See: [[figs-activepassive]])
 
 ## py61
-rc://*/ta/man/translate/figs-explicit
-This means that he was wounded in battle with the Arameans. Alternate translation: “wounds that Joram got during the battle with the Aramean army” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that he was wounded in battle with the Arameans. Alternate translation: “wounds that Joram got during the battle with the Aramean army” (See: [[figs-explicit]])
 
 ## v2kz
-rc://*/ta/man/translate/figs-synecdoche
-This refers to Hazael and his army. Alternate translation: “against Hazael king of Aram and his army” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+This refers to Hazael and his army. Alternate translation: “against Hazael king of Aram and his army” (See: [[figs-synecdoche]])
 
 ## u6gv
 This refers to the officers who were with Joram at Ramoth Gilead.
 
 ## tk4f
-rc://*/ta/man/translate/figs-explicit
-“If you are in agreement with me” Jehu uses this phrase to refer to if people are supportive of him being king and of his decisions. Alternate translation: “If you truly want me to be your king” (See: [[rc://*/ta/man/translate/figs-explicit]])
+“If you are in agreement with me” Jehu uses this phrase to refer to if people are supportive of him being king and of his decisions. Alternate translation: “If you truly want me to be your king” (See: [[figs-explicit]])
 
 ## a8i6
-rc://*/ta/man/translate/figs-explicit
-This refers to telling Joram and his army of Jehu’s plans. Alternate translation: “to warn king Joram and his army in Jezreel” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This refers to telling Joram and his army of Jehu’s plans. Alternate translation: “to warn king Joram and his army in Jezreel” (See: [[figs-explicit]])
 
 # 9:16
 ## w7v3
-rc://*/ta/man/translate/writing-background
-The word “now” is used here to mark a break in the main story line. Here the author tells background information about Ahaziah visiting Joram. (See: [[rc://*/ta/man/translate/writing-background]])
+The word “now” is used here to mark a break in the main story line. Here the author tells background information about Ahaziah visiting Joram. (See: [[writing-background]])
 
 # 9:17
 ## d5k3
@@ -2130,8 +1816,7 @@ guard
 
 # 9:18
 ## v71n
-rc://*/ta/man/translate/figs-rquestion
-Jehu uses this rhetorical question to tell the messenger that it is none of his concern if he comes in peace or not. This may be written as a statement. Alternate translation: “It is not your concern if I have come in peace!” or “It is not for you to know if I have come in peace!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Jehu uses this rhetorical question to tell the messenger that it is none of his concern if he comes in peace or not. This may be written as a statement. Alternate translation: “It is not your concern if I have come in peace!” or “It is not for you to know if I have come in peace!” (See: [[figs-rquestion]])
 
 ## a578
 The watchman told King Joram that the man he sent out is not coming back with a reply to the king’s question.
@@ -2141,17 +1826,14 @@ The watchman told King Joram that the man he sent out is not coming back with a 
 “Then king Joram sent a second messenger riding a horse, who went out to meet Jehu and his army”
 
 ## c4nc
-rc://*/ta/man/translate/translate-ordinal
-Joram had already sent one man. This was the next. Alternate translation: “another man” (See: [[rc://*/ta/man/translate/translate-ordinal]])
+Joram had already sent one man. This was the next. Alternate translation: “another man” (See: [[translate-ordinal]])
 
 ## rg7f
-rc://*/ta/man/translate/figs-rquestion
-Jehu uses this rhetorical question to tell the messenger that it is none of his concern if he comes in peace or not. This may be written as a statement. See how you translated this question in [2 Kings 9:18](../09/18.md). Alternate translation: “It is not your concern if I have come in peace!” or “It is not for you to know if I have come in peace!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Jehu uses this rhetorical question to tell the messenger that it is none of his concern if he comes in peace or not. This may be written as a statement. See how you translated this question in [2 Kings 9:18](../09/18.md). Alternate translation: “It is not your concern if I have come in peace!” or “It is not for you to know if I have come in peace!” (See: [[figs-rquestion]])
 
 # 9:20
 ## dp92
-rc://*/ta/man/translate/figs-activepassive
-This may be stated in active form. Alternate translation: “Because the driver of the chariot drives the same way that Jehu son of Nimshi drives” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This may be stated in active form. Alternate translation: “Because the driver of the chariot drives the same way that Jehu son of Nimshi drives” (See: [[figs-activepassive]])
 
 # 9:21
 ## if9v
@@ -2161,17 +1843,14 @@ This may be stated in active form. Alternate translation: “Because the driver 
 “When they reached Jehu, he was at”
 
 ## q3cn
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## byn3
-rc://*/ta/man/translate/translate-names
-This refers to a person from Jezreel. (See: [[rc://*/ta/man/translate/translate-names]])
+This refers to a person from Jezreel. (See: [[translate-names]])
 
 # 9:22
 ## uds6
-rc://*/ta/man/translate/figs-rquestion
-Jehu uses this rhetorical question to state why he is not coming in peace. This can be stated in active form. Alternate translation: “There can be no peace as long as your mother Jezebel practices and promotes so much idolatry in the form of prostitution and witchcraft.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Jehu uses this rhetorical question to state why he is not coming in peace. This can be stated in active form. Alternate translation: “There can be no peace as long as your mother Jezebel practices and promotes so much idolatry in the form of prostitution and witchcraft.” (See: [[figs-rquestion]])
 
 # 9:23
 ## nse3
@@ -2185,13 +1864,11 @@ trickery or deception
 “with all of his strength” or “with all of his power”
 
 ## cdj4
-rc://*/ta/man/translate/figs-explicit
-Joram died from being shot with arrow. Alternate translation: “Joram fell down dead in his chariot” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Joram died from being shot with arrow. Alternate translation: “Joram fell down dead in his chariot” (See: [[figs-explicit]])
 
 # 9:25
 ## w6pd
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## ei1x
 “Pick up his dead body and throw it” or “Take his corpse and throw it”
@@ -2200,16 +1877,14 @@ This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
 “Remember”
 
 ## t4d7
-rc://*/ta/man/translate/figs-explicit
-This means that they rode in the chariot behind Ahab’s chariot. Alternate translation: “behind his father Ahab’s chariot” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that they rode in the chariot behind Ahab’s chariot. Alternate translation: “behind his father Ahab’s chariot” (See: [[figs-explicit]])
 
 ## x3uz
 “Yahweh spoke this prophecy against Ahab”
 
 # 9:26
 ## a9nj
-rc://*/ta/man/translate/figs-explicit
-This means that he will punish Ahab as he deserves for the evil he has done. Alternate translation: “I will give you what you deserve for the evil you have done” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that he will punish Ahab as he deserves for the evil he has done. Alternate translation: “I will give you what you deserve for the evil you have done” (See: [[figs-explicit]])
 
 ## p73v
 “take Joram’s dead body and throw it into the field of Naboth”
@@ -2224,12 +1899,10 @@ See [[2KI-gu34]]
 “saw what happened to Joram”
 
 ## yl6p
-rc://*/ta/man/translate/translate-names
-These are the names of places. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of places. (See: [[translate-names]])
 
 ## z7k2
-rc://*/ta/man/translate/figs-activepassive
-The word “ascent” means that they were going up hill while travelling on the road to Gur. Alternate translation: “on the road leading up to Gur” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+The word “ascent” means that they were going up hill while travelling on the road to Gur. Alternate translation: “on the road leading up to Gur” (See: [[figs-activepassive]])
 
 # 9:28
 ## bl6s
@@ -2237,12 +1910,10 @@ The word “ascent” means that they were going up hill while travelling on the
 
 # 9:29
 ## dnx1
-rc://*/ta/man/translate/figs-explicit
-This describes the time that Ahaziah began to reign by stating how long the current king of Israel had reigned. Alternate translation: “in the eleventh year that Joram son of Ahab was king of Israel” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This describes the time that Ahaziah began to reign by stating how long the current king of Israel had reigned. Alternate translation: “in the eleventh year that Joram son of Ahab was king of Israel” (See: [[figs-explicit]])
 
 ## j1he
-rc://*/ta/man/translate/translate-ordinal
-“11th year” (See: [[rc://*/ta/man/translate/translate-ordinal]])
+“11th year” (See: [[translate-ordinal]])
 
 # 9:30
 ## fnb3
@@ -2250,42 +1921,34 @@ rc://*/ta/man/translate/translate-ordinal
 
 # 9:31
 ## fcb2
-rc://*/ta/man/translate/figs-rquestion
-Jezebel uses this rhetorical question to accuse Jehu of not coming peacefully. This can be written as a statement. Alternate translation: “You are certainly not coming in peace, you Zimri, your master’s murderer!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Jezebel uses this rhetorical question to accuse Jehu of not coming peacefully. This can be written as a statement. Alternate translation: “You are certainly not coming in peace, you Zimri, your master’s murderer!” (See: [[figs-rquestion]])
 
 ## p3ch
-rc://*/ta/man/translate/figs-metaphor
-Here Jezebel calls Jehu “Zimri” to say that he is a murderer. Zimri was a commander of the army of Israel who murdered the king of Israel because he wanted to be king. Alternate translation: “you murdered your master, just like Zimri murdered his master” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here Jezebel calls Jehu “Zimri” to say that he is a murderer. Zimri was a commander of the army of Israel who murdered the king of Israel because he wanted to be king. Alternate translation: “you murdered your master, just like Zimri murdered his master” (See: [[figs-metaphor]])
 
 ## z2ve
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 # 9:32
 ## pup7
-rc://*/ta/man/translate/figs-idiom
-To “be on someone’s side” means to be loyal to them and supportive of them. Alternate translation: “Who is loyal to me” (See: [[rc://*/ta/man/translate/figs-idiom]])
+To “be on someone’s side” means to be loyal to them and supportive of them. Alternate translation: “Who is loyal to me” (See: [[figs-idiom]])
 
 # 9:33
 ## v8nz
 Jehu was telling the eunuchs to throw Jezebel out of the window.
 
 ## fj4y
-rc://*/ta/man/translate/figs-euphemism
-The eunuchs threw Jezebel out of the high window and she died when she hit the ground. (See: [[rc://*/ta/man/translate/figs-euphemism]])
+The eunuchs threw Jezebel out of the high window and she died when she hit the ground. (See: [[figs-euphemism]])
 
 ## ip8k
-rc://*/ta/man/translate/figs-explicit
-This means that he drove his horses over her body. Alternate translation: “Jehu’s horses that were pulling his chariot trampled her body under their feet” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that he drove his horses over her body. Alternate translation: “Jehu’s horses that were pulling his chariot trampled her body under their feet” (See: [[figs-explicit]])
 
 # 9:34
 ## p8vf
-rc://*/ta/man/translate/figs-idiom
-The phrase “see now to” means to give your attention to whatever is specified. Alternate translation: “Now go to” (See: [[rc://*/ta/man/translate/figs-idiom]])
+The phrase “see now to” means to give your attention to whatever is specified. Alternate translation: “Now go to” (See: [[figs-idiom]])
 
 ## dj2x
-rc://*/ta/man/translate/figs-explicit
-Since Jezebel was the daughter of a king, it was necessary to bury her properly. Alternate translation: “because she is a king’s daughter and therefore should be buried properly” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Since Jezebel was the daughter of a king, it was necessary to bury her properly. Alternate translation: “because she is a king’s daughter and therefore should be buried properly” (See: [[figs-explicit]])
 
 # 9:35
 ## v3xk
@@ -2296,13 +1959,11 @@ The palm is the inner part of the hand.
 
 # 9:36
 ## pqz3
-rc://*/ta/man/translate/translate-names
-This refers to someone from the city of Tishbe. See how you translated this in [2 Kings 1:3](../01/03.md). (See: [[rc://*/ta/man/translate/translate-names]])
+This refers to someone from the city of Tishbe. See how you translated this in [2 Kings 1:3](../01/03.md). (See: [[translate-names]])
 
 # 9:37
 ## kim4
-rc://*/ta/man/translate/figs-simile
-This speaks of the pieces of Jezebel’s body being scattered in the field as if they were dung spread in the field. Since the pieces of her body were so small and spread out there was nothing that could be collected and buried. Alternate translation: “the pieces of Jezebel’s body will be scattered like dung in the fields … so that no one will be able to recognize them and say” (See: [[rc://*/ta/man/translate/figs-simile]])
+This speaks of the pieces of Jezebel’s body being scattered in the field as if they were dung spread in the field. Since the pieces of her body were so small and spread out there was nothing that could be collected and buried. Alternate translation: “the pieces of Jezebel’s body will be scattered like dung in the fields … so that no one will be able to recognize them and say” (See: [[figs-simile]])
 
 ## xj6d
 manure, specifically dung used as a fertilizer
@@ -2315,21 +1976,17 @@ manure, specifically dung used as a fertilizer
 See [[2KI-abca]]
 # 10:1
 ## w4rf
-rc://*/ta/man/translate/translate-numbers
-“70 descendants” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“70 descendants” (See: [[translate-numbers]])
 
 ## bud2
-rc://*/ta/man/translate/figs-metonymy
-This means that Jehu sent a messenger to deliver the letters. Alternate translation: “Jehu wrote letters and sent a messenger to deliver them in Samaria” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This means that Jehu sent a messenger to deliver the letters. Alternate translation: “Jehu wrote letters and sent a messenger to deliver them in Samaria” (See: [[figs-metonymy]])
 
 # 10:3
 ## fdt6
-rc://*/ta/man/translate/figs-metonymy
-Here, sitting on the king’s throne means to be appointed as king. Alternate translation: “make him king in his father’s place” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here, sitting on the king’s throne means to be appointed as king. Alternate translation: “make him king in his father’s place” (See: [[figs-metonymy]])
 
 ## x59q
-rc://*/ta/man/translate/figs-synecdoche
-“your master’s descendants.” Here the man that they selected to be king is referred to as Ahab’s royal line of descendants. Alternate translation: “to defend your master’s descendant” or “to defend him” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+“your master’s descendants.” Here the man that they selected to be king is referred to as Ahab’s royal line of descendants. Alternate translation: “to defend your master’s descendant” or “to defend him” (See: [[figs-synecdoche]])
 
 # 10:4
 ## m1vq
@@ -2342,61 +1999,49 @@ rc://*/ta/man/translate/figs-synecdoche
 Here “stand” means to be able to endure under trouble. Alternate translation: “could not endure against Jehu” or “could not resist Jehu”
 
 ## ymj8
-rc://*/ta/man/translate/figs-rquestion
-The descendants use the rhetorical question to imply that they cannot stand against Jehu. Alternate translation: “We cannot stand against him either!” or “We cannot resist him either!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The descendants use the rhetorical question to imply that they cannot stand against Jehu. Alternate translation: “We cannot stand against him either!” or “We cannot resist him either!” (See: [[figs-rquestion]])
 
 # 10:5
 ## imx5
 “the mayor of the city.” Here to be “over” something means to have authority and responsibility over it. Alternate translation: “the man who was in charge of the city”
 
 ## r52c
-rc://*/ta/man/translate/figs-explicit
-This refers to the people who raised the king’s children. Alternate translation: “they who raised the king’s children” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This refers to the people who raised the king’s children. Alternate translation: “they who raised the king’s children” (See: [[figs-explicit]])
 
 ## h9q4
-rc://*/ta/man/translate/figs-metaphor
-Here Jehu’s “eyes” refer to his “sight.” His “sight” refers to what he thinks. Alternate translation: “Do what you judge to be right” or “Do whatever you think is the best” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here Jehu’s “eyes” refer to his “sight.” His “sight” refers to what he thinks. Alternate translation: “Do what you judge to be right” or “Do whatever you think is the best” (See: [[figs-metaphor]])
 
 # 10:6
 ## sb9l
-rc://*/ta/man/translate/translate-ordinal
-Joram had written one letter. This was the next. Alternate translation: “again wrote a letter to them” or “wrote another letter to them” (See: [[rc://*/ta/man/translate/translate-ordinal]])
+Joram had written one letter. This was the next. Alternate translation: “again wrote a letter to them” or “wrote another letter to them” (See: [[translate-ordinal]])
 
 ## c3rg
-rc://*/ta/man/translate/figs-idiom
-To “be on someone’s side” means to be loyal to them and supportive of them. Alternate translation: “loyal to me” (See: [[rc://*/ta/man/translate/figs-idiom]])
+To “be on someone’s side” means to be loyal to them and supportive of them. Alternate translation: “loyal to me” (See: [[figs-idiom]])
 
 ## g3if
 to hear and obey
 
 ## hjr8
-rc://*/ta/man/translate/figs-metonymy
-Here Jehu’s “voice” refer to what he says. Alternate translation: “to what I say” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here Jehu’s “voice” refer to what he says. Alternate translation: “to what I say” (See: [[figs-metonymy]])
 
 ## hij4
-rc://*/ta/man/translate/figs-explicit
-It is implied that they are to bring the heads of the Ahab’s descendant and present them to Jehu. Alternate translation: “you must take the heads … and bring them to me” (See: [[rc://*/ta/man/translate/figs-explicit]])
+It is implied that they are to bring the heads of the Ahab’s descendant and present them to Jehu. Alternate translation: “you must take the heads … and bring them to me” (See: [[figs-explicit]])
 
 ## v7id
-rc://*/ta/man/translate/figs-euphemism
-This refers to killing them and removing their heads. Alternate translation: “kill your master’s descendants and cut off their heads” (See: [[rc://*/ta/man/translate/figs-euphemism]])
+This refers to killing them and removing their heads. Alternate translation: “kill your master’s descendants and cut off their heads” (See: [[figs-euphemism]])
 
 ## qps2
-rc://*/ta/man/translate/translate-numbers
-“70 in number” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“70 in number” (See: [[translate-numbers]])
 
 ## xl7y
-rc://*/ta/man/translate/figs-idiom
-This means that they were supervising them and teaching them. Alternate translation: “who were raising them” or “who were supervising them” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This means that they were supervising them and teaching them. Alternate translation: “who were raising them” or “who were supervising them” (See: [[figs-idiom]])
 
 # 10:7
 ## by3v
-rc://*/ta/man/translate/translate-numbers
-“70 persons” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“70 persons” (See: [[translate-numbers]])
 
 ## dj3k
-rc://*/ta/man/translate/figs-metonymy
-This means that they sent people to deliver the baskets to Jehu. Alternate translation: “sent people to take them to Jehu” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This means that they sent people to deliver the baskets to Jehu. Alternate translation: “sent people to take them to Jehu” (See: [[figs-metonymy]])
 
 # 10:8
 ## jl7j
@@ -2407,44 +2052,37 @@ This means that they sent people to deliver the baskets to Jehu. Alternate trans
 “Jehu went to the city gate and stood before the people”
 
 ## k9nc
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly what they were innocent of. Possible meanings are (1) Alternate translation: “You are innocent of what happened to Joram” or (2) this means that they are not held responsible for the deaths of Joram’s family. Alternate translation: “You are innocent of what happened to Joram and his family” or “You are innocent of this matter” (See: [[rc://*/ta/man/translate/figs-explicit]])
+It can be stated clearly what they were innocent of. Possible meanings are (1) Alternate translation: “You are innocent of what happened to Joram” or (2) this means that they are not held responsible for the deaths of Joram’s family. Alternate translation: “You are innocent of what happened to Joram and his family” or “You are innocent of this matter” (See: [[figs-explicit]])
 
 ## dic5
 Jehu uses this word here to draw the peoples’ attention to what he says next. Alternate translation: “Listen” or “Hear my words”
 
 ## apq9
-rc://*/ta/man/translate/figs-rquestion
-Jehu uses a rhetorical question to cause the people to think deeply about the situation. This can be written as a statement. Possible meanings are (1) Alternate translation: “but the men of Samaria are responsible for killing Ahab’s 70 descendants” or (2) Alternate translation: “but it was Yahweh’s will for these men to die” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Jehu uses a rhetorical question to cause the people to think deeply about the situation. This can be written as a statement. Possible meanings are (1) Alternate translation: “but the men of Samaria are responsible for killing Ahab’s 70 descendants” or (2) Alternate translation: “but it was Yahweh’s will for these men to die” (See: [[figs-rquestion]])
 
 # 10:10
 ## tky4
 “understand” or “be aware of the fact that”
 
 ## qm1a
-rc://*/ta/man/translate/figs-metaphor
-This speaks of everything happening that Yahweh has said will happen as if it were something that did not die and fall to the ground. Alternate translation: “No part of Yahweh’s word … will fail” or “every part of Yahweh’s word … will happen” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This speaks of everything happening that Yahweh has said will happen as if it were something that did not die and fall to the ground. Alternate translation: “No part of Yahweh’s word … will fail” or “every part of Yahweh’s word … will happen” (See: [[figs-metaphor]])
 
 ## dxa2
-rc://*/ta/man/translate/figs-metaphor
-This speaks of Yahweh causing Ahab’s descendants to be killed as if he killed them himself. Alternate translation: “Yahweh has caused to happen” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This speaks of Yahweh causing Ahab’s descendants to be killed as if he killed them himself. Alternate translation: “Yahweh has caused to happen” (See: [[figs-metaphor]])
 
 # 10:11
 ## q6ub
-rc://*/ta/man/translate/figs-metonymy
-Jehu did not kill all of these people personally, rather he commanded for them to be killed. Alternate translation: “So Jehu commanded for all … to be killed” or “So Jehu commanded for all … to die” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Jehu did not kill all of these people personally, rather he commanded for them to be killed. Alternate translation: “So Jehu commanded for all … to be killed” or “So Jehu commanded for all … to die” (See: [[figs-metonymy]])
 
 ## yv9x
 “all who were alive” or “all who were left”
 
 ## m7rb
-rc://*/ta/man/translate/figs-euphemism
-This means that they had all been killed. Alternate translation: “until all of them had been killed” or “until all of them were dead” (See: [[rc://*/ta/man/translate/figs-euphemism]])
+This means that they had all been killed. Alternate translation: “until all of them had been killed” or “until all of them were dead” (See: [[figs-euphemism]])
 
 # 10:12
 ## s861
-rc://*/ta/man/translate/translate-names
-This was the name of a place where sheep were sheared. (See: [[rc://*/ta/man/translate/translate-names]])
+This was the name of a place where sheep were sheared. (See: [[translate-names]])
 
 # 10:13
 ## h9iy
@@ -2455,44 +2093,37 @@ This was the name of a place where sheep were sheared. (See: [[rc://*/ta/man/tra
 
 # 10:14
 ## rz36
-rc://*/ta/man/translate/figs-idiom
-This means to capture them, but not to kill them. Alternate translation: “Seize them” or “Capture them” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This means to capture them, but not to kill them. Alternate translation: “Seize them” or “Capture them” (See: [[figs-idiom]])
 
 ## v6f8
 “So they captured them”
 
 ## q8s9
-rc://*/ta/man/translate/translate-numbers
-“42 men” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“42 men” (See: [[translate-numbers]])
 
 ## b7wx
 This can be stated in positive form. Alternate translation: “He killed all of them”
 
 # 10:15
 ## hcx6
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## fmq7
-rc://*/ta/man/translate/figs-metonymy
-Here a person’s “heart” refers to their loyality. If a person’s loyalty is “with someone,” it means that they are loyal to that person. Alternate translation: “Will you be loyal to me, as I will be loyal to you? … ‘I will.’” (See: [[rc://*/ta/man/translate/figs-metonymy]] and [[rc://*/ta/man/translate/figs-idiom]])
+Here a person’s “heart” refers to their loyality. If a person’s loyalty is “with someone,” it means that they are loyal to that person. Alternate translation: “Will you be loyal to me, as I will be loyal to you? … ‘I will.’” (See: [[figs-metonymy]] and [[figs-idiom]])
 
 ## xmz8
-rc://*/ta/man/translate/translate-symaction
-“If so, put your hand in mine” or “If so, let us shake hands” In many cultures, when two people shake hands, it confirms their agreement. (See: [[rc://*/ta/man/translate/translate-symaction]])
+“If so, put your hand in mine” or “If so, let us shake hands” In many cultures, when two people shake hands, it confirms their agreement. (See: [[translate-symaction]])
 
 # 10:16
 ## rl1m
-rc://*/ta/man/translate/figs-abstractnouns
-The word “zeal” may be expressed as an adjective. Alternate translation: “see how zealous I am” (See: [[rc://*/ta/man/translate/figs-abstractnouns]])
+The word “zeal” may be expressed as an adjective. Alternate translation: “see how zealous I am” (See: [[figs-abstractnouns]])
 
 # 10:17
 ## kbl6
 “entire royal family”
 
 ## st48
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “to fulfill the prophecy that Elijah had spoken, which Yahweh gave to him” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “to fulfill the prophecy that Elijah had spoken, which Yahweh gave to him” (See: [[figs-activepassive]])
 
 # 10:18
 ## da4q
@@ -2509,31 +2140,25 @@ This can be stated in active form. Alternate translation: “to fulfill the prop
 “Do not leave anyone out”
 
 ## r6m8
-rc://*/ta/man/translate/figs-explicit
-This means that if they do not come they will be executed. Alternate translation: “We will execute anyone who does not come” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that if they do not come they will be executed. Alternate translation: “We will execute anyone who does not come” (See: [[figs-explicit]])
 
 # 10:20
 ## h3ia
-rc://*/ta/man/translate/figs-idiom
-This means to designate and prepare a period of time for something. In this case they were to prepare for an assembly for Baal. Alternate translation: “Prepare” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This means to designate and prepare a period of time for something. In this case they were to prepare for an assembly for Baal. Alternate translation: “Prepare” (See: [[figs-idiom]])
 
 # 10:21
 ## g86v
-rc://*/ta/man/translate/figs-explicit
-This means that he sent messengers to take this message throughout the land. Alternate translation: “Then Jehu sent messengers” or “Then Jehu sent the message” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that he sent messengers to take this message throughout the land. Alternate translation: “Then Jehu sent messengers” or “Then Jehu sent the message” (See: [[figs-explicit]])
 
 ## sj5t
-rc://*/ta/man/translate/figs-doublenegatives
-This can be stated in positive form. Alternate translation: “so that every worshiper of Baal was there” or “so that every man came” (See: [[rc://*/ta/man/translate/figs-doublenegatives]])
+This can be stated in positive form. Alternate translation: “so that every worshiper of Baal was there” or “so that every man came” (See: [[figs-doublenegatives]])
 
 ## uy4m
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “they filled it” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “they filled it” (See: [[figs-activepassive]])
 
 # 10:22
 ## d5j3
-rc://*/ta/man/translate/figs-idiom
-Here “to keep” something means to care for it and oversee it. Alternate translation: “who was in charge of the priest’s wardrobe” or “who cared for the priest’s wardrobe” (See: [[rc://*/ta/man/translate/figs-idiom]])
+Here “to keep” something means to care for it and oversee it. Alternate translation: “who was in charge of the priest’s wardrobe” or “who cared for the priest’s wardrobe” (See: [[figs-idiom]])
 
 # 10:23
 ## hbh1
@@ -2544,86 +2169,69 @@ Here “to keep” something means to care for it and oversee it. Alternate tran
 
 # 10:24
 ## qp6c
-rc://*/ta/man/translate/figs-metonymy
-Here the “hands” of the men refer to their “control.” By being stationed around the temple they were in control of the situation and it was up to them whether people were able to escape or not. Alternate translation: “If any of these men that I brought into your control escapes” or “If any of the men that are inside gets away” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the “hands” of the men refer to their “control.” By being stationed around the temple they were in control of the situation and it was up to them whether people were able to escape or not. Alternate translation: “If any of these men that I brought into your control escapes” or “If any of the men that are inside gets away” (See: [[figs-metonymy]])
 
 ## vh3i
 “we will kill the man who let him escape”
 
 ## tel9
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. This is a polite way to refer to a person being killed. Alternate translation: “we will take his life” or “we will kill him” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. This is a polite way to refer to a person being killed. Alternate translation: “we will take his life” or “we will kill him” (See: [[figs-activepassive]])
 
 ## e792
-rc://*/ta/man/translate/figs-metonymy
-“in exchange for the life of the man.” Here this man is referred to by his “life” to emphasize that he did not die. Alternate translation: “for the man” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“in exchange for the life of the man.” Here this man is referred to by his “life” to emphasize that he did not die. Alternate translation: “for the man” (See: [[figs-metonymy]])
 
 # 10:25
 ## qf9l
-rc://*/ta/man/translate/figs-explicit
-You may need to state that Jehu came out of the temple before he spoke to the guard. Alternate translation: “he went back outside of the temple of Baal and said to the guards and captains” (See: [[rc://*/ta/man/translate/figs-explicit]])
+You may need to state that Jehu came out of the temple before he spoke to the guard. Alternate translation: “he went back outside of the temple of Baal and said to the guards and captains” (See: [[figs-explicit]])
 
 ## t2x5
-rc://*/ta/man/translate/figs-synecdoche
-The men used swords to kill the worshipers of Baal. This phrase refers to their swords. Alternate translation: “with their swords” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The men used swords to kill the worshipers of Baal. This phrase refers to their swords. Alternate translation: “with their swords” (See: [[figs-synecdoche]])
 
 ## pcm3
-rc://*/ta/man/translate/figs-explicit
-This means that threw the dead bodies of the people out of the temple. Alternate translation: “threw their dead bodies out of the temple” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This means that threw the dead bodies of the people out of the temple. Alternate translation: “threw their dead bodies out of the temple” (See: [[figs-explicit]])
 
 # 10:27
 ## g8xj
 “made it a public toilet” A latrine is a bathroom, or a toilet area, usually for a camp or buildings used to house soldiers.
 
 ## zr1r
-rc://*/ta/man/translate/figs-idiom
-This means that something has remained in a certain condition until the present time. Alternate translation: “and since then it has always been that way” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This means that something has remained in a certain condition until the present time. Alternate translation: “and since then it has always been that way” (See: [[figs-idiom]])
 
 # 10:29
 ## b11b
-rc://*/ta/man/translate/figs-metaphor
-This speaks of Jehu committing the same sins that Jeroboam committed, as if Jeroboam’s sins were a place that Jehu did not leave. Alternate translation: “did not stop committing the kinds of sins that Jeroboam son of Nebat had committed” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This speaks of Jehu committing the same sins that Jeroboam committed, as if Jeroboam’s sins were a place that Jehu did not leave. Alternate translation: “did not stop committing the kinds of sins that Jeroboam son of Nebat had committed” (See: [[figs-metaphor]])
 
 ## yas2
-rc://*/ta/man/translate/translate-names
-See how you translated this man’s name in [2 Kings 3:3](../03/03.md). (See: [[rc://*/ta/man/translate/translate-names]])
+See how you translated this man’s name in [2 Kings 3:3](../03/03.md). (See: [[translate-names]])
 
 # 10:30
 ## l9pm
 “in carrying out” or “in accomplishing”
 
 ## qe59
-rc://*/ta/man/translate/figs-metaphor
-The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “what I judge to be right” or “what I consider to be right” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “what I judge to be right” or “what I consider to be right” (See: [[figs-metaphor]])
 
 ## v6lk
-rc://*/ta/man/translate/figs-metonymy
-Here Ahab’s “house” refers to his “family.” Alternate translation: “the family of Ahab” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here Ahab’s “house” refers to his “family.” Alternate translation: “the family of Ahab” (See: [[figs-metonymy]])
 
 ## ufu9
-rc://*/ta/man/translate/figs-metonymy
-Here the “heart” represents “desire.” Alternate translation: “all that I desired for you to do” or “all that I wanted you to do” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the “heart” represents “desire.” Alternate translation: “all that I desired for you to do” or “all that I wanted you to do” (See: [[figs-metonymy]])
 
 ## t8ua
-rc://*/ta/man/translate/figs-metonymy
-Sitting on the throne represents ruling as king. Alternate translation: “be the kings” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Sitting on the throne represents ruling as king. Alternate translation: “be the kings” (See: [[figs-metonymy]])
 
 ## e1jz
-rc://*/ta/man/translate/translate-ordinal
-This refers to his son, grandson, great-grandson, and great-great-grandson. Alternate translation: “to the 4th generation” or “for four more generations” (See: [[rc://*/ta/man/translate/translate-ordinal]])
+This refers to his son, grandson, great-grandson, and great-great-grandson. Alternate translation: “to the 4th generation” or “for four more generations” (See: [[translate-ordinal]])
 
 # 10:31
 ## t6dt
-rc://*/ta/man/translate/figs-idiom
-Here “walking” refers to “living.” Alternate translation: “Jehu was not careful to live according to the law of Yahweh” (See: [[rc://*/ta/man/translate/figs-idiom]])
+Here “walking” refers to “living.” Alternate translation: “Jehu was not careful to live according to the law of Yahweh” (See: [[figs-idiom]])
 
 ## k8mn
-rc://*/ta/man/translate/figs-metonymy
-Here the “heart” refers to a person’s will and desire. Alternate translation: “in everything that he did” or “with all of his will” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the “heart” refers to a person’s will and desire. Alternate translation: “in everything that he did” or “with all of his will” (See: [[figs-metonymy]])
 
 ## dsa7
-rc://*/ta/man/translate/figs-idiom
-To “turn away” from something means to stop doing it. Alternate translation: “Jehu did not stop from sinning in the same ways as Jeroboam” (See: [[rc://*/ta/man/translate/figs-idiom]])
+To “turn away” from something means to stop doing it. Alternate translation: “Jehu did not stop from sinning in the same ways as Jeroboam” (See: [[figs-idiom]])
 
 # 10:32
 ## v39i
@@ -2633,96 +2241,80 @@ To “turn away” from something means to stop doing it. Alternate translation:
 areas of land
 
 ## nr1q
-rc://*/ta/man/translate/figs-synecdoche
-Here “Hazael” refers to himself and his army. Alternate translation: “Hazael and his army” or “King Hazael’s Aramean army” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “Hazael” refers to himself and his army. Alternate translation: “Hazael and his army” or “King Hazael’s Aramean army” (See: [[figs-synecdoche]])
 
 ## ar6f
-rc://*/ta/man/translate/translate-names
-See how you translated this king’s name in [2 Kings 8:8](../08/08.md). (See: [[rc://*/ta/man/translate/translate-names]])
+See how you translated this king’s name in [2 Kings 8:8](../08/08.md). (See: [[translate-names]])
 
 # 10:33
 ## n3me
 “from the land east of the Jordan”
 
 ## ef2f
-rc://*/ta/man/translate/translate-names
-These are all names of places. (See: [[rc://*/ta/man/translate/translate-names]])
+These are all names of places. (See: [[translate-names]])
 
 ## u9im
-rc://*/ta/man/translate/translate-names
-“the Arnon River” This is the name of a river. (See: [[rc://*/ta/man/translate/translate-names]])
+“the Arnon River” This is the name of a river. (See: [[translate-names]])
 
 # 10:34
 ## dhn9
-rc://*/ta/man/translate/figs-rquestion
-This rhetorical question can be written as a statement. See how this phrase is translated in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in the book of the history of the kings of Israel.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This rhetorical question can be written as a statement. See how this phrase is translated in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in the book of the history of the kings of Israel.” (See: [[figs-rquestion]])
 
 # 10:35
 ## ka9p
-rc://*/ta/man/translate/figs-euphemism
-This means that Jehu died. This speaks of him being buried where his ancestors were buried as if he were sleeping with them. Alternate translation: “Jehu died and they buried him in Samaria, where they had also buried his ancestors” (See: [[rc://*/ta/man/translate/figs-euphemism]] and [[rc://*/ta/man/translate/figs-metaphor]])
+This means that Jehu died. This speaks of him being buried where his ancestors were buried as if he were sleeping with them. Alternate translation: “Jehu died and they buried him in Samaria, where they had also buried his ancestors” (See: [[figs-euphemism]] and [[figs-metaphor]])
 
 ## g2qi
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 # 10:36
 ## m23h
 “Jehu reigned over Israel in Samaria for twenty-eight years”
 
 ## e9ns
-rc://*/ta/man/translate/translate-numbers
-“28 years” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“28 years” (See: [[translate-numbers]])
 
 # 11:intro
 ## abcb
 See [[2KI-abcb]]
 # 11:1
 ## q8ru
-rc://*/ta/man/translate/translate-names
-This is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a woman. (See: [[translate-names]])
 
 ## ed43
 “became aware that her son was dead”
 
 ## vmz8
-rc://*/ta/man/translate/figs-explicit
-Athaliah did not personally kill the children. Alternate translation: “she commanded her servants to kill all the members of Ahaziah’s family who might become king” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Athaliah did not personally kill the children. Alternate translation: “she commanded her servants to kill all the members of Ahaziah’s family who might become king” (See: [[figs-explicit]])
 
 # 11:2
 ## e2rn
 “took Ahaziah’s very young son Joash and hid him and his nursemaid in a bedroom in the temple. So he was not killed”
 
 ## ys17
-rc://*/ta/man/translate/translate-names
-This is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a woman. (See: [[translate-names]])
 
 ## b2rw
 This is the name of a man.
 
 # 11:3
 ## x9bc
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “Joash and Jehosheba hid him in the house of Yahweh for six years while Athaliah ruled the land” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “Joash and Jehosheba hid him in the house of Yahweh for six years while Athaliah ruled the land” (See: [[figs-activepassive]])
 
 ## sm9g
-rc://*/ta/man/translate/figs-metonymy
-This is a metonym for the people who live in the land. Alternate translation: “people of Judah” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This is a metonym for the people who live in the land. Alternate translation: “people of Judah” (See: [[figs-metonymy]])
 
 # 11:4
 ## qlj7
 See [[2KI-qlj7]]
 ## lft4
-rc://*/ta/man/translate/translate-numbers
-“In the seventh year of Athaliah’s reign” or “In year 7 of Athaliah’s reign” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“In the seventh year of Athaliah’s reign” or “In year 7 of Athaliah’s reign” (See: [[translate-numbers]])
 
 ## n18c
-rc://*/ta/man/translate/translate-names
-the high priest (See: [[rc://*/ta/man/translate/translate-names]])
+the high priest (See: [[translate-names]])
 
 ## f6wi
-rc://*/ta/man/translate/translate-numbers
-The phrases “commander of hundreds” is probably an official title for a military officer. Possible meanings are (1) the word “hundreds” represents the exact amount of soldiers that each of these commanders led. Alternate translation: “the commanders of 100 soldiers” or (2) the word translated as “hundreds” does not represent an exact number, but is the name of a military division. Alternate translation: “the commanders of military divisions” (See: [[rc://*/ta/man/translate/translate-numbers]])
+The phrases “commander of hundreds” is probably an official title for a military officer. Possible meanings are (1) the word “hundreds” represents the exact amount of soldiers that each of these commanders led. Alternate translation: “the commanders of 100 soldiers” or (2) the word translated as “hundreds” does not represent an exact number, but is the name of a military division. Alternate translation: “the commanders of military divisions” (See: [[translate-numbers]])
 
 ## pvj6
 This is the name of a particular group of the royal guards.
@@ -2737,25 +2329,21 @@ Jehoiada revealed to them that Joash, King Azahiah’s son, was still alive.
 ## ap6i
 See [[2KI-ap6i]]
 ## z17v
-rc://*/ta/man/translate/figs-explicit
-They were to keep watch for the purpose of protecting the king from harm. Alternate translation: “in order to protect King Joash” (See: [[rc://*/ta/man/translate/figs-explicit]])
+They were to keep watch for the purpose of protecting the king from harm. Alternate translation: “in order to protect King Joash” (See: [[figs-explicit]])
 
 # 11:8
 ## jp1k
 “Anyone who tries to go past you while you are protecting King Joash.” A rank refers to a line of soldiers.
 
 ## d88v
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “you must kill him” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “you must kill him” (See: [[figs-activepassive]])
 
 ## ck5g
-rc://*/ta/man/translate/figs-merism
-These two opposite things are a merism that refers to everything the king does. Alternate translation: “You must stay near the king at all times” (See: [[rc://*/ta/man/translate/figs-merism]])
+These two opposite things are a merism that refers to everything the king does. Alternate translation: “You must stay near the king at all times” (See: [[figs-merism]])
 
 # 11:9
 ## ry72
-rc://*/ta/man/translate/translate-numbers
-The phrase “commander of hundreds” is probably an official title for a military officer. Possible meanings are (1) the word “hundreds” represents the exact amount of soldiers that each of these commanders led. Alternate translation: “the commanders of 100 soldiers” or (2) the word translated as “hundreds” does not represent an exact number, but is the name of a military division. Alternate translation: “the commanders of military divisions” See how you translated this in [2 Kings 11:4](../11/04.md). (See: [[rc://*/ta/man/translate/translate-numbers]])
+The phrase “commander of hundreds” is probably an official title for a military officer. Possible meanings are (1) the word “hundreds” represents the exact amount of soldiers that each of these commanders led. Alternate translation: “the commanders of 100 soldiers” or (2) the word translated as “hundreds” does not represent an exact number, but is the name of a military division. Alternate translation: “the commanders of military divisions” See how you translated this in [2 Kings 11:4](../11/04.md). (See: [[translate-numbers]])
 
 ## duu3
 “Each commander”
@@ -2776,8 +2364,7 @@ Jehoiada, the high priest, brought king Ahaziah’s son, Joash, out from the tem
 “presented him with the book of the law”
 
 ## z9x3
-rc://*/ta/man/translate/translate-symaction
-The priest poured olive oil on the head of Joash as a symbol that he was now the king. Alternate translation: “poured some olive oil on Joash’s head” (See: [[rc://*/ta/man/translate/translate-symaction]])
+The priest poured olive oil on the head of Joash as a symbol that he was now the king. Alternate translation: “poured some olive oil on Joash’s head” (See: [[translate-symaction]])
 
 ## sz23
 Clapping their hands was a sign of the happiness of the people at the anointing of the new king.
@@ -2803,23 +2390,20 @@ This refers to the noise made by all the soldiers.
 “the people who played the trumpets”
 
 ## kxx4
-rc://*/ta/man/translate/translate-symaction
-She tore her clothes to express that she was very upset and angry. (See: [[rc://*/ta/man/translate/translate-symaction]])
+She tore her clothes to express that she was very upset and angry. (See: [[translate-symaction]])
 
 ## tc82
 “You are traitors! You have betrayed me!”
 
 # 11:15
 ## y8gb
-rc://*/ta/man/translate/translate-numbers
-The phrase “commander of hundreds” is probably an official title for a military officer. Possible meanings are (1) the word “hundreds” represents the exact amount of soldiers that each of these commanders led. Alternate translation: “the commanders of 100 soldiers” or (2) the word translated as “hundreds” does not represent an exact number, but is the name of a military division. Alternate translation: “the commanders of military divisions” See how you translated this in [2 Kings 11:4](../11/04.md). (See: [[rc://*/ta/man/translate/translate-numbers]])
+The phrase “commander of hundreds” is probably an official title for a military officer. Possible meanings are (1) the word “hundreds” represents the exact amount of soldiers that each of these commanders led. Alternate translation: “the commanders of 100 soldiers” or (2) the word translated as “hundreds” does not represent an exact number, but is the name of a military division. Alternate translation: “the commanders of military divisions” See how you translated this in [2 Kings 11:4](../11/04.md). (See: [[translate-numbers]])
 
 ## i3h1
 “Take her away between two rows of guards” or “Lead her away with a row of soldiers on each side of her.” Ranks are lines or rows of soldiers.
 
 ## f3f3
-rc://*/ta/man/translate/figs-explicit
-It is implied that a person who followed her would be trying to help her. Alternate translation: “Anyone who follows to try to rescue her” (See: [[rc://*/ta/man/translate/figs-explicit]])
+It is implied that a person who followed her would be trying to help her. Alternate translation: “Anyone who follows to try to rescue her” (See: [[figs-explicit]])
 
 # 11:16
 ## x4a6
@@ -2831,22 +2415,19 @@ Some versions translate this as “the guards seized her and took her to the pal
 
 # 11:18
 ## qgd8
-rc://*/ta/man/translate/figs-hyperbole
-This is a generalization to show that a large group of people tore down the temple of Baal. Alternate translation: a large number of the people of the land” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+This is a generalization to show that a large group of people tore down the temple of Baal. Alternate translation: a large number of the people of the land” (See: [[figs-hyperbole]])
 
 ## tn2k
 “the temple of Baal”
 
 ## qky4
-rc://*/ta/man/translate/translate-names
-This is the name of a male priest. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a male priest. (See: [[translate-names]])
 
 # 11:19
 ## u5jn
 See [[2KI-u5jn]]
 ## u1k5
-rc://*/ta/man/translate/translate-numbers
-The phrase “commander of hundreds” is probably an official title for a military officer. Possible meanings are (1) the word “hundreds” represents the exact amount of soldiers that each of these commanders led. Alternate translation: “the commanders of 100 soldiers” or (2) the word translated as “hundreds” does not represent an exact number, but is the name of a military division. Alternate translation: “the commanders of military divisions” See how you translated this in [2 Kings 11:4](../11/04.md). (See: [[rc://*/ta/man/translate/translate-numbers]])
+The phrase “commander of hundreds” is probably an official title for a military officer. Possible meanings are (1) the word “hundreds” represents the exact amount of soldiers that each of these commanders led. Alternate translation: “the commanders of 100 soldiers” or (2) the word translated as “hundreds” does not represent an exact number, but is the name of a military division. Alternate translation: “the commanders of military divisions” See how you translated this in [2 Kings 11:4](../11/04.md). (See: [[translate-numbers]])
 
 ## yh95
 This is the name of a particular group of the royal guards.
@@ -2856,51 +2437,44 @@ This is the name of a particular group of the royal guards.
 
 # 11:20
 ## hz2a
-rc://*/ta/man/translate/figs-hyperbole
-This is a generalization. It is possible that some did not rejoice. Alternate translation: “many people in the land rejoiced” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+This is a generalization. It is possible that some did not rejoice. Alternate translation: “many people in the land rejoiced” (See: [[figs-hyperbole]])
 
 ## y27g
 “the city was calm” or “the city was peaceful”
 
 # 11:21
 ## pit8
-rc://*/ta/man/translate/translate-numbers
-“Joash was 7 years old” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“Joash was 7 years old” (See: [[translate-numbers]])
 
 # 12:intro
 ## abcc
 See [[2KI-abcc]]
 # 12:1
 ## ze1f
-rc://*/ta/man/translate/translate-numbers
-“During year 7 of the reign of Jehu over Israel” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“During year 7 of the reign of Jehu over Israel” (See: [[translate-numbers]])
 
 ## d8af
 “Joash began to reign over Judah”
 
 ## rhb3
-rc://*/ta/man/translate/translate-names
-This was the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+This was the name of a woman. (See: [[translate-names]])
 
 ## j5kp
 “Zibiah, from the city of Beersheba”
 
 # 12:2
 ## ef2r
-rc://*/ta/man/translate/figs-metaphor
-The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “what Yahweh judges to be right” or “what Yahweh considers to be right” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “what Yahweh judges to be right” or “what Yahweh considers to be right” (See: [[figs-metaphor]])
 
 ## zt6j
 “teaching him”
 
 # 12:3
 ## wpe8
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “But the people did not destroy the high places” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “But the people did not destroy the high places” (See: [[figs-activepassive]])
 
 ## u656
-rc://*/ta/man/translate/figs-explicit
-Yawheh forbid the people to worship at these place. This can be made explicit. Alternate translation: “The people continued to go to places that were unacceptable to Yahweh, to make sacrifices and burn incense” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Yawheh forbid the people to worship at these place. This can be made explicit. Alternate translation: “The people continued to go to places that were unacceptable to Yahweh, to make sacrifices and burn incense” (See: [[figs-explicit]])
 
 # 12:4
 ## spc4
@@ -2912,8 +2486,7 @@ This refers to money that people gave to support the temple. This money came in 
 
 # 12:7
 ## pm11
-rc://*/ta/man/translate/figs-rquestion
-Joash asks this question to rebuke the priests. Alternate translation: “You should have been repairing the temple!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Joash asks this question to rebuke the priests. Alternate translation: “You should have been repairing the temple!” (See: [[figs-rquestion]])
 
 ## jj8t
 “pay workers who will do the repairs”
@@ -2929,8 +2502,7 @@ Joash asks this question to rebuke the priests. Alternate translation: “You sh
 “put into the chest” or “put in the box”
 
 ## fa63
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “the money that people brought” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “the money that people brought” (See: [[figs-activepassive]])
 
 # 12:10
 ## qbt6
@@ -2947,8 +2519,7 @@ Possible meanings are (1) “put the money in bags” or (2) “tied up the mone
 “counted”
 
 ## uk5g
-rc://*/ta/man/translate/figs-synecdoche
-Here “hands” refers to the men. Alternate translation: “to men” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “hands” refers to the men. Alternate translation: “to men” (See: [[figs-synecdoche]])
 
 ## ldg6
 “who repaired the temple”
@@ -2978,33 +2549,28 @@ These are items that would have been used by the priests for various temple task
 
 # 12:15
 ## yl27
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “they did not require the men who received the money and paid the workmen for the repairs to account for the money” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “they did not require the men who received the money and paid the workmen for the repairs to account for the money” (See: [[figs-activepassive]])
 
 ## d5vz
 to keep a record of how much money was received and spent
 
 # 12:16
 ## frz5
-rc://*/ta/man/translate/figs-explicit
-It is implied that this money was not used for the repairs. This can be stated in active form. Alternate translation: “they did not use the money from the guilt offerings and the sin offerings to pay for the repairs to the temple of Yahweh” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/figs-activepassive]])
+It is implied that this money was not used for the repairs. This can be stated in active form. Alternate translation: “they did not use the money from the guilt offerings and the sin offerings to pay for the repairs to the temple of Yahweh” (See: [[figs-explicit]] and [[figs-activepassive]])
 
 # 12:17
 ## lxs4
-rc://*/ta/man/translate/figs-synecdoche
-This refers to Hazael’s army as well as to Hazael. Alternate translation: “Hazael king of Aram and his army attacked … Then they turned to attack” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+This refers to Hazael’s army as well as to Hazael. Alternate translation: “Hazael king of Aram and his army attacked … Then they turned to attack” (See: [[figs-synecdoche]])
 
 ## h8n3
-rc://*/ta/man/translate/translate-names
-This is the name of the king of the country of Syria. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of the king of the country of Syria. (See: [[translate-names]])
 
 ## l227
 “defeated and took control of it”
 
 # 12:18
 ## jt6e
-rc://*/ta/man/translate/figs-metaphor
-These men were previous kings of Judah. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+These men were previous kings of Judah. (See: [[figs-metaphor]])
 
 ## g6qu
 “dedicated”
@@ -3017,18 +2583,15 @@ The gifts Joash gave Hazael convinced him not to attack Jerusalem. This can be m
 
 # 12:19
 ## vzj6
-rc://*/ta/man/translate/figs-rquestion
-This question is used to remind the reader that these things are recorded. See how this phrase is translated in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written in the book of the history of the kings of Judah.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question is used to remind the reader that these things are recorded. See how this phrase is translated in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written in the book of the history of the kings of Judah.” (See: [[figs-rquestion]])
 
 # 12:20
 ## bpc3
-rc://*/ta/man/translate/translate-names
-The location of this place is unknown. (See: [[rc://*/ta/man/translate/translate-names]])
+The location of this place is unknown. (See: [[translate-names]])
 
 # 12:21
 ## a67i
-rc://*/ta/man/translate/translate-names
-These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are names of men. (See: [[translate-names]])
 
 ## c8xh
 “in the place where his ancestors were buried”
@@ -3041,8 +2604,7 @@ These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 See [[2KI-abcd]]
 # 13:1
 ## x3b7
-rc://*/ta/man/translate/translate-numbers
-“After Joash had been ruling Judah for almost 23 years” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“After Joash had been ruling Judah for almost 23 years” (See: [[translate-numbers]])
 
 ## k11v
 “rule over the kingdom of Israel located in Samaria”
@@ -3052,45 +2614,38 @@ rc://*/ta/man/translate/translate-numbers
 
 # 13:2
 ## a5vp
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 ## dmd4
 “did the same sins as Jeroboam”
 
 ## r613
-rc://*/ta/man/translate/figs-metaphor
-Here stopping his sin is spoken of as if he turned away from them. This can also be stated in positive form. Alternate translation: “Jehoahaz did not stop doing the sins of Jeroboam” or “Jehoahaz continued to do the same sins as Jeroboam” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here stopping his sin is spoken of as if he turned away from them. This can also be stated in positive form. Alternate translation: “Jehoahaz did not stop doing the sins of Jeroboam” or “Jehoahaz continued to do the same sins as Jeroboam” (See: [[figs-metaphor]])
 
 # 13:3
 ## sii1
-rc://*/ta/man/translate/figs-metaphor
-Yahweh becoming angry with Israel is spoken of as if his anger was a fire that burned. Alternate translation: “Then Yahweh became very angry with Israel” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Yahweh becoming angry with Israel is spoken of as if his anger was a fire that burned. Alternate translation: “Then Yahweh became very angry with Israel” (See: [[figs-metaphor]])
 
 ## u4tp
-rc://*/ta/man/translate/figs-metonymy
-Here “them” refers to Israel and “hand” refers to the power to control them. Alternate translation: “allowed Hazael the king of Aram, and Ben Hadad, his son, to repeatedly defeat the Israelites in battle” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “them” refers to Israel and “hand” refers to the power to control them. Alternate translation: “allowed Hazael the king of Aram, and Ben Hadad, his son, to repeatedly defeat the Israelites in battle” (See: [[figs-metonymy]])
 
 # 13:4
 ## hcy2
 “prayed to Yahweh”
 
 ## ghi9
-rc://*/ta/man/translate/figs-abstractnouns
-These two phrases mean the same thing and are repeated for emphasis. The abstract noun “oppression” means the same as “the king of Aram was oppressing them.” Alternate translation: “he saw how severely the king of Aram was oppressing Israel” (See: [[rc://*/ta/man/translate/figs-abstractnouns]])
+These two phrases mean the same thing and are repeated for emphasis. The abstract noun “oppression” means the same as “the king of Aram was oppressing them.” Alternate translation: “he saw how severely the king of Aram was oppressing Israel” (See: [[figs-abstractnouns]])
 
 # 13:5
 ## n7zw
 “someone to rescue them”
 
 ## lp9p
-rc://*/ta/man/translate/figs-metonymy
-Here “hand” refers to the power to control them. Alternate translation: “he enabled them to be free from Aram’s power” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “hand” refers to the power to control them. Alternate translation: “he enabled them to be free from Aram’s power” (See: [[figs-metonymy]])
 
 # 13:6
 ## jts3
-rc://*/ta/man/translate/figs-metaphor
-To stop sinning is spoken of as if they departed from the sins. This can be stated in positive form. Alternate translation: “Israel did not stop doing the same sins as Jeroboam had done” or “Israel continued to commit the same sins as Jeroboam had committed” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+To stop sinning is spoken of as if they departed from the sins. This can be stated in positive form. Alternate translation: “Israel did not stop doing the same sins as Jeroboam had done” or “Israel continued to commit the same sins as Jeroboam had committed” (See: [[figs-metaphor]])
 
 ## yu8j
 “the family of Jeroboam”
@@ -3100,64 +2655,52 @@ To stop sinning is spoken of as if they departed from the sins. This can be stat
 “had defeated the army of Jehoahaz”
 
 ## rn9h
-rc://*/ta/man/translate/figs-simile
-The Aramean army had so severely defeated the army of Israel that what remained was so worthless that it is compared to wheat chaff that the laborers walk on at harvest time. Alternate translation: “had crushed them as workers crush chaff under their feet at harvest time” (See: [[rc://*/ta/man/translate/figs-simile]])
+The Aramean army had so severely defeated the army of Israel that what remained was so worthless that it is compared to wheat chaff that the laborers walk on at harvest time. Alternate translation: “had crushed them as workers crush chaff under their feet at harvest time” (See: [[figs-simile]])
 
 # 13:8
 ## pi49
-rc://*/ta/man/translate/figs-rquestion
-This question is used to remind the reader that the acts of Jehoahaz are recorded in another book. See how this phrase is translated in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in the book of the events of the kings of Israel.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question is used to remind the reader that the acts of Jehoahaz are recorded in another book. See how this phrase is translated in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in the book of the events of the kings of Israel.” (See: [[figs-rquestion]])
 
 # 13:9
 ## kb13
-rc://*/ta/man/translate/figs-euphemism
-This is a polite way of saying that he died. (See: [[rc://*/ta/man/translate/figs-euphemism]])
+This is a polite way of saying that he died. (See: [[figs-euphemism]])
 
 # 13:10
 ## dwi8
-rc://*/ta/man/translate/translate-numbers
-“After Joash had ruled Judah for almost 37 years” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“After Joash had ruled Judah for almost 37 years” (See: [[translate-numbers]])
 
 ## j1vy
 “Jehoash son of Jehoahaz began to rule over Israel in Samaria”
 
 ## l84r
-rc://*/ta/man/translate/translate-names
-This was a king of Israel who was the son of Jehoahaz. (See: [[rc://*/ta/man/translate/translate-names]])
+This was a king of Israel who was the son of Jehoahaz. (See: [[translate-names]])
 
 # 13:11
 ## sa6k
-rc://*/ta/man/translate/figs-metaphor
-Here “sight” represents God’s thoughts or judgment. Alternate translation: “He did things that Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here “sight” represents God’s thoughts or judgment. Alternate translation: “He did things that Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 ## ird8
-rc://*/ta/man/translate/figs-metaphor
-To stop sinning is spoken of as if he left behind the sins. This can be stated in positive form. Alternate translation: “Jehoash did not stop committing the same sins as Jeroboam” or “Jehoash kept committing the same sins as Jeroboam” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+To stop sinning is spoken of as if he left behind the sins. This can be stated in positive form. Alternate translation: “Jehoash did not stop committing the same sins as Jeroboam” or “Jehoash kept committing the same sins as Jeroboam” (See: [[figs-metaphor]])
 
 ## gt2b
 “by which Jeroboam had caused Israel to sin”
 
 ## jsm8
-rc://*/ta/man/translate/figs-metaphor
-To sin is spoken of as if he was walking along a sinful path. Alternate translation: “but Jehoash continued to do these same sins” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+To sin is spoken of as if he was walking along a sinful path. Alternate translation: “but Jehoash continued to do these same sins” (See: [[figs-metaphor]])
 
 # 13:12
 ## h7yt
-rc://*/ta/man/translate/figs-metonymy
-Here the strength of Jehoash’s army is spoken of as Jehoash’s “might.” Alternate translation: “the power that his army showed when they fought against the army of Amaziah king of Judah” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the strength of Jehoash’s army is spoken of as Jehoash’s “might.” Alternate translation: “the power that his army showed when they fought against the army of Amaziah king of Judah” (See: [[figs-metonymy]])
 
 ## u7z4
-rc://*/ta/man/translate/figs-rquestion
-This question is used to remind the reader that the acts of Jehoahaz are recorded in another book. See how this phrase is translated in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in the book of the events of the kings of Israel.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question is used to remind the reader that the acts of Jehoahaz are recorded in another book. See how this phrase is translated in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in the book of the events of the kings of Israel.” (See: [[figs-rquestion]])
 
 # 13:13
 ## q8g6
-rc://*/ta/man/translate/figs-euphemism
-This a polite way to say that Jehoash died. (See: [[rc://*/ta/man/translate/figs-euphemism]])
+This a polite way to say that Jehoash died. (See: [[figs-euphemism]])
 
 ## il21
-rc://*/ta/man/translate/figs-metonymy
-Here “sat on his throne” refers to ruling as king. Alternate translation: “Jeroboam became king after him” or “Jeroboam began to rule after him” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “sat on his throne” refers to ruling as king. Alternate translation: “Jeroboam became king after him” or “Jeroboam began to rule after him” (See: [[figs-metonymy]])
 
 # 13:14
 ## jr12
@@ -3167,12 +2710,10 @@ Here “sat on his throne” refers to ruling as king. Alternate translation: �
 Elisha was not the king’s literal father. King Joash used this term as a sign of respect.
 
 ## r8bv
-rc://*/ta/man/translate/figs-explicit
-This is a reference to Elijah going to heaven in [2 Kings 2:11](../02/11.md) and [2 Kings 2:12](../02/12.md). Joash uses this phrase to say that Elisha was going to die. Alternate translation: “the chariots of Israel and the horsemen are taking you to heaven” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This is a reference to Elijah going to heaven in [2 Kings 2:11](../02/11.md) and [2 Kings 2:12](../02/12.md). Joash uses this phrase to say that Elisha was going to die. Alternate translation: “the chariots of Israel and the horsemen are taking you to heaven” (See: [[figs-explicit]])
 
 ## tj6k
-rc://*/ta/man/translate/figs-explicit
-This refers to the men who drove the chariots. This can be made explicit. Alternate translation: “the drivers of the chariots” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This refers to the men who drove the chariots. This can be made explicit. Alternate translation: “the drivers of the chariots” (See: [[figs-explicit]])
 
 # 13:17
 ## we66
@@ -3181,19 +2722,16 @@ See [[2KI-we66]]
 “open the window that faces east” or “open that window towards the east”
 
 ## dd2b
-rc://*/ta/man/translate/figs-explicit
-Since this happens after Joash takes the bow and arrows, he may have had a servant open the window. Alternate translation: “So a servant opened it” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Since this happens after Joash takes the bow and arrows, he may have had a servant open the window. Alternate translation: “So a servant opened it” (See: [[figs-explicit]])
 
 ## wid3
 “Joash shot the arrow”
 
 ## lul1
-rc://*/ta/man/translate/figs-explicit
-The relationship between the arrow and victory can be stated explicitly. Alternate translation: “This arrow is a sign from Yahweh that he will give you victory over Aram” or “This arrow symbolizes the victory Yahweh will give you over Aram” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The relationship between the arrow and victory can be stated explicitly. Alternate translation: “This arrow is a sign from Yahweh that he will give you victory over Aram” or “This arrow symbolizes the victory Yahweh will give you over Aram” (See: [[figs-explicit]])
 
 ## gh9y
-rc://*/ta/man/translate/translate-names
-This was a city in the land of Israel. (See: [[rc://*/ta/man/translate/translate-names]])
+This was a city in the land of Israel. (See: [[translate-names]])
 
 # 13:19
 ## zg7e
@@ -3204,8 +2742,7 @@ This was a city in the land of Israel. (See: [[rc://*/ta/man/translate/translate
 
 # 13:20
 ## jpb8
-rc://*/ta/man/translate/writing-background
-This word marks a break in the main story line. This new section gives background information for the part of the story that follows. (See: [[rc://*/ta/man/translate/writing-background]])
+This word marks a break in the main story line. This new section gives background information for the part of the story that follows. (See: [[writing-background]])
 
 ## eqh3
 “each year during spring”
@@ -3215,15 +2752,13 @@ This word marks a break in the main story line. This new section gives backgroun
 “As some Israelites were burying a man’s body”
 
 ## c2yj
-rc://*/ta/man/translate/figs-explicit
-It can be made explicit that they were afraid of the Moabites. Alternate translation: “they saw a group of Moabite raiders coming toward them and they were afraid” (See: [[rc://*/ta/man/translate/figs-explicit]])
+It can be made explicit that they were afraid of the Moabites. Alternate translation: “they saw a group of Moabite raiders coming toward them and they were afraid” (See: [[figs-explicit]])
 
 ## bnq2
 “the grave where Elisha was buried”
 
 ## u91l
-rc://*/ta/man/translate/figs-explicit
-Here “the man” refers to his dead body. This can be made explicit. Alternate translation: “As soon as the dead man’s body touched the bones of Elisha” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Here “the man” refers to his dead body. This can be made explicit. Alternate translation: “As soon as the dead man’s body touched the bones of Elisha” (See: [[figs-explicit]])
 
 ## xm7e
 “the dead man came back to life and stood up”
@@ -3233,29 +2768,24 @@ Here “the man” refers to his dead body. This can be made explicit. Alternate
 It may be helpful to divide this sentence into shorter parts. Alternate translation: “But Yahweh was very kind to the Israelite people. He helped them”
 
 ## rh9e
-rc://*/ta/man/translate/figs-explicit
-Yahweh’s covenant is the reason he did not destroy Israel. This can be made explicit. Alternate translation: “This is the reason that Yahweh did not destroy them” or “Because of his covenant, Yahweh did not destroy them” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Yahweh’s covenant is the reason he did not destroy Israel. This can be made explicit. Alternate translation: “This is the reason that Yahweh did not destroy them” or “Because of his covenant, Yahweh did not destroy them” (See: [[figs-explicit]])
 
 ## w4jq
-rc://*/ta/man/translate/figs-metaphor
-Yahweh’s rejection is spoken of as if he had physically driven Israel away from where he was. Alternate translation: “has not rejected them” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Yahweh’s rejection is spoken of as if he had physically driven Israel away from where he was. Alternate translation: “has not rejected them” (See: [[figs-metaphor]])
 
 # 13:24
 ## pn16
-rc://*/ta/man/translate/translate-names
-These are names of kings. (See: [[rc://*/ta/man/translate/translate-names]])
+These are names of kings. (See: [[translate-names]])
 
 ## z9i4
 “became king after him”
 
 # 13:25
 ## kwm4
-rc://*/ta/man/translate/translate-names
-These are names of kings. (See: [[rc://*/ta/man/translate/translate-names]])
+These are names of kings. (See: [[translate-names]])
 
 ## zz2a
-rc://*/ta/man/translate/figs-synecdoche
-Here “Jehoash” and “him” refer to the kings and their armies. Alternate translation: “Jehoash’s army attacked Ben Hadad’s army three times” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “Jehoash” and “him” refer to the kings and their armies. Alternate translation: “Jehoash’s army attacked Ben Hadad’s army three times” (See: [[figs-synecdoche]])
 
 ## v9pk
 “Jehoash took back control of the Israelite cities that Ben Hadad had captured”
@@ -3272,134 +2802,108 @@ See [[2KI-abce]]
 
 # 14:2
 ## s314
-rc://*/ta/man/translate/translate-numbers
-“He was 25 years old when he became king” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“He was 25 years old when he became king” (See: [[translate-numbers]])
 
 ## qq8d
-rc://*/ta/man/translate/translate-numbers
-“he was the king in Jerusalem for 29 years” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“he was the king in Jerusalem for 29 years” (See: [[translate-numbers]])
 
 ## bez2
-rc://*/ta/man/translate/translate-names
-(See: [[rc://*/ta/man/translate/translate-names]])
+(See: [[translate-names]])
 
 # 14:3
 ## s1dn
-rc://*/ta/man/translate/figs-metaphor
-Here “the eyes of Yahweh” refers to his sight, and his sight refers to his judgment. Alternate translation: “Amaziah did many things that pleased Yahweh, but he did not do as many things that pleased Yahweh as King David had done” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here “the eyes of Yahweh” refers to his sight, and his sight refers to his judgment. Alternate translation: “Amaziah did many things that pleased Yahweh, but he did not do as many things that pleased Yahweh as King David had done” (See: [[figs-metaphor]])
 
 ## u7ik
-rc://*/ta/man/translate/figs-explicit
-Joash obeyed Yahweh and did good things. This can be made explicit. Alternate translation: “He did the same good things that his father Joash had done” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Joash obeyed Yahweh and did good things. This can be made explicit. Alternate translation: “He did the same good things that his father Joash had done” (See: [[figs-explicit]])
 
 # 14:4
 ## xtm4
 See [[2KI-xtm4]]
 ## uy97
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. The high places were used for pagan worship. This can be made explicit. Alternate translation: “But he did not remove the high places” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. The high places were used for pagan worship. This can be made explicit. Alternate translation: “But he did not remove the high places” (See: [[figs-activepassive]])
 
 ## jkh2
-rc://*/ta/man/translate/figs-explicit
-The high places were used for pagan worship. This can be made explicit. Alternate translation: “sacrificed and burned incense to pagan gods at the high places”(See: [[rc://*/ta/man/translate/figs-explicit]])
+The high places were used for pagan worship. This can be made explicit. Alternate translation: “sacrificed and burned incense to pagan gods at the high places”(See: [[figs-explicit]])
 
 # 14:5
 ## l8qk
-rc://*/ta/man/translate/writing-newevent
-This is used to introduce a new event. (See: [[rc://*/ta/man/translate/writing-newevent]])
+This is used to introduce a new event. (See: [[writing-newevent]])
 
 ## d25b
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “as soon as Amaziah securely established his royal rule and kingly authority” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “as soon as Amaziah securely established his royal rule and kingly authority” (See: [[figs-activepassive]])
 
 ## cd1j
-rc://*/ta/man/translate/figs-explicit
-Amaziah probably ordered other people to kill the officials. Alternate translation: “he made his servants execute the officials” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Amaziah probably ordered other people to kill the officials. Alternate translation: “he made his servants execute the officials” (See: [[figs-explicit]])
 
 # 14:6
 ## nq56
 See [[2KI-nq56]]
 ## f6e7
-rc://*/ta/man/translate/figs-synecdoche
-King Amaziah did not order his servants to kill the children of the men who killed his father. If he was going to have them executed though, he would have commanded his servants do it, he would not have done it himself. Alternate translation: “But he did not tell his servants to execute those officials’ children” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+King Amaziah did not order his servants to kill the children of the men who killed his father. If he was going to have them executed though, he would have commanded his servants do it, he would not have done it himself. Alternate translation: “But he did not tell his servants to execute those officials’ children” (See: [[figs-synecdoche]])
 
 ## xz2e
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “People must not kill the fathers for the sins of their children, and they must not kill the children for the sins of their parents” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “People must not kill the fathers for the sins of their children, and they must not kill the children for the sins of their parents” (See: [[figs-activepassive]])
 
 ## i2xx
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “every person must die for his own sin” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “every person must die for his own sin” (See: [[figs-activepassive]])
 
 # 14:7
 ## s7bx
-rc://*/ta/man/translate/figs-synecdoche
-Here “He” refers to his army. Alternate translation: “Amaziah’s army killed” or “Amaziah’s soldiers killed” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “He” refers to his army. Alternate translation: “Amaziah’s army killed” or “Amaziah’s soldiers killed” (See: [[figs-synecdoche]])
 
 ## ivl5
-rc://*/ta/man/translate/translate-numbers
-“10,000 soldiers” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“10,000 soldiers” (See: [[translate-numbers]])
 
 ## th9a
 This is the name of a place that is located south of the Dead Sea.
 
 ## p37c
-rc://*/ta/man/translate/figs-synecdoche
-Here the word “he” refers to King amaziah and represents himself and his army. Alternate translation: “King Amaziah’s army captured the city of Sela” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here the word “he” refers to King amaziah and represents himself and his army. Alternate translation: “King Amaziah’s army captured the city of Sela” (See: [[figs-synecdoche]])
 
 ## n6i2
-rc://*/ta/man/translate/translate-names
-They renamed the city of Sela. The new name was Joktheel. (See: [[rc://*/ta/man/translate/translate-names]])
+They renamed the city of Sela. The new name was Joktheel. (See: [[translate-names]])
 
 # 14:8
 ## wa4f
-rc://*/ta/man/translate/figs-synecdoche
-Here “each other” also included their armies. Alternate translation: “Then Amaziah sent messengers to King Jehoash of Israel, saying, ‘Come here and let us and our armies fight each other in battle.’” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “each other” also included their armies. Alternate translation: “Then Amaziah sent messengers to King Jehoash of Israel, saying, ‘Come here and let us and our armies fight each other in battle.’” (See: [[figs-synecdoche]])
 
 # 14:9
 ## c44n
-rc://*/ta/man/translate/figs-metaphor
-This is a word picture and a riddle. A cedar tree is great and a thistle is small and worthless. Jehoash compares himself to the cedar and Amaziah to the thistle and warns Amaziah not to attack. If you have a similar comparison in your own language, you can use it. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This is a word picture and a riddle. A cedar tree is great and a thistle is small and worthless. Jehoash compares himself to the cedar and Amaziah to the thistle and warns Amaziah not to attack. If you have a similar comparison in your own language, you can use it. (See: [[figs-metaphor]])
 
 ## m2ge
 type of bush with thorns
 
 ## thw3
-rc://*/ta/man/translate/figs-quotations
-This direct quotation can be stated as an indirect quotation. Alternate translation: “asking the cedar to give his daughter to the thistle’s son for a wife” (See: [[rc://*/ta/man/translate/figs-quotations]])
+This direct quotation can be stated as an indirect quotation. Alternate translation: “asking the cedar to give his daughter to the thistle’s son for a wife” (See: [[figs-quotations]])
 
 # 14:10
 ## uh7l
 This is the warning part of Jehoash’s message to Amaziah. “Amaziah, you have definitely defeated Edom”
 
 ## y8jc
-rc://*/ta/man/translate/figs-idiom
-This is an idiom that refers to being proud. Alternate translation: “you are very proud of what you have done” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This is an idiom that refers to being proud. Alternate translation: “you are very proud of what you have done” (See: [[figs-idiom]])
 
 ## t29y
 “Be content with your victory”
 
 ## ik12
-rc://*/ta/man/translate/figs-rquestion
-Jehoash uses this question to warn Amaziah not to attack him. Alternate translation: “for you should not cause trouble for yourself and suffer defeat” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Jehoash uses this question to warn Amaziah not to attack him. Alternate translation: “for you should not cause trouble for yourself and suffer defeat” (See: [[figs-rquestion]])
 
 # 14:11
 ## tc12
-rc://*/ta/man/translate/figs-metonymy
-Here “listen” refers to obeying the warning. Alternate translation: “However, Amaziah would not obey Jehoash’s warning” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “listen” refers to obeying the warning. Alternate translation: “However, Amaziah would not obey Jehoash’s warning” (See: [[figs-metonymy]])
 
 ## dxk2
-rc://*/ta/man/translate/figs-synecdoche
-The armies of these kings went to battle with them. Alternate translation: “So Jehoash and his army went to fight Amaziah and his army and they met each other” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The armies of these kings went to battle with them. Alternate translation: “So Jehoash and his army went to fight Amaziah and his army and they met each other” (See: [[figs-synecdoche]])
 
 ## tea6
-rc://*/ta/man/translate/translate-names
-This is a town in Judah near the border of Israel. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a town in Judah near the border of Israel. (See: [[translate-names]])
 
 # 14:12
 ## iqd2
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “Israel defeated Judah” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “Israel defeated Judah” (See: [[figs-activepassive]])
 
 ## s7x5
 “all the men in the army of Judah ran home”
@@ -3408,55 +2912,45 @@ This can be stated in active form. Alternate translation: “Israel defeated Jud
 ## pau5
 See [[2KI-pau5]]
 ## r9xl
-rc://*/ta/man/translate/figs-synecdoche
-Here “He” refers to Jehoash and his army. Alternate translation: “Jehoash and his army came … Jehoash’s soldiers took” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “He” refers to Jehoash and his army. Alternate translation: “Jehoash and his army came … Jehoash’s soldiers took” (See: [[figs-synecdoche]])
 
 ## y4k8
-rc://*/ta/man/translate/translate-names
-There are the names of gates in the wall of Jerusalem. (See: [[rc://*/ta/man/translate/translate-names]])
+There are the names of gates in the wall of Jerusalem. (See: [[translate-names]])
 
 ## vqd2
-rc://*/ta/man/translate/translate-numbers
-“about 180 meters” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“about 180 meters” (See: [[translate-numbers]])
 
 ## b9as
-rc://*/ta/man/translate/translate-bdistance
-A cubit was about 46 centimeters. (See: [[rc://*/ta/man/translate/translate-bdistance]])
+A cubit was about 46 centimeters. (See: [[translate-bdistance]])
 
 # 14:14
 ## phn9
-rc://*/ta/man/translate/figs-synecdoche
-Here “He” refers to Jehoash and his army. Alternate translation: “Jehoash and his army came … Jehoash’s soldiers took” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “He” refers to Jehoash and his army. Alternate translation: “Jehoash and his army came … Jehoash’s soldiers took” (See: [[figs-synecdoche]])
 
 ## x427
-rc://*/ta/man/translate/figs-explicit
-This implies that Jehoash needed to take these hostages to prevent Amaziah from attacking again. This can be made explicit. Alternate translation: “and they also took to Samaria some prisoners to make sure that Amaziah would cause them no more trouble” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This implies that Jehoash needed to take these hostages to prevent Amaziah from attacking again. This can be made explicit. Alternate translation: “and they also took to Samaria some prisoners to make sure that Amaziah would cause them no more trouble” (See: [[figs-explicit]])
 
 # 14:15
 ## t4dy
-rc://*/ta/man/translate/figs-rquestion
-This question is used to remind the reader that the acts of Jehoahaz are recorded in another book. See how this phrase is translated in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in the book of the events of the kings of Israel.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question is used to remind the reader that the acts of Jehoahaz are recorded in another book. See how this phrase is translated in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in the book of the events of the kings of Israel.” (See: [[figs-rquestion]])
 
 # 14:16
 ## vt46
-rc://*/ta/man/translate/figs-euphemism
-This is a polite way to say that he died. Alternate translation: “Then Jehoash died” (See: [[rc://*/ta/man/translate/figs-euphemism]])
+This is a polite way to say that he died. Alternate translation: “Then Jehoash died” (See: [[figs-euphemism]])
 
 ## adn8
 “became king after him”
 
 # 14:18
 ## xq4q
-rc://*/ta/man/translate/figs-rquestion
-This question is used to remind the reader that these things are recorded. See how this phrase is translated in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written in the book of the history of the kings of Judah.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question is used to remind the reader that these things are recorded. See how this phrase is translated in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written in the book of the history of the kings of Judah.” (See: [[figs-rquestion]])
 
 # 14:19
 ## y5yc
 A conspiracy is a secret plan to do harm to someone or something. Alternate translation: “Some people in Jerusalem plotted against Amaziah”
 
 ## is8m
-rc://*/ta/man/translate/translate-names
-This is a city in southwestern Judah. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a city in southwestern Judah. (See: [[translate-names]])
 
 ## mf5g
 The men who made the conspiracy sent other men to follow Amaziah to Lachish.
@@ -3469,160 +2963,133 @@ See [[2KI-gt9h]]
 
 # 14:21
 ## rm6a
-rc://*/ta/man/translate/figs-hyperbole
-This is a generalization. Some people may not have wanted him to be king. Alternate translation: “The people of Judah took the 16 year-old Azariah and made him king after his father, Amaziah” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+This is a generalization. Some people may not have wanted him to be king. Alternate translation: “The people of Judah took the 16 year-old Azariah and made him king after his father, Amaziah” (See: [[figs-hyperbole]])
 
 ## rt3h
 This king is better known today by the name “Uzziah.”
 
 # 14:22
 ## f5zb
-rc://*/ta/man/translate/figs-synecdoche
-Azariah did not do this alone. Alternate translation: “It was Azariah who ordered Elath to be rebuilt” or “It was Azariah who supervised the rebuilding of Elath” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Azariah did not do this alone. Alternate translation: “It was Azariah who ordered Elath to be rebuilt” or “It was Azariah who supervised the rebuilding of Elath” (See: [[figs-synecdoche]])
 
 ## j6in
-rc://*/ta/man/translate/translate-names
-a city in Judah (See: [[rc://*/ta/man/translate/translate-names]])
+a city in Judah (See: [[translate-names]])
 
 ## p27q
 “returned it to Judah”
 
 ## q5yk
-rc://*/ta/man/translate/figs-euphemism
-This is a poetic way to say he died. (See: [[rc://*/ta/man/translate/figs-euphemism]])
+This is a poetic way to say he died. (See: [[figs-euphemism]])
 
 # 14:23
 ## mn4e
 See [[2KI-mn4e]]
 ## yl7k
-rc://*/ta/man/translate/translate-numbers
-“In year 15 of Amaziah” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“In year 15 of Amaziah” (See: [[translate-numbers]])
 
 ## b29p
-rc://*/ta/man/translate/translate-numbers
-“41 years” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“41 years” (See: [[translate-numbers]])
 
 # 14:24
 ## w3y6
-rc://*/ta/man/translate/figs-metaphor
-Here “sight” is a metaphor for judging or considering. Alternate translation: “evil according to Yahweh” or “what Yahweh considered to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here “sight” is a metaphor for judging or considering. Alternate translation: “evil according to Yahweh” or “what Yahweh considered to be evil” (See: [[figs-metaphor]])
 
 ## ic6v
-rc://*/ta/man/translate/figs-metaphor
-To stop sinning is spoken of as leaving a path. This can be stated in positive form. Alternate translation: “He did not stop committing the same sins as Jeroboam” or “He continued to commit the same sins as Jeroboam” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+To stop sinning is spoken of as leaving a path. This can be stated in positive form. Alternate translation: “He did not stop committing the same sins as Jeroboam” or “He continued to commit the same sins as Jeroboam” (See: [[figs-metaphor]])
 
 # 14:25
 ## n18g
-rc://*/ta/man/translate/figs-metonymy
-This means his army restored the land up to the border. Alternate translation: “His soldiers conquered again some of the territory that had previously belonged to Israel” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+This means his army restored the land up to the border. Alternate translation: “His soldiers conquered again some of the territory that had previously belonged to Israel” (See: [[figs-metonymy]])
 
 ## i4vs
-rc://*/ta/man/translate/translate-names
-This city was also called Hamath. (See: [[rc://*/ta/man/translate/translate-names]])
+This city was also called Hamath. (See: [[translate-names]])
 
 ## k2lt
 “the Dead Sea”
 
 # 14:26
 ## fux4
-rc://*/ta/man/translate/figs-metaphor
-Suffering that was difficult is spoken of as if it had a bitter taste. Alternate translation: “it was very difficult” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Suffering that was difficult is spoken of as if it had a bitter taste. Alternate translation: “it was very difficult” (See: [[figs-metaphor]])
 
 ## p9i4
 “there was no one who could rescue Israel”
 
 # 14:27
 ## lz2i
-rc://*/ta/man/translate/figs-metaphor
-To completely destroy Israel is spoken of as if Yahweh wiped them away with a cloth. Alternate translation: “completely destroy” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+To completely destroy Israel is spoken of as if Yahweh wiped them away with a cloth. Alternate translation: “completely destroy” (See: [[figs-metaphor]])
 
 ## v5n5
-rc://*/ta/man/translate/figs-metonymy
-Here “the name of Israel” represents all of Israel and its inhabitants. Alternate translation: “the Israelite people” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “the name of Israel” represents all of Israel and its inhabitants. Alternate translation: “the Israelite people” (See: [[figs-metonymy]])
 
 ## b5t9
 “on earth”
 
 ## tjk3
-rc://*/ta/man/translate/figs-metonymy
-Here “hand” is a metonym for power. Also, “Jehoash” is a synecdoche representing Jehoash and his army. Alternate translation: “he enabled King Jeroboam and his army to rescue them” (See: [[rc://*/ta/man/translate/figs-metonymy]] and [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “hand” is a metonym for power. Also, “Jehoash” is a synecdoche representing Jehoash and his army. Alternate translation: “he enabled King Jeroboam and his army to rescue them” (See: [[figs-metonymy]] and [[figs-synecdoche]])
 
 # 14:28
 ## ka1r
-rc://*/ta/man/translate/figs-rquestion
-This question is used to remind the reader that the acts of Jehoahaz are recorded in another book. See how this phrase is translated in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in the book of the events of the kings of Israel.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question is used to remind the reader that the acts of Jehoahaz are recorded in another book. See how this phrase is translated in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in the book of the events of the kings of Israel.” (See: [[figs-rquestion]])
 
 # 14:29
 ## eq5q
-rc://*/ta/man/translate/figs-euphemism
-This is a polite way to say that he died and was buried. Alternate translation: “Jeroboam died, and was buried where the other kings of Israel were buried” (See: [[rc://*/ta/man/translate/figs-euphemism]])
+This is a polite way to say that he died and was buried. Alternate translation: “Jeroboam died, and was buried where the other kings of Israel were buried” (See: [[figs-euphemism]])
 
 # 15:intro
 ## abcf
 See [[2KI-abcf]]
 # 15:1
 ## e5x2
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that this is the twenty-seventh year of his reign. Alternate translation: “In year 27 of the reign of Jeroboam” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-numbers]])
+It can be stated clearly that this is the twenty-seventh year of his reign. Alternate translation: “In year 27 of the reign of Jeroboam” (See: [[figs-explicit]] and [[translate-numbers]])
 
 ## kyq4
 This king is better known today by the name “Uzziah.”
 
 # 15:2
 ## ric2
-rc://*/ta/man/translate/translate-names
-This is the name of Azariah’s mother. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of Azariah’s mother. (See: [[translate-names]])
 
 # 15:3
 ## dct6
 “Azariah did what was right”
 
 ## tc2q
-rc://*/ta/man/translate/figs-metaphor
-The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “what was right in Yahweh’s judgment” or “what Yahweh considers to be right” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “what was right in Yahweh’s judgment” or “what Yahweh considers to be right” (See: [[figs-metaphor]])
 
 # 15:4
 ## v4ck
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “no one took away the high places” or “Azariah did not have anyone take the high places away” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “no one took away the high places” or “Azariah did not have anyone take the high places away” (See: [[figs-activepassive]])
 
 ## kum4
-rc://*/ta/man/translate/figs-metaphor
-Being taken away represents being destroyed. Alternate translation: “were not destroyed” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Being taken away represents being destroyed. Alternate translation: “were not destroyed” (See: [[figs-metaphor]])
 
 # 15:5
 ## a3rs
-rc://*/ta/man/translate/figs-abstractnouns
-The abstract noun “death” can be expressed with the verb “die.” Alternate translation: “until the day he died” (See: [[rc://*/ta/man/translate/figs-abstractnouns]])
+The abstract noun “death” can be expressed with the verb “die.” Alternate translation: “until the day he died” (See: [[figs-abstractnouns]])
 
 ## gk1i
 The word “household” refers to the people living in the king’s palace. Because Azariah was a leper, he had to live in a separate house. So his son, Jotham, took charge over the palace.
 
 ## pz41
-rc://*/ta/man/translate/figs-metaphor
-Being over the household represents having authority over those in it. Alternate translation: “was in charge of the household” or “had authority over those in Azariah’s palace” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Being over the household represents having authority over those in it. Alternate translation: “was in charge of the household” or “had authority over those in Azariah’s palace” (See: [[figs-metaphor]])
 
 # 15:6
 ## i6ew
-rc://*/ta/man/translate/figs-rquestion
-This question is used to either inform or remind the readers that the information about Azariah is in this other book. This can also be stated in active form. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written … Judah.” or “you can read about them … Judah.” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-activepassive]])
+This question is used to either inform or remind the readers that the information about Azariah is in this other book. This can also be stated in active form. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written … Judah.” or “you can read about them … Judah.” (See: [[figs-rquestion]] and [[figs-activepassive]])
 
 # 15:7
 ## h3ex
-rc://*/ta/man/translate/figs-metaphor
-Sleeping represents dying. Alternate translation: “Azariah died as his ancestors had” or “like his ancestors, Azariah died” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-euphemism]])
+Sleeping represents dying. Alternate translation: “Azariah died as his ancestors had” or “like his ancestors, Azariah died” (See: [[figs-metaphor]] and [[figs-euphemism]])
 
 ## cv1f
 “his family buried him where his ancestors had been buried”
 
 ## xj9r
-rc://*/ta/man/translate/figs-metaphor
-The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Azariah” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Azariah” (See: [[figs-metaphor]])
 
 # 15:8
 ## n87b
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that this is the thirty-eighth year of his reign. Alternate translation: “In year 38 of the reign of Azariah king of Judah” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-numbers]])
+It can be stated clearly that this is the thirty-eighth year of his reign. Alternate translation: “In year 38 of the reign of Azariah king of Judah” (See: [[figs-explicit]] and [[translate-numbers]])
 
 ## ndd5
 This Jeroboam was the second king of Israel that had that name. He was the son of King Jehoash.
@@ -3635,250 +3102,199 @@ Samaria is the city that Zechariah lived in when he was king of Israel. Alternat
 “Zechariah did what was evil”
 
 ## z35l
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 ## s24j
-rc://*/ta/man/translate/figs-metaphor
-Departing from sins represents refusing to do those sins. Alternate translation: “Zechariah did not refuse to commit the sins of Jeroboam son of Nebat” or “He sinned as Jeroboam son of Nebat had sinned” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Departing from sins represents refusing to do those sins. Alternate translation: “Zechariah did not refuse to commit the sins of Jeroboam son of Nebat” or “He sinned as Jeroboam son of Nebat had sinned” (See: [[figs-metaphor]])
 
 ## tf55
 This Jeroboam was the first king of the ten northern tribes that made up the kingdom of Israel.
 
 ## jf9j
-rc://*/ta/man/translate/figs-metonymy
-Here the word “Israel” represents the people of the kingdom of Israel. Alternate translation: “who had caused the people of Israel to sin” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the word “Israel” represents the people of the kingdom of Israel. Alternate translation: “who had caused the people of Israel to sin” (See: [[figs-metonymy]])
 
 # 15:10
 ## p3db
-rc://*/ta/man/translate/translate-names
-These are the names of two men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of two men. (See: [[translate-names]])
 
 ## e54l
 “against King Zechariah”
 
 ## zj8z
-rc://*/ta/man/translate/translate-names
-This was the name of a city. (See: [[rc://*/ta/man/translate/translate-names]])
+This was the name of a city. (See: [[translate-names]])
 
 ## xu2j
 “Then Shallum became king in Zechariah’s place”
 
 # 15:11
 ## rh7h
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “you can read about them in the book of the events of the kings of Israel” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “you can read about them in the book of the events of the kings of Israel” (See: [[figs-activepassive]])
 
 # 15:12
 ## e1b4
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that the events described in verse 10 fulfilled the word of Yahweh. Alternate translation: “What happened to Zechariah was according to the word of Yahweh” or “What happened to Zechariah fulfilled the word of Yahweh” (See: [[rc://*/ta/man/translate/figs-explicit]])
+It can be stated clearly that the events described in verse 10 fulfilled the word of Yahweh. Alternate translation: “What happened to Zechariah was according to the word of Yahweh” or “What happened to Zechariah fulfilled the word of Yahweh” (See: [[figs-explicit]])
 
 ## x3sm
-rc://*/ta/man/translate/figs-metonymy
-Sitting on the throne represents being the king. Alternate translation: “Your descendants will be the kings of Israel for four generations” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Sitting on the throne represents being the king. Alternate translation: “Your descendants will be the kings of Israel for four generations” (See: [[figs-metonymy]])
 
 # 15:13
 ## z5db
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that this is the thirty-ninth year of his reign. Alternate translation: “in year 39 of the reign of Azariah king of Judah” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-numbers]])
+It can be stated clearly that this is the thirty-ninth year of his reign. Alternate translation: “in year 39 of the reign of Azariah king of Judah” (See: [[figs-explicit]] and [[translate-numbers]])
 
 ## jep2
-rc://*/ta/man/translate/translate-names
-These are the names of two men. See how you translated these names in [2 Kings 15:10](../15/10.md). (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of two men. See how you translated these names in [2 Kings 15:10](../15/10.md). (See: [[translate-names]])
 
 ## wql8
-rc://*/ta/man/translate/figs-explicit
-Samaria is the city that he lived in when was king of Israel. Alternate translation: “Shallum lived in Samaria and reigned over Israel for only one month” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Samaria is the city that he lived in when was king of Israel. Alternate translation: “Shallum lived in Samaria and reigned over Israel for only one month” (See: [[figs-explicit]])
 
 # 15:14
 ## y7eg
-rc://*/ta/man/translate/translate-names
-These are the names of two men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of two men. (See: [[translate-names]])
 
 ## tv6u
-rc://*/ta/man/translate/figs-metaphor
-The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Shallum” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Shallum” (See: [[figs-metaphor]])
 
 # 15:15
 ## t6xd
-rc://*/ta/man/translate/figs-explicit
-The abstract noun “conspiracy” can be translated with the verb “plan.” It can be stated clearly what this conspiracy was. Alternate translation: “how he planned to murder King Zechariah” or “and how he murdered King Zechariah” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The abstract noun “conspiracy” can be translated with the verb “plan.” It can be stated clearly what this conspiracy was. Alternate translation: “how he planned to murder King Zechariah” or “and how he murdered King Zechariah” (See: [[figs-explicit]])
 
 ## nd96
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “you can read about them in the book of the events of the kings of Israel” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “you can read about them in the book of the events of the kings of Israel” (See: [[figs-activepassive]])
 
 # 15:16
 ## pmb9
-rc://*/ta/man/translate/translate-names
-This is the name of a city. Some versions have “Tappuah,” which is the name of another city. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a city. Some versions have “Tappuah,” which is the name of another city. (See: [[translate-names]])
 
 # 15:17
 ## wu8n
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that this is the thirty-ninth year of his reign. Alternate translation: “In year 39 of the reign of Azariah king of Judah” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-numbers]])
+It can be stated clearly that this is the thirty-ninth year of his reign. Alternate translation: “In year 39 of the reign of Azariah king of Judah” (See: [[figs-explicit]] and [[translate-numbers]])
 
 # 15:18
 ## pk5a
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 ## xfk1
-rc://*/ta/man/translate/figs-abstractnouns
-The abstract noun “life” can be translated with the verb “live.” Alternate translation: “The whole time that he lived” (See: [[rc://*/ta/man/translate/figs-abstractnouns]])
+The abstract noun “life” can be translated with the verb “live.” Alternate translation: “The whole time that he lived” (See: [[figs-abstractnouns]])
 
 ## y9u5
-rc://*/ta/man/translate/figs-metaphor
-Departing from sins represents refusing to do those sins. Alternate translation: “Zechariah did not refuse to commit the sins of Jeroboam son of Nebat” or “He sinned as Jeroboam son of Nebat had sinned” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Departing from sins represents refusing to do those sins. Alternate translation: “Zechariah did not refuse to commit the sins of Jeroboam son of Nebat” or “He sinned as Jeroboam son of Nebat had sinned” (See: [[figs-metaphor]])
 
 ## pj1m
-rc://*/ta/man/translate/figs-metonymy
-Here the word “Israel” represents the people of the kingdom of Israel. Alternate translation: “who had caused the people of Israel to sin” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the word “Israel” represents the people of the kingdom of Israel. Alternate translation: “who had caused the people of Israel to sin” (See: [[figs-metonymy]])
 
 # 15:19
 ## r6vc
-rc://*/ta/man/translate/figs-synecdoche
-The phrase “Pul the king of Assyria” represents Pul and his army. Alternate translation: “Pul the king of Assyria came with his army against the land” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The phrase “Pul the king of Assyria” represents Pul and his army. Alternate translation: “Pul the king of Assyria came with his army against the land” (See: [[figs-synecdoche]])
 
 ## s53r
-rc://*/ta/man/translate/translate-names
-Pul is the name of a man who was king of Assyria. He was also named Tiglath-Pileser. (See: [[rc://*/ta/man/translate/translate-names]])
+Pul is the name of a man who was king of Assyria. He was also named Tiglath-Pileser. (See: [[translate-names]])
 
 ## wap9
-rc://*/ta/man/translate/figs-idiom
-The phrase “came against” is an idiom meaning to attack. “The land” refers to the land of Israel and represents the people who live there. Alternate translation: “came with his army to attack the people of Israel” (See: [[rc://*/ta/man/translate/figs-idiom]] and [[rc://*/ta/man/translate/figs-metonymy]])
+The phrase “came against” is an idiom meaning to attack. “The land” refers to the land of Israel and represents the people who live there. Alternate translation: “came with his army to attack the people of Israel” (See: [[figs-idiom]] and [[figs-metonymy]])
 
 ## s8m5
-rc://*/ta/man/translate/translate-numbers
-“1000 talents of silver.” You may convert this to a modern measure. Alternate translation: “thirty-three thousand kilograms of silver” or “thirty-three metric tons of silver” (See: [[rc://*/ta/man/translate/translate-numbers]] and [[rc://*/ta/man/translate/translate-bmoney]])
+“1000 talents of silver.” You may convert this to a modern measure. Alternate translation: “thirty-three thousand kilograms of silver” or “thirty-three metric tons of silver” (See: [[translate-numbers]] and [[translate-bmoney]])
 
 ## ft85
-rc://*/ta/man/translate/figs-abstractnouns
-The abstract noun “support” can be translated with the verb “support.” Alternate translation: “so that Pul might support him” (See: [[rc://*/ta/man/translate/figs-abstractnouns]])
+The abstract noun “support” can be translated with the verb “support.” Alternate translation: “so that Pul might support him” (See: [[figs-abstractnouns]])
 
 ## wx2a
-rc://*/ta/man/translate/figs-metaphor
-Having the kingdom in his hand represents ruling the kingdom. Alternate translation: “to strengthen his rule over the kingdom of Israel” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Having the kingdom in his hand represents ruling the kingdom. Alternate translation: “to strengthen his rule over the kingdom of Israel” (See: [[figs-metaphor]])
 
 # 15:20
 ## nd7g
 “took this money from Israel”
 
 ## b1hv
-rc://*/ta/man/translate/translate-bmoney
-You may convert this to a modern measure. Alternate translation: “six hundred grams of silver” or “three-fifths of a kilogram of silver” (See: [[rc://*/ta/man/translate/translate-bmoney]])
+You may convert this to a modern measure. Alternate translation: “six hundred grams of silver” or “three-fifths of a kilogram of silver” (See: [[translate-bmoney]])
 
 ## qz7q
 “did not stay there in Israel”
 
 # 15:21
 ## w6zx
-rc://*/ta/man/translate/figs-rquestion
-This question is used to either inform or remind the readers that the information about Menahem is in this other book. See how you translated this in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in The Book of the Events of the Kings of Israel.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question is used to either inform or remind the readers that the information about Menahem is in this other book. See how you translated this in [2 Kings 1:18](../01/18.md). Alternate translation: “they are written in The Book of the Events of the Kings of Israel.” (See: [[figs-rquestion]])
 
 # 15:22
 ## a3i4
-rc://*/ta/man/translate/figs-metaphor
-Sleeping represents dying. See how you translated this in [2 Kings 10:35](../10/35.md). Alternate translation: “Menahem died as his ancestors had” or “like his ancestors, Menahem died” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-euphemism]])
+Sleeping represents dying. See how you translated this in [2 Kings 10:35](../10/35.md). Alternate translation: “Menahem died as his ancestors had” or “like his ancestors, Menahem died” (See: [[figs-metaphor]] and [[figs-euphemism]])
 
 ## l6tw
-rc://*/ta/man/translate/translate-names
-This a man’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This a man’s name. (See: [[translate-names]])
 
 ## axh7
-rc://*/ta/man/translate/figs-metaphor
-The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Menahem” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Menahem” (See: [[figs-metaphor]])
 
 # 15:23
 ## c1p9
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that this is the fiftieth year of his reign. Alternate translation: “In year 50 of the reign of Azariah king of Judah” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-numbers]])
+It can be stated clearly that this is the fiftieth year of his reign. Alternate translation: “In year 50 of the reign of Azariah king of Judah” (See: [[figs-explicit]] and [[translate-numbers]])
 
 ## w1fe
-rc://*/ta/man/translate/translate-names
-This is a man’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a man’s name. (See: [[translate-names]])
 
 # 15:24
 ## yt2s
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 ## n1vt
-rc://*/ta/man/translate/figs-metaphor
-Leaving behind sins represents refusing to do those sins. Alternate translation: “Pekahiah did not refuse to commit the sins of Jeroboam son of Nebat” or “He sinned as Jeroboam son of Nebat had sinned” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Leaving behind sins represents refusing to do those sins. Alternate translation: “Pekahiah did not refuse to commit the sins of Jeroboam son of Nebat” or “He sinned as Jeroboam son of Nebat had sinned” (See: [[figs-metaphor]])
 
 ## v24h
-rc://*/ta/man/translate/figs-metonymy
-Here the word “Israel” represents the people of the kingdom of Israel. (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here the word “Israel” represents the people of the kingdom of Israel. (See: [[figs-metonymy]])
 
 # 15:25
 ## iu97
-rc://*/ta/man/translate/translate-names
-These are men’s names. (See: [[rc://*/ta/man/translate/translate-names]])
+These are men’s names. (See: [[translate-names]])
 
 ## f5xz
 “secretly planned to kill Pekahiah”
 
 ## b6dd
-rc://*/ta/man/translate/translate-numbers
-“50 men” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“50 men” (See: [[translate-numbers]])
 
 ## l8ei
-rc://*/ta/man/translate/translate-names
-These are men’s names. (See: [[rc://*/ta/man/translate/translate-names]])
+These are men’s names. (See: [[translate-names]])
 
 ## lc6k
 “the fortified part of the king’s palace” or “the safe place in the king’s palace”
 
 ## qu35
-rc://*/ta/man/translate/figs-metaphor
-The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Pekahiah” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Pekahiah” (See: [[figs-metaphor]])
 
 # 15:26
 ## yea7
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “you can read about them in the book of the events of the kings of Israel” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “you can read about them in the book of the events of the kings of Israel” (See: [[figs-activepassive]])
 
 # 15:27
 ## hh72
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that this is the fifty-second year of his reign. Alternate translation: “In year 52 of the reign of Azariah king of Judah” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-numbers]])
+It can be stated clearly that this is the fifty-second year of his reign. Alternate translation: “In year 52 of the reign of Azariah king of Judah” (See: [[figs-explicit]] and [[translate-numbers]])
 
 # 15:28
 ## f2fs
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 ## wpl3
-rc://*/ta/man/translate/figs-metaphor
-Departing from sins represents refusing to do those sins. Alternate translation: “Zechariah did not refuse to commit the sins of Jeroboam son of Nebat” or “He sinned as Jeroboam son of Nebat had sinned” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Departing from sins represents refusing to do those sins. Alternate translation: “Zechariah did not refuse to commit the sins of Jeroboam son of Nebat” or “He sinned as Jeroboam son of Nebat had sinned” (See: [[figs-metaphor]])
 
 # 15:29
 ## q5s8
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that this refers to the time of Pekah’s reign. Alternate translation: “In the days of the reign of Pekah king of Israel” or “During the time that Pekah was king of Israel” (See: [[rc://*/ta/man/translate/figs-explicit]])
+It can be stated clearly that this refers to the time of Pekah’s reign. Alternate translation: “In the days of the reign of Pekah king of Israel” or “During the time that Pekah was king of Israel” (See: [[figs-explicit]])
 
 ## wj1u
-rc://*/ta/man/translate/translate-names
-In [2 Kings 15:19](../15/19.md) this man was called “Pul.” (See: [[rc://*/ta/man/translate/translate-names]])
+In [2 Kings 15:19](../15/19.md) this man was called “Pul.” (See: [[translate-names]])
 
 ## fgz6
-rc://*/ta/man/translate/translate-names
-These are the names of cities or regions. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of cities or regions. (See: [[translate-names]])
 
 ## c6cs
-rc://*/ta/man/translate/figs-synecdoche
-Here “He” refers to Tiglath-Pileser and represents him and his army. Carrying the people to Assyria represents forcing them to go to Assyria. Alternate translation: “He and his army forced the people to go to Assyria (See: [[rc://*/ta/man/translate/figs-synecdoche]] and [[rc://*/ta/man/translate/figs-metaphor]])
+Here “He” refers to Tiglath-Pileser and represents him and his army. Carrying the people to Assyria represents forcing them to go to Assyria. Alternate translation: “He and his army forced the people to go to Assyria (See: [[figs-synecdoche]] and [[figs-metaphor]])
 
 ## d5la
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly which people these are. Alternate translation: “the people of those places” or “the people of Israel” (See: [[rc://*/ta/man/translate/figs-explicit]])
+It can be stated clearly which people these are. Alternate translation: “the people of those places” or “the people of Israel” (See: [[figs-explicit]])
 
 # 15:30
 ## v22a
-rc://*/ta/man/translate/translate-names
-These are men’s names. (See: [[rc://*/ta/man/translate/translate-names]])
+These are men’s names. (See: [[translate-names]])
 
 ## k3bf
 A conspiracy is a secret plan by a group to do harm to someone or something.
@@ -3887,145 +3303,117 @@ A conspiracy is a secret plan by a group to do harm to someone or something.
 “Hoshea attacked Pekah and killed him”
 
 ## d345
-rc://*/ta/man/translate/figs-metaphor
-The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Pekah” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Pekah” (See: [[figs-metaphor]])
 
 ## h8ux
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that this is the twentieth year of his reign. Alternate translation: “In year 20 of the reign of Jotham son of Uzziah” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-numbers]])
+It can be stated clearly that this is the twentieth year of his reign. Alternate translation: “In year 20 of the reign of Jotham son of Uzziah” (See: [[figs-explicit]] and [[translate-numbers]])
 
 # 15:31
 ## e8hz
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “you can read about them in the book of the events of the kings of Israel” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “you can read about them in the book of the events of the kings of Israel” (See: [[figs-activepassive]])
 
 # 15:32
 ## l454
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that this is the second year of his reign. Alternate translation: “In year 2 of the reign of Pekah son of Remaliah, king of Israel” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-numbers]])
+It can be stated clearly that this is the second year of his reign. Alternate translation: “In year 2 of the reign of Pekah son of Remaliah, king of Israel” (See: [[figs-explicit]] and [[translate-numbers]])
 
 ## aht7
 “Jotham son of Azariah, king of Judah became king of Judah”
 
 # 15:33
 ## w1ag
-rc://*/ta/man/translate/translate-numbers
-“He was 25 years old … 16 years” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“He was 25 years old … 16 years” (See: [[translate-numbers]])
 
 ## xz2x
-rc://*/ta/man/translate/translate-names
-This is a woman’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a woman’s name. (See: [[translate-names]])
 
 # 15:34
 ## r4gi
-rc://*/ta/man/translate/figs-metaphor
-The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “what was right in Yahweh’s judgment” or “what Yahweh considers to be right” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “what was right in Yahweh’s judgment” or “what Yahweh considers to be right” (See: [[figs-metaphor]])
 
 # 15:35
 ## nad3
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “no one took away the high places” or “Jotham did not have anyone take the high places away” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “no one took away the high places” or “Jotham did not have anyone take the high places away” (See: [[figs-activepassive]])
 
 ## y74d
-rc://*/ta/man/translate/figs-metaphor
-Being taken away represents being destroyed. Alternate translation: “were not destroyed” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Being taken away represents being destroyed. Alternate translation: “were not destroyed” (See: [[figs-metaphor]])
 
 ## mws8
-rc://*/ta/man/translate/figs-metonymy
-“Jotham built” represents Jotham making his workers build it. Alternate translation: “Jotham had his workers build the upper gate” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Jotham built” represents Jotham making his workers build it. Alternate translation: “Jotham had his workers build the upper gate” (See: [[figs-metonymy]])
 
 # 15:36
 ## h17b
-rc://*/ta/man/translate/figs-rquestion
-This question is used to either inform or remind the readers that the information about Jotham is in this other book. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written in The Book of the Events of the Kings of Judah.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question is used to either inform or remind the readers that the information about Jotham is in this other book. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written in The Book of the Events of the Kings of Judah.” (See: [[figs-rquestion]])
 
 # 15:37
 ## ct5w
-rc://*/ta/man/translate/figs-explicit
-This refers to a time period. What time period this refers to can be stated clearly. Alternate translation: “During that time” or “While Jotham was king of Judah” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This refers to a time period. What time period this refers to can be stated clearly. Alternate translation: “During that time” or “While Jotham was king of Judah” (See: [[figs-explicit]])
 
 ## w42k
-rc://*/ta/man/translate/translate-names
-This is a man’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a man’s name. (See: [[translate-names]])
 
 ## sx2e
-rc://*/ta/man/translate/translate-names
-These are men’s names. Pekah was the king of Israel. See how you translated them in [2 Kings 15:37](../15/37.md). (See: [[rc://*/ta/man/translate/translate-names]])
+These are men’s names. Pekah was the king of Israel. See how you translated them in [2 Kings 15:37](../15/37.md). (See: [[translate-names]])
 
 # 15:38
 ## nar5
-rc://*/ta/man/translate/figs-metaphor
-Sleeping represents dying. Alternate translation: “Jotham died as his ancestors had” or “Like his ancestors, Jotham died” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-euphemism]])
+Sleeping represents dying. Alternate translation: “Jotham died as his ancestors had” or “Like his ancestors, Jotham died” (See: [[figs-metaphor]] and [[figs-euphemism]])
 
 ## qj1b
-rc://*/ta/man/translate/figs-metaphor
-The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Jotham” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Jotham” (See: [[figs-metaphor]])
 
 # 16:intro
 ## abcg
 See [[2KI-abcg]]
 # 16:1
 ## x9n9
-rc://*/ta/man/translate/figs-explicit
-It can be stated clearly that this is the seventeenth year of his reign. Alternate translation: “In year 17 of the reign of Pekah son of Remaliah” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-numbers]])
+It can be stated clearly that this is the seventeenth year of his reign. Alternate translation: “In year 17 of the reign of Pekah son of Remaliah” (See: [[figs-explicit]] and [[translate-numbers]])
 
 ## ja6f
-rc://*/ta/man/translate/translate-names
-These are men’s names. Pekah was the king of Israel. See how you translated them in [2 Kings 15:25](../15/25.md). (See: [[rc://*/ta/man/translate/translate-names]])
+These are men’s names. Pekah was the king of Israel. See how you translated them in [2 Kings 15:25](../15/25.md). (See: [[translate-names]])
 
 # 16:2
 ## rm3i
-rc://*/ta/man/translate/figs-metaphor
-The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “what was right in Yahweh’s judgment” or “what Yahweh his God considers to be right” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “what was right in Yahweh’s judgment” or “what Yahweh his God considers to be right” (See: [[figs-metaphor]])
 
 ## f9pl
 David had done what is right.
 
 # 16:3
 ## a1c2
-rc://*/ta/man/translate/figs-metaphor
-Walking represents behavior and actions. Alternate translation: “King Ahaz acted the same way that the kings of Israel had acted” or “he did the things that the kings of Israel had done” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Walking represents behavior and actions. Alternate translation: “King Ahaz acted the same way that the kings of Israel had acted” or “he did the things that the kings of Israel had done” (See: [[figs-metaphor]])
 
 ## i9td
-rc://*/ta/man/translate/figs-metaphor
-Here “following” represents doing what others do. Alternate translation: “copying the disgusting things that the other nations did, the nations” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here “following” represents doing what others do. Alternate translation: “copying the disgusting things that the other nations did, the nations” (See: [[figs-metaphor]])
 
 ## k9uv
-rc://*/ta/man/translate/figs-metonymy
-The word “nations” represents the people of other nations. Here it refers to the people of the nations who had lived in that land. Alternate translation: “the people of other nations” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The word “nations” represents the people of other nations. Here it refers to the people of the nations who had lived in that land. Alternate translation: “the people of other nations” (See: [[figs-metonymy]])
 
 ## ad1q
 “Drive out” means “force out.” Alternate translation: “which Yahweh had forced to leave”
 
 ## q89d
-rc://*/ta/man/translate/figs-explicit
-The people of those nations fled as the people of Israel moved into the land. The full meaning of this statement can be made explicit. Alternate translation: “before the people of Israel who moved into the land” or “as the people of Israel moved into the land” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The people of those nations fled as the people of Israel moved into the land. The full meaning of this statement can be made explicit. Alternate translation: “before the people of Israel who moved into the land” or “as the people of Israel moved into the land” (See: [[figs-explicit]])
 
 # 16:4
 ## nl1p
 These are places where the people of the other nations worshiped their false gods.
 
 ## zjl2
-rc://*/ta/man/translate/figs-hyperbole
-God wanted his people to offer sacrifices to him in Jerusalem. The word “every” here is an exaggeration to show how determined King Ahaz was to disobey God by offering sacrifices in many other places instead. Alternate translation: “under many green trees” or “under many green trees around the country” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+God wanted his people to offer sacrifices to him in Jerusalem. The word “every” here is an exaggeration to show how determined King Ahaz was to disobey God by offering sacrifices in many other places instead. Alternate translation: “under many green trees” or “under many green trees around the country” (See: [[figs-hyperbole]])
 
 # 16:5
 ## u3ts
-rc://*/ta/man/translate/translate-names
-These are men’s names. See how you translated them in [2 Kings 15:37](../15/37.md). (See: [[rc://*/ta/man/translate/translate-names]])
+These are men’s names. See how you translated them in [2 Kings 15:37](../15/37.md). (See: [[translate-names]])
 
 ## hx16
-rc://*/ta/man/translate/figs-synecdoche
-Ahaz was in Jerusalem. Here “Ahaz” represents himself and the people who were in Jerusalem with him. Alternate translation: “surrounded the city with Ahaz in it” or “surrounded Ahaz and the others in the city with him” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Ahaz was in Jerusalem. Here “Ahaz” represents himself and the people who were in Jerusalem with him. Alternate translation: “surrounded the city with Ahaz in it” or “surrounded Ahaz and the others in the city with him” (See: [[figs-synecdoche]])
 
 # 16:6
 ## ew5k
-rc://*/ta/man/translate/figs-metonymy
-Here “Aram” represents the people who live there. Alternate translation: “took back control of the city of Elath for the people of Aram” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “Aram” represents the people who live there. Alternate translation: “took back control of the city of Elath for the people of Aram” (See: [[figs-metonymy]])
 
 ## axm2
-rc://*/ta/man/translate/translate-names
-This is the name of a city. See how you translated it in [2 Kings 14:22](../14/22.md). (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a city. See how you translated it in [2 Kings 14:22](../14/22.md). (See: [[translate-names]])
 
 ## g7gx
 “forced the men of Judah to leave Elath”
@@ -4035,38 +3423,30 @@ This means to the time of the writing of this book.
 
 # 16:7
 ## x3by
-rc://*/ta/man/translate/translate-names
-In [2 Kings 15:19](../15/19.md) this man was called “Pul.” See how you translated his name in [2 Kings 15:29](../15/29.md). (See: [[rc://*/ta/man/translate/translate-names]])
+In [2 Kings 15:19](../15/19.md) this man was called “Pul.” See how you translated his name in [2 Kings 15:29](../15/29.md). (See: [[translate-names]])
 
 ## h92a
-rc://*/ta/man/translate/figs-metaphor
-Being a servant and a son represents submitting to someone’s authority. Alternate translation: “I will obey you as if I were your servant or your son” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Being a servant and a son represents submitting to someone’s authority. Alternate translation: “I will obey you as if I were your servant or your son” (See: [[figs-metaphor]])
 
 ## f7js
-rc://*/ta/man/translate/figs-metonymy
-The hand is a metonym that represents power. Alternate translation: “from the power of the king of Aram and from the power of the king of Israel” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The hand is a metonym that represents power. Alternate translation: “from the power of the king of Aram and from the power of the king of Israel” (See: [[figs-metonymy]])
 
 ## dh2h
-rc://*/ta/man/translate/figs-synecdoche
-The kings attacking Ahaz represent the armies of those kings attacking Ahaz and his people. Alternate translation: “who have attacked me with their armies” or “whose armies have attacked me” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The kings attacking Ahaz represent the armies of those kings attacking Ahaz and his people. Alternate translation: “who have attacked me with their armies” or “whose armies have attacked me” (See: [[figs-synecdoche]])
 
 # 16:9
 ## u25g
-rc://*/ta/man/translate/figs-synecdoche
-The word “king” represents the king and his army. Also, Damascus represents the people who live there. Alternate translation: “the king of Assyria and his army attacked the people of Damascus” (See: [[rc://*/ta/man/translate/figs-synecdoche]] and [[rc://*/ta/man/translate/figs-metonymy]])
+The word “king” represents the king and his army. Also, Damascus represents the people who live there. Alternate translation: “the king of Assyria and his army attacked the people of Damascus” (See: [[figs-synecdoche]] and [[figs-metonymy]])
 
 ## zd43
-rc://*/ta/man/translate/figs-metaphor
-Carrying off the people represents forcing them to go away. Alternate translation: “made the people his prisoners and forced them to go to Kir” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Carrying off the people represents forcing them to go away. Alternate translation: “made the people his prisoners and forced them to go to Kir” (See: [[figs-metaphor]])
 
 ## dr4d
-rc://*/ta/man/translate/translate-names
-Possible meanings are (1) this is the name of a city or (2) this word means “city” and refers to the capital city of Assyria. (See: [[rc://*/ta/man/translate/translate-names]])
+Possible meanings are (1) this is the name of a city or (2) this word means “city” and refers to the capital city of Assyria. (See: [[translate-names]])
 
 # 16:10
 ## l6c6
-rc://*/ta/man/translate/figs-activepassive
-This can be translated in active form. Alternate translation: “all the instructions that the workers needed in order to build it” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be translated in active form. Alternate translation: “all the instructions that the workers needed in order to build it” (See: [[figs-activepassive]])
 
 # 16:13
 ## jf6b
@@ -4086,8 +3466,7 @@ Both of these phrases tell where the bronze altar was. They refer to the same pl
 This refers to the new altar that Ahaz told Uriah to build.
 
 ## cj8m
-rc://*/ta/man/translate/figs-123person
-When Ahaz said “the king” and “his,” he was referring to himself. The king treated his offerings as special. Alternate translation: “my burnt offering and my grain offering” or “the royal burnt offering and royal grain offering” (See: [[rc://*/ta/man/translate/figs-123person]])
+When Ahaz said “the king” and “his,” he was referring to himself. The king treated his offerings as special. Alternate translation: “my burnt offering and my grain offering” or “the royal burnt offering and royal grain offering” (See: [[figs-123person]])
 
 # 16:17
 ## y1g1
@@ -4098,26 +3477,21 @@ When Ahaz said “the king” and “his,” he was referring to himself. The ki
 
 # 16:18
 ## h1v3
-rc://*/ta/man/translate/figs-explicit
-Why they did this can be stated explicitly. Alternate translation: “to please the king of Assyria” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Why they did this can be stated explicitly. Alternate translation: “to please the king of Assyria” (See: [[figs-explicit]])
 
 # 16:19
 ## wqa8
-rc://*/ta/man/translate/figs-rquestion
-This question is used to either inform or remind the readers that the information about Ahaz is in this other book. This can also be stated in active form. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written in The Book of the Events of the Kings of Judah.” or “someone has written about them in The Book … Judah.” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-activepassive]])
+This question is used to either inform or remind the readers that the information about Ahaz is in this other book. This can also be stated in active form. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written in The Book of the Events of the Kings of Judah.” or “someone has written about them in The Book … Judah.” (See: [[figs-rquestion]] and [[figs-activepassive]])
 
 # 16:20
 ## c5rk
-rc://*/ta/man/translate/figs-metaphor
-Sleeping represents dying. Alternate translation: “Ahaz died as his ancestors had” or “like his ancestors, Ahaz died” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-euphemism]])
+Sleeping represents dying. Alternate translation: “Ahaz died as his ancestors had” or “like his ancestors, Ahaz died” (See: [[figs-metaphor]] and [[figs-euphemism]])
 
 ## wbc9
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “people buried him with his ancestors” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “people buried him with his ancestors” (See: [[figs-activepassive]])
 
 ## y1p2
-rc://*/ta/man/translate/figs-metaphor
-The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Ahaz” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The phrase “in his place” is a metaphor meaning “instead of him.” Alternate translation: “became king instead of Ahaz” (See: [[figs-metaphor]])
 
 # 17:intro
 ## abch
@@ -4127,30 +3501,25 @@ See [[2KI-abch]]
 Hoshea became the king of the northern kingdom of Israel.
 
 ## b3fa
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## y37g
-rc://*/ta/man/translate/translate-names
-Samaria was the capital city of Israel. (See: [[rc://*/ta/man/translate/translate-names]])
+Samaria was the capital city of Israel. (See: [[translate-names]])
 
 # 17:2
 ## l76g
-rc://*/ta/man/translate/figs-metaphor
-He did not obey Yahweh’s laws as given to Moses. “In the sight of” is metaphor for judgment or opinion. Alternate translation: “evil to Yahweh” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+He did not obey Yahweh’s laws as given to Moses. “In the sight of” is metaphor for judgment or opinion. Alternate translation: “evil to Yahweh” (See: [[figs-metaphor]])
 
 # 17:3
 ## rsa4
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## c29v
 Hoshea did as the King of Assyria commanded and brought money to him so that the King would not destroy Israel.
 
 # 17:4
 ## zb5f
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## c7zr
 “every year”
@@ -4164,16 +3533,13 @@ put troops around the city in order to force it to surrender
 
 # 17:6
 ## ue2e
-rc://*/ta/man/translate/figs-metonymy
-The name “Israel” is metonymy for the people living there. Alternate translation: “took the Israelite people to Assyria” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The name “Israel” is metonymy for the people living there. Alternate translation: “took the Israelite people to Assyria” (See: [[figs-metonymy]])
 
 ## j5lr
-rc://*/ta/man/translate/translate-names
-These are the names of locations. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of locations. (See: [[translate-names]])
 
 ## sgu8
-rc://*/ta/man/translate/translate-names
-This is the name of a people group. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a people group. (See: [[translate-names]])
 
 # 17:7
 ## sg9j
@@ -4182,21 +3548,18 @@ See [[2KI-sg9j]]
 This refers to the capture of the Israelites by the Assyrians.
 
 ## yaq6
-rc://*/ta/man/translate/figs-metonymy
-“Hand” is metonymy for control, authority or power. Alternate translation: “the control of” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Hand” is metonymy for control, authority or power. Alternate translation: “the control of” (See: [[figs-metonymy]])
 
 # 17:8
 ## zgq1
-rc://*/ta/man/translate/figs-metaphor
-“Walking” is metaphor for the ways or patterns of behavior people use in their lives. Alternate translation: “doing the activities” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+“Walking” is metaphor for the ways or patterns of behavior people use in their lives. Alternate translation: “doing the activities” (See: [[figs-metaphor]])
 
 # 17:9
 ## nc6f
 See [[2KI-nc6f]]
 # 17:10
 ## ry45
-rc://*/ta/man/translate/figs-hyperbole
-These are exaggerations to show that worship of false gods was widespread. Alternate translation: “on high hills and under green trees everywhere” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+These are exaggerations to show that worship of false gods was widespread. Alternate translation: “on high hills and under green trees everywhere” (See: [[figs-hyperbole]])
 
 # 17:11
 ## bjz7
@@ -4247,39 +3610,33 @@ Cast metal figures are objects made by pouring melted metal into a form (or mold
 used magic to say what would happen in the future
 
 ## vek9
-rc://*/ta/man/translate/figs-metaphor
-To “sell themselves” is a metaphor for committing completely to do that which was evil. Alternate translation: “committed themselves to do things that Yahweh said were evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+To “sell themselves” is a metaphor for committing completely to do that which was evil. Alternate translation: “committed themselves to do things that Yahweh said were evil” (See: [[figs-metaphor]])
 
 # 17:18
 ## x1zd
-rc://*/ta/man/translate/figs-metonymy
-“Sight” is metonymy for being within the attention of Yahweh so he no longer cared for them. Alternate translation: “removed them from his attention” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Sight” is metonymy for being within the attention of Yahweh so he no longer cared for them. Alternate translation: “removed them from his attention” (See: [[figs-metonymy]])
 
 # 17:19
 ## p16f
 See [[2KI-p16f]]
 ## cg6k
-rc://*/ta/man/translate/figs-metonymy
-The location “Judah” is metonymy for the people that live there. Alternate translation: “the people of Judah” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The location “Judah” is metonymy for the people that live there. Alternate translation: “the people of Judah” (See: [[figs-metonymy]])
 
 # 17:20
 ## d8a3
 “Yahweh punished the Israelites”
 
 ## g1yc
-rc://*/ta/man/translate/figs-metonymy
-“Hand” is metonymy for control, power or authority. Alternate translation: “handed them over to those who robbed them of their property” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Hand” is metonymy for control, power or authority. Alternate translation: “handed them over to those who robbed them of their property” (See: [[figs-metonymy]])
 
 ## vab6
-rc://*/ta/man/translate/figs-metaphor
-“his sight” is metaphor for attention and caring. Alternate translation: “until he got rid of them all” or “until they were no longer in his presence” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+“his sight” is metaphor for attention and caring. Alternate translation: “until he got rid of them all” or “until they were no longer in his presence” (See: [[figs-metaphor]])
 
 # 17:21
 ## jfw7
 See [[2KI-jfw7]]
 ## f8vi
-rc://*/ta/man/translate/figs-metaphor
-“He tore” here is a metaphor for violent removal. Alternate translation: “Yahweh removed the people of Israel” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+“He tore” here is a metaphor for violent removal. Alternate translation: “Yahweh removed the people of Israel” (See: [[figs-metaphor]])
 
 ## tq3s
 “from the rule of David’s descendants”
@@ -4293,15 +3650,13 @@ rc://*/ta/man/translate/figs-metaphor
 
 # 17:23
 ## j42u
-rc://*/ta/man/translate/figs-metaphor
-“Sight” here is a metaphor for attention and care. Alternate translation: “so Yahweh removed the people of Israel from his attention and care” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+“Sight” here is a metaphor for attention and care. Alternate translation: “so Yahweh removed the people of Israel from his attention and care” (See: [[figs-metaphor]])
 
 # 17:24
 ## wn3n
 See [[2KI-wn3n]]
 ## f8bq
-rc://*/ta/man/translate/translate-names
-These are places in the Assyrian empire. (See: [[rc://*/ta/man/translate/translate-names]])
+These are places in the Assyrian empire. (See: [[translate-names]])
 
 # 17:25
 ## ka1w
@@ -4323,21 +3678,17 @@ These are places in the Assyrian empire. (See: [[rc://*/ta/man/translate/transla
 
 # 17:30
 ## fz4p
-rc://*/ta/man/translate/translate-names
-These are the names of gods, both male and female. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of gods, both male and female. (See: [[translate-names]])
 
 ## pu6z
-rc://*/ta/man/translate/translate-names
-These are the names of places. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of places. (See: [[translate-names]])
 
 # 17:31
 ## dl97
-rc://*/ta/man/translate/translate-names
-These are the names of gods, both male and female. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of gods, both male and female. (See: [[translate-names]])
 
 ## s6iw
-rc://*/ta/man/translate/translate-names
-These are the names of people groups. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of people groups. (See: [[translate-names]])
 
 ## ksc4
 “sacrificed their own children” or “burned their children in fire as an offering”
@@ -4357,8 +3708,7 @@ The people were only interested in appeasing Yahweh. They were either not intere
 ## fm9a
 See [[2KI-fm9a]]
 ## xf5k
-rc://*/ta/man/translate/figs-metonymy
-The phrase “raised arm” is metonymy for displaying power and means basically the same thing as “great power.” Alternate translation: “with very great power” (See: [[rc://*/ta/man/translate/figs-metonymy]] and [[rc://*/ta/man/translate/figs-doublet]])
+The phrase “raised arm” is metonymy for displaying power and means basically the same thing as “great power.” Alternate translation: “with very great power” (See: [[figs-metonymy]] and [[figs-doublet]])
 
 # 17:37
 ## q8ze
@@ -4369,8 +3719,7 @@ The phrase “raised arm” is metonymy for displaying power and means basically
 See [[2KI-gc8w]]
 # 17:40
 ## j2h1
-rc://*/ta/man/translate/figs-metaphor
-“Listen” here is a metaphor for paying attention and acting on the command. Alternate translation: “They did not obey” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+“Listen” here is a metaphor for paying attention and acting on the command. Alternate translation: “They did not obey” (See: [[figs-metaphor]])
 
 # 17:41
 ## ne8y
@@ -4386,22 +3735,18 @@ See [[2KI-abci]]
 ## an23
 See [[2KI-an23]]
 ## b49b
-rc://*/ta/man/translate/translate-names
-These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of men. (See: [[translate-names]])
 
 # 18:2
 ## u8q8
-rc://*/ta/man/translate/translate-names
-These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of men. (See: [[translate-names]])
 
 ## zuh6
-rc://*/ta/man/translate/translate-names
-This is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a woman. (See: [[translate-names]])
 
 # 18:3
 ## asi6
-rc://*/ta/man/translate/figs-metaphor
-“In the eyes” here is a metaphor for Yahweh’s attention and care. Alternate translation: “King Hezekiah did what was right to Yahweh” or “Hezekiah did things that Yahweh said are right” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+“In the eyes” here is a metaphor for Yahweh’s attention and care. Alternate translation: “King Hezekiah did what was right to Yahweh” or “Hezekiah did things that Yahweh said are right” (See: [[figs-metaphor]])
 
 # 18:4
 ## sa1z
@@ -4410,15 +3755,13 @@ See [[2KI-sa1z]]
 “Hezekiah removed the high places of worship, smashed into pieces the memorial stones, and cut down the wooden poles of Asherah”
 
 ## rbd2
-rc://*/ta/man/translate/translate-names
-This name could be translated “Bronze Serpent Idol.” (See: [[rc://*/ta/man/translate/translate-names]])
+This name could be translated “Bronze Serpent Idol.” (See: [[translate-names]])
 
 # 18:6
 ## c8k4
 See [[2KI-c8k4]]
 ## pl2n
-rc://*/ta/man/translate/figs-metaphor
-To “hold on” is metaphor for staying loyal and attached. Alternate translation: “Hezekiah stayed loyal to Yahweh” or “Hezekiah remained faithful to Yahweh” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+To “hold on” is metaphor for staying loyal and attached. Alternate translation: “Hezekiah stayed loyal to Yahweh” or “Hezekiah remained faithful to Yahweh” (See: [[figs-metaphor]])
 
 # 18:7
 ## q5ms
@@ -4430,49 +3773,41 @@ city with a wall all around it
 
 # 18:9
 ## why1
-rc://*/ta/man/translate/translate-names
-These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of men. (See: [[translate-names]])
 
 # 18:11
 ## s3p4
-rc://*/ta/man/translate/translate-names
-These are the names of places. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of places. (See: [[translate-names]])
 
 ## nn5t
-rc://*/ta/man/translate/translate-names
-This is the name of a people group. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a people group. (See: [[translate-names]])
 
 ## g59s
 “So the king of Assyria commanded his army to take the Israelites away from their homes, and he made them live in Assyria”
 
 # 18:12
 ## u5f8
-rc://*/ta/man/translate/figs-metonymy
-“Voice” is metonymy for the message about the command of Yahweh. Alternate translation: “the command of Yahweh” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Voice” is metonymy for the message about the command of Yahweh. Alternate translation: “the command of Yahweh” (See: [[figs-metonymy]])
 
 # 18:13
 ## n6yr
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## s9ts
 Cities with walls around them for protection. See how you translated “fortified city” in [2 Kings 18:8](../18/08.md).
 
 # 18:14
 ## bt6k
-rc://*/ta/man/translate/translate-names
-This is the name of a city. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a city. (See: [[translate-names]])
 
 ## bdx1
-rc://*/ta/man/translate/figs-explicit
-This expression assumes that “me” represents the kingdom of Hezekiah. Alternate translation: “Take your army out of my territory” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This expression assumes that “me” represents the kingdom of Hezekiah. Alternate translation: “Take your army out of my territory” (See: [[figs-explicit]])
 
 ## fw46
 “I will pay you whatever you demand of me”
 
 ## w755
-rc://*/ta/man/translate/translate-bmoney
-This is the name of type of weight that was used for money. One talent weighted about 33 kilograms. (See: [[rc://*/ta/man/translate/translate-bmoney]])
+This is the name of type of weight that was used for money. One talent weighted about 33 kilograms. (See: [[translate-bmoney]])
 
 # 18:15
 ## w5qx
@@ -4483,12 +3818,10 @@ This was the place in the palace where money and valuable things were stored.
 Sennacherib sent a group of men from his army to Jerusalem to meet with King Hezekiah, including officials named Tartan and Rabsaris.
 
 ## iz1r
-rc://*/ta/man/translate/translate-names
-Some Bibles translate these as proper names. Other versions of the Bible translate them as titles. Alternate translation: “the Tartan … the Rabsaris” or “the leader of the soldier … a court official” (See: [[rc://*/ta/man/translate/translate-names]])
+Some Bibles translate these as proper names. Other versions of the Bible translate them as titles. Alternate translation: “the Tartan … the Rabsaris” or “the leader of the soldier … a court official” (See: [[translate-names]])
 
 ## hnu8
-rc://*/ta/man/translate/translate-names
-This is the name of a city. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a city. (See: [[translate-names]])
 
 ## hq5b
 the channel where the water stored in the “upper pool” flows into the city of Jerusalem
@@ -4498,127 +3831,103 @@ the channel where the water stored in the “upper pool” flows into the city o
 
 # 18:18
 ## f4ny
-rc://*/ta/man/translate/translate-names
-These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of men. (See: [[translate-names]])
 
 # 18:19
 ## mt3a
 See [[2KI-mt3a]]
 ## fj2e
-rc://*/ta/man/translate/figs-rquestion
-The King of Assyria (through his messenger Rabshakeh) wants to make King Hezekiah doubt himself and Egypt’s support. He does not ask this question looking for an answer. Alternate translation: “You have no reason to think that you can defeat me.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The King of Assyria (through his messenger Rabshakeh) wants to make King Hezekiah doubt himself and Egypt’s support. He does not ask this question looking for an answer. Alternate translation: “You have no reason to think that you can defeat me.” (See: [[figs-rquestion]])
 
 # 18:20
 ## l4ks
-rc://*/ta/man/translate/figs-rquestion
-The King of Assyria (through his messenger Rabshakeh) wants to make King Hezekiah doubt himself and Egypt’s support. He does not ask this question looking for an answer. Alternate translation: “You cannot trust anyone to help you rebel against me.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+The King of Assyria (through his messenger Rabshakeh) wants to make King Hezekiah doubt himself and Egypt’s support. He does not ask this question looking for an answer. Alternate translation: “You cannot trust anyone to help you rebel against me.” (See: [[figs-rquestion]])
 
 # 18:21
 ## l67d
-rc://*/ta/man/translate/figs-metaphor
-The King of Assyria compares Egypt to a weak walking stick; you expect that it will support you when you lean on it, but instead it breaks and cuts you. Alternate translation: “the weak support from Egypt” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The King of Assyria compares Egypt to a weak walking stick; you expect that it will support you when you lean on it, but instead it breaks and cuts you. Alternate translation: “the weak support from Egypt” (See: [[figs-metaphor]])
 
 ## vl81
-rc://*/ta/man/translate/figs-metaphor
-The speaker is extending the metaphor by describing what happens when a reed is used as a support. Alternate translation: “but if someone uses this for support, he will be injured” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The speaker is extending the metaphor by describing what happens when a reed is used as a support. Alternate translation: “but if someone uses this for support, he will be injured” (See: [[figs-metaphor]])
 
 # 18:22
 ## im2y
 See [[2KI-im2y]]
 ## vr43
-rc://*/ta/man/translate/figs-rquestion
-This question assumes the listeners know the answer and is used for emphasis. Alternate translation: “You need to remember that he is the one whose high places … Jerusalem’!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question assumes the listeners know the answer and is used for emphasis. Alternate translation: “You need to remember that he is the one whose high places … Jerusalem’!” (See: [[figs-rquestion]])
 
 # 18:24
 ## sn27
 See [[2KI-sn27]]
 ## pmx6
-rc://*/ta/man/translate/figs-rquestion
-He asks this question to emphasize that the army of Hezekiah does not have the resources to fight. He also uses exaggeration to mock Hezekiah’s army. Alternate translation: Possible meanings are (1) “You could not defeat even one of the least of the king’s soldiers.” or (2) “You could not defeat a group of the king’s soldiers commanded by his least important officer.” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-hyperbole]])
+He asks this question to emphasize that the army of Hezekiah does not have the resources to fight. He also uses exaggeration to mock Hezekiah’s army. Alternate translation: Possible meanings are (1) “You could not defeat even one of the least of the king’s soldiers.” or (2) “You could not defeat a group of the king’s soldiers commanded by his least important officer.” (See: [[figs-rquestion]] and [[figs-hyperbole]])
 
 # 18:25
 ## s1nk
-rc://*/ta/man/translate/figs-rquestion
-He asks this question to emphasize that Yahweh is behind his success to obey the command to destroy Israel. Alternate translation: “Yahweh himself told us to come here and destroy this land!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+He asks this question to emphasize that Yahweh is behind his success to obey the command to destroy Israel. Alternate translation: “Yahweh himself told us to come here and destroy this land!” (See: [[figs-rquestion]])
 
 # 18:26
 ## i5v3
-rc://*/ta/man/translate/translate-names
-Translate the names of these men as in [2 Kings 18:18](../18/18.md). (See: [[rc://*/ta/man/translate/translate-names]])
+Translate the names of these men as in [2 Kings 18:18](../18/18.md). (See: [[translate-names]])
 
 ## t7mk
-rc://*/ta/man/translate/figs-metonymy
-“In the ears” is metonymy for being able to listen. Alternate translation: “because the people standing on the city wall will hear it and be afraid” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“In the ears” is metonymy for being able to listen. Alternate translation: “because the people standing on the city wall will hear it and be afraid” (See: [[figs-metonymy]])
 
 # 18:27
 ## kju3
-rc://*/ta/man/translate/figs-rquestion
-He asks these questions assuming the listeners know the answers to emphasize their intention to destroy and humiliate the leaders and people of Jerusalem. Alternate translation: “My master sent me not only to you and your master, but also to speak to the people in this city, who will suffer with you when they have to eat their own dung and drink their own urine to survive.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+He asks these questions assuming the listeners know the answers to emphasize their intention to destroy and humiliate the leaders and people of Jerusalem. Alternate translation: “My master sent me not only to you and your master, but also to speak to the people in this city, who will suffer with you when they have to eat their own dung and drink their own urine to survive.” (See: [[figs-rquestion]])
 
 # 18:29
 ## es79
-rc://*/ta/man/translate/figs-metonymy
-“my power” is metonymy for the ability of the king himself. Alternate translation: “from me” or “from the power of my army” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“my power” is metonymy for the ability of the king himself. Alternate translation: “from me” or “from the power of my army” (See: [[figs-metonymy]])
 
 # 18:30
 ## x8a6
-rc://*/ta/man/translate/figs-activepassive
-This can be expressed in an active form. Alternate translation: “Yahweh will never allow the king of Assyria’s army to take this city” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be expressed in an active form. Alternate translation: “Yahweh will never allow the king of Assyria’s army to take this city” (See: [[figs-activepassive]])
 
 ## zg7s
-rc://*/ta/man/translate/figs-metonymy
-“Hand” is metonymy for control, authority and power. (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Hand” is metonymy for control, authority and power. (See: [[figs-metonymy]])
 
 # 18:31
 ## e5tl
 “Come out of the city and surrender to me” or “Make an agreement with me to surrender, and come out of the city to me”
 
 ## c7we
-rc://*/ta/man/translate/figs-metaphor
-These sources of food and water are metaphors for security and plenty. This also was a common way of expressing this idea. (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-idiom]])
+These sources of food and water are metaphors for security and plenty. This also was a common way of expressing this idea. (See: [[figs-metaphor]] and [[figs-idiom]])
 
 # 18:32
 ## hw3y
-rc://*/ta/man/translate/figs-metaphor
-These are metaphors for having good things and plenty in daily life. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+These are metaphors for having good things and plenty in daily life. (See: [[figs-metaphor]])
 
 # 18:33
 ## jbv2
 See [[2KI-jbv2]]
 ## yg4w
-rc://*/ta/man/translate/figs-rquestion
-He asks this question for emphasis because they know the answer. Alternate translation: “None the gods of the peoples have rescued them … Assyria.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+He asks this question for emphasis because they know the answer. Alternate translation: “None the gods of the peoples have rescued them … Assyria.” (See: [[figs-rquestion]])
 
 # 18:34
 ## v6ap
-rc://*/ta/man/translate/figs-rquestion
-He asks this question for emphasis because they know the answer. Alternate translation: “I have destroyed the gods of … Arpad!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+He asks this question for emphasis because they know the answer. Alternate translation: “I have destroyed the gods of … Arpad!” (See: [[figs-rquestion]])
 
 ## vmd2
-rc://*/ta/man/translate/translate-names
-These are the names of places that represent the people living there. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of places that represent the people living there. (See: [[translate-names]])
 
 ## h7d8
-rc://*/ta/man/translate/figs-metonymy
-“Hand” is metonymy for control, power, or authority. Alternate translation: “out from my control” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Hand” is metonymy for control, power, or authority. Alternate translation: “out from my control” (See: [[figs-metonymy]])
 
 # 18:35
 ## tq6t
-rc://*/ta/man/translate/figs-rquestion
-He asks this question for emphasis because they know the answer. Alternate translation: “No god has rescued his land from my power.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+He asks this question for emphasis because they know the answer. Alternate translation: “No god has rescued his land from my power.” (See: [[figs-rquestion]])
 
 ## a9gn
-rc://*/ta/man/translate/figs-metonymy
-“My power” is metonymy for the person whose has the power. Alternate translation: “from me” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“My power” is metonymy for the person whose has the power. Alternate translation: “from me” (See: [[figs-metonymy]])
 
 ## pg2h
-rc://*/ta/man/translate/figs-rquestion
-He asks this question for emphasis because they know the answer. Alternate translation: “There is no way Yahweh can save Jerusalem from my might!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+He asks this question for emphasis because they know the answer. Alternate translation: “There is no way Yahweh can save Jerusalem from my might!” (See: [[figs-rquestion]])
 
 # 18:37
 ## qv1k
-rc://*/ta/man/translate/translate-names
-These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of men. (See: [[translate-names]])
 
 ## ve84
 “who managed the king’s palace”
@@ -4638,8 +3947,7 @@ This is another way of saying “temple of Yahweh.”
 
 # 19:2
 ## aw2h
-rc://*/ta/man/translate/translate-names
-These are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are all names of men. (See: [[translate-names]])
 
 ## vdb3
 “Hezekiah sent Eliakim”
@@ -4652,16 +3960,14 @@ These are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 “This is a time of distress”
 
 ## a7nz
-rc://*/ta/man/translate/figs-metaphor
-This is a metaphor to describe how the people and their leaders have become so weak and unable to fight the enemy. (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This is a metaphor to describe how the people and their leaders have become so weak and unable to fight the enemy. (See: [[figs-metaphor]])
 
 # 19:4
 ## nz1q
 “everything that the chief commander has said”
 
 ## dcy4
-rc://*/ta/man/translate/figs-metaphor
-This a common way (an idiom) to use the action of lifting to metaphorically represent praying earnestly to Yahweh who is above us. Alternate translation: “pray earnestly” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-idiom]])
+This a common way (an idiom) to use the action of lifting to metaphorically represent praying earnestly to Yahweh who is above us. Alternate translation: “pray earnestly” (See: [[figs-metaphor]] and [[figs-idiom]])
 
 # 19:7
 ## r6aq
@@ -4671,8 +3977,7 @@ This a common way (an idiom) to use the action of lifting to metaphorically repr
 “I will influence his thinking” or “I will cause him to think differently.” Here “spirit” probably refers to his attitude and thoughts, rather than to a spirit being.
 
 ## h1aj
-rc://*/ta/man/translate/figs-metonymy
-“Fall by the sword” is metonymy for being killed. Alternate translation: “I will cause him to die by the sword” or “I will cause some men to kill him with a sword” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Fall by the sword” is metonymy for being killed. Alternate translation: “I will cause him to die by the sword” or “I will cause some men to kill him with a sword” (See: [[figs-metonymy]])
 
 # 19:8
 ## qdm5
@@ -4682,13 +3987,11 @@ rc://*/ta/man/translate/figs-metonymy
 “discovered that the Assyrian army was fighting”
 
 ## z9m6
-rc://*/ta/man/translate/translate-names
-The names of cities in the kingdom of Judah. (See: [[rc://*/ta/man/translate/translate-names]])
+The names of cities in the kingdom of Judah. (See: [[translate-names]])
 
 # 19:9
 ## qp2v
-rc://*/ta/man/translate/translate-names
-These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of men. (See: [[translate-names]])
 
 ## v22s
 “had prepared his army to fight against Assyria”
@@ -4706,35 +4009,30 @@ See [[2KI-gg2n]]
 “Do not believe your God in whom you trust. He is lying when he says”
 
 ## rl75
-rc://*/ta/man/translate/figs-metonymy
-“Hand” is metonymy for control, authority or power. Alternate translation: “the control of the government of Assyria” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Hand” is metonymy for control, authority or power. Alternate translation: “the control of the government of Assyria” (See: [[figs-metonymy]])
 
 # 19:11
 ## yi6z
 “Notice, you have heard” or “You have certainly heard.” Here “see” was used to draw attention to what he was about to say next.
 
 ## rg7k
-rc://*/ta/man/translate/figs-rquestion
-Sennacharib used this question to emphasize that God will not be able to rescue them. Alternate translation: “Your God will not rescue you!” or “You will not be able to escape either!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Sennacharib used this question to emphasize that God will not be able to rescue them. Alternate translation: “Your God will not rescue you!” or “You will not be able to escape either!” (See: [[figs-rquestion]])
 
 # 19:12
 ## h82z
 See [[2KI-h82z]]
 ## t2qt
-rc://*/ta/man/translate/figs-rquestion
-This question assumes Hezekiah knows the answer and provides emphasis. Alternate translation: “The gods of the nations, the nations … destroyed—Gozan … Assar—certainly did not rescue them!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question assumes Hezekiah knows the answer and provides emphasis. Alternate translation: “The gods of the nations, the nations … destroyed—Gozan … Assar—certainly did not rescue them!” (See: [[figs-rquestion]])
 
 ## qh8k
 “the previous kings of Assyria” or “the armies of the previous kings of Assyria”
 
 ## jlk5
-rc://*/ta/man/translate/translate-names
-These are all place names. (See: [[rc://*/ta/man/translate/translate-names]])
+These are all place names. (See: [[translate-names]])
 
 # 19:13
 ## qr8p
-rc://*/ta/man/translate/translate-names
-These are all place names. (See: [[rc://*/ta/man/translate/translate-names]])
+These are all place names. (See: [[translate-names]])
 
 # 19:14
 ## rl14
@@ -4742,23 +4040,19 @@ This refers to the letter that King Sennacherib of Assyria sent to Hezekiah ([2 
 
 # 19:15
 ## tj35
-rc://*/ta/man/translate/figs-explicit
-You may need to make explicit that the cherubim are those on the lid of the ark of the covenant. The biblical writers often spoke of the ark of the covenant as if it were Yahweh’s footstool upon which he rested his feet as he sat on his throne in heaven above. Alternate translation: “you who sit on your throne above the cherubim on the ark of the covenant” (See: [[rc://*/ta/man/translate/figs-explicit]])
+You may need to make explicit that the cherubim are those on the lid of the ark of the covenant. The biblical writers often spoke of the ark of the covenant as if it were Yahweh’s footstool upon which he rested his feet as he sat on his throne in heaven above. Alternate translation: “you who sit on your throne above the cherubim on the ark of the covenant” (See: [[figs-explicit]])
 
 # 19:16
 ## q3iu
 See [[2KI-q3iu]]
 ## ww68
-rc://*/ta/man/translate/figs-parallelism
-Both of these sentences urge Yahweh to pay attention to the things that Sennacherib is saying. (See: [[rc://*/ta/man/translate/figs-parallelism]])
+Both of these sentences urge Yahweh to pay attention to the things that Sennacherib is saying. (See: [[figs-parallelism]])
 
 ## l4xg
-rc://*/ta/man/translate/figs-doublet
-The words “Turn your ear” and “listen” mean the same thing and add emphasis to the plea. Alternate translation: “Yahweh, please listen to what he is saying” (See: [[rc://*/ta/man/translate/figs-doublet]])
+The words “Turn your ear” and “listen” mean the same thing and add emphasis to the plea. Alternate translation: “Yahweh, please listen to what he is saying” (See: [[figs-doublet]])
 
 ## ts43
-rc://*/ta/man/translate/figs-doublet
-The words “Open your eyes” and “see” mean the same thing and add emphasis to the plea. Alternate translation: “Yahweh, please pay attention to what is happening” (See: [[rc://*/ta/man/translate/figs-doublet]])
+The words “Open your eyes” and “see” mean the same thing and add emphasis to the plea. Alternate translation: “Yahweh, please pay attention to what is happening” (See: [[figs-doublet]])
 
 # 19:18
 ## j5ic
@@ -4778,100 +4072,81 @@ See [[2KI-u5fs]]
 
 # 19:21
 ## x6cw
-rc://*/ta/man/translate/figs-metaphor
-“Virgin daughter” here is a metaphor for the people of Jerusalem as if they are young, vibrant and beautiful. The term “daughter” was used to give personal characteristics to cities by some biblical writers. Alternate translation: “The beautiful people of Jerusalem” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-personification]])
+“Virgin daughter” here is a metaphor for the people of Jerusalem as if they are young, vibrant and beautiful. The term “daughter” was used to give personal characteristics to cities by some biblical writers. Alternate translation: “The beautiful people of Jerusalem” (See: [[figs-metaphor]] and [[figs-personification]])
 
 ## rt7t
-rc://*/ta/man/translate/figs-parallelism
-Both of these sentences intend to give the same meaning. (See: [[rc://*/ta/man/translate/figs-parallelism]])
+Both of these sentences intend to give the same meaning. (See: [[figs-parallelism]])
 
 ## nn9v
-rc://*/ta/man/translate/figs-metaphor
-“Daughter” is metaphor for the people of Jerusalem. Alternate translation: “The people of the city of Jerusalem” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+“Daughter” is metaphor for the people of Jerusalem. Alternate translation: “The people of the city of Jerusalem” (See: [[figs-metaphor]])
 
 ## m7lx
-rc://*/ta/man/translate/figs-metaphor
-This action is a metaphor to represent disdain at the pride of the Assyrians. Alternate translation: “scorns you” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This action is a metaphor to represent disdain at the pride of the Assyrians. Alternate translation: “scorns you” (See: [[figs-metaphor]])
 
 # 19:22
 ## j2sr
-rc://*/ta/man/translate/figs-rquestion
-Yahweh uses rhetorical questions to rebuke Sennacherib. Alternate translation: “You have defied and insulted me! You have exalted your voice and lifted up your eyes in pride against me, the Holy One of Israel!” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Yahweh uses rhetorical questions to rebuke Sennacherib. Alternate translation: “You have defied and insulted me! You have exalted your voice and lifted up your eyes in pride against me, the Holy One of Israel!” (See: [[figs-rquestion]])
 
 ## xs5l
-rc://*/ta/man/translate/figs-metonymy
-“lifted up your eyes in pride” is metonymy for a haughty or arrogant facial expression. Alternate translation: “looked at very proudly” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“lifted up your eyes in pride” is metonymy for a haughty or arrogant facial expression. Alternate translation: “looked at very proudly” (See: [[figs-metonymy]])
 
 ## bu8e
 An expression for the God of Israel, Yahweh.
 
 # 19:23
 ## xfl9
-rc://*/ta/man/translate/figs-parallelism
 See [[2KI-xfl9]]
 ## l4ei
 To “defy” is to openly resist or mock.
 
 ## fz73
-rc://*/ta/man/translate/figs-synecdoche
-These boasts made by Sennacherib could only be fulfilled by his army. The pronoun “I” represents him and his army. (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+These boasts made by Sennacherib could only be fulfilled by his army. The pronoun “I” represents him and his army. (See: [[figs-synecdoche]])
 
 # 19:24
 ## q99y
-rc://*/ta/man/translate/figs-hyperbole
-This is a boast that Sennacherib has so many soldiers that their feet dry up the water when they cross a river. This is an exaggeration to emphasize the great number of soldiers he has. Alternate translation: “And by marching through the streams of Egypt, we dried them all up!” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+This is a boast that Sennacherib has so many soldiers that their feet dry up the water when they cross a river. This is an exaggeration to emphasize the great number of soldiers he has. Alternate translation: “And by marching through the streams of Egypt, we dried them all up!” (See: [[figs-hyperbole]])
 
 # 19:25
 ## ay9r
-rc://*/ta/man/translate/figs-parallelism
 See [[2KI-ay9r]]
 ## r3ai
-rc://*/ta/man/translate/figs-rquestion
-To make the point strongly this question assumes the listener knows the answer. Alternate translation: “Surely you know how … times.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+To make the point strongly this question assumes the listener knows the answer. Alternate translation: “Surely you know how … times.” (See: [[figs-rquestion]])
 
 ## pi5d
 “cities that cannot be captured” or “cities surrounded by high walls”
 
 # 19:26
 ## cp3z
-rc://*/ta/man/translate/figs-metaphor
-This metaphor compares the weak victims of the Assyrian advance to fragile plants. Alternate translation: “as frail as plants and grass in the fields” or “as weak as shallow rooted plants” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This metaphor compares the weak victims of the Assyrian advance to fragile plants. Alternate translation: “as frail as plants and grass in the fields” or “as weak as shallow rooted plants” (See: [[figs-metaphor]])
 
 ## u3mn
-rc://*/ta/man/translate/figs-metaphor
-This continues the metaphor comparing the weak victims of the Assyrian advance to fragile plants in difficult conditions for growing fully. Alternate translation: “like grass before it has matured” or “like grass before it has grown tall” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This continues the metaphor comparing the weak victims of the Assyrian advance to fragile plants in difficult conditions for growing fully. Alternate translation: “like grass before it has matured” or “like grass before it has grown tall” (See: [[figs-metaphor]])
 
 # 19:27
 ## c9r7
-rc://*/ta/man/translate/figs-parallelism
 See [[2KI-c9r7]]
 ## u4xv
 “angry shouting about me”
 
 # 19:28
 ## sm7p
-rc://*/ta/man/translate/figs-metonymy
-“Ears” are metonymy for listening or hearing. Alternate translation: “because I have heard your proud words” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Ears” are metonymy for listening or hearing. Alternate translation: “because I have heard your proud words” (See: [[figs-metonymy]])
 
 ## m3jm
-rc://*/ta/man/translate/figs-metaphor
-A “hook” and a “bit” (to control a horse) are metaphors for Yahweh’s control of Sennacherib. Alternate translation: “I will lead you like an animal” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+A “hook” and a “bit” (to control a horse) are metaphors for Yahweh’s control of Sennacherib. Alternate translation: “I will lead you like an animal” (See: [[figs-metaphor]])
 
 ## c2rz
-rc://*/ta/man/translate/figs-explicit
-That Sennacherib will return home before he can conquer Jerusalem can be stated clearly. Alternate translation: “I will make you return to your own country the same way you came, without conquering Jerusalem” (See: [[rc://*/ta/man/translate/figs-explicit]])
+That Sennacherib will return home before he can conquer Jerusalem can be stated clearly. Alternate translation: “I will make you return to your own country the same way you came, without conquering Jerusalem” (See: [[figs-explicit]])
 
 # 19:29
 ## nx9r
-rc://*/ta/man/translate/figs-parallelism
 See [[2KI-nx9r]]
 ## gx3t
 “grows without having been planted”
 
 # 19:30
 ## gtq1
-rc://*/ta/man/translate/figs-metaphor
-This metaphor compares restoration of the remnant to plantings that take hold and produce results. Alternate translation: “The people of Judah who remain alive will restore their lives and prosperity” or “The people who remain in Judah will prosper and have many children” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+This metaphor compares restoration of the remnant to plantings that take hold and produce results. Alternate translation: “The people of Judah who remain alive will restore their lives and prosperity” or “The people who remain in Judah will prosper and have many children” (See: [[figs-metaphor]])
 
 # 19:31
 ## q41h
@@ -4879,19 +4154,16 @@ This metaphor compares restoration of the remnant to plantings that take hold an
 
 # 19:32
 ## q83i
-rc://*/ta/man/translate/figs-parallelism
 See [[2KI-q83i]]
 ## l47x
-rc://*/ta/man/translate/figs-metonymy
-“Arrow” is metonymy representing all tools of warfare and destruction. Alternate translation: “nor do any fighting here” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Arrow” is metonymy representing all tools of warfare and destruction. Alternate translation: “nor do any fighting here” (See: [[figs-metonymy]])
 
 ## u923
 “and they will not even build up high mounds of earth against the city wall to enable them to attack the city”
 
 # 19:33
 ## r75c
-rc://*/ta/man/translate/figs-123person
-Yahweh speaks of himself by name to express the certainty of what he is declaring. Alternate translation: “this is what Yahweh has declared” or “this is what I, Yahweh, have declared” (See: [[rc://*/ta/man/translate/figs-123person]])
+Yahweh speaks of himself by name to express the certainty of what he is declaring. Alternate translation: “this is what Yahweh has declared” or “this is what I, Yahweh, have declared” (See: [[figs-123person]])
 
 # 19:34
 ## pa6n
@@ -4902,47 +4174,39 @@ Yahweh speaks of himself by name to express the certainty of what he is declarin
 “It happened”
 
 ## g563
-rc://*/ta/man/translate/translate-numbers
-“one hundred eighty-five thousand soldiers” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“one hundred eighty-five thousand soldiers” (See: [[translate-numbers]])
 
 ## d5f2
 “When the men who were left alive got up”
 
 # 19:37
 ## txi6
-rc://*/ta/man/translate/translate-names
-These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of men. (See: [[translate-names]])
 
 # 20:intro
 ## abck
 See [[2KI-abck]]
 # 20:1
 ## dhm5
-rc://*/ta/man/translate/figs-metonymy
-“House” is metonymy for what was under Hezekiah’s control. Alternate translation: “Give final instructions to your household and government” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“House” is metonymy for what was under Hezekiah’s control. Alternate translation: “Give final instructions to your household and government” (See: [[figs-metonymy]])
 
 # 20:3
 ## y2ay
-rc://*/ta/man/translate/figs-idiom
-This is a common way of speaking, an idiom, urging Yahweh to remember. Alternate translation: “remember” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This is a common way of speaking, an idiom, urging Yahweh to remember. Alternate translation: “remember” (See: [[figs-idiom]])
 
 ## vts1
-rc://*/ta/man/translate/figs-idiom
-This is an idiom. Alternate translation: “lived my life” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This is an idiom. Alternate translation: “lived my life” (See: [[figs-idiom]])
 
 ## mv7z
-rc://*/ta/man/translate/figs-metaphor
-Here sight represents judgment or evaluation. Alternate translation: “in your judgment” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Here sight represents judgment or evaluation. Alternate translation: “in your judgment” (See: [[figs-metaphor]])
 
 # 20:4
 ## ad2v
-rc://*/ta/man/translate/figs-metonymy
-“Word” represents the message Yahweh revealed to Isaiah. This is a common way of speaking, an idiom. Alternate translation: “Yahweh spoke his word” (See: [[rc://*/ta/man/translate/figs-metonymy]] and [[rc://*/ta/man/translate/figs-idiom]])
+“Word” represents the message Yahweh revealed to Isaiah. This is a common way of speaking, an idiom. Alternate translation: “Yahweh spoke his word” (See: [[figs-metonymy]] and [[figs-idiom]])
 
 # 20:5
 ## j5zi
-rc://*/ta/man/translate/figs-parallelism
-The second part reinforces the first part to make one message by using parallelism. Alternate translation: “I have heard your prayers and seen your tears” (See: [[rc://*/ta/man/translate/figs-parallelism]])
+The second part reinforces the first part to make one message by using parallelism. Alternate translation: “I have heard your prayers and seen your tears” (See: [[figs-parallelism]])
 
 ## jaq6
 “two days from now” The day Isaiah said this was the first day, so “the third day” would be the same as “two days from now.”
@@ -4951,12 +4215,10 @@ The second part reinforces the first part to make one message by using paralleli
 ## y6h7
 See [[2KI-y6h7]]
 ## p9us
-rc://*/ta/man/translate/translate-numbers
-15 years (See: [[rc://*/ta/man/translate/translate-numbers]])
+15 years (See: [[translate-numbers]])
 
 ## tej9
-rc://*/ta/man/translate/figs-metonymy
-“Hand” is metonymy for power, authority and control. Alternate translation: “from the control of the king of Assyria” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+“Hand” is metonymy for power, authority and control. Alternate translation: “from the control of the king of Assyria” (See: [[figs-metonymy]])
 
 # 20:7
 ## y9eu
@@ -4967,34 +4229,29 @@ rc://*/ta/man/translate/figs-metonymy
 
 # 20:9
 ## kr84
-rc://*/ta/man/translate/figs-explicit
-The source of “the shadow” can be stated clearly. Alternate translation: “Do you want Yahweh to make the shadow caused by the sunlight on the stairway to go forward ten steps or to go back ten steps?” (See: [[rc://*/ta/man/translate/figs-explicit]])
+The source of “the shadow” can be stated clearly. Alternate translation: “Do you want Yahweh to make the shadow caused by the sunlight on the stairway to go forward ten steps or to go back ten steps?” (See: [[figs-explicit]])
 
 ## wf56
 This expression refers to the “stairway of Ahaz” in [2 Kings 20:11](../20/11.md). This was probably a special stairway built for King Ahaz in such a way that its steps marked the hours of daylight as the sun’s rays advanced along them. In this way, the staircase served to tell the time during the day.
 
 # 20:10
 ## tm24
-rc://*/ta/man/translate/figs-explicit
-Why “it is an easy thing” can be stated clearly. “It is easy to cause the shadow to move forward ten steps, because that is the normal thing for it to do” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Why “it is an easy thing” can be stated clearly. “It is easy to cause the shadow to move forward ten steps, because that is the normal thing for it to do” (See: [[figs-explicit]])
 
 # 20:11
 ## n148
-rc://*/ta/man/translate/figs-explicit
-This was probably a special stairway built for King Ahaz in such a way that its steps marked the hours of daylight as the sun’s rays advanced along them. In this way, the staircase served to tell the time during the day. Alternate translation: “the steps that had been built for King Ahaz” (See: [[rc://*/ta/man/translate/figs-explicit]])
+This was probably a special stairway built for King Ahaz in such a way that its steps marked the hours of daylight as the sun’s rays advanced along them. In this way, the staircase served to tell the time during the day. Alternate translation: “the steps that had been built for King Ahaz” (See: [[figs-explicit]])
 
 # 20:12
 ## q3u5
-rc://*/ta/man/translate/translate-names
-These are the names of the king of Babylon and his son. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of the king of Babylon and his son. (See: [[translate-names]])
 
 # 20:13
 ## dh37
 “carefully considered those letters” or “heard the message from the king of Babylon”
 
 ## zgg3
-rc://*/ta/man/translate/figs-doublenegatives
-Here “There was nothing … did not show them” is an exaggeration used for emphasis. It means Hezekiah showed them all of his most valuable things. This can be stated in positive form. Alternate translation: “Hezekiah showed him absolutely everything valuable in his house and in all his kingdom” (See: [[rc://*/ta/man/translate/figs-doublenegatives]] and [[rc://*/ta/man/translate/figs-hyperbole]])
+Here “There was nothing … did not show them” is an exaggeration used for emphasis. It means Hezekiah showed them all of his most valuable things. This can be stated in positive form. Alternate translation: “Hezekiah showed him absolutely everything valuable in his house and in all his kingdom” (See: [[figs-doublenegatives]] and [[figs-hyperbole]])
 
 # 20:14
 ## neq3
@@ -5002,17 +4259,14 @@ This refers to the men sent to King Hezekiah with a message and gifts from Mardu
 
 # 20:15
 ## fkx7
-rc://*/ta/man/translate/figs-hyperbole
-Hezekiah repeats the same idea in two ways to emphasize his point. (See: [[rc://*/ta/man/translate/figs-hyperbole]] and [[rc://*/ta/man/translate/figs-parallelism]])
+Hezekiah repeats the same idea in two ways to emphasize his point. (See: [[figs-hyperbole]] and [[figs-parallelism]])
 
 ## mau7
-rc://*/ta/man/translate/figs-doublenegatives
-“Nothing” and “not” cancel each other out to make the idea positive. This exaggeration is used for emphasis. Alternate translation: “I showed them absolutely every one of my valuable things” (See: [[rc://*/ta/man/translate/figs-doublenegatives]])
+“Nothing” and “not” cancel each other out to make the idea positive. This exaggeration is used for emphasis. Alternate translation: “I showed them absolutely every one of my valuable things” (See: [[figs-doublenegatives]])
 
 # 20:16
 ## yw6e
-rc://*/ta/man/translate/figs-explicit
-Why Isaiah spoke can be stated clearly. Alternate translation: “So, because Isaiah knew Hezekiah had been foolish to show the men all his valuable things, Isaiah said to him” (See: [[rc://*/ta/man/translate/figs-explicit]])
+Why Isaiah spoke can be stated clearly. Alternate translation: “So, because Isaiah knew Hezekiah had been foolish to show the men all his valuable things, Isaiah said to him” (See: [[figs-explicit]])
 
 ## nu7p
 “the message of Yahweh”
@@ -5022,16 +4276,14 @@ Why Isaiah spoke can be stated clearly. Alternate translation: “So, because Is
 “Listen to me, someday there will come a time when”; “Look” is used to draw attention to what Isaiah is about to tell Hezekiah.
 
 ## dsd6
-rc://*/ta/man/translate/figs-synecdoche
-“Days” is synecdoche to refer to an undefined span of time. (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+“Days” is synecdoche to refer to an undefined span of time. (See: [[figs-synecdoche]])
 
 # 20:19
 ## aw9p
 “Because Hezekiah thought”
 
 ## jej2
-rc://*/ta/man/translate/figs-rquestion
-Hezekiah asks this question for emphasis knowing the answer already. Alternate translation: “I can be sure that there will be peace and stability in my days.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+Hezekiah asks this question for emphasis knowing the answer already. Alternate translation: “I can be sure that there will be peace and stability in my days.” (See: [[figs-rquestion]])
 
 # 20:20
 ## fgv7
@@ -5041,155 +4293,127 @@ A small area of still water for storage
 A tunnel for carrying the water
 
 ## v69i
-rc://*/ta/man/translate/figs-rquestion
-This question is used to remind the reader that these things are recorded. See how this phrase is translated in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written in the book of the history of the kings of Judah.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
+This question is used to remind the reader that these things are recorded. See how this phrase is translated in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written in the book of the history of the kings of Judah.” (See: [[figs-rquestion]])
 
 # 21:intro
 ## abcl
 See [[2KI-abcl]]
 # 21:1
 ## cuc4
-rc://*/ta/man/translate/translate-names
-The mother of King Manasseh (See: [[rc://*/ta/man/translate/translate-names]])
+The mother of King Manasseh (See: [[translate-names]])
 
 # 21:2
 ## k3ux
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 ## qx6p
 Another possible meaning is “including the disgusting things.”
 
 # 21:3
 ## i746
-rc://*/ta/man/translate/figs-metonymy
-Manasseh would have commanded his workers to do the building for him. Alternate translation: “he had the high places rebuilt … he had altars built for Baal, had an Asherah pole made” or “he had his workers rebuild the high places … he had them build altars for Baal, make an Asherah pole” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Manasseh would have commanded his workers to do the building for him. Alternate translation: “he had the high places rebuilt … he had altars built for Baal, had an Asherah pole made” or “he had his workers rebuild the high places … he had them build altars for Baal, make an Asherah pole” (See: [[figs-metonymy]])
 
 # 21:4
 ## kq9h
 See [[2KI-kq9h]]
 ## tf5j
-rc://*/ta/man/translate/figs-metonymy
-The name is a metonym for the person. Alternate translation: “Jerusalem is where I will forever make known who I am” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The name is a metonym for the person. Alternate translation: “Jerusalem is where I will forever make known who I am” (See: [[figs-metonymy]])
 
 # 21:5
 ## lm3d
-rc://*/ta/man/translate/figs-explicit
-It is implied that he built these altars so people could make sacrifices and worship the stars. Also, he would not have built these altars himself, rather he would have commanded his workers to do it. Alternate translation: “He had his workers build altars in the two courtyards of the house of Yahweh so that the people could worship the stars and offer them sacrifices” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/figs-metonymy]])
+It is implied that he built these altars so people could make sacrifices and worship the stars. Also, he would not have built these altars himself, rather he would have commanded his workers to do it. Alternate translation: “He had his workers build altars in the two courtyards of the house of Yahweh so that the people could worship the stars and offer them sacrifices” (See: [[figs-explicit]] and [[figs-metonymy]])
 
 # 21:6
 ## nlv5
-rc://*/ta/man/translate/figs-explicit
-You may need to make explicit why he caused his son be put into the fire and what happened after he did so. Alternate translation: “He burned his son to death as an offering to his gods” (See: [[rc://*/ta/man/translate/figs-explicit]])
+You may need to make explicit why he caused his son be put into the fire and what happened after he did so. Alternate translation: “He burned his son to death as an offering to his gods” (See: [[figs-explicit]])
 
 ## qw58
 “asked for information from”
 
 ## p47l
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated a similar phrase in [2 Kings 3:2](../03/02.md). Alternate translation: “many things that were evil in Yahweh’s judgment” or “many things that Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated a similar phrase in [2 Kings 3:2](../03/02.md). Alternate translation: “many things that were evil in Yahweh’s judgment” or “many things that Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 # 21:7
 ## ub5i
 See [[2KI-ub5i]]
 ## sss9
-rc://*/ta/man/translate/figs-metonymy
-Manasseh probably did not do the work. His servants would have done the work. Alternate translation: “that Manasseh had ordered his servants to make” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Manasseh probably did not do the work. His servants would have done the work. Alternate translation: “that Manasseh had ordered his servants to make” (See: [[figs-metonymy]])
 
 ## p35n
-rc://*/ta/man/translate/figs-metonymy
-Here Yahweh putting his “name” on the temple represents him designating it as the place to worship him. Alternate translation: “where I want people to worship me forever” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here Yahweh putting his “name” on the temple represents him designating it as the place to worship him. Alternate translation: “where I want people to worship me forever” (See: [[figs-metonymy]])
 
 # 21:8
 ## ysn5
-rc://*/ta/man/translate/figs-synecdoche
-The feet are a synecdoche for the person. Alternate translation: “the people of Israel” or “the Israelites” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The feet are a synecdoche for the person. Alternate translation: “the people of Israel” or “the Israelites” (See: [[figs-synecdoche]])
 
 # 21:9
 ## g14q
-rc://*/ta/man/translate/figs-metonymy
-Here “nations” refers to the people who had lived in the land of Canaan before the Israelites had arrived. Alternate translation: “even more than the people whom Yahweh had destroyed as the people of Israel advanced through the land” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “nations” refers to the people who had lived in the land of Canaan before the Israelites had arrived. Alternate translation: “even more than the people whom Yahweh had destroyed as the people of Israel advanced through the land” (See: [[figs-metonymy]])
 
 # 21:13
 ## j6kz
-rc://*/ta/man/translate/figs-metaphor
-The words “measuring line” and “plumb line” are metaphors for the standards Yahweh uses to judge people. Alternate translation: “judge Jerusalem using the same measure I used when I judged Samaria and the house of Ahab” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The words “measuring line” and “plumb line” are metaphors for the standards Yahweh uses to judge people. Alternate translation: “judge Jerusalem using the same measure I used when I judged Samaria and the house of Ahab” (See: [[figs-metaphor]])
 
 ## vp2y
-rc://*/ta/man/translate/figs-metonymy
-Samaria is the capital city and it represents all the people of the kingdom of Israel. Alternate translation: “against the people of Israel” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Samaria is the capital city and it represents all the people of the kingdom of Israel. Alternate translation: “against the people of Israel” (See: [[figs-metonymy]])
 
 ## db7n
 a tool made of a heavy weight and a thin rope used to show if a wall is straight
 
 ## udx3
-rc://*/ta/man/translate/figs-metonymy
-Here “house” represents family. Alternate translation: “the family of Ahab” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “house” represents family. Alternate translation: “the family of Ahab” (See: [[figs-metonymy]])
 
 # 21:14
 ## n7z2
 “I will abandon” or “I will reject”
 
 ## nm49
-rc://*/ta/man/translate/figs-synecdoche
-Here the “hand” of the enemies refers to their enemies’ control. Alternate translation: “let their enemies defeat them and take over their land” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here the “hand” of the enemies refers to their enemies’ control. Alternate translation: “let their enemies defeat them and take over their land” (See: [[figs-synecdoche]])
 
 # 21:16
 ## db4v
 “Also, Manasseh” or “In addition, Manasseh”
 
 ## f4ns
-rc://*/ta/man/translate/figs-metonymy
-The words “shed much innocent blood” are a metonym for killing people violently. It might be best to translate this so the reader understands that other people helped Manasseh do this. Alternate translation: “Manasseh ordered his soldiers to kill many innocent people” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The words “shed much innocent blood” are a metonym for killing people violently. It might be best to translate this so the reader understands that other people helped Manasseh do this. Alternate translation: “Manasseh ordered his soldiers to kill many innocent people” (See: [[figs-metonymy]])
 
 ## sx9u
-rc://*/ta/man/translate/figs-hyperbole
-This hyperbole emphasizes the great number of people Manasseh had killed throughout Jerusalem. The abstract noun “death” can be stated as “dead people.” Alternate translation: “there were very many dead people throughout Jerusalem” (See: [[rc://*/ta/man/translate/figs-hyperbole]] and [[rc://*/ta/man/translate/figs-abstractnouns]])
+This hyperbole emphasizes the great number of people Manasseh had killed throughout Jerusalem. The abstract noun “death” can be stated as “dead people.” Alternate translation: “there were very many dead people throughout Jerusalem” (See: [[figs-hyperbole]] and [[figs-abstractnouns]])
 
 ## ff48
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 # 21:17
 ## ce1p
-rc://*/ta/man/translate/figs-activepassive
-This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. See how this phrase is translated in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written … Judah.” or “you can find them … Judah.” (See: [[rc://*/ta/man/translate/figs-activepassive]] and [[rc://*/ta/man/translate/figs-rquestion]])
+This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. See how this phrase is translated in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written … Judah.” or “you can find them … Judah.” (See: [[figs-activepassive]] and [[figs-rquestion]])
 
 # 21:18
 ## i542
-rc://*/ta/man/translate/figs-euphemism
-This is a polite way of saying he “died, as his ancestors had, and” (See: [[rc://*/ta/man/translate/figs-euphemism]])
+This is a polite way of saying he “died, as his ancestors had, and” (See: [[figs-euphemism]])
 
 ## rhh9
-rc://*/ta/man/translate/translate-names
-Possible meanings are (1) “the garden that had once belonged to a man named Uzza” or (2) “Uzza Garden.” (See: [[rc://*/ta/man/translate/translate-names]])
+Possible meanings are (1) “the garden that had once belonged to a man named Uzza” or (2) “Uzza Garden.” (See: [[translate-names]])
 
 ## b29b
-rc://*/ta/man/translate/translate-names
-This is a man’s name (See: [[rc://*/ta/man/translate/translate-names]])
+This is a man’s name (See: [[translate-names]])
 
 # 21:19
 ## np3n
-rc://*/ta/man/translate/translate-names
-These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are names of men. (See: [[translate-names]])
 
 ## wqq6
-rc://*/ta/man/translate/translate-names
-This is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a woman. (See: [[translate-names]])
 
 ## qwh8
-rc://*/ta/man/translate/translate-names
-This is the name of a city. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a city. (See: [[translate-names]])
 
 # 21:20
 ## xn3z
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 # 21:21
 ## hks2
-rc://*/ta/man/translate/figs-metaphor
-“walked in all the ways that his father walked in.” The way a person lives is spoken of as if that person were walking on a path. Alternate translation: “lived completely the way his father had lived” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+“walked in all the ways that his father walked in.” The way a person lives is spoken of as if that person were walking on a path. Alternate translation: “lived completely the way his father had lived” (See: [[figs-metaphor]])
 
 # 21:22
 ## r996
@@ -5201,78 +4425,64 @@ rc://*/ta/man/translate/figs-metaphor
 
 # 21:24
 ## pwu1
-rc://*/ta/man/translate/figs-hyperbole
-This is a generalization. Alternate translation: “some of the people in Judah” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+This is a generalization. Alternate translation: “some of the people in Judah” (See: [[figs-hyperbole]])
 
 ## nj33
 “made plans and worked together to harm.” See how you translated this in [2 Kings 21:23](../21/23.md).
 
 # 21:25
 ## zcb6
-rc://*/ta/man/translate/figs-activepassive
-This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written … Judah.” or “you can find them … Judah.” (See: [[rc://*/ta/man/translate/figs-activepassive]] and [[rc://*/ta/man/translate/figs-rquestion]])
+This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “they are written … Judah.” or “you can find them … Judah.” (See: [[figs-activepassive]] and [[figs-rquestion]])
 
 # 21:26
 ## zpi6
-rc://*/ta/man/translate/translate-names
-Possible meanings are (1) “the garden that had once belonged to a man named Uzza” or (2) “Uzza Garden.” See how you translated this in [2 Kings 21:18](../21/18.md). (See: [[rc://*/ta/man/translate/translate-names]])
+Possible meanings are (1) “the garden that had once belonged to a man named Uzza” or (2) “Uzza Garden.” See how you translated this in [2 Kings 21:18](../21/18.md). (See: [[translate-names]])
 
 # 22:intro
 ## abcm
 See [[2KI-abcm]]
 # 22:1
 ## gp47
-rc://*/ta/man/translate/translate-numbers
-“31 years” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“31 years” (See: [[translate-numbers]])
 
 ## ne6n
-rc://*/ta/man/translate/translate-names
-This is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a woman. (See: [[translate-names]])
 
 ## wgp7
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## vv8d
-rc://*/ta/man/translate/translate-names
-This is the name of a town in Judah. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a town in Judah. (See: [[translate-names]])
 
 # 22:2
 ## q688
-rc://*/ta/man/translate/figs-metonymy
-Here “eyes” represents Yahweh’s thoughts or what he considered about something. Alternate translation: “He did what Yahweh considered to be right” or “He did what was right according to Yahweh” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “eyes” represents Yahweh’s thoughts or what he considered about something. Alternate translation: “He did what Yahweh considered to be right” or “He did what was right according to Yahweh” (See: [[figs-metonymy]])
 
 ## ly8g
-rc://*/ta/man/translate/figs-metaphor
-“He walked in all the ways of David his ancestor” Josiah behaving as David did is spoken of as if he walked on the same road or way as David. Alternate translation: “He lived the way David his ancestor had lived” or “He followed the example of David his ancestor” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+“He walked in all the ways of David his ancestor” Josiah behaving as David did is spoken of as if he walked on the same road or way as David. Alternate translation: “He lived the way David his ancestor had lived” or “He followed the example of David his ancestor” (See: [[figs-metaphor]])
 
 ## n1m8
-rc://*/ta/man/translate/figs-metaphor
-To fully obey Yahweh is spoken of as if a person were on the correct road and never turned from it. Alternate translation: “he did not do anything that would displease Yahweh” or “he fully obeyed all the laws of Yahweh” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+To fully obey Yahweh is spoken of as if a person were on the correct road and never turned from it. Alternate translation: “he did not do anything that would displease Yahweh” or “he fully obeyed all the laws of Yahweh” (See: [[figs-metaphor]])
 
 # 22:3
 ## p4bf
 If your language has a way to mark the beginning of a new part of the story, consider using it here.
 
 ## hab4
-rc://*/ta/man/translate/translate-ordinal
-“Eighteenth” is the ordinal form of 18. Alternate translation: “year 18” (See: [[rc://*/ta/man/translate/translate-ordinal]])
+“Eighteenth” is the ordinal form of 18. Alternate translation: “year 18” (See: [[translate-ordinal]])
 
 ## kxh4
-rc://*/ta/man/translate/translate-names
-These are men’s names. (See: [[rc://*/ta/man/translate/translate-names]])
+These are men’s names. (See: [[translate-names]])
 
 # 22:4
 ## alb5
 The phrase “Go up” is used because Yahweh’s temple was higher in elevation than where King Josiah was located. Alternate translation: “Go to Hilkiah”
 
 ## dub3
-rc://*/ta/man/translate/translate-names
-This is a man’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a man’s name. (See: [[translate-names]])
 
 ## sf26
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “that the temple guards who gathered the money from the people brought into the temple of Yahweh” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “that the temple guards who gathered the money from the people brought into the temple of Yahweh” (See: [[figs-activepassive]])
 
 ## xz1u
 This is another name for the “temple” (verse 3).
@@ -5282,8 +4492,7 @@ This is another name for the “temple” (verse 3).
 Here “house of Yahweh” and “temple” mean the same thing.
 
 ## xuv8
-rc://*/ta/man/translate/figs-synecdoche
-Here “hand” represents the workmen as a whole. This can be stated in active form. Alternate translation: “Tell Hilkiah to give the money to the workmen” (See: [[rc://*/ta/man/translate/figs-synecdoche]] and [[rc://*/ta/man/translate/figs-activepassive]])
+Here “hand” represents the workmen as a whole. This can be stated in active form. Alternate translation: “Tell Hilkiah to give the money to the workmen” (See: [[figs-synecdoche]] and [[figs-activepassive]])
 
 # 22:6
 ## li9c
@@ -5305,41 +4514,35 @@ workers who build with stone
 Here “them” and “they” refer to the workmen who are in charge of the house of Yahweh in [2 Kings 22:5](../22/05.md).
 
 ## hkm7
-rc://*/ta/man/translate/figs-activepassive
-This can be stated in active form. Alternate translation: “the workmen who were in charge did not have to report how they used the money that the temple guards gave them” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be stated in active form. Alternate translation: “the workmen who were in charge did not have to report how they used the money that the temple guards gave them” (See: [[figs-activepassive]])
 
 ## dt6w
 “because they used the money honestly”
 
 # 22:8
 ## hf68
-rc://*/ta/man/translate/translate-names
-This is the name of a man. See how you translated this in [2 Kings 18:18](../18/18.md). (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. See how you translated this in [2 Kings 18:18](../18/18.md). (See: [[translate-names]])
 
 ## n1xt
 Most likely these laws were written on a scroll. A scroll was a type of book made of one long, rolled-up sheet of papyrus or leather.
 
 # 22:9
 ## xt1w
-rc://*/ta/man/translate/figs-synecdoche
-Here “hand” represents the workmen as a whole. Alternate translation: “given it to the workmen” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “hand” represents the workmen as a whole. Alternate translation: “given it to the workmen” (See: [[figs-synecdoche]])
 
 # 22:11
 ## jl4t
 If your language has a way to mark the beginning of a new part of the story, consider using it here.
 
 ## nye3
-rc://*/ta/man/translate/figs-metonymy
-Here “words” represents the message of the law. Alternate translation: “had heard the laws that were written in the book” or “had heard the laws that were written in the scroll” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “words” represents the message of the law. Alternate translation: “had heard the laws that were written in the book” or “had heard the laws that were written in the scroll” (See: [[figs-metonymy]])
 
 ## d65n
-rc://*/ta/man/translate/translate-symaction
-This is a symbolic action that indicates intense grief or sadness. (See: [[rc://*/ta/man/translate/translate-symaction]])
+This is a symbolic action that indicates intense grief or sadness. (See: [[translate-symaction]])
 
 # 22:12
 ## qm31
-rc://*/ta/man/translate/translate-names
-These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are names of men. (See: [[translate-names]])
 
 # 22:13
 ## xl33
@@ -5349,32 +4552,26 @@ It is made clear in 22:14 that the king means for the men to go to the prophetes
 to go to someone to ask for advice
 
 ## u6an
-rc://*/ta/man/translate/figs-synecdoche
-Here “words” represents the laws. This can be stated in active form. Alternate translation: “the laws in this book that Hilkiah has found” (See:[[rc://*/ta/man/translate/figs-synecdoche]] and [[rc://*/ta/man/translate/figs-activepassive]])
+Here “words” represents the laws. This can be stated in active form. Alternate translation: “the laws in this book that Hilkiah has found” (See:[[figs-synecdoche]] and [[figs-activepassive]])
 
 ## u2jp
-rc://*/ta/man/translate/figs-metaphor
-Yahweh’s anger is spoken of as if it were a fire that was lit. Alternate translation: “For Yahweh is very angry with us” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Yahweh’s anger is spoken of as if it were a fire that was lit. Alternate translation: “For Yahweh is very angry with us” (See: [[figs-metaphor]])
 
 ## e5fi
-rc://*/ta/man/translate/figs-activepassive
-This refers to the law that was given to Israel. This can be stated in active form. Alternate translation: “all that Moses wrote in the law that we should do” or “all the laws that God gave through Moses to the people of Israel” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This refers to the law that was given to Israel. This can be stated in active form. Alternate translation: “all that Moses wrote in the law that we should do” or “all the laws that God gave through Moses to the people of Israel” (See: [[figs-activepassive]])
 
 # 22:14
 ## hj95
-rc://*/ta/man/translate/translate-names
-This is a woman’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a woman’s name. (See: [[translate-names]])
 
 ## lc23
-rc://*/ta/man/translate/translate-names
-These are men’s names. (See: [[rc://*/ta/man/translate/translate-names]])
+These are men’s names. (See: [[translate-names]])
 
 ## fia7
 Possible meanings are (1) the person who took care of the clothing that priests wore in the temple or (2) the person who took care of the king’s clothing.
 
 ## at8l
-rc://*/ta/man/translate/figs-explicit
-Here “second quarter” refers to the new part of the city that was built on the north side of Jerusalem. Also, “second” is the ordinal form of 2. Alternate translation: “she lived in Jerusalem in the new part of the city” or “she lived in the new part of Jerusalem” (See: [[rc://*/ta/man/translate/figs-explicit]] and [[rc://*/ta/man/translate/translate-ordinal]])
+Here “second quarter” refers to the new part of the city that was built on the north side of Jerusalem. Also, “second” is the ordinal form of 2. Alternate translation: “she lived in Jerusalem in the new part of the city” or “she lived in the new part of Jerusalem” (See: [[figs-explicit]] and [[translate-ordinal]])
 
 # 22:15
 ## lf4s
@@ -5382,104 +4579,83 @@ Here “the man” refers to King Josiah.
 
 # 22:16
 ## y4st
-rc://*/ta/man/translate/figs-metaphor
-Yahweh causing terrible things to happen is spoken of as if disaster were an object that he could bring to a place. Alternate translation: “I will cause terrible things to happen to this place and to those who live there” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Yahweh causing terrible things to happen is spoken of as if disaster were an object that he could bring to a place. Alternate translation: “I will cause terrible things to happen to this place and to those who live there” (See: [[figs-metaphor]])
 
 ## p6qx
-rc://*/ta/man/translate/figs-synecdoche
-“to Jerusalem.” This refers to the city of Jerusalem which represents the whole land of Judah. Alternate translation: “to Judah” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+“to Jerusalem.” This refers to the city of Jerusalem which represents the whole land of Judah. Alternate translation: “to Judah” (See: [[figs-synecdoche]])
 
 # 22:17
 ## vf9u
 See [[2KI-vf9u]]
 ## syg8
-rc://*/ta/man/translate/figs-metaphor
-Yahweh’s anger is spoken of as if it were a fire that was lit. Alternate translation: “my anger against this place is like a fire that cannot be put out” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Yahweh’s anger is spoken of as if it were a fire that was lit. Alternate translation: “my anger against this place is like a fire that cannot be put out” (See: [[figs-metaphor]])
 
 ## c75r
-rc://*/ta/man/translate/figs-metonymy
-Here “place” represents the people who live in Jerusalem and Judah. Alternate translation: “these people” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “place” represents the people who live in Jerusalem and Judah. Alternate translation: “these people” (See: [[figs-metonymy]])
 
 # 22:18
 ## a12h
-rc://*/ta/man/translate/figs-metonymy
-Here “words” represents the message that Huldah just spoke. Alternate translation: “About the message that you heard” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “words” represents the message that Huldah just spoke. Alternate translation: “About the message that you heard” (See: [[figs-metonymy]])
 
 # 22:19
 ## cu8x
-rc://*/ta/man/translate/figs-metonymy
-Here “heart” represents a person’s inner being. Feeling sorry is spoken of as if the heart were tender. Alternate translation: “because you felt sorry” or “because you repented” (See: [[rc://*/ta/man/translate/figs-metonymy]] and [[rc://*/ta/man/translate/figs-metaphor]])
+Here “heart” represents a person’s inner being. Feeling sorry is spoken of as if the heart were tender. Alternate translation: “because you felt sorry” or “because you repented” (See: [[figs-metonymy]] and [[figs-metaphor]])
 
 ## ef3w
-rc://*/ta/man/translate/figs-abstractnouns
-The abstract nouns “desolation” and “curse” can be stated as an adjective and a verb. Alternate translation: “that I would make the land desolate and would curse them” (See: [[rc://*/ta/man/translate/figs-abstractnouns]])
+The abstract nouns “desolation” and “curse” can be stated as an adjective and a verb. Alternate translation: “that I would make the land desolate and would curse them” (See: [[figs-abstractnouns]])
 
 ## tca8
-rc://*/ta/man/translate/translate-symaction
-This is a symbolic action that indicates intense grief or sadness. (See: [[rc://*/ta/man/translate/translate-symaction]])
+This is a symbolic action that indicates intense grief or sadness. (See: [[translate-symaction]])
 
 ## u682
-rc://*/ta/man/translate/figs-123person
-Yahweh speaks of himself by name to express the certainty of what he is declaring. See how you translated this in [2 Kings 19:33](../19/33.md). Alternate translation: “this is what Yahweh has declared” or “this is what I, Yahweh, have declared” (See: [[rc://*/ta/man/translate/figs-123person]])
+Yahweh speaks of himself by name to express the certainty of what he is declaring. See how you translated this in [2 Kings 19:33](../19/33.md). Alternate translation: “this is what Yahweh has declared” or “this is what I, Yahweh, have declared” (See: [[figs-123person]])
 
 # 22:20
 ## t38r
 See [[2KI-t38r]]
 ## cn5j
-rc://*/ta/man/translate/figs-parallelism
-Both statements mean basically the same thing. They are polite ways of saying he will die. Alternate translation: “So I will allow you to die and be buried peacefully” (See: [[rc://*/ta/man/translate/figs-parallelism]] and [[rc://*/ta/man/translate/figs-euphemism]])
+Both statements mean basically the same thing. They are polite ways of saying he will die. Alternate translation: “So I will allow you to die and be buried peacefully” (See: [[figs-parallelism]] and [[figs-euphemism]])
 
 ## qgs2
-rc://*/ta/man/translate/figs-metonymy
-Here “will not see” represents not experiencing something. Alternate translation: “You will not experience” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “will not see” represents not experiencing something. Alternate translation: “You will not experience” (See: [[figs-metonymy]])
 
 ## mc6n
-rc://*/ta/man/translate/figs-synecdoche
-Here “eyes” represents the whole person. (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+Here “eyes” represents the whole person. (See: [[figs-synecdoche]])
 
 ## j2cn
-rc://*/ta/man/translate/figs-metaphor
-Yahweh causing terrible things to happen is spoken of as if disaster were an object that Yahweh would bring to a place. Alternate translation: “the terrible things I will cause to happen in this place” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+Yahweh causing terrible things to happen is spoken of as if disaster were an object that Yahweh would bring to a place. Alternate translation: “the terrible things I will cause to happen in this place” (See: [[figs-metaphor]])
 
 # 23:intro
 ## abcn
 See [[2KI-abcn]]
 # 23:2
 ## yx5s
-rc://*/ta/man/translate/figs-hyperbole
-This is a generalization. Alternate translation: “many other people” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+This is a generalization. Alternate translation: “many other people” (See: [[figs-hyperbole]])
 
 ## bw8g
-rc://*/ta/man/translate/figs-merism
-This merism includes everyone in between. Alternate translation: “from the least important to the most important” (See: [[rc://*/ta/man/translate/figs-merism]])
+This merism includes everyone in between. Alternate translation: “from the least important to the most important” (See: [[figs-merism]])
 
 ## k1ai
 “Then the king read aloud so that they could hear”
 
 ## wxs2
-rc://*/ta/man/translate/figs-activepassive
-In [2 Kings 22:8](../22/08.md) it states that Hilkiah found the book. This can be translated in active form. Alternate translation: “that Hilkiah had found” or “that they had found” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+In [2 Kings 22:8](../22/08.md) it states that Hilkiah found the book. This can be translated in active form. Alternate translation: “that Hilkiah had found” or “that they had found” (See: [[figs-activepassive]])
 
 # 23:3
 ## lg2w
-rc://*/ta/man/translate/figs-metaphor
-The way a person lives is spoken of as if that person were walking on a path, and “to walk after” someone is a metonym for doing what that other person does or wants others to do. Alternate translation: “live obeying Yahweh” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-metonymy]])
+The way a person lives is spoken of as if that person were walking on a path, and “to walk after” someone is a metonym for doing what that other person does or wants others to do. Alternate translation: “live obeying Yahweh” (See: [[figs-metaphor]] and [[figs-metonymy]])
 
 ## v7nf
-rc://*/ta/man/translate/figs-doublet
-These words all share similar meanings. Together they emphasize everything that Yahweh had commanded in the law. (See: [[rc://*/ta/man/translate/figs-doublet]])
+These words all share similar meanings. Together they emphasize everything that Yahweh had commanded in the law. (See: [[figs-doublet]])
 
 ## jl5a
-rc://*/ta/man/translate/figs-idiom
-The idiom “with all his heart” means “completely” and “with all his soul” means “with all his being.” These two phrases have similar meanings. Alternate translation: “with all his being” or “with all his energy” (See: [[rc://*/ta/man/translate/figs-idiom]] and [[rc://*/ta/man/translate/figs-doublet]])
+The idiom “with all his heart” means “completely” and “with all his soul” means “with all his being.” These two phrases have similar meanings. Alternate translation: “with all his being” or “with all his energy” (See: [[figs-idiom]] and [[figs-doublet]])
 
 ## lb9c
-rc://*/ta/man/translate/figs-activepassive
-This can be translated in active form. Alternate translation: “that this book contained” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be translated in active form. Alternate translation: “that this book contained” (See: [[figs-activepassive]])
 
 ## ecz5
-rc://*/ta/man/translate/figs-idiom
-This idiom means to “obey the terms of the covenant.” (See: [[rc://*/ta/man/translate/figs-idiom]])
+This idiom means to “obey the terms of the covenant.” (See: [[figs-idiom]])
 
 # 23:4
 ## sx3u
@@ -5492,17 +4668,14 @@ men who guarded the gates to the temple
 “so people could use them to worship Baal … so people could use them to worship all the stars”
 
 ## vje6
-rc://*/ta/man/translate/figs-metonymy
-The word “he” refers to Josiah. He would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “he had them burn them … and carry them” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The word “he” refers to Josiah. He would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “he had them burn them … and carry them” (See: [[figs-metonymy]])
 
 ## qsq2
-rc://*/ta/man/translate/translate-names
-names of places (See: [[rc://*/ta/man/translate/translate-names]])
+names of places (See: [[translate-names]])
 
 # 23:5
 ## i5fz
-rc://*/ta/man/translate/figs-metonymy
-The word “He” refers to Josiah. He would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “He had them get rid” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The word “He” refers to Josiah. He would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “He had them get rid” (See: [[figs-metonymy]])
 
 ## p31g
 “as a way to worship Baal, the sun and the moon, the planets, and all the stars”
@@ -5511,25 +4684,21 @@ The word “He” refers to Josiah. He would have commanded his workers to do th
 ## e6wt
 See [[2KI-e6wt]]
 ## ueh3
-rc://*/ta/man/translate/figs-metonymy
-The word “he” refers to Josiah. He would have commanded his workers to do these things. Hilkiah and the priests who assisted him did these things. Alternate translation: “He had them bring out … and burn it … He had them beat it … and throw” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The word “he” refers to Josiah. He would have commanded his workers to do these things. Hilkiah and the priests who assisted him did these things. Alternate translation: “He had them bring out … and burn it … He had them beat it … and throw” (See: [[figs-metonymy]])
 
 # 23:7
 ## vc4c
-rc://*/ta/man/translate/figs-metonymy
-The word “He” refers to Josiah. He would have commanded his workers to do these things. Hilkiah and the priests who assisted him did these things. Alternate translation: “He had them clear” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The word “He” refers to Josiah. He would have commanded his workers to do these things. Hilkiah and the priests who assisted him did these things. Alternate translation: “He had them clear” (See: [[figs-metonymy]])
 
 ## qn4w
 “made clothes”
 
 # 23:8
 ## rlc8
-rc://*/ta/man/translate/figs-metonymy
-Josiah would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “He commanded them to bring … and to defile … He had them destroy” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Josiah would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “He commanded them to bring … and to defile … He had them destroy” (See: [[figs-metonymy]])
 
 ## uxq7
-rc://*/ta/man/translate/translate-names
-names of places (See: [[rc://*/ta/man/translate/translate-names]])
+names of places (See: [[translate-names]])
 
 ## y8lj
 “the city ruler named Joshua” or “the city leader named Joshua.” This is a different Joshua from the Joshua in the Old Testament Book of Joshua.
@@ -5540,63 +4709,51 @@ Here “brothers” refers to their fellow priests who served at the temple.
 
 # 23:10
 ## yh8e
-rc://*/ta/man/translate/translate-names
-place names (See: [[rc://*/ta/man/translate/translate-names]])
+place names (See: [[translate-names]])
 
 ## dx37
 “put his son or his daughter in the fire and burn them as an offering to Molech”
 
 # 23:11
 ## x7tv
-rc://*/ta/man/translate/figs-explicit
-It might be best to translate so that the reader understands that other people, perhaps Hilkiah and “the priests under him” ([2 Kings 23:4](../23/04.md)), might have helped Josiah do this. (See: [[rc://*/ta/man/translate/figs-explicit]])
+It might be best to translate so that the reader understands that other people, perhaps Hilkiah and “the priests under him” ([2 Kings 23:4](../23/04.md)), might have helped Josiah do this. (See: [[figs-explicit]])
 
 ## c4zx
 Possible meanings are (1) real horses or (2) statues of horses.
 
 ## vq7r
-rc://*/ta/man/translate/figs-metonymy
-Here “given” represents being dedicated for worship. Alternate translation: “had used to worship the sun” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “given” represents being dedicated for worship. Alternate translation: “had used to worship the sun” (See: [[figs-metonymy]])
 
 ## b1bh
-rc://*/ta/man/translate/translate-names
-a man’s name (See: [[rc://*/ta/man/translate/translate-names]])
+a man’s name (See: [[translate-names]])
 
 # 23:12
 ## ct7r
-rc://*/ta/man/translate/figs-metonymy
-Josiah would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “Josiah the king commanded them to destroy … He had them smash … had them throw” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Josiah would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “Josiah the king commanded them to destroy … He had them smash … had them throw” (See: [[figs-metonymy]])
 
 ## xs4w
-rc://*/ta/man/translate/figs-metonymy
-Manasseh and the kings of Judah probably commanded their workers to make these things. Alternate translation: “the kings of Judah had their workers make … Manasseh had his workers make” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Manasseh and the kings of Judah probably commanded their workers to make these things. Alternate translation: “the kings of Judah had their workers make … Manasseh had his workers make” (See: [[figs-metonymy]])
 
 ## dwd6
-rc://*/ta/man/translate/translate-names
-place name. See how you translated this in [2 Kings 23:4](../23/04.md). (See: [[rc://*/ta/man/translate/translate-names]])
+place name. See how you translated this in [2 Kings 23:4](../23/04.md). (See: [[translate-names]])
 
 # 23:13
 ## d24c
-rc://*/ta/man/translate/figs-metonymy
-Josiah would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “He had them ruin … He had them break … they filled” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Josiah would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “He had them ruin … He had them break … they filled” (See: [[figs-metonymy]])
 
 ## uf9z
-rc://*/ta/man/translate/figs-metonymy
-Solomon would have commanded his workers to do these things. Alternate translation: “Solomon the king of Israel had his workers build” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Solomon would have commanded his workers to do these things. Alternate translation: “Solomon the king of Israel had his workers build” (See: [[figs-metonymy]])
 
 # 23:14
 ## wk4z
-rc://*/ta/man/translate/figs-metonymy
-Josiah would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “He had them break … they filled” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Josiah would have commanded his workers to do these things. It is likely that Hilkiah and the priests who assisted him did these things. Alternate translation: “He had them break … they filled” (See: [[figs-metonymy]])
 
 ## kaf7
-rc://*/ta/man/translate/figs-explicit
-“covered the ground with human bones so people could not use it as a shrine anymore” (See: [[rc://*/ta/man/translate/figs-explicit]])
+“covered the ground with human bones so people could not use it as a shrine anymore” (See: [[figs-explicit]])
 
 # 23:15
 ## q6gc
-rc://*/ta/man/translate/figs-explicit
-It might be best to translate so that the reader understands that other people, perhaps Hilkiah and “the priests under him” ([2 Kings 23:4](../23/04.md)), might have helped Josiah do these things. (See: [[rc://*/ta/man/translate/figs-explicit]])
+It might be best to translate so that the reader understands that other people, perhaps Hilkiah and “the priests under him” ([2 Kings 23:4](../23/04.md)), might have helped Josiah do these things. (See: [[figs-explicit]])
 
 # 23:16
 ## i3m8
@@ -5612,24 +4769,20 @@ marker or statue that honors a person. A tomb is one kind of monument.
 
 # 23:19
 ## fe2v
-rc://*/ta/man/translate/figs-explicit
-It might be best to translate so that the reader understands that other people, perhaps Hilkiah and “the priests under him” ([2 Kings 23:4](../23/04.md)), might have helped Josiah do these things. (See: [[rc://*/ta/man/translate/figs-explicit]])
+It might be best to translate so that the reader understands that other people, perhaps Hilkiah and “the priests under him” ([2 Kings 23:4](../23/04.md)), might have helped Josiah do these things. (See: [[figs-explicit]])
 
 ## q3bs
-rc://*/ta/man/translate/figs-explicit
-It might be best to translate so that the reader understands that other people, probably the kings’ workers, might have helped the kings make these things. (See: [[rc://*/ta/man/translate/figs-explicit]])
+It might be best to translate so that the reader understands that other people, probably the kings’ workers, might have helped the kings make these things. (See: [[figs-explicit]])
 
 ## g6dz
 “what he had done”
 
 # 23:20
 ## i9c6
-rc://*/ta/man/translate/figs-explicit
-It might be best to translate so that the reader understands that other people, perhaps Hilkiah and “the priests under him” ([2 Kings 23:4](../23/04.md)), might have helped Josiah do these things. (See: [[rc://*/ta/man/translate/figs-explicit]])
+It might be best to translate so that the reader understands that other people, perhaps Hilkiah and “the priests under him” ([2 Kings 23:4](../23/04.md)), might have helped Josiah do these things. (See: [[figs-explicit]])
 
 ## ub7s
-rc://*/ta/man/translate/figs-explicit
-You may need to make explicit why he burned the bones. “he burned human bones on them so no one would use them again” (See: [[rc://*/ta/man/translate/figs-explicit]])
+You may need to make explicit why he burned the bones. “he burned human bones on them so no one would use them again” (See: [[figs-explicit]])
 
 # 23:21
 ## f44h
@@ -5637,20 +4790,17 @@ You may need to make explicit why he burned the bones. “he burned human bones 
 
 # 23:22
 ## rbl1
-rc://*/ta/man/translate/figs-activepassive
-This can be translated in active form. Alternate translation: “The descendants of Israel had not celebrated the Passover festival in such a great way in the time of” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be translated in active form. Alternate translation: “The descendants of Israel had not celebrated the Passover festival in such a great way in the time of” (See: [[figs-activepassive]])
 
 ## qy57
-rc://*/ta/man/translate/figs-metonymy
-The name “Israel” is a metonym for “the descendants of Israel.” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The name “Israel” is a metonym for “the descendants of Israel.” (See: [[figs-metonymy]])
 
 ## m8ft
 “the time when the people of Israel had their own king and the people of Judah had their own king”
 
 # 23:23
 ## elp8
-rc://*/ta/man/translate/figs-activepassive
-This can be translated in active form. Alternate translation: “the people of Judah celebrated this Passover of Yahweh” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be translated in active form. Alternate translation: “the people of Judah celebrated this Passover of Yahweh” (See: [[figs-activepassive]])
 
 # 23:24
 ## j8ze
@@ -5674,8 +4824,7 @@ things that people wrongly believe have special power
 The writer uses this word to show that even though all of these things that Josiah did were good, Yahweh was still angry with Judah.
 
 ## cls6
-rc://*/ta/man/translate/figs-metaphor
-Fire is a metaphor for anger, and starting a fire is a metaphor for becoming angry. The abstract noun “anger” can be translated as an adjective. Alternate translation: “Yahweh did not stop being fierce because he was angry with” (See: [[rc://*/ta/man/translate/figs-metaphor]] and [[rc://*/ta/man/translate/figs-abstractnouns]])
+Fire is a metaphor for anger, and starting a fire is a metaphor for becoming angry. The abstract noun “anger” can be translated as an adjective. Alternate translation: “Yahweh did not stop being fierce because he was angry with” (See: [[figs-metaphor]] and [[figs-abstractnouns]])
 
 ## a2wd
 “had done to cause him to be angry”
@@ -5685,55 +4834,45 @@ Fire is a metaphor for anger, and starting a fire is a metaphor for becoming ang
 “from where I am” or “from being near me”
 
 ## bsh5
-rc://*/ta/man/translate/figs-metonymy
-The name is a metonym for the honor that people should give to the person. Alternate translation: “People should worship me there” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The name is a metonym for the honor that people should give to the person. Alternate translation: “People should worship me there” (See: [[figs-metonymy]])
 
 # 23:28
 ## h614
-rc://*/ta/man/translate/figs-activepassive
-This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “you can find them … Judah.” (See: [[rc://*/ta/man/translate/figs-activepassive]] and [[rc://*/ta/man/translate/figs-rquestion]])
+This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “you can find them … Judah.” (See: [[figs-activepassive]] and [[figs-rquestion]])
 
 # 23:29
 ## sap6
 “During the time of Josiah, Pharaoh Necho, king of Egypt”
 
 ## k8gd
-rc://*/ta/man/translate/translate-names
-Necho is the name of a man. Megiddo is the name of a city. (See: [[rc://*/ta/man/translate/translate-names]])
+Necho is the name of a man. Megiddo is the name of a city. (See: [[translate-names]])
 
 # 23:31
 ## sf3p
-rc://*/ta/man/translate/translate-numbers
-“23 years old” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“23 years old” (See: [[translate-numbers]])
 
 ## m2m9
-rc://*/ta/man/translate/translate-names
-This is a woman’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a woman’s name. (See: [[translate-names]])
 
 ## k16l
-rc://*/ta/man/translate/translate-names
-This is the name of a place. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a place. (See: [[translate-names]])
 
 # 23:32
 ## z2g6
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 # 23:33
 ## e9hv
-rc://*/ta/man/translate/translate-names
-These are names of places. (See: [[rc://*/ta/man/translate/translate-names]])
+These are names of places. (See: [[translate-names]])
 
 ## aw37
-rc://*/ta/man/translate/figs-metonymy
-Being put “in chains” represents being captured and imprisoned. Alternate translation: “put him in prison” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Being put “in chains” represents being captured and imprisoned. Alternate translation: “put him in prison” (See: [[figs-metonymy]])
 
 ## iwc7
 “forced the people of Judah to give him”
 
 ## g4w9
-rc://*/ta/man/translate/translate-bmoney
-A talent was about 33 kilograms. Alternate translation: “3,300 kilograms … 33 kilograms” (See: [[rc://*/ta/man/translate/translate-bmoney]])
+A talent was about 33 kilograms. Alternate translation: “3,300 kilograms … 33 kilograms” (See: [[translate-bmoney]])
 
 # 23:35
 ## i68u
@@ -5744,21 +4883,17 @@ A talent was about 33 kilograms. Alternate translation: “3,300 kilograms … 3
 
 # 23:36
 ## s72q
-rc://*/ta/man/translate/translate-names
-This is a woman’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a woman’s name. (See: [[translate-names]])
 
 ## gz76
-rc://*/ta/man/translate/translate-names
-This is a man’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a man’s name. (See: [[translate-names]])
 
 ## j958
-rc://*/ta/man/translate/translate-names
-This is the name of a place. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a place. (See: [[translate-names]])
 
 # 23:37
 ## b992
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 # 24:intro
 ## abco
@@ -5768,43 +4903,36 @@ See [[2KI-abco]]
 “During the time that Jehoiakim ruled Judah”
 
 ## wre8
-rc://*/ta/man/translate/figs-explicit
-You may need to make explicit what happened after Nebuchadnezzar attacked Judah. Alternate translation: “attacked and defeated Judah” (See: [[rc://*/ta/man/translate/figs-explicit]])
+You may need to make explicit what happened after Nebuchadnezzar attacked Judah. Alternate translation: “attacked and defeated Judah” (See: [[figs-explicit]])
 
 # 24:2
 ## bf6x
-rc://*/ta/man/translate/figs-activepassive
-This can be translated in active form. Alternate translation: “This was according to the word of Yahweh that his servants the prophets had spoken” or “This was exactly what Yahweh had told his servants the prophets to say would happen” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be translated in active form. Alternate translation: “This was according to the word of Yahweh that his servants the prophets had spoken” or “This was exactly what Yahweh had told his servants the prophets to say would happen” (See: [[figs-activepassive]])
 
 # 24:3
 ## d357
 Some versions have, “It was certainly because of the wrath of Yahweh,” which is just as good a reading of the original text. If translators have access to versions in major languages in their region, they should probably follow their choice.
 
 ## nnw7
-rc://*/ta/man/translate/figs-metonymy
-Here “mouth” represents Yahweh’s command. Alternate translation: “as Yahweh had commanded” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Here “mouth” represents Yahweh’s command. Alternate translation: “as Yahweh had commanded” (See: [[figs-metonymy]])
 
 ## eb3l
 “get rid of them” or “destroy them”
 
 # 24:4
 ## bik2
-rc://*/ta/man/translate/figs-metonymy
-Blood is a metonym for innocent life, and shedding blood is a metonym for killing innocent people. Alternate translation: “innocent people whom he killed” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Blood is a metonym for innocent life, and shedding blood is a metonym for killing innocent people. Alternate translation: “innocent people whom he killed” (See: [[figs-metonymy]])
 
 ## xy8v
-rc://*/ta/man/translate/figs-metonymy
-Blood is a metonym for innocent life, and shedding blood is a metonym for killing innocent people. Alternate translation: “he killed many innocent people in Jerusalem” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Blood is a metonym for innocent life, and shedding blood is a metonym for killing innocent people. Alternate translation: “he killed many innocent people in Jerusalem” (See: [[figs-metonymy]])
 
 # 24:5
 ## en3p
-rc://*/ta/man/translate/figs-activepassive
-This is written as a rhetorical question because at the time this was written people were already aware of this information. This can be written as a statement. It can be translated in active form. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “they are indeed written … Judah.” or “you can find them … Judah” (See: [[rc://*/ta/man/translate/figs-activepassive]] and [[rc://*/ta/man/translate/figs-rquestion]])
+This is written as a rhetorical question because at the time this was written people were already aware of this information. This can be written as a statement. It can be translated in active form. See how you translated this in [2 Kings 8:23](../08/23.md). Alternate translation: “they are indeed written … Judah.” or “you can find them … Judah” (See: [[figs-activepassive]] and [[figs-rquestion]])
 
 # 24:6
 ## nt1z
-rc://*/ta/man/translate/figs-euphemism
-Sleeping is a euphemism for dying. Alternate translation: “died and was buried along with his ancestors” (See: [[rc://*/ta/man/translate/figs-euphemism]])
+Sleeping is a euphemism for dying. Alternate translation: “died and was buried along with his ancestors” (See: [[figs-euphemism]])
 
 # 24:7
 ## yjf2
@@ -5812,103 +4940,84 @@ Sleeping is a euphemism for dying. Alternate translation: “died and was buried
 
 # 24:8
 ## zka9
-rc://*/ta/man/translate/translate-names
-Nehushta is the name of a woman. Elnathan is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+Nehushta is the name of a woman. Elnathan is the name of a man. (See: [[translate-names]])
 
 # 24:9
 ## w6b8
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 ## gi6b
-rc://*/ta/man/translate/figs-hyperbole
-Here “all” is a generalization. It means he did the same sinful things as his father. Alternate translation: “he committed the same kinds of sins his father had committed” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+Here “all” is a generalization. It means he did the same sinful things as his father. Alternate translation: “he committed the same kinds of sins his father had committed” (See: [[figs-hyperbole]])
 
 # 24:12
 ## ish3
-rc://*/ta/man/translate/figs-explicit
-You may need to make explicit why Jehoiachin went out to meet Nebuchadnezzar. Alternate translation: “Jehoiachin the king of Judah, with his mother, his servants, his princes, and his officers, went out to where the king of Babylon was, to surrender to him” (See: [[rc://*/ta/man/translate/figs-explicit]])
+You may need to make explicit why Jehoiachin went out to meet Nebuchadnezzar. Alternate translation: “Jehoiachin the king of Judah, with his mother, his servants, his princes, and his officers, went out to where the king of Babylon was, to surrender to him” (See: [[figs-explicit]])
 
 ## k4kt
 “After the king of Babylon had been king for more than seven years, he captured Jehoiachin”
 
 # 24:13
 ## g1jx
-rc://*/ta/man/translate/figs-explicit
-You might want to translate this so the reader understands that Solomon might have had others help him do this. (See: [[rc://*/ta/man/translate/figs-explicit]])
+You might want to translate this so the reader understands that Solomon might have had others help him do this. (See: [[figs-explicit]])
 
 # 24:14
 ## k5cp
-rc://*/ta/man/translate/figs-metonymy
-Here “Jerusalem” is a metonym for the people who lived there. And, “all” is a generalization. It means all the most important people Alternate translation: “Nebuchadnezzar took all the important people away from Jerusalem” (See: [[rc://*/ta/man/translate/figs-metonymy]] and [[rc://*/ta/man/translate/figs-hyperbole]])
+Here “Jerusalem” is a metonym for the people who lived there. And, “all” is a generalization. It means all the most important people Alternate translation: “Nebuchadnezzar took all the important people away from Jerusalem” (See: [[figs-metonymy]] and [[figs-hyperbole]])
 
 ## bf1n
 “the men who knew how to make and repair things that are made from metal”
 
 ## fyh1
-rc://*/ta/man/translate/figs-doublenegatives
-This can be translated as a positive statement. Alternate translation: “Only the poorest people in the land still lived there” (See: [[rc://*/ta/man/translate/figs-doublenegatives]])
+This can be translated as a positive statement. Alternate translation: “Only the poorest people in the land still lived there” (See: [[figs-doublenegatives]])
 
 # 24:16
 ## bz73
-rc://*/ta/man/translate/translate-numbers
-“7,000 … 1,000” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“7,000 … 1,000” (See: [[translate-numbers]])
 
 # 24:17
 ## h6dy
-rc://*/ta/man/translate/translate-names
-This is a man’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a man’s name. (See: [[translate-names]])
 
 # 24:18
 ## s1s8
-rc://*/ta/man/translate/translate-numbers
-“21 … 11” (See: [[rc://*/ta/man/translate/translate-numbers]])
+“21 … 11” (See: [[translate-numbers]])
 
 ## qfp6
-rc://*/ta/man/translate/translate-names
-This is a woman’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a woman’s name. (See: [[translate-names]])
 
 ## zy1q
-rc://*/ta/man/translate/translate-names
-This is a man’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a man’s name. (See: [[translate-names]])
 
 ## fxr8
-rc://*/ta/man/translate/translate-names
-This is the name of a place. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a place. (See: [[translate-names]])
 
 # 24:19
 ## wr7q
-rc://*/ta/man/translate/figs-metaphor
-The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://*/ta/man/translate/figs-metaphor]])
+The sight of Yahweh represents Yahweh’s judgment or evaluation. See how you translated this in [2 Kings 3:2](../03/02.md). Alternate translation: “what was evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[figs-metaphor]])
 
 # 25:intro
 ## abcp
 See [[2KI-abcp]]
 # 25:1
 ## pl4l
-rc://*/ta/man/translate/translate-ordinal
-(See: [[rc://*/ta/man/translate/translate-ordinal]])
+(See: [[translate-ordinal]])
 
 ## j1c4
-rc://*/ta/man/translate/translate-ordinal
-This is the tenth month of the Hebrew calendar. The tenth day is near the end of December on Western calendars. This is during the cold season when there may be rain and snow. (See: [[rc://*/ta/man/translate/translate-ordinal]] and [[rc://*/ta/man/translate/translate-hebrewmonths]])
+This is the tenth month of the Hebrew calendar. The tenth day is near the end of December on Western calendars. This is during the cold season when there may be rain and snow. (See: [[translate-ordinal]] and [[translate-hebrewmonths]])
 
 ## ty29
-rc://*/ta/man/translate/figs-metonymy
-The name “Jerusalem” is a metonym for the people who lived in it. Alternate translation: “came with his whole army to fight against the people of Jerusalem” or “came with his whole army to conquer Jerusalem” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The name “Jerusalem” is a metonym for the people who lived in it. Alternate translation: “came with his whole army to fight against the people of Jerusalem” or “came with his whole army to conquer Jerusalem” (See: [[figs-metonymy]])
 
 # 25:3
 ## c39x
-rc://*/ta/man/translate/translate-ordinal
-This is the fourth month of the Hebrew calendar. The ninth day is near the end of June on Western calendars. This is during the dry season when there is very little or no rain. (See: [[rc://*/ta/man/translate/translate-ordinal]] and [[rc://*/ta/man/translate/translate-hebrewmonths]])
+This is the fourth month of the Hebrew calendar. The ninth day is near the end of June on Western calendars. This is during the dry season when there is very little or no rain. (See: [[translate-ordinal]] and [[translate-hebrewmonths]])
 
 ## x5hf
 These are the inhabitants of Jerusalem, including refugees from the surrounding villages that fled to Jerusalem when the war started.
 
 # 25:4
 ## hev4
-rc://*/ta/man/translate/figs-activepassive
-This can be translated in active form. Alternate translation: “Then the Babylonian army broke into the city” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be translated in active form. Alternate translation: “Then the Babylonian army broke into the city” (See: [[figs-activepassive]])
 
 ## c1y1
 “all the warriors”
@@ -5924,38 +5033,31 @@ Some translations use “Chaldeans” and others use “Babylonians.” Both ter
 
 # 25:5
 ## mvz1
-rc://*/ta/man/translate/figs-activepassive
-This can be translated in active form. Alternate translation: “His whole army ran away from him” or “The Chaldeans chased away his whole army” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be translated in active form. Alternate translation: “His whole army ran away from him” or “The Chaldeans chased away his whole army” (See: [[figs-activepassive]])
 
 # 25:6
 ## i9b9
-rc://*/ta/man/translate/translate-names
-This is the name of a place. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a place. (See: [[translate-names]])
 
 ## r5qj
 “decided what they would do to punish him”
 
 # 25:7
 ## fh5s
-rc://*/ta/man/translate/figs-synecdoche
-The eyes are synecdoche for the whole person. Alternate translation: “they forced king Zedekiah to watch them kill his sons” (See: [[rc://*/ta/man/translate/figs-synecdoche]])
+The eyes are synecdoche for the whole person. Alternate translation: “they forced king Zedekiah to watch them kill his sons” (See: [[figs-synecdoche]])
 
 ## v1ma
-rc://*/ta/man/translate/figs-explicit
-“Nebuchadnezzar put out Zedekiah’s eyes.” It might be best to translate so that the reader understands that other people might have helped Nebuchadnezzar do this. (See: [[rc://*/ta/man/translate/figs-explicit]])
+“Nebuchadnezzar put out Zedekiah’s eyes.” It might be best to translate so that the reader understands that other people might have helped Nebuchadnezzar do this. (See: [[figs-explicit]])
 
 # 25:8
 ## xvy1
-rc://*/ta/man/translate/translate-ordinal
-This is the fifth month of the Hebrew calendar. The seventh day is near the end of July on Western calendars. (See: [[rc://*/ta/man/translate/translate-ordinal]] and [[rc://*/ta/man/translate/translate-hebrewmonths]])
+This is the fifth month of the Hebrew calendar. The seventh day is near the end of July on Western calendars. (See: [[translate-ordinal]] and [[translate-hebrewmonths]])
 
 ## b969
-rc://*/ta/man/translate/translate-ordinal
-This is the ordinal form of the number 19. (See: [[rc://*/ta/man/translate/translate-ordinal]])
+This is the ordinal form of the number 19. (See: [[translate-ordinal]])
 
 ## yy9v
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 # 25:10
 ## dj6i
@@ -5996,8 +5098,7 @@ A shovel was a tool that was used to clean the altar, typically used to move big
 
 # 25:15
 ## sgl1
-rc://*/ta/man/translate/figs-explicit
-You may need to make explicit which ashes are spoken of. Alternate translation: “The pots that were used for removing ashes from the altar” (See: [[rc://*/ta/man/translate/figs-explicit]])
+You may need to make explicit which ashes are spoken of. Alternate translation: “The pots that were used for removing ashes from the altar” (See: [[figs-explicit]])
 
 # 25:16
 ## j7af
@@ -6008,8 +5109,7 @@ See how you translated this in [2 Kings 25:13](../25/13.md).
 
 # 25:17
 ## ak56
-rc://*/ta/man/translate/translate-bdistance
-A cubit was 46 centimeters. Alternate translation: “about 8.3 meters … about 1.4 meters” (See: [[rc://*/ta/man/translate/translate-bdistance]])
+A cubit was 46 centimeters. Alternate translation: “about 8.3 meters … about 1.4 meters” (See: [[translate-bdistance]])
 
 ## g6qb
 “an artistic, bronze design” or “a bronze piece with designs”
@@ -6025,8 +5125,7 @@ This was a design made of crossed strips that looked like a net.
 See how you translated this in [2 Kings 25:8](../25/08.md).
 
 ## p8z8
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 ## nq3n
 These words refer to Zephaniah. Another possible meaning is “the priest under Seraiah.”
@@ -6053,82 +5152,66 @@ This is the name of a place. See how you translated this in [2 Kings 25:6](../25
 
 # 25:21
 ## dxm3
-rc://*/ta/man/translate/figs-euphemism
-This is a polite way of saying “killed them.” It might be best to translate so that the reader understands that other people might have helped the king do this. (See: [[rc://*/ta/man/translate/figs-euphemism]] and [[rc://*/ta/man/translate/figs-explicit]])
+This is a polite way of saying “killed them.” It might be best to translate so that the reader understands that other people might have helped the king do this. (See: [[figs-euphemism]] and [[figs-explicit]])
 
 ## b7iy
 “So Judah was taken into exile out of its land”
 
 ## u6ll
-rc://*/ta/man/translate/figs-metonymy
-Judah, the name of the people group, is a metonym for the people themselves. Alternate translation: “the people of Judah went out of their land” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Judah, the name of the people group, is a metonym for the people themselves. Alternate translation: “the people of Judah went out of their land” (See: [[figs-metonymy]])
 
 # 25:22
 ## k15w
-rc://*/ta/man/translate/translate-names
-These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of men. (See: [[translate-names]])
 
 # 25:23
 ## yzs4
-rc://*/ta/man/translate/translate-names
-These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+These are the names of men. (See: [[translate-names]])
 
 ## ww42
-rc://*/ta/man/translate/translate-names
-This refers to a person who is a descendant of a man named Netophah. (See: [[rc://*/ta/man/translate/translate-names]])
+This refers to a person who is a descendant of a man named Netophah. (See: [[translate-names]])
 
 ## ytq9
-rc://*/ta/man/translate/translate-names
-This refers to a person who comes from a place called Maakah. (See: [[rc://*/ta/man/translate/translate-names]])
+This refers to a person who comes from a place called Maakah. (See: [[translate-names]])
 
 # 25:25
 ## cfc4
-rc://*/ta/man/translate/translate-hebrewmonths
-This is the seventh month on the Hebrew calendar. It is during the last part of September and the first part of October on Western calendars. (See: [[rc://*/ta/man/translate/translate-hebrewmonths]] and [[rc://*/ta/man/translate/translate-ordinal]])
+This is the seventh month on the Hebrew calendar. It is during the last part of September and the first part of October on Western calendars. (See: [[translate-hebrewmonths]] and [[translate-ordinal]])
 
 ## bt4c
-rc://*/ta/man/translate/translate-names
-This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
+This is the name of a man. (See: [[translate-names]])
 
 # 25:26
 ## n8hs
-rc://*/ta/man/translate/figs-hyperbole
-This is a generalization. Alternate translation: “many people” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
+This is a generalization. Alternate translation: “many people” (See: [[figs-hyperbole]])
 
 ## u3mg
-rc://*/ta/man/translate/figs-merism
-This is a merism that means “everyone,” which is a generalization. Alternate translation: “from the least important to the most important” or “everyone” (See: [[rc://*/ta/man/translate/figs-merism]])
+This is a merism that means “everyone,” which is a generalization. Alternate translation: “from the least important to the most important” or “everyone” (See: [[figs-merism]])
 
 # 25:27
 ## y9pc
-rc://*/ta/man/translate/translate-ordinal
-(See: [[rc://*/ta/man/translate/translate-ordinal]])
+(See: [[translate-ordinal]])
 
 ## ggr6
-rc://*/ta/man/translate/translate-hebrewmonths
-This is the twelfth month of the Hebrew calendar. The twenty-seventh day is near the beginning of April on Western calendars. (See: [[rc://*/ta/man/translate/translate-hebrewmonths]] and [[rc://*/ta/man/translate/translate-ordinal]])
+This is the twelfth month of the Hebrew calendar. The twenty-seventh day is near the beginning of April on Western calendars. (See: [[translate-hebrewmonths]] and [[translate-ordinal]])
 
 ## wz2b
-rc://*/ta/man/translate/translate-names
-This is a man’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+This is a man’s name. (See: [[translate-names]])
 
 # 25:28
 ## kh12
-rc://*/ta/man/translate/figs-metonymy
-Giving a good place at the dining table is a metonym for honoring him. Alternate translation: “more honor than the other kings” (See: [[rc://*/ta/man/translate/figs-metonymy]])
+Giving a good place at the dining table is a metonym for honoring him. Alternate translation: “more honor than the other kings” (See: [[figs-metonymy]])
 
 # 25:29
 ## e7s6
-rc://*/ta/man/translate/figs-metonymy
-The act of removing Jehoiachins’ prison clothes represents making him a free man. (See: [[rc://*/ta/man/translate/figs-metonymy]])
+The act of removing Jehoiachins’ prison clothes represents making him a free man. (See: [[figs-metonymy]])
 
 ## ahi6
 “with the king and his officials”
 
 # 25:30
 ## i56q
-rc://*/ta/man/translate/figs-activepassive
-This can be translated in active form. Alternate translation: “The king made sure that he had a regular food allowance” (See: [[rc://*/ta/man/translate/figs-activepassive]])
+This can be translated in active form. Alternate translation: “The king made sure that he had a regular food allowance” (See: [[figs-activepassive]])
 
 ## pi4e
 “Money to buy food”

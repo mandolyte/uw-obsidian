@@ -7,7 +7,7 @@ Some of James’s readers treated rich and powerful people well and treated poor
 
 ### Justification
 
-Justification is what happens when God makes a person righteous. James says here that God makes righteous or justifies people who do good works along with having faith. (See: [[rc://*/tw/dict/bible/kt/justice]] and [[rc://*/tw/dict/bible/kt/righteous]] and [[rc://*/tw/dict/bible/kt/faith]])
+Justification is what happens when God makes a person righteous. James says here that God makes righteous or justifies people who do good works along with having faith. (See: [[../bible/kt/justice]] and [[../bible/kt/righteous]] and [[../bible/kt/faith]])
 
 ## Other possible translation difficulties in this chapter
 

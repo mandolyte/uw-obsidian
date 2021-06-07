@@ -2,10 +2,10 @@
 ## Special concepts in this chapter
 
 ### Yahweh’s protection
-Israel was not to worry about the power and strength of other nations. Instead, they were to trust in the power of Yahweh. He is the source of their military strength and protection. This is why a priest leads them into battle, rather than a military commander. (See: [[rc://*/tw/dict/bible/kt/trust]] and [[rc://*/tw/dict/bible/kt/priest]])
+Israel was not to worry about the power and strength of other nations. Instead, they were to trust in the power of Yahweh. He is the source of their military strength and protection. This is why a priest leads them into battle, rather than a military commander. (See: [[../bible/kt/trust]] and [[../bible/kt/priest]])
 
 ### Holy war
-Israel’s conquering of the Promised Land was unique in history. It was a type of holy war and had special rules. This war was really Yahweh’s punishment against the sin of the Canaanite people. If the people were not completely destroyed, they would cause Israel to sin. (See: [[rc://*/tw/dict/bible/kt/promisedland]] and [[rc://*/tw/dict/bible/kt/holy]] and [[rc://*/tw/dict/bible/kt/sin]])
+Israel’s conquering of the Promised Land was unique in history. It was a type of holy war and had special rules. This war was really Yahweh’s punishment against the sin of the Canaanite people. If the people were not completely destroyed, they would cause Israel to sin. (See: [[../bible/kt/promisedland]] and [[../bible/kt/holy]] and [[../bible/kt/sin]])
 
 ## Important figures of speech in this chapter
 

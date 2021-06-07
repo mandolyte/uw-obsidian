@@ -6,4 +6,4 @@ In the ancient Near East, trumpets were used for many purposes. They were used t
 
 ### Israel starts to move
 
-Each tribe had its place in line as did the tabernacle. Their movements through the desert were very deliberate and ordered. (See: [[rc://*/tw/dict/bible/kt/tabernacle]])
+Each tribe had its place in line as did the tabernacle. Their movements through the desert were very deliberate and ordered. (See: [[../bible/kt/tabernacle]])

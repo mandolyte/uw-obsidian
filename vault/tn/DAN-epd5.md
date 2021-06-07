@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### The king’s dream
 
-Daniel told the king’s dream and what the dream meant. In the ancient Near East, it was believed that only people in touch with the gods could interpret dreams. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+Daniel told the king’s dream and what the dream meant. In the ancient Near East, it was believed that only people in touch with the gods could interpret dreams. (See: [[../bible/kt/falsegod]])
 
 ### How Daniel knew the dream
 

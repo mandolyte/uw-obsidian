@@ -14,7 +14,7 @@ As the Lamb opens each of the first four seals, the author describes horsemen ri
 ## Important figures of speech in this chapter
 
 ### The Lamb
-This refers to Jesus. In this chapter, it is also a title for Jesus. (See: [[rc://*/tw/dict/bible/kt/lamb]] and [[figs-explicit]])
+This refers to Jesus. In this chapter, it is also a title for Jesus. (See: [[../bible/kt/lamb]] and [[figs-explicit]])
 
 ### Similes
 In verses 12-14, the author uses several similes to try to describe the images he sees in the vision. He compares the images to everyday things. (See: [[figs-simile]])

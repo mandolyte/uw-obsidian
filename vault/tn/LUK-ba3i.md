@@ -11,7 +11,7 @@
 
 ### Miracles
 
-In this chapter, Jesus makes a storm stop by speaking to it, he makes a dead girl alive by speaking to her, and he makes evil spirits leave a man by speaking to them. (See: [[rc://*/tw/dict/bible/kt/miracle]])
+In this chapter, Jesus makes a storm stop by speaking to it, he makes a dead girl alive by speaking to her, and he makes evil spirits leave a man by speaking to them. (See: [[../bible/kt/miracle]])
 
 ## Important figures of speech in this chapter
 
@@ -25,7 +25,7 @@ Parables were short stories that Jesus told so that people who wanted to believe
 
 
 Most people use the terms “brother” and “sister" for those who have the same parents 
-as they do. They think of them as some of the most important people in their lives. Some people also call those with the same grandparents “brother” and “sister.” In this chapter, Jesus says that the most important people to him are those who obey his Father in heaven. (See: [[rc://*/tw/dict/bible/kt/brother]])
+as they do. They think of them as some of the most important people in their lives. Some people also call those with the same grandparents “brother” and “sister.” In this chapter, Jesus says that the most important people to him are those who obey his Father in heaven. (See: [[../bible/kt/brother]])
 
 ## Important textual issues in this chapter
 

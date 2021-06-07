@@ -6,7 +6,7 @@ Some translations prefer to set apart extended quotations, prayers, or songs. Th
 ## Important figures of speech in this chapter
 
 ### Rhetorical questions
-Yahweh uses a series of rhetorical questions in this chapter in order to defend his character and to convince Job to repent. (See: [[figs-rquestion]] and [[rc://*/tw/dict/bible/kt/repent]])
+Yahweh uses a series of rhetorical questions in this chapter in order to defend his character and to convince Job to repent. (See: [[figs-rquestion]] and [[../bible/kt/repent]])
 
 ## Other possible translation difficulties in this chapter
 

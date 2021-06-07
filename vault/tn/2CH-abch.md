@@ -6,4 +6,4 @@ This chapter begins the story of King Jehoshaphat.
 ## Special concepts in this chapter
 
 ### Trust in Yahweh
-Jehoshaphat trusted and obeyed God. Because of this, God made him strong. (See: [[rc://*/tw/dict/bible/kt/trust]])
+Jehoshaphat trusted and obeyed God. Because of this, God made him strong. (See: [[../bible/kt/trust]])

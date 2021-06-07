@@ -3,4 +3,4 @@
 
 ### Judah destroyed for her sin
 
-Judah used to be great, but is now a slave. The temple is stripped of all its valuables. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/temple]])
+Judah used to be great, but is now a slave. The temple is stripped of all its valuables. (See: [[../bible/kt/sin]] and [[../bible/kt/temple]])

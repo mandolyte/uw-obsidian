@@ -7,4 +7,4 @@ This chapter begins a new section.
 
 ### Miracles
 
-Jesus performed miracles to show that he could control things that no other people could control. He also showed that it is proper to worship him because he performed miracles. (See: [[rc://*/tw/dict/bible/kt/authority]])
+Jesus performed miracles to show that he could control things that no other people could control. He also showed that it is proper to worship him because he performed miracles. (See: [[../bible/kt/authority]])

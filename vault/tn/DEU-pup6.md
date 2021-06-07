@@ -6,4 +6,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Punishment
-This chapter prophesies a time when Israel will be disobedient to Yahweh and he will have to punish them. This is meant to serve as a warning to the nation. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+This chapter prophesies a time when Israel will be disobedient to Yahweh and he will have to punish them. This is meant to serve as a warning to the nation. (See: [[../bible/kt/prophet]])

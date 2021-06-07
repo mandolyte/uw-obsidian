@@ -1,7 +1,7 @@
 # Psalm 112 General Notes
 ## Type of psalm
 
-Psalm 112 is a wisdom psalm teaching the value of a righteous life. (See: [[rc://*/tw/dict/bible/kt/wise]] and [[rc://*/tw/dict/bible/kt/righteous]])
+Psalm 112 is a wisdom psalm teaching the value of a righteous life. (See: [[../bible/kt/wise]] and [[../bible/kt/righteous]])
 
 ## Special concepts in this chapter
 

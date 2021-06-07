@@ -12,7 +12,7 @@ In order to show that John is writing something like poetry in in [2:12–14](..
 
 ### Antichrist
 
-In [2:18](../02/18.md) and [2:22](../02/22.md), John writes both about a specific person called the Antichrist and about many people who will be “antichrists.” The word “antichrist” means “opposed to Christ.” The Antichrist is a person who will come just before the return of Jesus and imitate Jesus’ work, but he will do that for evil purposes. Before that person comes, there will be many other people who work against Christ. They too are called “antichrists,” but as a description rather than as a name. (See: [[rc://*/tw/dict/bible/kt/antichrist]] and [[rc://*/tw/dict/bible/kt/lastday]] and [[rc://*/tw/dict/bible/kt/evil]])
+In [2:18](../02/18.md) and [2:22](../02/22.md), John writes both about a specific person called the Antichrist and about many people who will be “antichrists.” The word “antichrist” means “opposed to Christ.” The Antichrist is a person who will come just before the return of Jesus and imitate Jesus’ work, but he will do that for evil purposes. Before that person comes, there will be many other people who work against Christ. They too are called “antichrists,” but as a description rather than as a name. (See: [[../bible/kt/antichrist]] and [[../bible/kt/lastday]] and [[../bible/kt/evil]])
 
 ## Important textual issues in this chapter
 

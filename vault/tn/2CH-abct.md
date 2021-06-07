@@ -7,4 +7,4 @@ This chapter begins the story of King Hezekiah. (2 Chronicles 29-32)
 
 ### Cleansing the temple
 
-King Hezekiah was a great king. He cleaned and rededicated the temple. This was a sign that he wanted the people to return to worshiping Yahweh. (See: [[rc://*/tw/dict/bible/kt/clean]] and [[rc://*/tw/dict/bible/kt/temple]] and [[rc://*/tw/dict/bible/kt/sign]])
+King Hezekiah was a great king. He cleaned and rededicated the temple. This was a sign that he wanted the people to return to worshiping Yahweh. (See: [[../bible/kt/clean]] and [[../bible/kt/temple]] and [[../bible/kt/sign]])

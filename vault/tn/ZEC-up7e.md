@@ -11,4 +11,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 This chapter uses an extended metaphor of sheep and shepherds to convey Yahweh’s dismay at the leaders during the exiles. (See: [[figs-metaphor]])
 
 ### Symbolism
-The writer uses symbolism. Zechariah is told to become a shepherd. He uses two staffs and names them “Unity” and “Favor.” He does this very purposefully. In order to preserve this symbolism, it is important to pay attention to the specific words used. (See: [[rc://*/tw/dict/bible/kt/favor]])
+The writer uses symbolism. Zechariah is told to become a shepherd. He uses two staffs and names them “Unity” and “Favor.” He does this very purposefully. In order to preserve this symbolism, it is important to pay attention to the specific words used. (See: [[../bible/kt/favor]])

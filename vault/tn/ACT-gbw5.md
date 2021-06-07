@@ -7,7 +7,7 @@ Some translations set quotations from the Old Testament farther to the right on 
 
 ### Resurrection of the dead
 
-The Pharisees believed that after people died, they would become alive again and God would either reward them or punish them. The Sadducees believed that once people died, they stayed dead and would never become alive again. (See: [[rc://*/tw/dict/bible/other/raise]] and [[rc://*/tw/dict/bible/other/reward]])
+The Pharisees believed that after people died, they would become alive again and God would either reward them or punish them. The Sadducees believed that once people died, they stayed dead and would never become alive again. (See: [[../bible/other/raise]] and [[../bible/other/reward]])
 
 ### “Called a curse”
 

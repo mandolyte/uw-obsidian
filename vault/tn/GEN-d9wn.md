@@ -19,11 +19,11 @@
 
 ### What is Genesis about?
 
-Genesis begins with the early years of creation. It tells about God creating heaven, earth, and the first humans. It also tells about the first time humans sinned. This caused humans to be separated from God and to eventually die. Genesis 1-11 briefly tells about other important events that occurred over many hundreds of years. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/other/death]])
+Genesis begins with the early years of creation. It tells about God creating heaven, earth, and the first humans. It also tells about the first time humans sinned. This caused humans to be separated from God and to eventually die. Genesis 1-11 briefly tells about other important events that occurred over many hundreds of years. (See: [[../bible/kt/sin]] and [[../bible/other/death]])
 
 Genesis is also about the beginning of God’s people. Genesis 12-50 tells about how God remained faithful to Abraham and his descendants. Abraham’s descendants became known as the Hebrews and later as the Israelites. These people would worship Yahweh and be his people.
 
-Genesis ends with Abraham’s descendants living in Egypt with the hope of returning one day to the Promised Land. (See: [[rc://*/tw/dict/bible/kt/promisedland]])
+Genesis ends with Abraham’s descendants living in Egypt with the hope of returning one day to the Promised Land. (See: [[../bible/kt/promisedland]])
 
 ### How should the title of this book be translated?
 
@@ -53,7 +53,7 @@ Genesis also describes the start of God’s plan to bless the whole world again.
 
 ### What was the custom for inheritance as described by Genesis?
 
-There are several passages in Genesis that show the customs of a father who is about to die passing on a blessing to his son. Abraham blessed his son, Isaac, and made him the ancestor of the people of Israel. However, Ishmael, Abraham’s other son, did not receive that same divine blessing. Likewise, Isaac’s older son Esau did not receive the blessing. Isaac’s younger son, Jacob, received it instead. (See: [[rc://*/tw/dict/bible/kt/inherit]] and [[rc://*/tw/dict/bible/kt/bless]])
+There are several passages in Genesis that show the customs of a father who is about to die passing on a blessing to his son. Abraham blessed his son, Isaac, and made him the ancestor of the people of Israel. However, Ishmael, Abraham’s other son, did not receive that same divine blessing. Likewise, Isaac’s older son Esau did not receive the blessing. Isaac’s younger son, Jacob, received it instead. (See: [[../bible/kt/inherit]] and [[../bible/kt/bless]])
 
 Also, it was the custom for a man to divide among his sons his material wealth and land. All his sons received equal portions except the oldest son. The firstborn son received twice as much. His portion was called a double portion. Esau gave up his right to receive the double portion.
 

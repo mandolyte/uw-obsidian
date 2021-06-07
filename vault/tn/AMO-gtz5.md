@@ -1,7 +1,7 @@
 # Amos 03 General Notes
 ## Structure and formatting
 
-Amos continues to use poetic form in this chapter to prophesy the disaster coming to the kingdoms of Israel and Judah. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+Amos continues to use poetic form in this chapter to prophesy the disaster coming to the kingdoms of Israel and Judah. (See: [[../bible/kt/prophet]])
 
 ## Important figures of speech in this chapter
 

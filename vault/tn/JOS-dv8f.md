@@ -3,7 +3,7 @@
 
 ### Circumcision
 
-It would have been very unusual to be circumcised in a time of war. When men are circumcised they are unable to move without pain or to defend themselves in battle for several days. (See: [[rc://*/tw/dict/bible/kt/circumcise]])
+It would have been very unusual to be circumcised in a time of war. When men are circumcised they are unable to move without pain or to defend themselves in battle for several days. (See: [[../bible/kt/circumcise]])
 
 ### Manna
 

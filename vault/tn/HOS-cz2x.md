@@ -9,4 +9,4 @@ The author uses Ephraim and Israel interchangeably. They both refer to the north
 
 ## Important figures of speech in this chapter
 
-This chapter is full of metaphors and similes. The writer uses these figures of speech to show how Yahweh will treat his people for not obeying his instructions. (See: [[figs-metaphor]] and [[figs-simile]] and [[rc://*/tw/dict/bible/kt/peopleofgod]])
+This chapter is full of metaphors and similes. The writer uses these figures of speech to show how Yahweh will treat his people for not obeying his instructions. (See: [[figs-metaphor]] and [[figs-simile]] and [[../bible/kt/peopleofgod]])

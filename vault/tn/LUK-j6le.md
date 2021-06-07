@@ -16,15 +16,15 @@ When Jesus’ followers asked him to teach them how to pray, he taught them this
 
 ### Jonah
 
-Jonah was an Old Testament prophet whom God sent to the Gentile city of Nineveh to tell the people there to repent. When he went and preached to them, they did repent. (See: [[rc://*/tw/dict/bible/kt/prophet]] and [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/repent]])
+Jonah was an Old Testament prophet whom God sent to the Gentile city of Nineveh to tell the people there to repent. When he went and preached to them, they did repent. (See: [[../bible/kt/prophet]] and [[../bible/kt/sin]] and [[../bible/kt/repent]])
 
 ### Light and darkness
 
-The Bible often speaks of unrighteous people, that is, people who do not do what pleases God, as if they were walking around in darkness. The Bible speaks of light as if it were what enables those sinful people to become righteous, that is, to understand what they are doing wrong and begin to obey God. (See: [[rc://*/tw/dict/bible/kt/righteous]])
+The Bible often speaks of unrighteous people, that is, people who do not do what pleases God, as if they were walking around in darkness. The Bible speaks of light as if it were what enables those sinful people to become righteous, that is, to understand what they are doing wrong and begin to obey God. (See: [[../bible/kt/righteous]])
 
 ### Washing
 
-The Pharisees would wash themselves and the things they ate with. They would even wash things that were not dirty. The law of Moses did not tell them to wash those things, but they would wash them anyway. They did that because they thought that if they obeyed both the rules that God had made and some rules that their ancestors had added, God would think that they were better people. (See: [[rc://*/tw/dict/bible/kt/lawofmoses]] and [[rc://*/tw/dict/bible/kt/clean]])
+The Pharisees would wash themselves and the things they ate with. They would even wash things that were not dirty. The law of Moses did not tell them to wash those things, but they would wash them anyway. They did that because they thought that if they obeyed both the rules that God had made and some rules that their ancestors had added, God would think that they were better people. (See: [[../bible/kt/lawofmoses]] and [[../bible/kt/clean]])
 
 ## Important textual issues in this chapter
 

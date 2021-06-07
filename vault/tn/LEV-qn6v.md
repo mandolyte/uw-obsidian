@@ -12,4 +12,4 @@ Aaron was told that he and his remaining sons should not mourn Aaron’s sons wh
 ## Other possible translation difficulties in this chapter
 
 ### “Unapproved fire”
-The phrase “unapproved fire “ indicates that Aaron’s son offered an unacceptable sacrifice. Because of Yahweh’s holiness, this was a serious sin. They may have offered a sacrifice at the wrong time or in the wrong way. (See: [[rc://*/tw/dict/bible/kt/holy]] and [[rc://*/tw/dict/bible/kt/sin]])
+The phrase “unapproved fire “ indicates that Aaron’s son offered an unacceptable sacrifice. Because of Yahweh’s holiness, this was a serious sin. They may have offered a sacrifice at the wrong time or in the wrong way. (See: [[../bible/kt/holy]] and [[../bible/kt/sin]])

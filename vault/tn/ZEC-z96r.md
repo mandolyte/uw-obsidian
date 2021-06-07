@@ -8,9 +8,9 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Crown
-The second part of the chapter is about a crown made for the high priest. This is an actual person, but the meaning of the word “branch” should be translated as his name. (See: [[rc://*/tw/dict/bible/kt/highpriest]])
+The second part of the chapter is about a crown made for the high priest. This is an actual person, but the meaning of the word “branch” should be translated as his name. (See: [[../bible/kt/highpriest]])
 
 ## Other possible translation difficulties in this chapter
 
 ### Meaning of the visions
-The visions are stated and even when the prophet asked for an explanation, their true meaning is often obscure. This uncertainty should remain in your translation. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+The visions are stated and even when the prophet asked for an explanation, their true meaning is often obscure. This uncertainty should remain in your translation. (See: [[../bible/kt/prophet]])

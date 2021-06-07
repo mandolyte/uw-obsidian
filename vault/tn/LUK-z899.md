@@ -10,7 +10,7 @@
 
 ### Harvest
 
-Harvest refers to the time when people gather in the food they have planted so they can eat some of it right away and store the rest for future use. Jesus uses this as a metaphor to teach his followers that they need to go and tell other people about him so that those people can become part of God’s kingdom. (See: [[rc://*/tw/dict/bible/kt/faith]])
+Harvest refers to the time when people gather in the food they have planted so they can eat some of it right away and store the rest for future use. Jesus uses this as a metaphor to teach his followers that they need to go and tell other people about him so that those people can become part of God’s kingdom. (See: [[../bible/kt/faith]])
 
 ### Neighbor
 

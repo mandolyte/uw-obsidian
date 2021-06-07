@@ -1,7 +1,7 @@
 # Acts 01 General Notes
 ## Structure and formatting
 
-This chapter records an event, commonly known as the “Ascension,” when Jesus returned to heaven after he became alive again. He will not come back until he returns at his “second coming.” (See: [[rc://*/tw/dict/bible/kt/heaven]] and [[rc://*/tw/dict/bible/kt/resurrection]])
+This chapter records an event, commonly known as the “Ascension,” when Jesus returned to heaven after he became alive again. He will not come back until he returns at his “second coming.” (See: [[../bible/kt/heaven]] and [[../bible/kt/resurrection]])
 
 The UST has set the words “Dear Theophilus” apart from the other words. This is because English speakers often start letters this way. You might want to start this book the way people start letters in your culture.
 
@@ -11,7 +11,7 @@ Some translations set quotations from the Old Testament farther to the right on 
 
 ### Baptize
 
-The word “baptize” has two meanings in this chapter. It refers to the water baptism of John and to the baptism of the Holy Spirit ([Acts 1:5](../../act/01/05.md)). (See: [[rc://*/tw/dict/bible/kt/baptize]])
+The word “baptize” has two meanings in this chapter. It refers to the water baptism of John and to the baptism of the Holy Spirit ([Acts 1:5](../../act/01/05.md)). (See: [[../bible/kt/baptize]])
 
 ### “He spoke about the kingdom of God”
 

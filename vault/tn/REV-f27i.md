@@ -12,7 +12,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Worship
-God saves his people and keeps them through times of trouble. His people respond by worshipping him. (See: [[rc://*/tw/dict/bible/kt/worship]])
+God saves his people and keeps them through times of trouble. His people respond by worshipping him. (See: [[../bible/kt/worship]])
 
 ## Important figures of speech in this chapter
 

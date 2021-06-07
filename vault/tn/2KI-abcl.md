@@ -2,7 +2,7 @@
 ## Special concepts in this chapter
 
 ### God’s judgment
-God judges sin. When Manasseh worshiped idols and did many evil things, God said he would cause Judah to be destroyed by its enemies. (See: [[rc://*/tw/dict/bible/kt/judge]] and [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/evil]])
+God judges sin. When Manasseh worshiped idols and did many evil things, God said he would cause Judah to be destroyed by its enemies. (See: [[../bible/kt/judge]] and [[../bible/kt/sin]] and [[../bible/kt/evil]])
 
 ## Important figures of speech in this chapter
 

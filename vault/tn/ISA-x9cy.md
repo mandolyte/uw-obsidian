@@ -2,7 +2,7 @@
 ## Special concepts in this chapter
 
 ### “That day”
-The time of this day is unclear. It may be a time in the near future for Isaiah, or a time in the distant future for him. In the latter case, it would reference the last days. (See: [[rc://*/tw/dict/bible/kt/lastday]])
+The time of this day is unclear. It may be a time in the near future for Isaiah, or a time in the distant future for him. In the latter case, it would reference the last days. (See: [[../bible/kt/lastday]])
 
 ## Other possible translation difficulties in this chapter
 

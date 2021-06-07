@@ -9,7 +9,7 @@
 ## Special concepts in this chapter
 
 ### “Sinner”
-The Pharisees refer to a group of people as “sinners.” The Jewish leaders thought these people were sinful, but in reality the leaders were also sinful. This can be taken as irony. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[figs-irony]])
+The Pharisees refer to a group of people as “sinners.” The Jewish leaders thought these people were sinful, but in reality the leaders were also sinful. This can be taken as irony. (See: [[../bible/kt/sin]] and [[figs-irony]])
 
 ### Servants
 
@@ -23,8 +23,8 @@ Matthew, Mark, Luke, and John all wrote about this event. Matthew and Mark wrote
 
 ### Spreading garments and branches
 
-When kings would enter the cities they ruled, people would cut branches from trees and take off the outer garments that they wore to stay warm in cold weather and spread them all on the road so the king would ride over them. They did this to honor the king and show that they loved him. (See: [[rc://*/tw/dict/bible/kt/honor]] and [[translate-symaction]])
+When kings would enter the cities they ruled, people would cut branches from trees and take off the outer garments that they wore to stay warm in cold weather and spread them all on the road so the king would ride over them. They did this to honor the king and show that they loved him. (See: [[../bible/kt/honor]] and [[translate-symaction]])
 
 ### The merchants in the temple
 
-Jesus forced the people who were selling animals in the temple to leave. He did this to show everyone that he had authority over the temple and that only those who were righteous, who did what God said was good, could be in it. (See: [[rc://*/tw/dict/bible/kt/righteous]])
+Jesus forced the people who were selling animals in the temple to leave. He did this to show everyone that he had authority over the temple and that only those who were righteous, who did what God said was good, could be in it. (See: [[../bible/kt/righteous]])

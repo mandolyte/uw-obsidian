@@ -3,7 +3,7 @@
 
 ### God protects the people
 
-God is against those who exploit others. He will protect and take care of his people. (See: [[rc://*/tw/dict/bible/kt/peopleofgod]])
+God is against those who exploit others. He will protect and take care of his people. (See: [[../bible/kt/peopleofgod]])
 
 ## Important figures of speech in this chapter
 

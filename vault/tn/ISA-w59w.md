@@ -6,4 +6,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Israel’s restoration
-This chapter pictures a time when Israel will be fully restored to Yahweh. They will be everything Yahweh intended them to be. All the nations will look to Israel and acknowledge her special relationship to Yahweh. (See: [[rc://*/tw/dict/bible/kt/restore]])
+This chapter pictures a time when Israel will be fully restored to Yahweh. They will be everything Yahweh intended them to be. All the nations will look to Israel and acknowledge her special relationship to Yahweh. (See: [[../bible/kt/restore]])

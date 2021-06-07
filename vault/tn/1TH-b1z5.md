@@ -8,4 +8,4 @@ Different cultures have different standards of sexual morality. These different 
 In the early church, people apparently wondered what would happen if a believer died before Christ returned. They may have worried whether those dying before Christ returned would be part of the kingdom of God. Paul answers that concern.
 
 ### “Caught up in the clouds to meet the Lord in the air”
-This passage refers to a time when Jesus calls to himself those who have believed in him. Scholars differ on whether or not this refers to Christ’s final glorious return. (See: [[rc://*/tw/dict/bible/kt/believe]])
+This passage refers to a time when Jesus calls to himself those who have believed in him. Scholars differ on whether or not this refers to Christ’s final glorious return. (See: [[../bible/kt/believe]])

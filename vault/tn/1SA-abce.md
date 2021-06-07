@@ -13,4 +13,4 @@ Jonathan took his armor bearer to where the Philistines were on the top of the h
 
 ### Special reference
 
-The people of Israel often used the term “uncircumcised” to refer to Gentiles. Here it is used to mean the Philistines. (See: [[rc://*/tw/dict/bible/kt/circumcise]])
+The people of Israel often used the term “uncircumcised” to refer to Gentiles. Here it is used to mean the Philistines. (See: [[../bible/kt/circumcise]])

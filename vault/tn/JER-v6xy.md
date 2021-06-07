@@ -6,4 +6,4 @@ The ULT sets the lines in 10:1-25 farther to the right on the page than the rest
 ## Special concepts in this chapter
 
 ### Yahweh’s power
-This chapter contrasts the great power of Yahweh with the powerlessness of any other false god. It is intended to question why the Jews would worship any other god. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+This chapter contrasts the great power of Yahweh with the powerlessness of any other false god. It is intended to question why the Jews would worship any other god. (See: [[../bible/kt/falsegod]])

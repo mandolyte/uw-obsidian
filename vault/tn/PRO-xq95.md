@@ -11,7 +11,7 @@ Occasionally, the author addresses a proverb to “my son.” This is not intend
 
 ### Adulteress
 
-The latter part of this chapter comes back to the theme about the adulteress and warns the young man to avoid her. An adulteress is a woman who commits adultery. (See: [[rc://*/tw/dict/bible/kt/adultery]])
+The latter part of this chapter comes back to the theme about the adulteress and warns the young man to avoid her. An adulteress is a woman who commits adultery. (See: [[../bible/kt/adultery]])
 
 ### Numbers
 
@@ -27,4 +27,4 @@ The author will use rhetorical questions to draw the reader’s attention to imp
 
 ### Animals used as types
 
-The gazelle and the ant have certain characteristics which the author uses to give wisdom. If your language does not recognize these characteristics in those animals, you could add a footnote to explain or possibly substitute another animal from your culture that would help explain the same concept. (See: [[rc://*/tw/dict/bible/kt/wise]])
+The gazelle and the ant have certain characteristics which the author uses to give wisdom. If your language does not recognize these characteristics in those animals, you could add a footnote to explain or possibly substitute another animal from your culture that would help explain the same concept. (See: [[../bible/kt/wise]])

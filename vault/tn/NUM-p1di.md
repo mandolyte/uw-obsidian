@@ -3,4 +3,4 @@
 
 ### Midianites
 
-Israel killed the Midianites, including Balaam, for tempting them to worship Baal. This battle was at Yahweh’s command. Yahweh would bring justice. (See: [[rc://*/tw/dict/bible/kt/justice]])
+Israel killed the Midianites, including Balaam, for tempting them to worship Baal. This battle was at Yahweh’s command. Yahweh would bring justice. (See: [[../bible/kt/justice]])

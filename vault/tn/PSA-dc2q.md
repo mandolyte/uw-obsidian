@@ -1,7 +1,7 @@
 # Psalm 062 General Notes
 ## Type of psalm
 
-Psalm 62 is a psalm of deliverance. It expresses trust that God will save the psalmist from his enemies. (See: [[rc://*/tw/dict/bible/other/deliverer]] and [[rc://*/tw/dict/bible/kt/trust]] and [[rc://*/tw/dict/bible/kt/save]])
+Psalm 62 is a psalm of deliverance. It expresses trust that God will save the psalmist from his enemies. (See: [[../bible/other/deliverer]] and [[../bible/kt/trust]] and [[../bible/kt/save]])
 
 ## Special concepts in this chapter
 

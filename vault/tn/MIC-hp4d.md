@@ -25,7 +25,7 @@
 
 This book contains many of Micah’s prophecies. Micah repeated many similar prophecies as found in Isaiah. Micah warned the kingdoms of Israel and Judah that the Assyrians would soon attack them. Micah condemned those who acted unjustly and immorally. He spoke against those who did not work for a living. He also spoke against the false prophets in Israel and Judah. These false prophets were telling the people that Yahweh would never let a foreign kingdom harm or conquer them.
 
-Micah called the people to please Yahweh by living righteous and holy lives. However, the sinful way they lived and the unjust way they treated their fellow countrymen proved that they no longer wanted to obey and honor Yahweh. (See: [[rc://*/tw/dict/bible/kt/prophet]], [[rc://*/tw/dict/bible/kt/justice]], [[rc://*/tw/dict/bible/kt/righteous]] and [[rc://*/tw/dict/bible/kt/holy]] and [[rc://*/tw/dict/bible/kt/faith]])
+Micah called the people to please Yahweh by living righteous and holy lives. However, the sinful way they lived and the unjust way they treated their fellow countrymen proved that they no longer wanted to obey and honor Yahweh. (See: [[../bible/kt/prophet]], [[../bible/kt/justice]], [[../bible/kt/righteous]] and [[../bible/kt/holy]] and [[../bible/kt/faith]])
 
 ### How should the title of this book be translated?
 
@@ -39,11 +39,11 @@ The prophet Micah probably wrote this book. Micah lived at the same time as Isai
 
 ### Who is the deliverer Micah mentions?
 
-Micah frequently mentioned a king who would deliver the people. It is clear that Micah meant the Messiah, the descendant of David who would rule forever, though he never referred to him as the Messiah. (See: [[rc://*/tw/dict/bible/other/deliverer]] and [[rc://*/tw/dict/bible/kt/christ]])
+Micah frequently mentioned a king who would deliver the people. It is clear that Micah meant the Messiah, the descendant of David who would rule forever, though he never referred to him as the Messiah. (See: [[../bible/other/deliverer]] and [[../bible/kt/christ]])
 
 ### Were the Israelites required to offer sacrifices or live holy lives to please Yahweh?
 
-Many of the Old Testament writers were concerned with offering sacrifices according to the law of Moses. However, Micah explained to the people that Yahweh was pleased only when they offered these sacrifices in faith. Without faith, the sacrifices had no meaning. (See: [[rc://*/tw/dict/bible/kt/lawofmoses]] and [[rc://*/tw/dict/bible/kt/justice]])
+Many of the Old Testament writers were concerned with offering sacrifices according to the law of Moses. However, Micah explained to the people that Yahweh was pleased only when they offered these sacrifices in faith. Without faith, the sacrifices had no meaning. (See: [[../bible/kt/lawofmoses]] and [[../bible/kt/justice]])
 
 ## Part 3: Important Translation Issues
 
@@ -53,7 +53,7 @@ This passage sounds unusual because of how it is constructed in Hebrew. It inclu
 
 ### What does a translator need to know before translating Micah?
 
-Micah did not often explain how his prophecies were historically situated. This may result in the translator failing to understand implicit information unless they understand Micah’s time. It is therefore suggested that translators understand well the history of the kingdoms of Israel and Judah. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+Micah did not often explain how his prophecies were historically situated. This may result in the translator failing to understand implicit information unless they understand Micah’s time. It is therefore suggested that translators understand well the history of the kingdoms of Israel and Judah. (See: [[../bible/kt/prophet]])
 
 ### How do I translate passages where the speaker or addressee is not mentioned explicitly?
 

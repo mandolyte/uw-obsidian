@@ -6,7 +6,7 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 ## Special concepts in this chapter
 
 ### Eliphaz’s advice
-Eliphaz tells Job to curse Yahweh. The advice Eliphaz gives to Job is bad advice. (See: [[rc://*/tw/dict/bible/kt/curse]])
+Eliphaz tells Job to curse Yahweh. The advice Eliphaz gives to Job is bad advice. (See: [[../bible/kt/curse]])
 
 ## Important figures of speech in this chapter
 

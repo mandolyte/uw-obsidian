@@ -28,4 +28,4 @@ The prophet Malachi wrote these messages from Yahweh to the Jews. However, since
 
 ### What was meant by the day of Yahweh?
 
-Malachi spoke about “the day” several times. This is the same as “the day of Yahweh.” In the Book of Malachi, this is the time when Yahweh would judge his people. He would remove those who wickedly sin and bless those who trust in him. (See: [[rc://*/tw/dict/bible/kt/dayofthelord]] and [[rc://*/tw/dict/bible/kt/sin]])
+Malachi spoke about “the day” several times. This is the same as “the day of Yahweh.” In the Book of Malachi, this is the time when Yahweh would judge his people. He would remove those who wickedly sin and bless those who trust in him. (See: [[../bible/kt/dayofthelord]] and [[../bible/kt/sin]])

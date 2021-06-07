@@ -39,11 +39,11 @@
 
 ### What is the Book of Numbers about?
 
-The Book of Numbers tells about the people of Israel as they traveled from Mount Sinai in the wilderness to the Jordan River. While traveling, the Israelites became discouraged. So they rebelled against the leaders whom God had given them. At the Jordan River, the people of Israel refused to enter the Promised Land. Because the Israelites were afraid and did not trust God, he delayed their entry into the Promised Land for forty years (13:1–14:45). (See: [[rc://*/tw/dict/bible/kt/promisedland]])
+The Book of Numbers tells about the people of Israel as they traveled from Mount Sinai in the wilderness to the Jordan River. While traveling, the Israelites became discouraged. So they rebelled against the leaders whom God had given them. At the Jordan River, the people of Israel refused to enter the Promised Land. Because the Israelites were afraid and did not trust God, he delayed their entry into the Promised Land for forty years (13:1–14:45). (See: [[../bible/kt/promisedland]])
 
 ### How should the title of this book be translated?
 
-The title of this book, “Numbers,” refers to when the number of the Israelites was counted. The people of the project language may already be familiar with the name “Numbers” from other Bible versions. If not, the translator could consider a clearer name for the book, such as “The Counting of the People of Israel.” (See: [[rc://*/tw/dict/bible/other/census]])
+The title of this book, “Numbers,” refers to when the number of the Israelites was counted. The people of the project language may already be familiar with the name “Numbers” from other Bible versions. If not, the translator could consider a clearer name for the book, such as “The Counting of the People of Israel.” (See: [[../bible/other/census]])
 
 ### Who wrote the Book of Numbers?
 

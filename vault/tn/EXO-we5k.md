@@ -18,7 +18,7 @@ With little explanation, a large portion of the chapter is devoted to the geneal
 
 ### Promised Land
 
-According to the covenant Yahweh made with Abraham, Egypt is not the home of the Hebrew people. Their home is the Promised Land in Canaan. The people are to return home to their land. (See: [[rc://*/tw/dict/bible/kt/covenant]] and [[rc://*/tw/dict/bible/kt/promisedland]])
+According to the covenant Yahweh made with Abraham, Egypt is not the home of the Hebrew people. Their home is the Promised Land in Canaan. The people are to return home to their land. (See: [[../bible/kt/covenant]] and [[../bible/kt/promisedland]])
 
 ### “Let my people go”
 

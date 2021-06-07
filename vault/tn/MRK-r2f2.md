@@ -28,7 +28,7 @@ The book does not give the name of the author. However, since early Christian ti
 
 ### What were Jesus’ teaching methods?
 
-The people regarded Jesus as a rabbi. A rabbi is a teacher of God’s law. Jesus taught in similar ways as other religious teachers in Israel. He had students who followed him wherever he went. These students were called disciples. He often told parables. Parables are stories that teach moral lessons. (See: [[rc://*/tw/dict/bible/kt/lawofmoses]] and [[rc://*/tw/dict/bible/kt/disciple]] and [[rc://*/tw/dict/bible/kt/parable]])
+The people regarded Jesus as a rabbi. A rabbi is a teacher of God’s law. Jesus taught in similar ways as other religious teachers in Israel. He had students who followed him wherever he went. These students were called disciples. He often told parables. Parables are stories that teach moral lessons. (See: [[../bible/kt/lawofmoses]] and [[../bible/kt/disciple]] and [[../bible/kt/parable]])
 
 ## Part 3: Important Translation Issues
 
@@ -42,7 +42,7 @@ The texts are considered “parallel” when they are the same or almost the sam
 
 In the gospels, Jesus calls himself the “Son of Man.” It is a reference to Daniel 7:13-14. In this passage there is a person described as a “son of man.” That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people will worship him forever.
 
-Jews of Jesus’ time did not use “Son of Man” as a title for anyone. Therefore, Jesus used it for himself to help them understand who he truly was. (See: [[rc://*/tw/dict/bible/kt/sonofman]])
+Jews of Jesus’ time did not use “Son of Man” as a title for anyone. Therefore, Jesus used it for himself to help them understand who he truly was. (See: [[../bible/kt/sonofman]])
 
 Translating the title “Son of Man” can be difficult in many languages. Readers may misunderstand a literal translation. Translators can consider alternatives, such as “The Human One.” It may also be helpful to include a footnote to explain the title.
 

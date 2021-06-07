@@ -45,7 +45,7 @@ Isaiah prophesied of the “last days” (2:2) as some later or final period of 
 
 ### What is the meaning of the term “Israel”?
 
-The name “Israel” is used in many different ways in the Bible. Jacob was the son of Isaac. God changed Jacob’s name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[rc://*/tw/dict/bible/kt/israel]])
+The name “Israel” is used in many different ways in the Bible. Jacob was the son of Isaac. God changed Jacob’s name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[../bible/kt/israel]])
 
 ### What are some characteristics of prophetic literature in the Book of Isaiah?
 
@@ -53,4 +53,4 @@ Most of Isaiah’s prophecies are in poetic form. Many prophets in Israel used p
 
 Sometimes Isaiah’s messages are hard to understand. He assumed his original hearers would know what he was talking about. But readers today do not always understand what he meant. However, Isaiah’s basic messages are still clear to us today. These messages are about how God’s people sinned against him, how he would punish them, and how he would eventually comfort and restore them.
 
-Isaiah also speaks about the Servant of Yahweh, in four different poems that are today called the “Four Servant Songs.” Christians understand these very clearly as prophecies about Jesus Christ, the Messiah. These “songs” are in Isaiah 42:1-9; 49:1-7; 50:4-9; and 52:13-53:12. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/mercy]] and [[rc://*/tw/dict/bible/kt/christ]])
+Isaiah also speaks about the Servant of Yahweh, in four different poems that are today called the “Four Servant Songs.” Christians understand these very clearly as prophecies about Jesus Christ, the Messiah. These “songs” are in Isaiah 42:1-9; 49:1-7; 50:4-9; and 52:13-53:12. (See: [[../bible/kt/sin]] and [[../bible/kt/mercy]] and [[../bible/kt/christ]])

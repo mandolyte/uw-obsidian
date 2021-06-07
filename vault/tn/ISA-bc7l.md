@@ -11,4 +11,4 @@ This chapter pictures Judah’s eventual return from exile in Babylon as a kind 
 ## Other possible translation difficulties in this chapter
 
 ### Exile
-This chapter prophesies about the Jews return from Babylon, but the exile has yet to happen and is still more than a hundred years in the future. These events will show that Yahweh alone is God. (See: [[rc://*/tw/dict/bible/kt/prophet]] and [[figs-explicit]])
+This chapter prophesies about the Jews return from Babylon, but the exile has yet to happen and is still more than a hundred years in the future. These events will show that Yahweh alone is God. (See: [[../bible/kt/prophet]] and [[figs-explicit]])

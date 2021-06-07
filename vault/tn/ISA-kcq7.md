@@ -6,7 +6,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### “Young woman”
-Some translations choose to translate this as “virgin” and believe it is a reference to the Messiah being born of a virgin woman. This is only one possible translation, therefore most translations have avoided forcing this specific connotation into the meaning of the term. (See: [[rc://*/tw/dict/bible/kt/christ]])
+Some translations choose to translate this as “virgin” and believe it is a reference to the Messiah being born of a virgin woman. This is only one possible translation, therefore most translations have avoided forcing this specific connotation into the meaning of the term. (See: [[../bible/kt/christ]])
 
 ## Other possible translation difficulties in this chapter
 

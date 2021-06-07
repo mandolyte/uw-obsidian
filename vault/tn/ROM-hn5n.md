@@ -9,10 +9,10 @@ The first verse is a type of introduction. People in the ancient Mediterranean r
 This chapter refers to the contents of the Book of Romans as “the gospel” ([Romans 1:2](../../rom/01/02.md)). Romans is not a gospel like Matthew, Mark, Luke and John. Instead, chapters 1-8 present the biblical gospel: All have sinned. Jesus died for our sins. He was raised again that we might have new life in him.
 
 ### Fruit
-This chapter uses the imagery of fruit. The image of fruit usually refers to a person’s faith producing good works in their life. In this chapter, it refers to the results of Paul’s work among the Roman Christians. (See: [[rc://*/tw/dict/bible/other/fruit]] and [[rc://*/tw/dict/bible/kt/faith]] and [[rc://*/tw/dict/bible/kt/righteous]])
+This chapter uses the imagery of fruit. The image of fruit usually refers to a person’s faith producing good works in their life. In this chapter, it refers to the results of Paul’s work among the Roman Christians. (See: [[../bible/other/fruit]] and [[../bible/kt/faith]] and [[../bible/kt/righteous]])
 
 ### Universal Condemnation and the Wrath of God
-This chapter explains that everyone is without excuse. We all know about the true God, Yahweh, from his creation all around us. Because of our sin and our sinful nature, every person justly deserves the wrath of God. This wrath was satisfied by Jesus dying on a cross for those who believe in him. (See: [[rc://*/tw/dict/bible/kt/believe]] and [[rc://*/tw/dict/bible/kt/sin]])
+This chapter explains that everyone is without excuse. We all know about the true God, Yahweh, from his creation all around us. Because of our sin and our sinful nature, every person justly deserves the wrath of God. This wrath was satisfied by Jesus dying on a cross for those who believe in him. (See: [[../bible/kt/believe]] and [[../bible/kt/sin]])
 
 ## Important figures of speech in this chapter
 

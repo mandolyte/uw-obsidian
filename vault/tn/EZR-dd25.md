@@ -8,7 +8,7 @@ The chapter records the story of the first Jews as they return from Persia to Ju
 
 ### King Cyrus
 
-King Cyrus allowed the Jews to return because he wanted them to rebuild the temple. Those who stayed behind gave gifts to those who left to help them on their journey and resettlement. This practice was common under the reign of Cyrus and was used as a way to maintain peace throughout his kingdom. (See: [[rc://*/tw/dict/bible/kt/temple]])
+King Cyrus allowed the Jews to return because he wanted them to rebuild the temple. Those who stayed behind gave gifts to those who left to help them on their journey and resettlement. This practice was common under the reign of Cyrus and was used as a way to maintain peace throughout his kingdom. (See: [[../bible/kt/temple]])
 
 ## Possible translation difficulties in this chapter
 

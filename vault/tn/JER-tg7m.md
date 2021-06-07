@@ -7,4 +7,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### The covenant
 
-The covenant Yahweh made with Moses is prominent in this chapter. Because the people disobeyed this covenant, God will not help them. (See: [[rc://*/tw/dict/bible/kt/covenant]])
+The covenant Yahweh made with Moses is prominent in this chapter. Because the people disobeyed this covenant, God will not help them. (See: [[../bible/kt/covenant]])

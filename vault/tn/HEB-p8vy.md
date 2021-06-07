@@ -11,11 +11,11 @@ A will is a legal document that describes what will happen to a person’s prope
 
 ### Blood
 
-In the Old Testament, God had commanded the Israelites to offer sacrifices so that he would forgive their sins. Before they could offer these sacrifices, they had to kill animals and then offer not only the animal’s body but also its blood. Shedding blood is a metaphor for killing an animal or person. Jesus offered his life, his blood, as a sacrifice when he allowed men to kill him. The writer of the Book of Hebrews is saying in this chapter that this sacrifice is better than the sacrifices of the Old Testament. (See: [[figs-metaphor]] and [[rc://*/tw/dict/bible/kt/covenant]])
+In the Old Testament, God had commanded the Israelites to offer sacrifices so that he would forgive their sins. Before they could offer these sacrifices, they had to kill animals and then offer not only the animal’s body but also its blood. Shedding blood is a metaphor for killing an animal or person. Jesus offered his life, his blood, as a sacrifice when he allowed men to kill him. The writer of the Book of Hebrews is saying in this chapter that this sacrifice is better than the sacrifices of the Old Testament. (See: [[figs-metaphor]] and [[../bible/kt/covenant]])
 
 ### Return of Christ
 
-Jesus will return to finish the work that he began when he died so that God would forgive his people’s sins. He will finish saving those people who are waiting for him. (See: [[rc://*/tw/dict/bible/kt/save]])
+Jesus will return to finish the work that he began when he died so that God would forgive his people’s sins. He will finish saving those people who are waiting for him. (See: [[../bible/kt/save]])
 
 ## Other possible translation difficulties in this chapter
 

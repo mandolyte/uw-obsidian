@@ -36,7 +36,7 @@
 
 Exodus continues the story of the previous book, Genesis. The first half of Exodus is about how Yahweh made Abraham’s descendants into a nation. This nation, which would be called “Israel,” was meant to belong to Yahweh and worship him. The second half of Exodus describes how God gave the Israelites his law through Moses. The law of Moses told the Israelites how to obey and worship Yahweh properly.
 
-The book of Exodus tells how the Israelites were to build the tabernacle. The tabernacle was a tent where Yahweh would be among his people. The Israelites worshiped and sacrificed animals to Yahweh at the tabernacle. (See: [[rc://*/tw/dict/bible/kt/lawofmoses]] and [[rc://*/tw/dict/bible/kt/tabernacle]])
+The book of Exodus tells how the Israelites were to build the tabernacle. The tabernacle was a tent where Yahweh would be among his people. The Israelites worshiped and sacrificed animals to Yahweh at the tabernacle. (See: [[../bible/kt/lawofmoses]] and [[../bible/kt/tabernacle]])
 
 ### How should the title of this book be translated?
 

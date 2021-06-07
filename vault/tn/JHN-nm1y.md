@@ -7,7 +7,7 @@ The tomb in which Jesus was buried ([John 20:1](../../jhn/20/01.md)) was the kin
 
 ### “Receive the Holy Spirit”
 
-If your language uses the same word for “breath” and “spirit,” be sure that the reader understands that Jesus was performing a symbolic action by breathing, and that what the disciples received was the Holy Spirit, not Jesus’ breath. (See: [[translate-symaction]] and [[rc://*/tw/dict/bible/kt/holyspirit]])
+If your language uses the same word for “breath” and “spirit,” be sure that the reader understands that Jesus was performing a symbolic action by breathing, and that what the disciples received was the Holy Spirit, not Jesus’ breath. (See: [[translate-symaction]] and [[../bible/kt/holyspirit]])
 
 ## Other possible translation difficulties in this chapter
 

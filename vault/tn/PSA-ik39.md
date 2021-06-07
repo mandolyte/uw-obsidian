@@ -1,6 +1,6 @@
 # Psalm 040 General Notes
 ## Type of psalm
-Psalm 40 is a psalm of praise. Many also see it as a messianic psalm, a psalm about Christ. (See: [[rc://*/tw/dict/bible/kt/christ]])
+Psalm 40 is a psalm of praise. Many also see it as a messianic psalm, a psalm about Christ. (See: [[../bible/kt/christ]])
 
 ## Special concepts in this chapter
 

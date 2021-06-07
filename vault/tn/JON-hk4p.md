@@ -17,7 +17,7 @@
 
 ### What is the Book of Jonah about?
 
-Jonah, son of Amittai, was a prophet from Gath Hepher (2 Kings 14:25). This book tells about what happened to Jonah. It tells how Yahweh shows mercy and grace to Gentiles. It also tells how the Ninevites repented and called out to Yahweh for mercy. (See: [[rc://*/tw/dict/bible/kt/mercy]], [[rc://*/tw/dict/bible/kt/grace]] and [[rc://*/tw/dict/bible/kt/repent]])
+Jonah, son of Amittai, was a prophet from Gath Hepher (2 Kings 14:25). This book tells about what happened to Jonah. It tells how Yahweh shows mercy and grace to Gentiles. It also tells how the Ninevites repented and called out to Yahweh for mercy. (See: [[../bible/kt/mercy]], [[../bible/kt/grace]] and [[../bible/kt/repent]])
 
 Yahweh sent Jonah to warn the people of Nineveh that he was ready to punish them. Yahweh said that if they would repent he would not harm them. However, Jonah was an Israelite and he did not want the Ninevites to repent. So Jonah tried to sail away in the opposite direction instead of doing what Yahweh told him to do. But Yahweh stopped him by sending a storm and a large fish to swallow him.
 
@@ -43,4 +43,4 @@ Assyria was cruel to its enemies. Eventually, Yahweh punished the Assyrians for 
 
 ### Did Assyria convert to Judaism?
 
-Some scholars think that the Assyrians started worshiping Yahweh alone. However, most scholars think they continued to worship other false gods. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+Some scholars think that the Assyrians started worshiping Yahweh alone. However, most scholars think they continued to worship other false gods. (See: [[../bible/kt/falsegod]])

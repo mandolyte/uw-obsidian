@@ -6,4 +6,4 @@ Similar to chapter 11, this chapter is written mainly in prose and is talking ab
 ## Special concepts in this chapter
 
 ### Prophecy
-Verses 10-11 are quoted in the New Testament and apply to Jesus’ death on the cross. (See: [[rc://*/tw/dict/bible/kt/cross]])
+Verses 10-11 are quoted in the New Testament and apply to Jesus’ death on the cross. (See: [[../bible/kt/cross]])

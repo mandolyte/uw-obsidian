@@ -11,7 +11,7 @@ In seeking to defend his own righteousness, Job accuses Yahweh of being unjust. 
 ## Important figures of speech in this chapter
 
 ### Irony
-Yahweh states, “He who argues with God, let him answer.” Job immediately answers him. This is irony. While Job is forced to acknowledge the power of Yahweh, he does not repent of his former statements. Because of this, Yahweh asks him more questions. (See: [[rc://*/tw/dict/bible/kt/repent]])
+Yahweh states, “He who argues with God, let him answer.” Job immediately answers him. This is irony. While Job is forced to acknowledge the power of Yahweh, he does not repent of his former statements. Because of this, Yahweh asks him more questions. (See: [[../bible/kt/repent]])
 
 ## Other possible translation difficulties in this chapter
 

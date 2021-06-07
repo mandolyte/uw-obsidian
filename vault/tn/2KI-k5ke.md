@@ -6,7 +6,7 @@ The story of Elisha continues in this chapter.
 ## Special concepts in this chapter
 
 ### Victory and defeat
-God is in control of victory and defeat. The armies of Israel, Judah and Edom united to attack Moab from the desert for failure to pay tribute. When they ran out of water, they were in desperate condition. Therefore, they asked Elisha (the prophet of God) what to do and he said God would give them water and victory over Moab. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+God is in control of victory and defeat. The armies of Israel, Judah and Edom united to attack Moab from the desert for failure to pay tribute. When they ran out of water, they were in desperate condition. Therefore, they asked Elisha (the prophet of God) what to do and he said God would give them water and victory over Moab. (See: [[../bible/kt/prophet]])
 
 ## Important figures of speech in this chapter
 

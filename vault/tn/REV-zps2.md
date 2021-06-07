@@ -9,7 +9,7 @@ Some translations set quotations from the Old Testament farther to the right on 
 
 ### Poverty and wealth
 
-The Christians in Smyrna were poor because they did not have much money. But they were rich spiritually because God would reward them for their suffering. (See: [[rc://*/tw/dict/bible/kt/spirit]])
+The Christians in Smyrna were poor because they did not have much money. But they were rich spiritually because God would reward them for their suffering. (See: [[../bible/kt/spirit]])
 
 ### “The devil is about to”
 

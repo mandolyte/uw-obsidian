@@ -1,9 +1,7 @@
 # Exodus 14 General Notes
 ## Structure and formatting
 
-This is an important event in the history of Israel, known as the “parting of the sea of reeds (Red Sea).”
-Throughout this chapter and chapter 15 the word “sea” is used. The context shows that this is the sea of reeds (Red Sea). Since the text does not explicitly say that though, the ULT will only say “sea.” In your translation, it may help people to be more specific than the text if just using “sea” is confusing.
-
+This is an important event in the history of Israel, known as the “parting of the Sea of Reeds.”
 
 ## Special concepts in this chapter
 
@@ -17,4 +15,4 @@ These chariots were a fighting force. Pharaoh took an army to kill the Hebrew pe
 ## Important figures of speech in this chapter
 
 ### Rhetorical Questions
-The Israelites asked a few rhetorical questions of Moses. These questions were not really directed at Moses, but at Yahweh. This showed their lack of faith in Yahweh. (See: [[figs-rquestion]] and [[rc://*/tw/dict/bible/kt/faith]])
+The Israelites asked a few rhetorical questions of Moses. These questions were not really directed at Moses, but at Yahweh. This showed their lack of faith in Yahweh. (See: [[figs-rquestion]] and [[../bible/kt/faith]])

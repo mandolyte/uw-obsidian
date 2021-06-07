@@ -1,7 +1,7 @@
 # Psalm 091 General Notes
 ## Type of psalm
 
-Psalm 91 is a wisdom psalm. Those who depend on God are protected by him. (See: [[rc://*/tw/dict/bible/kt/wise]])
+Psalm 91 is a wisdom psalm. Those who depend on God are protected by him. (See: [[../bible/kt/wise]])
 
 ## Special concepts in this chapter
 

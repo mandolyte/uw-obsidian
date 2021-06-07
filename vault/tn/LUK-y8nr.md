@@ -16,10 +16,10 @@
 
 ### The new covenant
 
-Some people think that Jesus established the new covenant during the supper. Others think he established it after he went up to heaven. Others think it will not be established until Jesus comes again. Your translation should say no more about this than ULT does. (See: [[rc://*/tw/dict/bible/kt/covenant]])
+Some people think that Jesus established the new covenant during the supper. Others think he established it after he went up to heaven. Others think it will not be established until Jesus comes again. Your translation should say no more about this than ULT does. (See: [[../bible/kt/covenant]])
 
 ## Important textual issues in this chapter
 
 ### “And an angel from heaven appeared to him … his sweat became like drops of blood falling on the ground”
 
-Verses 43 and 44 of Luke 22 are not in the earliest and most accurate manuscripts of the Bible, and so they are likely not an original part of the gospel of Luke. However, many scholars consider them to provide accurate accounts of real events in Jesus’ life that were preserved in oral or written traditions about him and copied into the book of Luke at an early stage. ULT and UST include these verses, but some other versions do not. If you decide to translate these verses, you should put them inside square brackets to indicate that they are probably not original to Luke’s gospel. (See: [[translate-textvariants]])
+Verses 43 and 44 of Luke 22 are not in the earliest and most accurate manuscripts of the Bible, and so they are likely not an original part of the gospel of Luke. However, many scholars consider them to provide accurate accounts of real events in Jesus’ life that were preserved in oral or written traditions about him and copied into the book of Luke at an early stage. ULT and UST include these verses, but some other versions do not. If you decide to translate these verses, you should put them inside square brackets to indicate that they are probably not original to Luke’s Gospel. (See: [[translate-textvariants]])

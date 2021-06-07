@@ -3,7 +3,7 @@
 
 ### Punishments for serious sins
 
-This chapter compiles a list of serious sins. The most serious sins are punished by death. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/other/death]])
+This chapter compiles a list of serious sins. The most serious sins are punished by death. (See: [[../bible/kt/sin]] and [[../bible/other/death]])
 
 ## Important figures of speech in this chapter
 

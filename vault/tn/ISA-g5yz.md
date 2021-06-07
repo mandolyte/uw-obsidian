@@ -6,4 +6,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Other possible translation difficulties in this chapter
 
 ### Imagery
-The imagery of judgment in this chapter is intended to be rather vivid. The translator should avoid euphemisms, if possible. Overall, this chapter prophesies a day of great judgment and God’s wrath. (See: [[rc://*/tw/dict/bible/kt/judge]] and [[rc://*/tw/dict/bible/kt/prophet]] and [[rc://*/tw/dict/bible/kt/wrath]])
+The imagery of judgment in this chapter is intended to be rather vivid. The translator should avoid euphemisms, if possible. Overall, this chapter prophesies a day of great judgment and God’s wrath. (See: [[../bible/kt/judge]] and [[../bible/kt/prophet]] and [[../bible/kt/wrath]])

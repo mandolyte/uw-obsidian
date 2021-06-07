@@ -9,10 +9,10 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### “Victorious over the beast”
 
-These people are spiritually victorious. While most spiritual battles cannot be seen, the Book of Revelation pictures spiritual battles as openly occurring. (See: [[rc://*/tw/dict/bible/kt/spirit]] and [[writing-apocalypticwriting]])
+These people are spiritually victorious. While most spiritual battles cannot be seen, the Book of Revelation pictures spiritual battles as openly occurring. (See: [[../bible/kt/spirit]] and [[writing-apocalypticwriting]])
 
 ### “The temple having the tent of witness, was open in heaven”
-Scripture elsewhere indicates the earthly temple copied God’s perfect dwelling place in heaven. Here John seems to refer to God’s heavenly dwelling place or temple. (See: [[rc://*/tw/dict/bible/kt/heaven]] and [[writing-apocalypticwriting]])
+Scripture elsewhere indicates the earthly temple copied God’s perfect dwelling place in heaven. Here John seems to refer to God’s heavenly dwelling place or temple. (See: [[../bible/kt/heaven]] and [[writing-apocalypticwriting]])
 
 ### Songs
 

@@ -10,13 +10,13 @@
 
 ### “children of God”
 
-People are sometimes described as “children of God” because God created them. However, John uses this expression in a different sense in this chapter. He uses it to describe people who have entered into a father-child relationship with God by putting their faith and trust in Jesus. God indeed created all people, but people can only become children of God in this sense by believing in Jesus. (See: [[rc://*/tw/dict/bible/kt/believe]])
+People are sometimes described as “children of God” because God created them. However, John uses this expression in a different sense in this chapter. He uses it to describe people who have entered into a father-child relationship with God by putting their faith and trust in Jesus. God indeed created all people, but people can only become children of God in this sense by believing in Jesus. (See: [[../bible/kt/believe]])
 
 ## Other possible translation difficulties in this chapter
 
 ### “the one who keeps his commandments remains in him, and he in him” (3:24)
 
-This does not mean that keeping our salvation is conditional on doing certain works. Rather, John is describing the results of keeping the commandments that he describes in [3:32](../03/32.md). Those commandments are to believe in Jesus and to love one another. John is saying that the person who believes in Jesus and loves others shows that he has a close relationship with God, and that he will continue to have that close relationship because of this obedience. Christians around the world hold different beliefs about whether people who have been saved can lose their salvation. That is not what John is addressing here, and translators should be careful not to let how they understand that issue affect how they translate this passage. (See: [[rc://*/tw/dict/bible/kt/eternity]] and [[rc://*/tw/dict/bible/kt/save]])
+This does not mean that keeping our salvation is conditional on doing certain works. Rather, John is describing the results of keeping the commandments that he describes in [3:32](../03/32.md). Those commandments are to believe in Jesus and to love one another. John is saying that the person who believes in Jesus and loves others shows that he has a close relationship with God, and that he will continue to have that close relationship because of this obedience. Christians around the world hold different beliefs about whether people who have been saved can lose their salvation. That is not what John is addressing here, and translators should be careful not to let how they understand that issue affect how they translate this passage. (See: [[../bible/kt/eternity]] and [[../bible/kt/save]])
 
 ## Important textual issues in this chapter
 

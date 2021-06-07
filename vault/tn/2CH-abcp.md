@@ -3,4 +3,4 @@
 
 ### Worshiping other gods
 
-When Amaziah trusted God he was successful against Edom. But when he started worshiping the idols of Edom he was badly defeated. (See: [[rc://*/tw/dict/bible/kt/trust]] and [[rc://*/tw/dict/bible/kt/falsegod]])
+When Amaziah trusted God he was successful against Edom. But when he started worshiping the idols of Edom he was badly defeated. (See: [[../bible/kt/trust]] and [[../bible/kt/falsegod]])

@@ -2,4 +2,4 @@
 ## Special concepts in this chapter
 
 ### Israel’s evil
-Israel assassinated one king after another. The Assyrians began attacking Israel. (See: [[rc://*/tw/dict/bible/kt/evil]])
+Israel assassinated one king after another. The Assyrians began attacking Israel. (See: [[../bible/kt/evil]])

@@ -7,7 +7,7 @@ Paul seems to interrupt his teaching about spiritual gifts. However, this chapte
 
 ### Love
 
-Love is the most important characteristic of the believer. This chapter fully describes love. Paul tells why love is more important than the gifts of the Spirit. (See: [[rc://*/tw/dict/bible/kt/love]])
+Love is the most important characteristic of the believer. This chapter fully describes love. Paul tells why love is more important than the gifts of the Spirit. (See: [[../bible/kt/love]])
 
 ## Important figures of speech in this chapter
 

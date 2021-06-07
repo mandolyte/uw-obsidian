@@ -2,7 +2,7 @@
 
 ## Special concepts in this chapter
 
-Paul speaks in [4:14](./14.md) of prophecy. A “prophecy” is a message that God communicates to people through someone to whom He has given a special gift of hearing and conveying these messages. The specific prophecy that Paul describes revealed how Timothy would become a gifted leader of the church. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+Paul speaks in [4:14](./14.md) of prophecy. A “prophecy” is a message that God communicates to people through someone to whom He has given a special gift of hearing and conveying these messages. The specific prophecy that Paul describes revealed how Timothy would become a gifted leader of the church. (See: [[../bible/kt/prophet]])
 
 ## Other possible translation difficulties in this chapter
 

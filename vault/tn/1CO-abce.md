@@ -11,7 +11,7 @@ This is the beginning of a new section of the letter (Chapters 11-14). Paul now 
 Paul’s instructions here are debated among scholars. There may have been women who were abusing their Christian freedom and causing disorder in the church by going against established cultural customs. The disorder that their actions created would have caused him to be concerned.
 
 ### The Lord’s Supper
-There were problems in how the Corinthians were handling the Lord’s Supper. They did not act in a unified manner. During the feast celebrated along with the Lord’s Supper, some of them ate their own food without sharing. Some of them got drunk while the poor people remained hungry. Paul taught that the believers dishonored Christ’s death if they participated in the Lord’s Supper while they were sinning or while they were in broken relationships with each other. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/reconcile]])
+There were problems in how the Corinthians were handling the Lord’s Supper. They did not act in a unified manner. During the feast celebrated along with the Lord’s Supper, some of them ate their own food without sharing. Some of them got drunk while the poor people remained hungry. Paul taught that the believers dishonored Christ’s death if they participated in the Lord’s Supper while they were sinning or while they were in broken relationships with each other. (See: [[../bible/kt/sin]] and [[../bible/kt/reconcile]])
 
 ## Important figures of speech in this chapter
 

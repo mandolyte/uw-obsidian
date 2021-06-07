@@ -2,7 +2,7 @@
 
 ## Structure and formatting
 
-This chapter focuses on the life that a Christian had before coming to believe in Jesus. Paul then uses this information to explain how a person’s former way of living is distinct from a Christian’s new identity “in Christ.” (See: [[rc://*/tw/dict/bible/kt/faith]])
+This chapter focuses on the life that a Christian had before coming to believe in Jesus. Paul then uses this information to explain how a person’s former way of living is distinct from a Christian’s new identity “in Christ.” (See: [[../bible/kt/faith]])
 
 ## Special concepts in this chapter
 
@@ -14,7 +14,7 @@ Paul teaches about the church in this chapter. The church is made of two differe
 
 ### “Dead in trespasses and sins”
 
-Paul teaches that those who are not Christians are “dead” in their sin. Sin binds or enslaves them. This makes them spiritually “dead.” Paul writes that God makes Christians alive in Christ. (See: [[rc://*/tw/dict/bible/other/death]], [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/faith]] and [[figs-metaphor]])
+Paul teaches that those who are not Christians are “dead” in their sin. Sin binds or enslaves them. This makes them spiritually “dead.” Paul writes that God makes Christians alive in Christ. (See: [[../bible/other/death]], [[../bible/kt/sin]] and [[../bible/kt/faith]] and [[figs-metaphor]])
 
 ### Descriptions of worldly living
 
@@ -28,4 +28,4 @@ Some scholars believe “it” here refers to being saved. Other scholars believ
 
 ### Flesh
 
-“Flesh” is sometimes used as a metaphor for a person’s sinful nature. The phrase “Gentiles in the flesh” indicates the Ephesians once lived without any concern for God. But “flesh” is also used in this verse to refer to the physical person, similar to “body part of man.” (See: [[rc://*/tw/dict/bible/kt/flesh]])
+“Flesh” is sometimes used as a metaphor for a person’s sinful nature. The phrase “Gentiles in the flesh” indicates the Ephesians once lived without any concern for God. But “flesh” is also used in this verse to refer to the physical person, similar to “body part of man.” (See: [[../bible/kt/flesh]])

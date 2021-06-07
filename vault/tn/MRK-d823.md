@@ -13,7 +13,7 @@ The tomb in which Jesus was buried ([Mark 15:46](../../mrk/15/46.md)) was the ki
 
 ### Sarcasm
 
-Both by pretending to worship Jesus ([Mark 15:19](../../mrk/15/19.md)) and by pretending to speak to a king ([Mark 15:18](../../mrk/15/18.md)), the soldiers and the Jews showed that they hated Jesus and did not believe that he was the Son of God. (See: [[figs-irony]] and [[rc://*/tw/dict/bible/other/mock]])
+Both by pretending to worship Jesus ([Mark 15:19](../../mrk/15/19.md)) and by pretending to speak to a king ([Mark 15:18](../../mrk/15/18.md)), the soldiers and the Jews showed that they hated Jesus and did not believe that he was the Son of God. (See: [[figs-irony]] and [[../bible/other/mock]])
 
 ## Other possible translation difficulties in this chapter
 

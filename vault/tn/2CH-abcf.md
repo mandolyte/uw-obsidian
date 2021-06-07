@@ -6,7 +6,7 @@ The section about King Asa continues in this chapter.
 ## Special concepts in this chapter
 
 ### Promise
-The people promise to serve the Lord. This is something they will ultimately fail to do. (See: [[rc://*/tw/dict/bible/kt/promise]])
+The people promise to serve the Lord. This is something they will ultimately fail to do. (See: [[../bible/kt/promise]])
 
 ## Important figures of speech in this chapter
 

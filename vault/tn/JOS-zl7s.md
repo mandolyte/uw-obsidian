@@ -11,4 +11,4 @@ There was still much land to be captured west of the Jordan River, but the tribe
 
 ### Driving out the people
 
-While Yahweh achieved many great victories through Joshua, Israel was still supposed to drive out the rest of the Canaanites. Israel’s success in this would depend on their faith in Yahweh. (See: [[rc://*/tw/dict/bible/kt/faith]])
+While Yahweh achieved many great victories through Joshua, Israel was still supposed to drive out the rest of the Canaanites. Israel’s success in this would depend on their faith in Yahweh. (See: [[../bible/kt/faith]])

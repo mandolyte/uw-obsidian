@@ -7,7 +7,7 @@ In verses 11b-13, Paul may be quoting a poem or hymn. To show the reader that th
 ## Special concepts in this chapter
 
 ### We will reign with him
-Faithful Christians will reign with Christ in the future. (See: [[rc://*/tw/dict/bible/kt/faithful]])
+Faithful Christians will reign with Christ in the future. (See: [[../bible/kt/faithful]])
 
 ## Important figures of speech in this chapter
 

@@ -1,7 +1,7 @@
 # 2 Samuel 13 General Notes
 ## Structure and formatting
 
-This chapter begins the story about the difficulties and killings in David’s family. David’s sin caused these problems in his family. (See: [[rc://*/tw/dict/bible/kt/sin]])
+This chapter begins the story about the difficulties and killings in David’s family. David’s sin caused these problems in his family. (See: [[../bible/kt/sin]])
 
 ## Special concepts in this chapter
 

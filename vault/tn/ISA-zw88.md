@@ -6,4 +6,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 ## Special concepts in this chapter
 
 ### Phoenicia
-This chapter prophesies destruction against several cities in Phoenicia as well as in Tarshish. The exact location of Tarshish is unknown. Because of the locations mentioned in this chapter, it appears that the Assyrians will conquer many of the nations on the Mediterranean Sea. (See: [[rc://*/tw/dict/bible/kt/prophet]])
+This chapter prophesies destruction against several cities in Phoenicia as well as in Tarshish. The exact location of Tarshish is unknown. Because of the locations mentioned in this chapter, it appears that the Assyrians will conquer many of the nations on the Mediterranean Sea. (See: [[../bible/kt/prophet]])

@@ -8,7 +8,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ### Inheritance of the kingdom of Christ
 
-Some scholars believe that those who continue to practice the things listed in 5:5 will not inherit eternal life. But God can forgive all the sins listed in this verse. Immoral, impure, or greedy people can still receive eternal life if they repent and believe in Jesus. God will be the one who decides this. (See: [[rc://*/tw/dict/bible/kt/forgive]], [[rc://*/tw/dict/bible/kt/eternity]] and [[rc://*/tw/dict/bible/kt/life]] and [[rc://*/tw/dict/bible/kt/inherit]])
+Some scholars believe that those who continue to practice the things listed in 5:5 will not inherit eternal life. But God can forgive all the sins listed in this verse. Immoral, impure, or greedy people can still receive eternal life if they repent and believe in Jesus. God will be the one who decides this. (See: [[../bible/kt/forgive]], [[../bible/kt/eternity]] and [[../bible/kt/life]] and [[../bible/kt/inherit]])
 
 ## Other possible translation difficulties in this chapter
 

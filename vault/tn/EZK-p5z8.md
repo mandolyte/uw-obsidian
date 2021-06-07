@@ -3,7 +3,7 @@
 
 ### Safety
 
-The people were trusting Jerusalem to keep them safe. But God was going to pull them out of Jerusalem. (See: [[rc://*/tw/dict/bible/kt/trust]])
+The people were trusting Jerusalem to keep them safe. But God was going to pull them out of Jerusalem. (See: [[../bible/kt/trust]])
 
 ## Important figures of speech in this chapter
 

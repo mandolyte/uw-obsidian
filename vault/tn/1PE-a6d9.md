@@ -7,7 +7,7 @@ Most people in the ancient Near East would end a letter the way Peter ends this 
 
 ### Crowns
 
-The crown that the Chief Shepherd will give is a reward, something that people who do something especially good receive. (See: [[rc://*/tw/dict/bible/other/reward]])
+The crown that the Chief Shepherd will give is a reward, something that people who do something especially good receive. (See: [[../bible/other/reward]])
 
 ## Important figures of speech in this chapter
 
@@ -17,4 +17,4 @@ All animals are afraid of lions because they are fast and strong, and they eat a
 
 ### Babylon
 
-Babylon was the evil nation that in Old Testament times had destroyed Jerusalem, taken the Jews away from their homes, and ruled over them. Peter uses Babylon as a metaphor for the nation that was persecuting the Christians he was writing to. He could have been referring to Jerusalem because the Jews were persecuting the Christians. Or he could have been referring to Rome because the Romans were persecuting the Christians. (See: [[rc://*/tw/dict/bible/kt/evil]] and [[figs-metaphor]])
+Babylon was the evil nation that in Old Testament times had destroyed Jerusalem, taken the Jews away from their homes, and ruled over them. Peter uses Babylon as a metaphor for the nation that was persecuting the Christians he was writing to. He could have been referring to Jerusalem because the Jews were persecuting the Christians. Or he could have been referring to Rome because the Romans were persecuting the Christians. (See: [[../bible/kt/evil]] and [[figs-metaphor]])

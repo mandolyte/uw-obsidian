@@ -9,4 +9,4 @@ Some translations set each line of poetry farther to the right than the rest of 
 There are many rhetorical questions in this chapter. These questions prove Yahweh’s point and are intended to convince the readers. (See: [[figs-rquestion]])
 
 ### Awake
-In this chapter the author uses sleeping as a metaphor for sin. The people are told to “awake,” meaning they are to repent and return to Yahweh. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/repent]])
+In this chapter the author uses sleeping as a metaphor for sin. The people are told to “awake,” meaning they are to repent and return to Yahweh. (See: [[../bible/kt/sin]] and [[../bible/kt/repent]])

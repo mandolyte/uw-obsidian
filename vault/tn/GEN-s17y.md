@@ -6,7 +6,7 @@ This chapter begins to record the account of Jacob’s sons. The rest of the boo
 ## Special concepts in this chapter
 
 ### Favoritism
-Jacob’s favoritism became a great problem for his sons. They are always jealous of Joseph because he is the favorite son. The beautiful garment Jacob gave to Joseph greatly strained the relationship between Joseph and his brothers. Joseph dreams he will rule all of his brothers, even though he is not the oldest son. (See: [[rc://*/tw/dict/bible/kt/favor]])
+Jacob’s favoritism became a great problem for his sons. They are always jealous of Joseph because he is the favorite son. The beautiful garment Jacob gave to Joseph greatly strained the relationship between Joseph and his brothers. Joseph dreams he will rule all of his brothers, even though he is not the oldest son. (See: [[../bible/kt/favor]])
 
 ### God’s power
-The account of Joseph focuses on the power of God. God is able to protect his people despite the evil actions of some. He also is able to continue to bless them despite their circumstances. (See: [[rc://*/tw/dict/bible/kt/peopleofgod]] and [[rc://*/tw/dict/bible/kt/bless]])
+The account of Joseph focuses on the power of God. God is able to protect his people despite the evil actions of some. He also is able to continue to bless them despite their circumstances. (See: [[../bible/kt/peopleofgod]] and [[../bible/kt/bless]])

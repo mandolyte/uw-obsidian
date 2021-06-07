@@ -6,7 +6,7 @@ The second part of this chapter parallels Ephesians 5 and 6.
 ## Special concepts in this chapter
 
 ### Old and new self
-The old and new self mean the same as the old and new man. The term “old man” probably refers to the sinful nature with which a person is born. The “new man” is the new nature or new life that God gives a person after they come to believe in Christ. (See: [[rc://*/tw/dict/bible/kt/sin]] and [[rc://*/tw/dict/bible/kt/faith]])
+The old and new self mean the same as the old and new man. The term “old man” probably refers to the sinful nature with which a person is born. The “new man” is the new nature or new life that God gives a person after they come to believe in Christ. (See: [[../bible/kt/sin]] and [[../bible/kt/faith]])
 
 ## Other possible translation difficulties in this chapter
 

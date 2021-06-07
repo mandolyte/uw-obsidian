@@ -7,7 +7,7 @@ Some translations set quotations from the Old Testament farther to the right on 
 
 ### “Bear fruit worthy of repentance”
 
-Fruit is a common picture word in the scriptures. Writers use it to describe the results of either good or bad behavior. In this chapter, good fruit is the result of living as God commands. (See: [[rc://*/tw/dict/bible/other/fruit]])
+Fruit is a common picture word in the scriptures. Writers use it to describe the results of either good or bad behavior. In this chapter, good fruit is the result of living as God commands. (See: [[../bible/other/fruit]])
 
 ## Other possible translation difficulties in this chapter
 

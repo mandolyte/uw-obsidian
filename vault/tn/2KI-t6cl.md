@@ -8,7 +8,7 @@ The story of Elijah continues in this chapter.
 ## Special concepts in this chapter
 
 ### God’s sovereignty
-God is in control of the future. King Ahaziah sent messengers to ask the Philistine god if he would recover from his fall, but this god does not know the future. Because he asked another god instead of Yahweh, Elijah sent the messengers to tell Ahaziah that he would not recover. (See: [[rc://*/tw/dict/bible/kt/falsegod]])
+God is in control of the future. King Ahaziah sent messengers to ask the Philistine god if he would recover from his fall, but this god does not know the future. Because he asked another god instead of Yahweh, Elijah sent the messengers to tell Ahaziah that he would not recover. (See: [[../bible/kt/falsegod]])
 
 ## Important figures of speech in this chapter
 

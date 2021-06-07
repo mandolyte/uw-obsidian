@@ -1,7 +1,7 @@
 # Zechariah 14 General Notes
 ## Structure and formatting
 
-This chapter is written in prose about Jerusalem during the last days. (See: [[rc://*/tw/dict/bible/kt/lastday]])
+This chapter is written in prose about Jerusalem during the last days. (See: [[../bible/kt/lastday]])
 
 ## Special concepts in this chapter
 

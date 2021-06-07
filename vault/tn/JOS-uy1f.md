@@ -6,7 +6,7 @@ The ULT sets the lines in 10:12-13 farther to the right on the page than the res
 ## Special concepts in this chapter
 
 ### “For Yahweh was waging war on behalf of Israel”
-Israel’s conquest of the Promised Land was Yahweh’s war on the ungodly Canaanites more than Israel’s war. This type of war was different from other wars and God gave Israel special instructions. (See: [[rc://*/tw/dict/bible/kt/promisedland]] and [[rc://*/tw/dict/bible/kt/godly]])
+Israel’s conquest of the Promised Land was Yahweh’s war on the ungodly Canaanites more than Israel’s war. This type of war was different from other wars and God gave Israel special instructions. (See: [[../bible/kt/promisedland]] and [[../bible/kt/godly]])
 
 ## Important figures of speech in this chapter
 

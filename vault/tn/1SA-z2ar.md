@@ -41,7 +41,7 @@ It is uncertain who wrote 1 Samuel. It may have been someone alive soon after Ki
 
 ### Who is “Yahweh’s anointed”?
 
-The writer of 1 Samuel often speaks of “Yahweh’s anointed.” This refers to the one whom Yahweh chose to be the king of his people. Also, the phrase “Yahweh’s anointed” would make later readers think about the future descendant of David who would become king of God’s people. This person who Yahweh chose would be known as the Messiah. (See: [[rc://*/tw/dict/bible/kt/anoint]] and [[rc://*/tw/dict/bible/kt/peopleofgod]] and [[rc://*/tw/dict/bible/kt/christ]])
+The writer of 1 Samuel often speaks of “Yahweh’s anointed.” This refers to the one whom Yahweh chose to be the king of his people. Also, the phrase “Yahweh’s anointed” would make later readers think about the future descendant of David who would become king of God’s people. This person who Yahweh chose would be known as the Messiah. (See: [[../bible/kt/anoint]] and [[../bible/kt/peopleofgod]] and [[../bible/kt/christ]])
 
 ## Part 3: Important Translation Issues
 
@@ -51,7 +51,7 @@ A curse is a strong statement a person makes to cause bad things to happen to th
 
 ### How is the name “Israel” used in the Bible?
 
-The name “Israel” is used in many different ways in the Bible. Jacob was the son of Isaac. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[rc://*/tw/dict/bible/kt/israel]])
+The name “Israel” is used in many different ways in the Bible. Jacob was the son of Isaac. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[../bible/kt/israel]])
 
 The Book of 1 Samuel has two references to Israel and Judah ([1 Samuel 17:52](../17/52.md), [1 Samuel 18:16](../18/16.md)). However, these references appear in the text long before the two kingdoms split apart. It seems clear that the references to Israel and Judah are in the text because the author wrote at a time after the kingdoms split. He wanted the readers to understand that all the twelve tribes had supported David.
 
