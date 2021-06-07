@@ -1,0 +1,3 @@
+# General Information:
+
+The list speaks here of the town of **Elam** as if it were the ancestor of all the people who lived there. It is saying figuratively that these men were from families that had originally lived in that town. (“The other Elam” indicates that this is the town of that name, not the person of that name mentioned in [2:7](../02/07.md).) Alternate translation: “From the town of Elam” (See: [[figs-personification]])

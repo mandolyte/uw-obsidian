@@ -1,0 +1,3 @@
+# General Information:
+
+This phrase, common in Hebrew storytelling, indicates that the book will now relate events that occurred some time after the events it has described to this point. (Nearly sixty years went by between the sixth year of the reign of Darius, when the Jews finished rebuilding the temple, [6:15](../06/15.md), and the seventh year of Artaxerxes, who was the grandson of Darius, when Ezra traveled to Jerusalem, [7:6](../07/06.md).) If your language has a similar phrase that indicates this same thing, you can use that in your translation. (See: [[writing-newevent]])

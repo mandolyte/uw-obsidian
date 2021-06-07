@@ -1,0 +1,3 @@
+# General Information:
+
+**Them** means everyone listed in [8:2–14](../08/02.md), everyone who would be traveling with Ezra. The implication is that they all packed for the trip and set out from their homes, but then assembled at a location outside of the city of Babylon where Ezra could make sure the group was ready for the trip. If it would be helpful to your readers, you could say that explicitly. Alternate translation: “I had everyone who was going to be traveling with me assemble on the banks of the river that flows from Babylon to Ahava. We camped there for three days so that I could make sure that we had enough temple personnel with us and that we could transport the gold and silver safely” (See: [[figs-explicit]])

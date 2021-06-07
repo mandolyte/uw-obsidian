@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+The first thing that Ezra does when he begins to tell his own story is pray to God, rather than address the audience that will hear his story. If you decided to add a phrase to introduce him as the new narrator, you could use that same phrase to introduce this prayer as a direct quotation. Alternate translation: “When I, Ezra, received this letter from the king, I prayed, ‘Thank you, Yahweh, the God of our ancestors’” Otherwise, you could show that this prayer is distinct from the story by setting it off with quotation marks or with whatever other punctuation or convention your language uses to indicate a quotation. The quotation should end in the middle of [7:28](../07/28.md), after “the mighty officials of the king.” (See: [[figs-aside]])

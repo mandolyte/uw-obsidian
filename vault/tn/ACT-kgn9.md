@@ -1,0 +1,3 @@
+# General Information:
+
+The story of Saul continues but Luke introduces another man named Ananias. This is not the same Ananias who died earlier in Acts [Acts 5:3](../05/03.md). You may translate this name the same way though as you did in [Acts 5:1](../05/01.md). Though there is more than one Judas mentioned in the New Testament, it is likely this is the only appearance of this Judas. (See: [[translate-names]])

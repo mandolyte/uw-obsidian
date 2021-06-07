@@ -1,0 +1,3 @@
+# General Information:
+
+Starting here, and through [5:16](../05/16.md), there is another quotation within a quotation. The book is quoting from the letter that Tattenai and his associates sent to King Darius, and within that letter, they are quoting what the Jewish elders told them in response to their question. It may be helpful to your readers to indicate this with an opening secondary quotation mark or with whatever other punctuation or convention your language uses to indicate the beginning of a quotation within a quotation. (See: [[figs-quotemarks]])

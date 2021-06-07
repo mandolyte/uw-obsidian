@@ -1,0 +1,3 @@
+# General Information:
+
+Parallelism is common in Hebrew poetry. Possible meanings for the header “a psalm of Solomon” are (1) David wrote this psalm about Solomon (“the king’s son”) or (2) Solomon (who, as David’s son, was “the king’s son”) wrote this psalm as a prayer about himself or (3) another king wrote it about his son in the style of Solomon. People in those days would often speak of themselves as if they were someone else. However, it would be best to translate this as though the psalmist is speaking of someone else, not of himself. (See: [[writing-poetry]] and [[figs-parallelism]] and [[figs-123person]])

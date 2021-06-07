@@ -1,0 +1,3 @@
+# General Information:
+
+The first word “them” refers to apostles and elders ([Acts 15:6](../15/06.md)) and the other words “them” and “their” refer to the believing Gentiles. Here the word “you” is plural and refers to the apostles and elders present. The word “he” refers to God. Here “us” is plural and refers to Peter, the apostles and elders, and all Jewish believers in general. (See: [[figs-you]] and [[figs-exclusive]])

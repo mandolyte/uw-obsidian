@@ -1,0 +1,3 @@
+# General Information:
+
+This sentence may be hard for readers to follow because, in it, the direct object (that is, the thing that receives the action) comes first, and it consists of a very long phrase. If it would be clearer in your language, you could break this sentence into three sentences. Alternate translation: “Nebuchadnezzar had taken the gold and silver objects that were used in worship out of the temple in Jerusalem and brought them to the temple in Babylon. King Cyrus took them out of the temple in Babylon and gave them to Sheshbazzar”

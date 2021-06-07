@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+Having described the service of the tabernacle under God’s law, the writer makes clear that Christ’s service under the new covenant is better because it is sealed with his blood. It is better also because Christ has entered the true “tabernacle,” that is, God’s own presence in heaven, instead of entering, as other high priests, into the earthly tabernacle, which was only an imperfect copy.

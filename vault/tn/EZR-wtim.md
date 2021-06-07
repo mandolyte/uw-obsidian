@@ -1,0 +1,3 @@
+# General Information:
+
+As in [4:13](../04/13.md), [4:14](../04/14.md), and [4:21](../04/21.md), **now** introduces an important point within a letter. (It is similar to the expression “and now” in [4:10](../04/10.md), [4:11](../04/11.md), [4:17](../04/17.md), and [5:17](../05/17.md).) If your language has a comparable expression that it uses for this same purpose, you can use that in your translation. (See: [[grammar-connect-words-phrases]])

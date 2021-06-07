@@ -1,0 +1,3 @@
+# General Information:
+
+This continues the story about two shepherds that began in [Zechariah 11:4](../11/04.md). Possible meanings are (1) Zechariah actually became a shepherd over a flock as a symbolic act showing how Yahweh will treat his people or (2) Zechariah tells a parable that teaches how Yahweh will treat his people. Since it is uncertain which of these meanings is correct, it would be best not to specify either option in the translation. (See: [[translate-symaction]] and [[figs-parables]])

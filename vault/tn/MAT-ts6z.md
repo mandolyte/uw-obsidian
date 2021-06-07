@@ -1,0 +1,3 @@
+# General Information:
+
+Jesus speaks of the kingdom of heaven as if it were a house, the door into which the Pharisees have shut from the outside so that neither they nor anyone else can enter the house. If you do not keep the metaphor of the house, be sure to change all instances of “shut” and “enter.” Also, since the words “kingdom of heaven,” which refer to God, who lives in heaven, occur only in Matthew, try to use your language’s word for “heaven” in your translation. (See: [[figs-metaphor]] and [[figs-metonymy]])

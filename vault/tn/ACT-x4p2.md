@@ -1,0 +1,3 @@
+# General Information:
+
+Verses 35-38 contains a series of connected phrases referring to Moses. Each phrase begins with statements such as “This Moses” or “This same Moses” or “This is the man” or “It is the same Moses.” If possible, use similar statements to emphasize Moses. After the Israelites left Egypt, they spent 40 years wandering around the wilderness before God led them into the land he had promised them.

@@ -1,0 +1,3 @@
+# General Information:
+
+In verse 8 Micah begins speaking as if he were one woman speaking to her enemy, another woman. This is perhaps the daughter of Zion ([Micah 1:13](../01/13.md)), who represents the people of Israel, speaking to the “daughter of soldiers” ([Micah 5:1](../05/01.md)), who represents the nations which attacked Israel. All commands and instances of “you” are feminine singular. (See: [[figs-metaphor]] and [[figs-you]])

@@ -1,0 +1,3 @@
+# General Information:
+
+Micah continues the poem that began in [Micah 7:8](../07/08.md), speaking as if he were one woman speaking to her enemy, another woman. This is perhaps the daughter of Zion ([Micah 1:13](../01/13.md)), who represents the people of Israel, speaking to the “daughter of soldiers” ([Micah 5:1](../05/01.md)), who represents the nations which attacked Israel. (See: [[figs-metaphor]])

@@ -1,0 +1,3 @@
+# General Information:
+
+Yahweh is speaking. The Hebrew text is not clear in various places. However, many people interpret it as describing the royal officials as being unfaithful to God, and also as planning to assassinate the king, and then carrying out their plans. This seems to have happened more than once. These crimes are mentioned as illustrations of the wickedness into which the nation has sunk.

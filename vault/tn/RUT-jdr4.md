@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+Naomi’s rhetorical question in verse 1 gave the reason for the advice that she is about to give to Ruth in verses 2-4. This word marks what follows as the result of verse 1. In other words, Naomi advises Ruth what to do (3:2-4) because she desires to find a good, secure home for Ruth (3:1) If it is more clear in your language to state the reason after the result, you may want to put verse 1 after verses 2-4, marked as verses 1-4 together. (See: [[grammar-connect-logic-result]])

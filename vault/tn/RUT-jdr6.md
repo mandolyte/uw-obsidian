@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+This phrase indicates that what came before in verse 10 is the reason for what follows in verse 11. This can be indicated with a word like **Therefore**. If it is clearer in your language to put the reason after the result, the order would be: Boaz is motivated to perform the role of kinsman-redeemer (verse 11) **because** he has seen how much kindness Ruth has shown to Naomi (verse 10). If you choose this order, you will need to combine the verses and the verse numbers (See: [[grammar-connect-logic-result]]).

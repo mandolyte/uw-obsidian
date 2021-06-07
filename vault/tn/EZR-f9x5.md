@@ -1,0 +1,3 @@
+# General Information:
+
+Here the book leaves out some of the material that a story would ordinarily need in order to be complete. It jumps right from its quotation from the scroll that was discovered at Ecbatana into the letter that King Darius wrote to Tattenai and his associates in response to what the scroll said. You could say this explicitly if it would be helpful to your readers. Alternate translation: “When King Darius learned from the scroll that Cyrus had ordered the temple to be rebuilt, he sent Tattenai and his associates a letter in answer to their inquiry. He told them what he had learned and then warned them, “Now Tattaenai” (See: [[figs-ellipsis]])

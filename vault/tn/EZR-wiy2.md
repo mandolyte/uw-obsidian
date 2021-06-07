@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+This phrase indicates that the sentence it introduces explains the results of what the previous sentence described. Specifically, Artaxerxes has just said that Ezra may pay for additional expenses out of the royal treasury. Consequently, regarding providing funds to Ezra, he will now give instructions to the officials responsible for administering the royal revenue in the province where Jerusalem is located. Alternate translation: “Consequently, from me” (See: [[grammar-connect-logic-result]])

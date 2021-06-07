@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+This is the fourth item in the list of characteristics that Moses reminds the Israelites that they must remember about “Yahweh your God” ([Deuteronomy 8:14](./14.md)) the first being that he “brought you out of Egypt” ([Deuteronomy 8:14](./14.md)), the second that he led them “through the … wilderness” ([Deuteronomy 8:15](./15.md)), and the third that he “brought … water out of the rock” ([Deuteronomy 8:15](./15.md)).

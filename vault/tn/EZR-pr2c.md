@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+The word **therefore** introduces the final part of the long sentence in [7:14–17](../07/14.md). It indicates the results of the reasons that the sentence has given so far. You can translate it with the word or phrase in your language that is most similar in meaning and significance. However, if you have followed the suggestion to break this long sentence up into several shorter sentences, you do not need to represent the word here in your translation. (See: [[grammar-connect-logic-result]])

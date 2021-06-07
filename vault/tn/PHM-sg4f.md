@@ -1,0 +1,3 @@
+# General Information:
+
+Three times Paul identifies himself as the author of this letter. Evidently Timothy was with him and probably wrote the words down as Paul said them. Paul greets others who meet for church at Philemon’s house. All instances of “I,” “me,” and “my” refer to Paul. Philemon is the main person to whom this letter is written. All instances of “you” and “your” refer to him and are singular unless otherwise noted. (See: [[figs-you]])

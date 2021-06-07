@@ -1,0 +1,3 @@
+# General Information:
+
+This begins a second-level quotation that continues until the end of [verse 17](../03/17.md). It contains a third-level quotation that begins at “I have certainly” and also continues to the end of verse 17. It may be helpful to your readers to indicate this with an opening second-level quotation mark or with whatever other punctuation or convention your language uses to indicate the beginning of a quotation within a quotation. The closing marks for both the second and third-level quotations should not occur until the end of verse 17. (See: [[figs-quotemarks]])

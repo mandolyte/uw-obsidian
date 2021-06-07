@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+The word **and** could indicate that the sentence it introduces draws a contrast between what Ezra and the other Jewish leaders could do with gold and silver that people contributed in the form of money and what they had to do with gold and silver that people contributed in the form of bowls and other objects that could be used in the temple. You could begin the sentence with a word such as **however** to indicate this contrast. (See: [[grammar-connect-words-phrases]])

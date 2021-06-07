@@ -1,0 +1,3 @@
+# General Information:
+
+Though this letter is from Paul and Timothy to the Colossian believers, later in the letter Paul makes it clear that he is the writer. Most likely Timothy was with him and wrote the words down as Paul spoke. Throughout this letter the words “we,” “our,” and “ours” include the Colossians unless noted otherwise. The words “you,” “your,” and “yours” refer to the Colossian believers and so are plural unless noted otherwise. (See: [[figs-exclusive]] and [[figs-you]])

@@ -1,0 +1,3 @@
+# General Information:
+
+Paul and Timothy wrote this letter to the church at Philippi. Because Paul writes later in the letter saying “I,” it is generally assumed that he is the author and that Timothy, who is with him, writes as Paul speaks. All instances of “you” and “your” in the letter refer to the believers in the Philippian church and are plural. The word “our” probably refers to all believers in Christ, including Paul, Timothy, and the Philippian believers. (See: [[figs-you]] and [[figs-exclusive]])

@@ -1,0 +1,3 @@
+# General Information:
+
+The first two instances of the word “you” are plural and refer to the Jews to whom Paul is speaking. Here the words “we” and “us” refers to Paul and Barnabas but not the crowd that was present. Paul’s quotation is from the prophet Isaiah in the Old Testament. In the original passage, the word “I” refers to God and the word “you” is singular and refers to the Messiah. Here, Paul and Barnabas seem to be saying that the quotation also refers to their ministry. (See: [[figs-exclusive]])

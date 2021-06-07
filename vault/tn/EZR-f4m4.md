@@ -1,0 +1,3 @@
+# General Information:
+
+As in [4:10](../04/10.md) and [4:11](../04/11.md), **and now** is an Aramaic expression that introduces the main business of a letter. In this case, it comes near the end of the letter. If your language has a comparable expression that it uses for this same purpose, you can use that in your translation. Otherwise, you do not need to represent this phrase. (See: [[grammar-connect-words-phrases]])

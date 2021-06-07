@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+Up to this point in the letter, Artaxerxes has been addressing Ezra, and he has spoken of himself mostly in the third person. But now as he turns to address a new audience, the royal treasurers, he speaks of himself in the first person, and he uses the emphatic form **me myself** and repeats his name and title, as in [7:12](../07/12.md). If you have been translating the king’s use of the third person for himself in this letter with the second person in your language, it may be helpful to your readers if you use some emphatic form or extended phrase here to show this transition. Alternate translation: “ And I, King Artaxerxes, am personally commanding” (See: [[figs-123person]])

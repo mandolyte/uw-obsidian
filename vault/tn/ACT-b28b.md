@@ -1,0 +1,3 @@
+# General Information:
+
+Here the word “we” refers to James and the elders ([Acts 21:18](../21/18.md)). The word “They” refers to the Jewish believers in Jerusalem who wanted to teach Jewish believers that they could still follow the laws of Moses ([Acts 21:20-21](./20.md)). The words “them,” “their,” and the first “they” refer to the four men who made a vow. The second words “they” and “They” refer to the Jewish believers in Jerusalem who wanted to teach Jewish believers that they could still follow the laws of Moses. (See: [[figs-exclusive]])

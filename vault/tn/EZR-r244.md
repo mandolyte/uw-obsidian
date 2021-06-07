@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+The king now returns to address Ezra personally, so **you** refers to him here, and you and your similarly refer to him in all of their other occurrences through [7:26](../07/26.md), except in the phrase **you shall teach** at the end of this verse. If your language distinguishes between forms of you, the form for a superior addressing a respected individual would be appropriate. (See: [[figs-you]])

@@ -1,0 +1,3 @@
+# Connecting Statement:
+
+The word **because** indicates that in the long sentence that follows, the next several phrases ([7:14–16](../07/14.md)) will provide the reasons for what the final two phrases say (in [7:17](../07/17.md)). You can translate this first word with the word or phrase in your language that is most similar in meaning and significance. However, also consider the suggestion in the first note to [7:15](../07/15.md) about breaking up this long sentence if that would make things clearer for your readers. If you follow that suggestion, you do not need to represent the word here in your translation. Alternate translation: “Since” or “In view of the fact that” (See: [[grammar-connect-logic-result]])
