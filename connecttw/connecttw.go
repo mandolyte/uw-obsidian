@@ -140,7 +140,7 @@ func main() {
 				// first rewrite reference to point to TN verse header
 				// Info: [[tit#1:1|1:1]]
 				bookref := verseTable[i][j]
-				fo.WriteString(`[[` + *inputBookId + `#` + bookref + `|` + bookref + `]]`)
+				fo.WriteString(`[[` + *inputBookId + `#` + bookref + `|` + bookref + `]] `)
 				continue
 			}
 			fo.WriteString(verseTable[i][j] + " ")
