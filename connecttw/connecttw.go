@@ -13,6 +13,7 @@ import (
 
 func main() {
 	inputBook := flag.String("book", "", "Input Book filename")
+	inputBookId := flag.String("bookId", "", "Input Book ID")
 	inputTwl := flag.String("twl", "", "Input twl filename")
 	outputDir := flag.String("dir", "../vault", "Output folder; default 'vault'")
 	flag.Parse()
@@ -24,6 +25,10 @@ func main() {
 	if *inputBook == "" {
 		usage("")
 		log.Fatal("book argument is missing")
+	}
+	if *inputBookId == "" {
+		usage("")
+		log.Fatal("book id is missing")
 	}
 	if *inputTwl == "" {
 		usage("")
@@ -54,11 +59,14 @@ func main() {
 			continue
 		}
 		// remove punctuation
-		for i := range cells {
-			cells[i] = strings.TrimRight(cells[i], ",;.")
-		}
+		/*
+			for i := range cells {
+				cells[i] = strings.TrimRight(cells[i], ",;.")
+			}
+		*/
 		verseTable = append(verseTable, cells)
 	}
+	log.Printf("verse table size:%v", len(verseTable))
 
 	// open input twl file
 	var r *csv.Reader
@@ -92,6 +100,7 @@ func main() {
 			continue
 		}
 		row++
+		//log.Printf("Working on TWL row: %v", row)
 
 		// match against book
 		twlRef := cells[0]
@@ -101,11 +110,12 @@ func main() {
 		twlLink := cells[5]
 		for i := 0; i < len(verseTable); i++ {
 			bookref := verseTable[i][0]
+
 			if twlRef == bookref {
 				occurrence := 0
 				_footnote := ""
 				for j := range verseTable[i] {
-					//if twlQuote == verseTable[i][j] {
+					//log.Printf("Working on i,j:%v,%v", i, j)
 					if checkMatch(verseTable[i][j], twlQuote, punctuation) {
 						occurrence++
 						if strconv.Itoa(occurrence) == twlOccurrence {
@@ -125,6 +135,14 @@ func main() {
 	// the markdown file with footnotes
 	for i := 0; i < len(verseTable); i++ {
 		for j := 0; j < len(verseTable[i]); j++ {
+			if j == 0 {
+				// handle the tn reference
+				// first rewrite reference to point to TN verse header
+				// Info: [[tit#1:1|1:1]]
+				bookref := verseTable[i][j]
+				fo.WriteString(`[[` + *inputBookId + `#` + bookref + `|` + bookref + `]]`)
+				continue
+			}
 			fo.WriteString(verseTable[i][j] + " ")
 		}
 		fo.WriteString("\n")
