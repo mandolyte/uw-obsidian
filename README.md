@@ -17,6 +17,9 @@ Steps:
 Then Run `sh run.sh`. This will match up the TWL file and the Greek text and add footnotes in the text pointing to the TW articles. It also does a simple connection at the verse level to the translation notes. It will also fix the links in the TWL to work locally.
 1. Clone the TN repo locally.
 1. In the `xformtn` folder, run `sh run.sh`. This will convert the TSV file to a linkable markdown file suitable for Obsidian. It also changes the `\n` characters to newlines and will fix the links to work locally.
+1. Clone the greek and hebrew lexicons
+1. In the `lexicon` folder, run `sh copyStrongArticles.sh`. This will copy all documents into the `vault/lexicon` folder with proper names (hebrew is ok; greek must be adjusted)
+1. Then run `sh run.sh`. This will update all TW articles to point to the lexicon articles in the "Strongs" paragrapch (last one).
 
 
 Source for Greek Text: https://door43.org/u/unfoldingWord/UGNT/69478b8734/57-TIT.html#056-ch-001
