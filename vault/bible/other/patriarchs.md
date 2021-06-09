@@ -18,4 +18,4 @@ The term “patriarch” in the Bible refers to someone who was a founding ances
 
 ## Word Data:
 
-* Strong’s: H1, H7218, G3966
+* Strong’s: [[H0001]], [[H7218]], [[G03966]]

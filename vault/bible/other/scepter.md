@@ -23,4 +23,4 @@ The term “scepter” refers to an ornamental rod or staff held by a ruler, suc
 
 ## Word Data:
 
-* Strong’s: H2710, H4294, H7626, H8275, G4464
+* Strong’s: [[H2710]], [[H4294]], [[H7626]], [[H8275]], [[G04464]]

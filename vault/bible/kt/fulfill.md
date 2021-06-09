@@ -37,4 +37,4 @@ The term “fulfill” means to complete or accomplish something that was expect
 
 ## Word Data:
 
-* Strong’s: H1214, H5487, G1096, G4138
+* Strong’s: [[H1214]], [[H5487]], [[G01096]], [[G04138]]

@@ -24,4 +24,4 @@ Shem was one of Noah’s three sons, all of whom went with him into the ark duri
 
 ## Word Data:
 
-* Strong’s: H8035, G4590
+* Strong’s: [[H8035]], [[G04590]]

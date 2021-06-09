@@ -30,4 +30,4 @@ The term “house” refers to a small building, shelter, or tent, usually the p
 
 ## Word Data:
 
-* Strong’s: H1004, H1005, G3609, G3613, G3614, G3624
+* Strong’s: [[H1004]], [[H1005]], [[G03609]], [[G03613]], [[G03614]], [[G03624]]

@@ -20,4 +20,4 @@ The term “quench” means to put out or stop something that is demanding to be
 
 ## Word Data:
 
-* Strong’s: H1846, H3518, H7665, G762, G4570
+* Strong’s: [[H1846]], [[H3518]], [[H7665]], [[G00762]], [[G04570]]

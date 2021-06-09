@@ -22,4 +22,4 @@ The term “loins” refers to the part of the body of an animal or person that 
 
 ## Word Data:
 
-* Strong’s: H2504, H3409, H3689, H4975, G3751
+* Strong’s: [[H2504]], [[H3409]], [[H3689]], [[H4975]], [[G03751]]

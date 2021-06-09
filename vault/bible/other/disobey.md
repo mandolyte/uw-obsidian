@@ -30,4 +30,4 @@ The term “disobey” means to not obey what someone in authority has commanded
 
 ## Word Data:
 
-* Strong’s: H4784, H5674, G506, G543, G544, G545, G3847, G3876
+* Strong’s: [[H4784]], [[H5674]], [[G00506]], [[G00543]], [[G00544]], [[G00545]], [[G03847]], [[G03876]]

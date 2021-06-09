@@ -48,4 +48,4 @@ In the Bible, a priest was someone who was chosen to offer sacrifices to God on 
 
 ## Word Data:
 
-* Strong’s: H3547, H3548, H3549, H3550, G748, G749, G2405, G2406, G2407, G2409, G2420
+* Strong’s: [[H3547]], [[H3548]], [[H3549]], [[H3550]], [[G00748]], [[G00749]], [[G02405]], [[G02406]], [[G02407]], [[G02409]], [[G02420]]

@@ -25,4 +25,4 @@ The term “image” refers to something that looks like something else or that 
 
 ## Word Data:
 
-* Strong’s: H4541, H1544, H2553, H6456, H6459, H6754, H6816, H8403, G504, G179
+* Strong’s: [[H4541]], [[H1544]], [[H2553]], [[H6456]], [[H6459]], [[H6754]], [[H6816]], [[H8403]], [[G00504]], [[G00179]]

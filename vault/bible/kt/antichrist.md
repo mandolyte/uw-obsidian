@@ -24,4 +24,4 @@ The term “antichrist” refers to a person or teaching that is against Jesus C
 
 ## Word Data:
 
-* Strong’s: G500
+* Strong’s: [[G00500]]

@@ -37,4 +37,4 @@ The term “peace” refers to a state of being or a feeling of having no confli
 
 ## Word Data:
 
-* Strong’s: H5117, H7961, H7962, H7965, H7999, H8001, H8002, H8003, H8252, G269, G1514, G1515, G1516, G1517, G1518, G2272
+* Strong’s: [[H5117]], [[H7961]], [[H7962]], [[H7965]], [[H7999]], [[H8001]], [[H8002]], [[H8003]], [[H8252]], [[G00269]], [[G01514]], [[G01515]], [[G01516]], [[G01517]], [[G01518]], [[G02272]]

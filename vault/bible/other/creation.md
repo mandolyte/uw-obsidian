@@ -33,4 +33,4 @@ The term “create” means to make something or to cause something to be. Whate
 
 ## Word Data:
 
-* Strong’s: H3335, H4639, H6213, H6385, H7069, G2041, G2602, G2675, G2936, G2937, G2939, G4160, G5480
+* Strong’s: [[H3335]], [[H4639]], [[H6213]], [[H6385]], [[H7069]], [[G02041]], [[G02602]], [[G02675]], [[G02936]], [[G02937]], [[G02939]], [[G04160]], [[G05480]]

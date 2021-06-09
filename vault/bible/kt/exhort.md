@@ -23,4 +23,4 @@ The term “exhort” means to strongly encourage and urge someone to do what is
 
 ## Word Data:
 
-* Strong’s: G3867, G3870, G3874, G4389
+* Strong’s: [[G03867]], [[G03870]], [[G03874]], [[G04389]]

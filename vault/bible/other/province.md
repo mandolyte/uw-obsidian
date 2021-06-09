@@ -20,4 +20,4 @@ The term “province” refers to a large area into which a nation or empire mig
 
 ## Word Data:
 
-* Strong’s: H4082, H4083, H5675, H5676, G1885
+* Strong’s: [[H4082]], [[H4083]], [[H5675]], [[H5676]], [[G01885]]

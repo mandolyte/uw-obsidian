@@ -23,4 +23,4 @@ During Bible times, Gaza was a prosperous Philistine city located on the coast o
 
 ## Word Data:
 
-* Strong’s: H5804, H5841, G1048
+* Strong’s: [[H5804]], [[H5841]], [[G01048]]

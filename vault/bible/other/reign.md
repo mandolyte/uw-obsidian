@@ -21,4 +21,4 @@ The term to “reign” means to rule over the people of a particular country or
 
 ## Word Data:
 
-* Strong’s: H3427, H4427, H4437, H4438, H4467, H4468, H4475, H4791, H4910, H6113, H7287, H7786, G757, G936, G2231, G4821
+* Strong’s: [[H3427]], [[H4427]], [[H4437]], [[H4438]], [[H4467]], [[H4468]], [[H4475]], [[H4791]], [[H4910]], [[H6113]], [[H7287]], [[H7786]], [[G00757]], [[G00936]], [[G02231]], [[G04821]]

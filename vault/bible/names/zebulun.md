@@ -23,4 +23,4 @@ Zebulun was Jacob’s tenth son. He was Leah’s sixth son. His descendants beca
 
 ## Word Data:
 
-* Strong’s: H2074, H2075, G2194
+* Strong’s: [[H2074]], [[H2075]], [[G02194]]

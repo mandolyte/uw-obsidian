@@ -35,4 +35,4 @@ The term “right hand” refers to the hand on the right side of a person’s b
 
 ## Word Data:
 
-* Strong’s: H3225, H3231, H3233, G1188
+* Strong’s: [[H3225]], [[H3231]], [[H3233]], [[G01188]]

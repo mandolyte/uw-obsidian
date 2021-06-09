@@ -29,4 +29,4 @@ The term “mind” refers to the part of a person that thinks and makes decisio
 
 ## Word Data:
 
-* Strong’s: H3629, H3820, H3824, H5162, H7725, G1271, G1374, G3328, G3525, G3540, G3563, G4993, G5590
+* Strong’s: [[H3629]], [[H3820]], [[H3824]], [[H5162]], [[H7725]], [[G01271]], [[G01374]], [[G03328]], [[G03525]], [[G03540]], [[G03563]], [[G04993]], [[G05590]]

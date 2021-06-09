@@ -32,4 +32,4 @@ The concept of the “people of God” in the Bible refers to people with whom G
 
 ## Word Data:
 
-* Strong’s: H430, H5971, G2316, G2992
+* Strong’s: [[H0430]], [[H5971]], [[G02316]], [[G02992]]

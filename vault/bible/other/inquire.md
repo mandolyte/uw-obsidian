@@ -21,4 +21,4 @@ The term “inquire” means to ask someone for information. The expression “i
 
 ## Word Data:
 
-* Strong’s: H1240, H1245, H1875, G1830
+* Strong’s: [[H1240]], [[H1245]], [[H1875]], [[G01830]]

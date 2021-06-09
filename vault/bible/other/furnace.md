@@ -20,4 +20,4 @@ A furnace was a very large oven used for heating objects to a high temperature.
 
 ## Word Data:
 
-* Strong’s: H0861, H3536, H3564, H5948, H8574, G2575
+* Strong’s: [[H0861]], [[H3536]], [[H3564]], [[H5948]], [[H8574]], [[G02575]]

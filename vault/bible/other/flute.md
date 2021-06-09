@@ -22,4 +22,4 @@ In Bible times, pipes were musical instruments made of bone or wood with holes t
 
 ## Word Data:
 
-* Strong’s: H4953, H5748, H2485, H2490, G832, G834, G836
+* Strong’s: [[H4953]], [[H5748]], [[H2485]], [[H2490]], [[G00832]], [[G00834]], [[G00836]]

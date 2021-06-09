@@ -22,4 +22,4 @@ In New Testament times, Thessalonica was the capital city of Macedonia in the an
 
 ## Word Data:
 
-* Strong’s: G2331, G2332
+* Strong’s: [[G02331]], [[G02332]]

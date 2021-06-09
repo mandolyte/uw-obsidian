@@ -18,4 +18,4 @@ The term “month” refers to a period of time lasting about four weeks. The nu
 
 ## Word Data:
 
-* Strong’s: H2320, H3391, H3393, G3376
+* Strong’s: [[H2320]], [[H3391]], [[H3393]], [[G03376]]

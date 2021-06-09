@@ -30,4 +30,4 @@ The term “firstborn” refers to an offspring of people or animals that is bor
 
 ## Word Data:
 
-* Strong’s: H1060, H1062, H1067, H1069, G4416, G5207
+* Strong’s: [[H1060]], [[H1062]], [[H1067]], [[H1069]], [[G04416]], [[G05207]]

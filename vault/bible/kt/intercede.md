@@ -26,4 +26,4 @@ The terms “intercede” and “intercession” refer to making requests to som
 
 ## Word Data:
 
-* Strong’s: H6293, G1783, G1793, G5241
+* Strong’s: [[H6293]], [[G01783]], [[G01793]], [[G05241]]

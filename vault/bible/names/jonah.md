@@ -25,4 +25,4 @@ Jonah was a Hebrew prophet in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H3124, G2495
+* Strong’s: [[H3124]], [[G02495]]

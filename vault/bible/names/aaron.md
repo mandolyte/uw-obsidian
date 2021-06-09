@@ -30,4 +30,4 @@ Aaron was Moses’ older brother. God chose Aaron to be the first high priest fo
 
 ## Word Data:
 
-* Strong’s: H0175, G0002
+* Strong’s: [[H0175]], [[G00002]]

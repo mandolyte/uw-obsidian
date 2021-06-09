@@ -17,4 +17,4 @@ A sandal is a simple shoe with a flat sole that is held onto the foot by straps 
 
 ## Word Data:
 
-* Strong’s: H5274, H5275, H8288, G4547, G5266
+* Strong’s: [[H5274]], [[H5275]], [[H8288]], [[G04547]], [[G05266]]

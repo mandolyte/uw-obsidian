@@ -25,4 +25,4 @@ Hananiah was the name of several different men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H2608
+* Strong’s: [[H2608]]

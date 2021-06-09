@@ -34,4 +34,4 @@ The term “work” refers generally either to the action of expending effort in
 
 ## Word Data:
 
-* Strong’s: H4399, H4566, H4567, H4611, H4659, H5949, G2041
+* Strong’s: [[H4399]], [[H4566]], [[H4567]], [[H4611]], [[H4659]], [[H5949]], [[G02041]]

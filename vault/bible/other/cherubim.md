@@ -30,4 +30,4 @@ The term “cherub,” and its plural form “cherubim,” refer to a special ty
 
 ## Word Data:
 
-* Strong’s: H3742, G5502
+* Strong’s: [[H3742]], [[G05502]]

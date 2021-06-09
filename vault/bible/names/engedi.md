@@ -18,4 +18,4 @@ En Gedi was the name of a city in the wilderness of Judah southeast of Jerusalem
 
 ## Word Data:
 
-* Strong’s: H5872
+* Strong’s: [[H5872]]

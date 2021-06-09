@@ -22,4 +22,4 @@ The terms “predestine” and “predestined” refer to deciding or planning b
 
 ## Word Data:
 
-* Strong’s: G4309
+* Strong’s: [[G04309]]

@@ -24,4 +24,4 @@ The term “blameless” literally means “without blame.” It is used to refe
 
 ## Word Data:
 
-* Strong’s: H5352, H5355, H8535, G273, G274, G298, G299, G338, G410, G423
+* Strong’s: [[H5352]], [[H5355]], [[H8535]], [[G00273]], [[G00274]], [[G00298]], [[G00299]], [[G00338]], [[G00410]], [[G00423]]

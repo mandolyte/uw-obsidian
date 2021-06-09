@@ -31,4 +31,4 @@ Bathsheba was the wife of Uriah, a soldier in King David’s army. After Uriah�
 
 ## Word Data:
 
-* Strong’s: H1339
+* Strong’s: [[H1339]]

@@ -25,4 +25,4 @@ Damascus is the capital city of the country of Syria. It is still in the same lo
 
 ## Word Data:
 
-* Strong’s: H1834, G1154
+* Strong’s: [[H1834]], [[G01154]]

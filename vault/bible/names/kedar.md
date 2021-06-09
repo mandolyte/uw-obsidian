@@ -20,4 +20,4 @@ Kedar was Ishmael’s second son. It was also an important city, which was proba
 
 ## Word Data:
 
-* Strong’s: H6938
+* Strong’s: [[H6938]]

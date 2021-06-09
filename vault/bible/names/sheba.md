@@ -23,4 +23,4 @@ In ancient times, Sheba was an ancient civilization or region of land that was l
 
 ## Word Data:
 
-* Strong’s: H5434, H7614
+* Strong’s: [[H5434]], [[H7614]]

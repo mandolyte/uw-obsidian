@@ -23,4 +23,4 @@ Gad was Jacob’s seventh son. He was Zilpah’s first son. His descendants beca
 
 ## Word Data:
 
-* Strong’s: H1410, H1425, G1045
+* Strong’s: [[H1410]], [[H1425]], [[G01045]]

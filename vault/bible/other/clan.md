@@ -23,4 +23,4 @@ The term “clan” refers to a group of extended family members who come from a
 
 ## Word Data:
 
-* Strong’s: H0001, H0441, H1004, H4940
+* Strong’s: [[H0001]], [[H0441]], [[H1004]], [[H4940]]

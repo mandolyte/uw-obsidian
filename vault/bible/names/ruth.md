@@ -21,4 +21,4 @@ Ruth was a Moabite woman who lived during the time when judges were leading Isra
 
 ## Word Data:
 
-* Strong’s: H7327, G4503
+* Strong’s: [[H7327]], [[G04503]]

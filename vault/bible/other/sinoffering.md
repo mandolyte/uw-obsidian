@@ -22,4 +22,4 @@ The “sin offering” was one of several sacrifices that God required the Israe
 
 ## Word Data:
 
-* Strong’s: H2401, H2402, H2398, H2403
+* Strong’s: [[H2401]], [[H2402]], [[H2398]], [[H2403]]

@@ -22,4 +22,4 @@ The term “splendor” refers to the extreme beauty and elegance that is often 
 
 ## Word Data:
 
-* Strong’s: H1925, H1926, H1927, H1935, H2091, H2122, H2892, H3314, H3519, H6643, H7613, H8597
+* Strong’s: [[H1925]], [[H1926]], [[H1927]], [[H1935]], [[H2091]], [[H2122]], [[H2892]], [[H3314]], [[H3519]], [[H6643]], [[H7613]], [[H8597]]

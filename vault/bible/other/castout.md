@@ -27,4 +27,4 @@ To “cast out” or “drive out” someone or something means to force that pe
 
 ## Word Data:
 
-* Strong’s: H1272, H1644, H1920, H3423, H7971, H7993, G1544
+* Strong’s: [[H1272]], [[H1644]], [[H1920]], [[H3423]], [[H7971]], [[H7993]], [[G01544]]

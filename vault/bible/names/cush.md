@@ -22,4 +22,4 @@ Cush was the oldest son of Noah’s son Ham. He was also the ancestor of Nimrod.
 
 ## Word Data:
 
-* Strong’s: H3568, H3569, H3570, 3571
+* Strong’s: [[H3568]], [[H3569]], [[H3570]], 3571

@@ -19,4 +19,4 @@ In Bible times, the term “horsemen” referred to men who rode horses into bat
 
 ## Word Data:
 
-* Strong’s: H6571, H7395, G2460
+* Strong’s: [[H6571]], [[H7395]], [[G02460]]

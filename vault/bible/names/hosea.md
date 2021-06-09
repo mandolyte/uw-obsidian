@@ -21,4 +21,4 @@ Hosea was a prophet of Israel who lived and prophesied about 750 years before th
 
 ## Word Data:
 
-* Strong’s: H1954, G5617
+* Strong’s: [[H1954]], [[G05617]]

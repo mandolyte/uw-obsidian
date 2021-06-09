@@ -17,4 +17,4 @@ Nahum was a prophet who preached during the time when the evil King Manasseh was
 
 ## Word Data:
 
-* Strong’s: H5151, G3486
+* Strong’s: [[H5151]], [[G03486]]

@@ -26,4 +26,4 @@ The term “vision” refers to something that a person sees. It especially refe
 
 ## Word Data:
 
-* Strong’s: H2376, H2377, H2378, H2380, H2384, H4236, H4758, H4759, H7203, H7723, H8602, G3701, G3705, G3706
+* Strong’s: [[H2376]], [[H2377]], [[H2378]], [[H2380]], [[H2384]], [[H4236]], [[H4758]], [[H4759]], [[H7203]], [[H7723]], [[H8602]], [[G03701]], [[G03705]], [[G03706]]

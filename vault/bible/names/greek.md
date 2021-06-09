@@ -25,4 +25,4 @@ The term “Greek” refers to the language spoken in the country of Greece, it 
 
 ## Word Data:
 
-* Strong’s: H3125, G1672, G1673, G1674, G1675, G1676
+* Strong’s: [[H3125]], [[G01672]], [[G01673]], [[G01674]], [[G01675]], [[G01676]]

@@ -47,4 +47,4 @@ To be “faithful” to God means to consistently live according to God’s teac
 
 ## Word Data:
 
-* Strong’s: H0529, H0530, H0539, H540, H571, H898, H2181, H4603, H4604, H4820, G569, G571, G4103
+* Strong’s: [[H0529]], [[H0530]], [[H0539]], [[H0540]], [[H0571]], [[H0898]], [[H2181]], [[H4603]], [[H4604]], [[H4820]], [[G00569]], [[G00571]], [[G04103]]

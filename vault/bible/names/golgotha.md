@@ -20,4 +20,4 @@
 
 ## Word Data:
 
-* Strong’s: G1115
+* Strong’s: [[G01115]]

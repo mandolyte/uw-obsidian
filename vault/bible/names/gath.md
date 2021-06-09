@@ -21,4 +21,4 @@ Gath was one of the five major cities of the Philistines. It was located north o
 
 ## Word Data:
 
-* Strong’s: H1661, H1663
+* Strong’s: [[H1661]], [[H1663]]

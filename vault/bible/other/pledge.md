@@ -21,4 +21,4 @@ The term “pledge” refers to formally and solemnly promising to do something 
 
 ## Word Data:
 
-* Strong’s: H781, H2254, H2258, H5667, H5671, H6148, H6161, H6162
+* Strong’s: [[H0781]], [[H2254]], [[H2258]], [[H5667]], [[H5671]], [[H6148]], [[H6161]], [[H6162]]

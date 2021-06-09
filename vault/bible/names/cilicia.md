@@ -21,4 +21,4 @@ Cilicia was a small Roman province located in the southeastern part of what is n
 
 ## Word Data:
 
-* Strong’s: G2791
+* Strong’s: [[G02791]]

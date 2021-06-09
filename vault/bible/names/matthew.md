@@ -23,4 +23,4 @@ Matthew was one of the twelve men that Jesus chose to be his apostles. He was al
 
 ## Word Data:
 
-* Strong’s: G3017, G3156
+* Strong’s: [[G03017]], [[G03156]]

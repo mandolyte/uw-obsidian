@@ -20,4 +20,4 @@ Jonathan was the name of at least ten men in the Old Testament. The name means �
 
 ## Word Data:
 
-* Strong’s: H3083, H3129
+* Strong’s: [[H3083]], [[H3129]]

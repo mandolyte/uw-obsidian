@@ -21,4 +21,4 @@ The terms “lowly” and “lowliness” refer to being poor or having low stat
 
 ## Word Data:
 
-* Strong’s: H6041, H6819, H8217, G5011, G5012, G5014
+* Strong’s: [[H6041]], [[H6819]], [[H8217]], [[G05011]], [[G05012]], [[G05014]]

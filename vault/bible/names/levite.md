@@ -26,4 +26,4 @@ Levi was Jacob’s third son. He was Leah’s third son. His descendants became 
 
 ## Word Data:
 
-* Strong’s: H3878, H3879, H3881, G3017, G3018, G3019, G3020
+* Strong’s: [[H3878]], [[H3879]], [[H3881]], [[G03017]], [[G03018]], [[G03019]], [[G03020]]

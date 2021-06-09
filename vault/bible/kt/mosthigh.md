@@ -28,4 +28,4 @@ The term “Most High” is a title for God. It refers to his greatness or autho
 
 ## Word Data:
 
-* Strong’s: H5945, G5310
+* Strong’s: [[H5945]], [[G05310]]

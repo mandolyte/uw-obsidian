@@ -24,4 +24,4 @@ James, a son of Zebedee, was one of Jesus’ twelve apostles. He had a younger b
 
 ## Word Data:
 
-* Strong’s: G2385
+* Strong’s: [[G02385]]

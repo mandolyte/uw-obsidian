@@ -30,4 +30,4 @@ The terms “defile” and “be defiled” refer to becoming polluted or dirty.
 
 ## Word Data:
 
-* Strong’s: H1351, H1352, H1602, H2490, H2491, H2610, H2930, H2931, G2839, G2840, G3392, G3435
+* Strong’s: [[H1351]], [[H1352]], [[H1602]], [[H2490]], [[H2491]], [[H2610]], [[H2930]], [[H2931]], [[G02839]], [[G02840]], [[G03392]], [[G03435]]

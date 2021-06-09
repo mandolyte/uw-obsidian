@@ -64,4 +64,4 @@ When “Lord” is capitalized, it is a title that refers to God. (Note, however
 
 ## Word Data:
 
-* Strong’s: H0113, H0136, H1167, H1376, H4756, H7980, H8323, G0203, G0634, G0962, G1203, G2962
+* Strong’s: [[H0113]], [[H0136]], [[H1167]], [[H1376]], [[H4756]], [[H7980]], [[H8323]], [[G00203]], [[G00634]], [[G00962]], [[G01203]], [[G02962]]

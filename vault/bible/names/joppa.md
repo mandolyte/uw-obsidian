@@ -22,4 +22,4 @@ In biblical times, the city of Joppa was an important commercial seaport located
 
 ## Word Data:
 
-* Strong’s: H3305, G2445
+* Strong’s: [[H3305]], [[G02445]]

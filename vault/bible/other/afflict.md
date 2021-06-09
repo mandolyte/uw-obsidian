@@ -31,4 +31,4 @@ The term “afflict” means to cause someone distress or suffering. An “affli
 
 ## Word Data:
 
-* Strong’s: H205, H3013, H3905, H3906, H6031, H6039, H6040, H6041, H6862, H6869, H6887, H7451, H7489, G2346, G2347, G3804
+* Strong’s: [[H0205]], [[H3013]], [[H3905]], [[H3906]], [[H6031]], [[H6039]], [[H6040]], [[H6041]], [[H6862]], [[H6869]], [[H6887]], [[H7451]], [[H7489]], [[G02346]], [[G02347]], [[G03804]]

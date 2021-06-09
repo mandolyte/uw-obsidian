@@ -26,4 +26,4 @@ The term “veil” usually refers to a thin piece of cloth that is used as a he
 
 ## Word Data:
 
-* Strong’s: H4304, H4533, H4555, H6777, H6809, H7196, H7479, G343, G2571, G2572
+* Strong’s: [[H4304]], [[H4533]], [[H4555]], [[H6777]], [[H6809]], [[H7196]], [[H7479]], [[G00343]], [[G02571]], [[G02572]]

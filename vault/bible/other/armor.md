@@ -22,4 +22,4 @@ The term “armor” refers to the equipment a soldier uses to fight in a battle
 
 ## Word Data:
 
-* Strong’s: H2290, H2488, H3627, H4055, H5402, G3696, G3833
+* Strong’s: [[H2290]], [[H2488]], [[H3627]], [[H4055]], [[H5402]], [[G03696]], [[G03833]]

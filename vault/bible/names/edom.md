@@ -25,4 +25,4 @@ Edom was another name for Esau. The region where he lived also became known as �
 
 ## Word Data:
 
-* Strong’s: H123, H130, H8165, G2401
+* Strong’s: [[H0123]], [[H0130]], [[H8165]], [[G02401]]

@@ -55,4 +55,4 @@ The term “Yahweh” is God’s personal name in the Old Testament. The specifi
 
 ## Word Data:
 
-* Strong’s: H3050, H3068, H3069
+* Strong’s: [[H3050]], [[H3068]], [[H3069]]

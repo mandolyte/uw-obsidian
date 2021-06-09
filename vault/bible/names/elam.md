@@ -20,4 +20,4 @@ Elam was a son of Shem and a grandson of Noah.
 
 ## Word Data:
 
-* Strong’s: H5867, H5962, G1639
+* Strong’s: [[H5867]], [[H5962]], [[G01639]]

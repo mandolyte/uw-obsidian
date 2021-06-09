@@ -19,4 +19,4 @@ The term “gossip” refers to talking to people about someone else’s persona
 
 ## Word Data:
 
-* Strong’s: H5372, G2636, G5397
+* Strong’s: [[H5372]], [[G02636]], [[G05397]]

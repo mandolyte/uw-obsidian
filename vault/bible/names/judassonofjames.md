@@ -20,4 +20,4 @@ Judas son of James was one of Jesus’ twelve apostles. Note that he was not the
 
 ## Word Data:
 
-* Strong’s: G2455
+* Strong’s: [[G02455]]

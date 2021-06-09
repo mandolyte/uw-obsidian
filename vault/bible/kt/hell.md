@@ -36,4 +36,4 @@ Hell is the final place of unending pain and suffering where God will punish eve
 
 ## Word Data:
 
-* Strong’s: H7585, G86, G439, G440, G1067, G3041, G4442, G4443, G4447, G4448, G5020, G5394, G5457
+* Strong’s: [[H7585]], [[G00086]], [[G00439]], [[G00440]], [[G01067]], [[G03041]], [[G04442]], [[G04443]], [[G04447]], [[G04448]], [[G05020]], [[G05394]], [[G05457]]

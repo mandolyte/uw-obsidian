@@ -28,4 +28,4 @@ The term “woe” refers to a feeling of great distress. It also gives a warnin
 
 ## Word Data:
 
-* Strong’s: H188, H190, H337, H480, H1929, H1945, H1958, G3759
+* Strong’s: [[H0188]], [[H0190]], [[H0337]], [[H0480]], [[H1929]], [[H1945]], [[H1958]], [[G03759]]

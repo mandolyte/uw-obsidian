@@ -21,4 +21,4 @@ The Sadducees were a political group of Jewish priests during the time of Jesus 
 
 ## Word Data:
 
-* Strong’s: G4523
+* Strong’s: [[G04523]]

@@ -27,4 +27,4 @@ A wolf is a fierce, meat-eating animal that is similar to a wild dog.
 
 ## Word Data:
 
-* Strong’s: H2061, H3611, G3074
+* Strong’s: [[H2061]], [[H3611]], [[G03074]]

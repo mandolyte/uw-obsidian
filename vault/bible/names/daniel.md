@@ -25,4 +25,4 @@ Daniel was an Israelite prophet who as a young man was taken captive by the Baby
 
 ## Word Data:
 
-* Strong’s: H1840, H1841, G1158
+* Strong’s: [[H1840]], [[H1841]], [[G01158]]

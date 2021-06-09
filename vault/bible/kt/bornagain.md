@@ -29,4 +29,4 @@ The term “born again” was first used by Jesus to describe what it means for 
 
 ## Word Data:
 
-* Strong’s: G313, G509, G1080, G3824
+* Strong’s: [[G00313]], [[G00509]], [[G01080]], [[G03824]]

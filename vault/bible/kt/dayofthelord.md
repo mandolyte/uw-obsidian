@@ -27,4 +27,4 @@ The Old Testament term “day of Yahweh” is used to refer to a specific time(s
 
 ## Word Data:
 
-* Strong’s: H3068, H3117, G2250, G2962
+* Strong’s: [[H3068]], [[H3117]], [[G02250]], [[G02962]]

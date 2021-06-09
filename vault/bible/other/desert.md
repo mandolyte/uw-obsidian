@@ -24,4 +24,4 @@ A desert, or wilderness, is a dry, barren place where very few plants and trees 
 
 ## Word Data:
 
-* Strong’s: H0776, H2723, H3293, H3452, H4057, H6160, H6723, H6728, H6921, H8047, H8414, G2047, G2048
+* Strong’s: [[H0776]], [[H2723]], [[H3293]], [[H3452]], [[H4057]], [[H6160]], [[H6723]], [[H6728]], [[H6921]], [[H8047]], [[H8414]], [[G02047]], [[G02048]]

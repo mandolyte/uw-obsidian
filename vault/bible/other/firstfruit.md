@@ -27,4 +27,4 @@ The term “firstfruits” refers to a portion of the first crop of fruits and v
 
 ## Word Data:
 
-* Strong’s: H1061, H6529, H7225, G536
+* Strong’s: [[H1061]], [[H6529]], [[H7225]], [[G00536]]

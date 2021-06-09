@@ -18,4 +18,4 @@ Chaff is a dry protective covering of a grain seed. The chaff is not good for fo
 
 ## Word Data:
 
-* Strong’s: H2842, H4671, H5784, H8401, G892
+* Strong’s: [[H2842]], [[H4671]], [[H5784]], [[H8401]], [[G00892]]

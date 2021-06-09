@@ -40,4 +40,4 @@ The term “blood” refers to the red liquid that comes out of a person’s ski
 
 ## Word Data:
 
-* Strong’s: H1818, H5332, G129, G130, G131
+* Strong’s: [[H1818]], [[H5332]], [[G00129]], [[G00130]], [[G00131]]

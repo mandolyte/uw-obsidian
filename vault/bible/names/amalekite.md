@@ -24,4 +24,4 @@ The Amalekites were a nomadic people group who lived throughout the southern par
 
 ## Word Data:
 
-* Strong’s: H6002, H6003
+* Strong’s: [[H6002]], [[H6003]]

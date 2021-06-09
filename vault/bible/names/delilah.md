@@ -20,4 +20,4 @@ Delilah was a Philistine woman who was loved by Samson, but was not his wife.
 
 ## Word Data:
 
-* Strong’s: H1807
+* Strong’s: [[H1807]]

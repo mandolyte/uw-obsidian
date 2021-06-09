@@ -23,4 +23,4 @@ The Old Testament term “Arabah” often refers to a very large desert and plai
 
 ## Word Data:
 
-* Strong’s: H1026, H6160
+* Strong’s: [[H1026]], [[H6160]]

@@ -23,4 +23,4 @@ Artaxerxes was a king who reigned over the Persian empire from about 464 to 424 
 
 ## Word Data:
 
-* Strong’s: H783
+* Strong’s: [[H0783]]

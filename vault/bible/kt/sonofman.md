@@ -33,4 +33,4 @@ The title “Son of Man” was used by Jesus to refer to himself. He often used 
 
 ## Word Data:
 
-* Strong’s: H120, H606, H1121, H1247, G444, G5207
+* Strong’s: [[H0120]], [[H0606]], [[H1121]], [[H1247]], [[G00444]], [[G05207]]

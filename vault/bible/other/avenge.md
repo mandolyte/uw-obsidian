@@ -29,4 +29,4 @@ To “avenge” or “take revenge” or “execute vengeance” is to punish so
 
 ## Word Data:
 
-* Strong’s: H1350, H3467, H5358, H5359, H5360, H8199, G1556, G1557, G1558, G3709
+* Strong’s: [[H1350]], [[H3467]], [[H5358]], [[H5359]], [[H5360]], [[H8199]], [[G01556]], [[G01557]], [[G01558]], [[G03709]]

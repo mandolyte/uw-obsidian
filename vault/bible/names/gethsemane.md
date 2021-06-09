@@ -18,4 +18,4 @@ Gethsemane was a garden of olive trees east of Jerusalem beyond the Kidron valle
 
 ## Word Data:
 
-* Strong’s: G1068
+* Strong’s: [[G01068]]

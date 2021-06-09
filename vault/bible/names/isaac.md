@@ -37,4 +37,4 @@ Isaac was the only son of Abraham and Sarah. God had promised to give them a son
 
 ## Word Data:
 
-* Strong’s: H3327, H3446, G2464
+* Strong’s: [[H3327]], [[H3446]], [[G02464]]

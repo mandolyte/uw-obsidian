@@ -42,4 +42,4 @@ In the New Testament, the term “church” refers to a local group of believers
 
 ## Word Data:
 
-* Strong’s: G1577
+* Strong’s: [[G01577]]

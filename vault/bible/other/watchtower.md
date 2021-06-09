@@ -21,4 +21,4 @@ The term “watchtower” refers to a tall structure built as a place from which
 
 ## Word Data:
 
-* Strong’s: H803, H971, H975, H1785, H2918, H4026, H4029, H4692, H4707, H4869, H6076, H6438, H6836, G4444
+* Strong’s: [[H0803]], [[H0971]], [[H0975]], [[H1785]], [[H2918]], [[H4026]], [[H4029]], [[H4692]], [[H4707]], [[H4869]], [[H6076]], [[H6438]], [[H6836]], [[G04444]]

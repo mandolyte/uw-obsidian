@@ -22,4 +22,4 @@ A false prophet is a person who wrongly claims that his message comes from God.
 
 ## Word Data:
 
-* Strong’s: G5578
+* Strong’s: [[G05578]]

@@ -30,4 +30,4 @@ The Jordan River is a river that flows from north to south, and forms the easter
 
 ## Word Data:
 
-* Strong’s: H3383, G2446
+* Strong’s: [[H3383]], [[G02446]]

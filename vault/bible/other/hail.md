@@ -21,4 +21,4 @@ This term usually refers to lumps of frozen water that fall from the sky. Althou
 
 ## Word Data:
 
-* Strong’s: H0068, H0417, H1258, H1259, G5463, G5464
+* Strong’s: [[H0068]], [[H0417]], [[H1258]], [[H1259]], [[G05463]], [[G05464]]

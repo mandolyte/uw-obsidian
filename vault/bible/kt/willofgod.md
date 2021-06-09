@@ -25,4 +25,4 @@ The “will of God” refers to God’s desires and plans.
 
 ## Word Data:
 
-* Strong’s: H6310, H6634, H7522, G1012, G1013, G2307, G2308, G2309, G2596
+* Strong’s: [[H6310]], [[H6634]], [[H7522]], [[G01012]], [[G01013]], [[G02307]], [[G02308]], [[G02309]], [[G02596]]

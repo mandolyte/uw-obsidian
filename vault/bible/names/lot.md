@@ -22,4 +22,4 @@ Lot was Abraham’s nephew.
 
 ## Word Data:
 
-* Strong’s: H3876, G3091
+* Strong’s: [[H3876]], [[G03091]]

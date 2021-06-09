@@ -24,4 +24,4 @@ The Philistines were a people group who occupied a region known as Philistia alo
 
 ## Word Data:
 
-* Strong’s: H6429, H6430
+* Strong’s: [[H6429]], [[H6430]]

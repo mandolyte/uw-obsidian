@@ -16,4 +16,4 @@ The term “doom” refers to a judgment of condemnation with no possibility of 
 
 ## Word Data:
 
-* Strong’s: H1820, H3117, H6256, H6843, H8045
+* Strong’s: [[H1820]], [[H3117]], [[H6256]], [[H6843]], [[H8045]]

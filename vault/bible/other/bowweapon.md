@@ -19,4 +19,4 @@ This is a type of weapon that consists of shooting arrows from a stringed bow. I
 
 ## Word Data:
 
-* Strong’s: H2671, H7198, G5115
+* Strong’s: [[H2671]], [[H7198]], [[G05115]]

@@ -30,4 +30,4 @@ The term “earth” refers to the world on which human beings and other living 
 
 ## Word Data:
 
-* Strong’s: H0127, H0772, H0776, H0778, H2789, H3007, H3335, H6083, H7494, G1093, G1919, G2709, G2886, G3625, G4578, G5517
+* Strong’s: [[H0127]], [[H0772]], [[H0776]], [[H0778]], [[H2789]], [[H3007]], [[H3335]], [[H6083]], [[H7494]], [[G01093]], [[G01919]], [[G02709]], [[G02886]], [[G03625]], [[G04578]], [[G05517]]

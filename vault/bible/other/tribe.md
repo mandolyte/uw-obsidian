@@ -20,4 +20,4 @@ A tribe is a group of people who are descended from a common ancestor.
 
 ## Word Data:
 
-* Strong’s: H523, H4294, H7625, H7626, G1429, G5443
+* Strong’s: [[H0523]], [[H4294]], [[H7625]], [[H7626]], [[G01429]], [[G05443]]

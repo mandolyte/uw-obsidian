@@ -22,4 +22,4 @@ A harp is a stringed musical instrument, that usually consists of a large open f
 
 ## Word Data:
 
-* Strong’s: H3658, H5035, H5059, H7030, G2788, G2789, G2790
+* Strong’s: [[H3658]], [[H5035]], [[H5059]], [[H7030]], [[G02788]], [[G02789]], [[G02790]]

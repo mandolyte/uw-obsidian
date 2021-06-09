@@ -21,4 +21,4 @@ The term “royal” describes people and things associated with a king or queen
 
 ## Word Data:
 
-* Strong’s: H643, H1921, H1935, H4410, H4428, H4430, H4437, H4438, H4467, H4468, H7985, G933, G934, G937
+* Strong’s: [[H0643]], [[H1921]], [[H1935]], [[H4410]], [[H4428]], [[H4430]], [[H4437]], [[H4438]], [[H4467]], [[H4468]], [[H7985]], [[G00933]], [[G00934]], [[G00937]]

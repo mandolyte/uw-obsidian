@@ -22,4 +22,4 @@ The term “grain” usually refers to the seed of a food plant such as wheat, b
 
 ## Word Data:
 
-* Strong’s: H1250, H1430, H1715, H2233, H2591, H3759, H3899, H7054, H7383, H7641, H7668, G248, G2590, G3450, G4621, G4719
+* Strong’s: [[H1250]], [[H1430]], [[H1715]], [[H2233]], [[H2591]], [[H3759]], [[H3899]], [[H7054]], [[H7383]], [[H7641]], [[H7668]], [[G00248]], [[G02590]], [[G03450]], [[G04621]], [[G04719]]

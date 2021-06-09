@@ -24,4 +24,4 @@ Hamath was an important city in northern Syria, north of the land of Canaan. The
 
 ## Word Data:
 
-* Strong’s: H2574, H2577
+* Strong’s: [[H2574]], [[H2577]]

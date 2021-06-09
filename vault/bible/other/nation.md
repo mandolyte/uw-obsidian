@@ -40,4 +40,4 @@ A nation is a large group of people ruled by some form of government. The people
 
 ## Word Data:
 
-* Strong’s: H0523, H0524, H0776, H1471, H3816, H4940, H5971, G246, G1074, G1085, G1484
+* Strong’s: [[H0523]], [[H0524]], [[H0776]], [[H1471]], [[H3816]], [[H4940]], [[H5971]], [[G00246]], [[G01074]], [[G01085]], [[G01484]]

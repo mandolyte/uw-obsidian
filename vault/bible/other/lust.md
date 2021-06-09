@@ -22,4 +22,4 @@ Lust is a very strong desire, usually in the context of wanting something sinful
 
 ## Word Data:
 
-* Strong’s: H183, H185, H310, H1730, H2181, H2183, H2530, H5178, H5375, H5689, H5691, H5869, H7843, G766, G1937, G1939, G2237, G3715, G3806
+* Strong’s: [[H0183]], [[H0185]], [[H0310]], [[H1730]], [[H2181]], [[H2183]], [[H2530]], [[H5178]], [[H5375]], [[H5689]], [[H5691]], [[H5869]], [[H7843]], [[G00766]], [[G01937]], [[G01939]], [[G02237]], [[G03715]], [[G03806]]

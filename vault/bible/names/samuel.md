@@ -25,4 +25,4 @@ Samuel was a prophet and the last judge of Israel. He anointed both Saul and Dav
 
 ## Word Data:
 
-* Strong’s: H8050, G4545
+* Strong’s: [[H8050]], [[G04545]]

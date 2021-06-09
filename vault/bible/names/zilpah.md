@@ -18,4 +18,4 @@ Zilpah was one of Jacob’s wives. She was the mother of Jacob’s two sons Gad 
 
 ## Word Data:
 
-* Strong’s: H2153
+* Strong’s: [[H2153]]

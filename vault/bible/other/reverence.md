@@ -19,4 +19,4 @@ The term “reverence” refers to feelings of profound, deep respect for someon
 
 ## Word Data:
 
-* Strong’s: H3372, H3373, H3374, H4172, H6342, H7812, G127, G1788, G2125, G2412, G5399, G5401
+* Strong’s: [[H3372]], [[H3373]], [[H3374]], [[H4172]], [[H6342]], [[H7812]], [[G00127]], [[G01788]], [[G02125]], [[G02412]], [[G05399]], [[G05401]]

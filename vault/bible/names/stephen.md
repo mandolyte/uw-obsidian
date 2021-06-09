@@ -27,4 +27,4 @@ Stephen is most remembered as the first Christian martyr, that is, the first per
 
 ## Word Data:
 
-* Strong’s: G4736
+* Strong’s: [[G04736]]

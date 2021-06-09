@@ -23,4 +23,4 @@ In biblical times, Tarshish was a port city situated on the Mediterranean Sea. T
 
 ## Word Data:
 
-* Strong’s: H8659
+* Strong’s: [[H8659]]

@@ -19,4 +19,4 @@ In New Testament times, Berea (or Beroea) was a prosperous Greek city in southea
 
 ## Word Data:
 
-* Strong’s: G960
+* Strong’s: [[G00960]]

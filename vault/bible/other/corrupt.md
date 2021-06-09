@@ -27,4 +27,4 @@ The terms “corrupt” and “corruption” refer to a state of affairs in whic
 
 ## Word Data:
 
-* Strong’s: H2610, H3891, H4889, H7843, H7844, G861, G1311, G2704, G5351, G5356
+* Strong’s: [[H2610]], [[H3891]], [[H4889]], [[H7843]], [[H7844]], [[G00861]], [[G01311]], [[G02704]], [[G05351]], [[G05356]]

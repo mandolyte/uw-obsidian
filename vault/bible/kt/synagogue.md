@@ -25,4 +25,4 @@ A synagogue is a building where Jewish people meet together to worship God.
 
 ## Word Data:
 
-* Strong’s: H4150, G656, G752, G4864
+* Strong’s: [[H4150]], [[G00656]], [[G00752]], [[G04864]]

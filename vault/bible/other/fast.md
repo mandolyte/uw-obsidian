@@ -31,4 +31,4 @@ The term to “fast” means to stop eating food for a period of time, such as f
 
 ## Word Data:
 
-* Strong’s: H2908, H5144, H6684, H6685, G3521, G3522
+* Strong’s: [[H2908]], [[H5144]], [[H6684]], [[H6685]], [[G03521]], [[G03522]]

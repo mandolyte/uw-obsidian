@@ -47,4 +47,4 @@ Most simply, the term “law” refers to a rule or instruction that should be f
 
 ## Word Data:
 
-* Strong’s: H430, H1881, H1882, H2706, H2710, H3068, H4687, H4872, H4941, H8451, G2316, G3551, G3565
+* Strong’s: [[H0430]], [[H1881]], [[H1882]], [[H2706]], [[H2710]], [[H3068]], [[H4687]], [[H4872]], [[H4941]], [[H8451]], [[G02316]], [[G03551]], [[G03565]]

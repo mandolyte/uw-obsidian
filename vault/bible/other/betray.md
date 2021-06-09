@@ -34,4 +34,4 @@ The term “betray” means to act in a way that deceives and harms someone. A �
 
 ## Word Data:
 
-* Strong’s: H7411, G3860, G4273
+* Strong’s: [[H7411]], [[G03860]], [[G04273]]

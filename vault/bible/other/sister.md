@@ -27,4 +27,4 @@ A sister is a female person who shares at least one biological parent with anoth
 
 ## Word Data:
 
-* Strong’s: H269, H1323, G27, G79
+* Strong’s: [[H0269]], [[H1323]], [[G00027]], [[G00079]]

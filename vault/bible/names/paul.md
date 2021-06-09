@@ -38,4 +38,4 @@ Paul was a leader of the early church who was sent by Jesus to take the good new
 
 ## Word Data:
 
-* Strong’s: G3972, G4569
+* Strong’s: [[G03972]], [[G04569]]

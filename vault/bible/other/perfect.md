@@ -24,4 +24,4 @@ In the New Testament, the term “perfect” means to be mature in our Christian
 
 ## Word Data:
 
-* Strong’s: H3632, H3634, H4359, H8003, H8503, H8537, H8549, H8552, G199, G2675, G2676, G3647, G5046, G5047, G5048, G5050
+* Strong’s: [[H3632]], [[H3634]], [[H4359]], [[H8003]], [[H8503]], [[H8537]], [[H8549]], [[H8552]], [[G00199]], [[G02675]], [[G02676]], [[G03647]], [[G05046]], [[G05047]], [[G05048]], [[G05050]]

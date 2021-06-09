@@ -23,4 +23,4 @@ The terms “tenth” and “tithe” refer to “ten percent” or “one-out-o
 
 ## Word Data:
 
-* Strong’s: H4643, H6237, H6241, G586, G1181, G1183
+* Strong’s: [[H4643]], [[H6237]], [[H6241]], [[G00586]], [[G01181]], [[G01183]]

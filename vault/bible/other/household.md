@@ -22,4 +22,4 @@ The term “household” refers to all the people who live together in a house, 
 
 ## Word Data:
 
-* Strong’s: H1004, H5657, G2322, G3609, G3614, G3615, G3616, G3623, G3624
+* Strong’s: [[H1004]], [[H5657]], [[G02322]], [[G03609]], [[G03614]], [[G03615]], [[G03616]], [[G03623]], [[G03624]]

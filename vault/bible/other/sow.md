@@ -28,4 +28,4 @@ A “plant” is generally something that grows and is attached to the ground. T
 
 ## Word Data:
 
-* Strong’s: H2221, H2232, H2233, H2236, H4218, H4302, H5193, H7971, H8362, G4687, G4703, G5452
+* Strong’s: [[H2221]], [[H2232]], [[H2233]], [[H2236]], [[H4218]], [[H4302]], [[H5193]], [[H7971]], [[H8362]], [[G04687]], [[G04703]], [[G05452]]

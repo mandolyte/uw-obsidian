@@ -23,4 +23,4 @@ A camel is a large, four legged animal with one or two humps on its back.
 
 ## Word Data:
 
-* Strong’s: H1581, G2574
+* Strong’s: [[H1581]], [[G02574]]

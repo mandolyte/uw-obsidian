@@ -19,4 +19,4 @@ The term “strife” refers to physical or emotional conflict between people.
 
 ## Word Data:
 
-* Strong’s: H1777, H1779, H4066, H4090, H4683, H4808, H7379, H7701, G485, G2052, G2054, G3055, G3163, G5379
+* Strong’s: [[H1777]], [[H1779]], [[H4066]], [[H4090]], [[H4683]], [[H4808]], [[H7379]], [[H7701]], [[G00485]], [[G02052]], [[G02054]], [[G03055]], [[G03163]], [[G05379]]

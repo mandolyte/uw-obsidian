@@ -27,4 +27,4 @@ In the Bible, the phrases “house of God” (God’s house) and “house of Yah
 
 ## Word Data:
 
-* Strong’s: H426, H430, H1004, H1005, H3068, G2316, G3624
+* Strong’s: [[H0426]], [[H0430]], [[H1004]], [[H1005]], [[H3068]], [[G02316]], [[G03624]]

@@ -20,4 +20,4 @@ A lute and a lyre are small, stringed, musical instruments that were used by the
 
 ## Word Data:
 
-* Strong’s: H3658, H5035, H5443
+* Strong’s: [[H3658]], [[H5035]], [[H5443]]

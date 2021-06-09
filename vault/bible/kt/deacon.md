@@ -19,4 +19,4 @@ A deacon is a person who serves in the local church, helping fellow believers wi
 
 ## Word Data:
 
-* Strong’s: G1249
+* Strong’s: [[G01249]]

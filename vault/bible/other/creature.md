@@ -24,4 +24,4 @@ The term “creature” refers to all the living beings that God created, both h
 
 ## Word Data:
 
-* Strong’s: H1320, H1321, H1870, H2119, H2416, H4639, H5315, H5971, H7430, H8318, G2226, G2937, G2938
+* Strong’s: [[H1320]], [[H1321]], [[H1870]], [[H2119]], [[H2416]], [[H4639]], [[H5315]], [[H5971]], [[H7430]], [[H8318]], [[G02226]], [[G02937]], [[G02938]]

@@ -19,4 +19,4 @@ The altar of incense was a piece of furniture on which a priest would burn incen
 
 ## Word Data:
 
-* Strong’s: H4196, H7004, G2368, G2379
+* Strong’s: [[H4196]], [[H7004]], [[G02368]], [[G02379]]

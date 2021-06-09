@@ -29,4 +29,4 @@ The term “unleavened bread” refers to bread that is made without yeast or ot
 
 ## Word Data:
 
-* Strong’s: H4682, G106
+* Strong’s: [[H4682]], [[G00106]]

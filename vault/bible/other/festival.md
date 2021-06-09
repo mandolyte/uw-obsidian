@@ -31,4 +31,4 @@ In general, a festival is a celebration held by a community of people.
 
 ## Word Data:
 
-* Strong’s: H1974, H2166, H2282, H2287, H6213, H4150, G1456, G1858, G1859
+* Strong’s: [[H1974]], [[H2166]], [[H2282]], [[H2287]], [[H6213]], [[H4150]], [[G01456]], [[G01858]], [[G01859]]

@@ -32,4 +32,4 @@ In ancient times, the kings who ruled over the country of Egypt were called phar
 
 ## Word Data:
 
-* Strong’s: H4428, H4714, H6547, G5328
+* Strong’s: [[H4428]], [[H4714]], [[H6547]], [[G05328]]

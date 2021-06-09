@@ -23,4 +23,4 @@ Hoshea was the name of a king of Israel and several other men in the Old Testame
 
 ## Word Data:
 
-* Strong’s: H1954
+* Strong’s: [[H1954]]

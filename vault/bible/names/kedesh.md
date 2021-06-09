@@ -20,4 +20,4 @@ Kedesh was a Canaanite city that was taken over by the Israelites when they ente
 
 ## Word Data:
 
-* Strong’s: H6943, H7191
+* Strong’s: [[H6943]], [[H7191]]

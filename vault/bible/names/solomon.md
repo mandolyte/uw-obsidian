@@ -31,4 +31,4 @@ Solomon was one of King David’s sons. His mother was Bathsheba.
 
 ## Word Data:
 
-* Strong’s: H8010, G4672
+* Strong’s: [[H8010]], [[G04672]]

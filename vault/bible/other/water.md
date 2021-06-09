@@ -32,4 +32,4 @@ In addition to its primary meaning, “water” also often refers to a body of w
 
 ## Word Data:
 
-* Strong’s: H2222, H4325, H4529, H4857, H7301, H7783, H8248, H8415, G504, G4215, G4222, G5202, G5204
+* Strong’s: [[H2222]], [[H4325]], [[H4529]], [[H4857]], [[H7301]], [[H7783]], [[H8248]], [[H8415]], [[G00504]], [[G04215]], [[G04222]], [[G05202]], [[G05204]]

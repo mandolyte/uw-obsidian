@@ -56,4 +56,4 @@ Jesus is God’s Son. The name “Jesus” means “Yahweh saves.” The term �
 
 ## Word Data:
 
-* Strong’s: G2424, G5547
+* Strong’s: [[G02424]], [[G05547]]

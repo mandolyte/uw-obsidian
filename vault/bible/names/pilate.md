@@ -32,4 +32,4 @@ Pilate was the governor of the Roman province of Judea who sentenced Jesus to de
 
 ## Word Data:
 
-* Strong’s: G4091, G4194
+* Strong’s: [[G04091]], [[G04194]]

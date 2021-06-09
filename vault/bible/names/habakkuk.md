@@ -18,4 +18,4 @@ Habakkuk was an Old Testament prophet who lived around the time that King Jehoia
 
 ## Word Data:
 
-* Strong’s: H2265
+* Strong’s: [[H2265]]

@@ -20,4 +20,4 @@ The term “hour” is often used in the Bible to tell what time of day a certai
 
 ## Word Data:
 
-* Strong’s: H8160, G5610
+* Strong’s: [[H8160]], [[G05610]]

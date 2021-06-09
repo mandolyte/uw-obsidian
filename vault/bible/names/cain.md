@@ -24,4 +24,4 @@ Cain and his younger brother Abel were the first sons of Adam and Eve mentioned 
 
 ## Word Data:
 
-* Strong’s: H7014, G2535
+* Strong’s: [[H7014]], [[G02535]]

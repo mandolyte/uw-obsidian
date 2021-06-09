@@ -20,4 +20,4 @@ Ezekiel was a prophet of God during the exile period when many Jews were taken t
 
 ## Word Data:
 
-* Strong’s: H3168
+* Strong’s: [[H3168]]

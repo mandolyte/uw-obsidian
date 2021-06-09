@@ -23,4 +23,4 @@ In the Bible, the term “beast” is often just another way of saying “animal
 
 ## Word Data:
 
-* Strong’s: H0338, H0929, H1165, H2123, H2416, H2423, H2874, H3753, H4806, H7409, G2226, G2341, G2342, G2934, G4968, G5074
+* Strong’s: [[H0338]], [[H0929]], [[H1165]], [[H2123]], [[H2416]], [[H2423]], [[H2874]], [[H3753]], [[H4806]], [[H7409]], [[G02226]], [[G02341]], [[G02342]], [[G02934]], [[G04968]], [[G05074]]

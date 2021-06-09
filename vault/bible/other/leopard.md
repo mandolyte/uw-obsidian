@@ -23,4 +23,4 @@ A leopard is a large, cat-like, wild animal that is brown with black spots.
 
 ## Word Data:
 
-* Strong’s: H5245, H5246
+* Strong’s: [[H5245]], [[H5246]]

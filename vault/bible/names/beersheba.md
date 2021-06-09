@@ -22,4 +22,4 @@ In Old Testament times, Beersheba was a city located about 45 miles southwest of
 
 ## Word Data:
 
-* Strong’s: H884
+* Strong’s: [[H0884]]

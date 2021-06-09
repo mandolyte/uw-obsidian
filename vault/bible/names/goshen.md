@@ -22,4 +22,4 @@ Goshen was the name of a fertile region of land located along the Nile River in 
 
 ## Word Data:
 
-* Strong’s: H1657
+* Strong’s: [[H1657]]

@@ -23,4 +23,4 @@ The term “livestock” refers to animals which are raised to provide food and 
 
 ## Word Data:
 
-* Strong’s: H0929, H4399, H4735
+* Strong’s: [[H0929]], [[H4399]], [[H4735]]

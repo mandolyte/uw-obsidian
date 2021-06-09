@@ -25,4 +25,4 @@ The term “assign” or “assigned” refers to appointing someone to do a spe
 
 ## Word Data:
 
-* Strong’s: H2506, H3335, H4487, H4941, H5157, H5307, H5414, H5596, H5975, H6485, H7760, G3307
+* Strong’s: [[H2506]], [[H3335]], [[H4487]], [[H4941]], [[H5157]], [[H5307]], [[H5414]], [[H5596]], [[H5975]], [[H6485]], [[H7760]], [[G03307]]

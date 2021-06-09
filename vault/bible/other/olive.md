@@ -23,4 +23,4 @@ The olive is the small, oval fruit from an olive tree, which is mostly grown in 
 
 ## Word Data:
 
-* Strong’s: H2132, H3323, H8081, G65, G1636, G1637, G2565
+* Strong’s: [[H2132]], [[H3323]], [[H8081]], [[G00065]], [[G01636]], [[G01637]], [[G02565]]

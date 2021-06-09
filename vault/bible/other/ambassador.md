@@ -22,4 +22,4 @@ An ambassador is a person who is chosen to officially represent his country in r
 
 ## Word Data:
 
-* Strong’s: H3887, H4135, H4136, H4397, H6735, H6737, G4243
+* Strong’s: [[H3887]], [[H4135]], [[H4136]], [[H4397]], [[H6735]], [[H6737]], [[G04243]]

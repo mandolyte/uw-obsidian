@@ -32,4 +32,4 @@ Joseph was Jacob’s eleventh son. He was Rachel’s first son. The descendants 
 
 ## Word Data:
 
-* Strong’s: H3084, H3130, G2500, G2501
+* Strong’s: [[H3084]], [[H3130]], [[G02500]], [[G02501]]

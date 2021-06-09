@@ -21,4 +21,4 @@ Abiathar was a high priest for the nation of Israel during the time of King Davi
 
 ## Word Data:
 
-* Strong’s: H54, G8
+* Strong’s: [[H0054]], [[G00008]]

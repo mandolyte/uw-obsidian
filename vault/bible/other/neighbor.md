@@ -24,4 +24,4 @@ The term “neighbor” usually refers to a person who lives nearby. It can also
 
 ## Word Data:
 
-* Strong’s: H5997, H7138, H7453, H7468, H7934, G1069, G2087, G4040, G4139
+* Strong’s: [[H5997]], [[H7138]], [[H7453]], [[H7468]], [[H7934]], [[G01069]], [[G02087]], [[G04040]], [[G04139]]

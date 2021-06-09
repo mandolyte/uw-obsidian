@@ -26,4 +26,4 @@ The term “snow” refers to white flakes of frozen water that can fall from cl
 
 ## Word Data:
 
-* Strong’s: H7949, H7950, H8517, G5510
+* Strong’s: [[H7949]], [[H7950]], [[H8517]], [[G05510]]

@@ -18,4 +18,4 @@ Cyrene was a Greek city on the north coast of Africa on the Mediterranean Sea, d
 
 ## Word Data:
 
-* Strong’s: G2956, G2957
+* Strong’s: [[G02956]], [[G02957]]

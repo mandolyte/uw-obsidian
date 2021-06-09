@@ -23,4 +23,4 @@ Jehoshaphat was the name of at least two men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H3092, G2498
+* Strong’s: [[H3092]], [[G02498]]

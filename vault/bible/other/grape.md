@@ -24,4 +24,4 @@ A grape is a small, round, smooth-skinned berry fruit that grows in clusters on 
 
 ## Word Data:
 
-* Strong’s: H811, H891, H1154, H1155, H1210, H3196, H5955, H6025, H6528, G288, G4718
+* Strong’s: [[H0811]], [[H0891]], [[H1154]], [[H1155]], [[H1210]], [[H3196]], [[H5955]], [[H6025]], [[H6528]], [[G00288]], [[G04718]]

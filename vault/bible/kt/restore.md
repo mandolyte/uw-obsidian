@@ -30,4 +30,4 @@ The terms “restore” and “restoration” refer to causing something to retu
 
 ## Word Data:
 
-* Strong’s: H7725, H7999, H8421, G600, G2675
+* Strong’s: [[H7725]], [[H7999]], [[H8421]], [[G00600]], [[G02675]]

@@ -24,4 +24,4 @@ Sulfur is a yellow substance that becomes a burning liquid when it is set on fir
 
 ## Word Data:
 
-* Strong’s: H1614, G2303
+* Strong’s: [[H1614]], [[G02303]]

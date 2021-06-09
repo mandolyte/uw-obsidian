@@ -16,4 +16,4 @@ Adonijah was the fourth son of King David.
 
 ## Word Data:
 
-* Strong’s: H138
+* Strong’s: [[H0138]]

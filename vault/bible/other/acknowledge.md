@@ -26,4 +26,4 @@ The term “acknowledge” means to give proper recognition to something or some
 
 ## Word Data:
 
-* Strong’s: H3045, H3046, H5046, H5234, H6942, G1492, G1921, G3670
+* Strong’s: [[H3045]], [[H3046]], [[H5046]], [[H5234]], [[H6942]], [[G01492]], [[G01921]], [[G03670]]

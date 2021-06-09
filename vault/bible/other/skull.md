@@ -19,4 +19,4 @@ The term “skull” refers to the bony, skeletal structure of the head of a per
 
 ## Word Data:
 
-* Strong’s: H1538, H6936, H7218, G2898
+* Strong’s: [[H1538]], [[H6936]], [[H7218]], [[G02898]]

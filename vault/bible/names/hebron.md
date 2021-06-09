@@ -24,4 +24,4 @@ Hebron was a city located in the high, rocky hills about 20 miles south of Jerus
 
 ## Word Data:
 
-* Strong’s: H2275, H2276
+* Strong’s: [[H2275]], [[H2276]]

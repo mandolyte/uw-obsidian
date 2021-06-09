@@ -23,4 +23,4 @@ Jehoiakim was an evil king who reigned over the kingdom of Judah, beginning arou
 
 ## Word Data:
 
-* Strong’s: H3079
+* Strong’s: [[H3079]]

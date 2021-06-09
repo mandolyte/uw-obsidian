@@ -32,4 +32,4 @@ Esau was one of the twin sons of Isaac and Rebekah. He was the first baby born t
 
 ## Word Data:
 
-* Strong’s: H6215, G2269
+* Strong’s: [[H6215]], [[G02269]]

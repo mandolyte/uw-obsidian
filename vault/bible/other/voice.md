@@ -23,4 +23,4 @@ The term “voice” refers to audible sound that a person makes when speaking o
 
 ## Word Data:
 
-* Strong’s: H6963, H7032, H7445, H8193, G2906, G5456
+* Strong’s: [[H6963]], [[H7032]], [[H7445]], [[H8193]], [[G02906]], [[G05456]]

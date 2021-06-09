@@ -20,4 +20,4 @@ Rabbah was the most important city of the Ammonite people.
 
 ## Word Data:
 
-* Strong’s: H7237
+* Strong’s: [[H7237]]

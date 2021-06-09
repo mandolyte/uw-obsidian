@@ -20,4 +20,4 @@ The term “threshold” refers to the bottom part of a doorway or the part of a
 
 ## Word Data:
 
-* Strong’s: H4670, H5592
+* Strong’s: [[H4670]], [[H5592]]

@@ -27,4 +27,4 @@ A virgin is a woman who has never had sexual relations.
 
 ## Word Data:
 
-* Strong’s: H1330, H1331, G3932, G3933
+* Strong’s: [[H1330]], [[H1331]], [[G03932]], [[G03933]]

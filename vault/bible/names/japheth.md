@@ -21,4 +21,4 @@ Japheth was one of Noah’s three sons.
 
 ## Word Data:
 
-* Strong’s: H3315
+* Strong’s: [[H3315]]

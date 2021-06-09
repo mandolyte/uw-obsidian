@@ -20,4 +20,4 @@ The term “footstool” refers to an object which a person puts his feet on, us
 
 ## Word Data:
 
-* Strong’s: H1916, H3534, H7272, G4228, G5286
+* Strong’s: [[H1916]], [[H3534]], [[H7272]], [[G04228]], [[G05286]]

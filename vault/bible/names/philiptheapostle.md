@@ -23,4 +23,4 @@ Philip the apostle was one of the original twelve disciples of Jesus. He was fro
 
 ## Word Data:
 
-* Strong’s: G5376
+* Strong’s: [[G05376]]

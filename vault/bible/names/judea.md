@@ -31,4 +31,4 @@ The term “Judea” refers to an area of land in ancient Israel. It is sometime
 
 ## Word Data:
 
-* Strong’s: G2453
+* Strong’s: [[G02453]]

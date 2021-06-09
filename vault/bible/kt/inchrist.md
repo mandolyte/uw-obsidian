@@ -37,4 +37,4 @@ The phrase “in Christ” and related terms refer to the state or condition of 
 
 ## Word Data:
 
-* Strong’s: G1519, G2962, G5547
+* Strong’s: [[G01519]], [[G02962]], [[G05547]]

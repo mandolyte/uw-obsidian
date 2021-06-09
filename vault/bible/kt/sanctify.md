@@ -27,4 +27,4 @@ To sanctify is to set apart or to make holy. Sanctification is the process of be
 
 ## Word Data:
 
-* Strong’s: H6942, G37, G38
+* Strong’s: [[H6942]], [[G00037]], [[G00038]]

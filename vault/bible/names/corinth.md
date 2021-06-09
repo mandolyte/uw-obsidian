@@ -23,4 +23,4 @@ Corinth was a city in the country of Greece, about 50 miles west of Athens. The 
 
 ## Word Data:
 
-* Strong’s: G2881, G2882
+* Strong’s: [[G02881]], [[G02882]]

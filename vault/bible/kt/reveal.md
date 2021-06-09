@@ -29,4 +29,4 @@ The term “reveal” means to cause something to be known. A “revelation” i
 
 ## Word Data:
 
-* Strong’s: H241, H1540, H1541, G601, G602, G5537
+* Strong’s: [[H0241]], [[H1540]], [[H1541]], [[G00601]], [[G00602]], [[G05537]]

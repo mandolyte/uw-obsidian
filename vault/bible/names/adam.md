@@ -35,4 +35,4 @@ Adam was the first person whom God created. He and his wife Eve were made in the
 
 ## Word Data:
 
-* Strong’s: H120, G76
+* Strong’s: [[H0120]], [[G00076]]

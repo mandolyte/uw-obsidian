@@ -27,4 +27,4 @@ In the Bible, these terms are euphemisms that refer to having sexual intercourse
 
 ## Word Data:
 
-* Strong’s: H160, H935, H1540, H2181, H2233, H3045, H3212, H6172, H7250, H7901, H7903, G1097
+* Strong’s: [[H0160]], [[H0935]], [[H1540]], [[H2181]], [[H2233]], [[H3045]], [[H3212]], [[H6172]], [[H7250]], [[H7901]], [[H7903]], [[G01097]]

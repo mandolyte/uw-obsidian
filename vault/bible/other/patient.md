@@ -21,4 +21,4 @@ The terms “patient” and “patience” refer to persevering through difficul
 
 ## Word Data:
 
-* Strong’s: H750, H753, H2342, H3811, H6960, H7114, G420, G463, G1933, G3114, G3115, G3116, G5278, G5281
+* Strong’s: [[H0750]], [[H0753]], [[H2342]], [[H3811]], [[H6960]], [[H7114]], [[G00420]], [[G00463]], [[G01933]], [[G03114]], [[G03115]], [[G03116]], [[G05278]], [[G05281]]

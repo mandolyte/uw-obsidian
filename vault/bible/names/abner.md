@@ -20,4 +20,4 @@ Abner was a cousin of King Saul in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H74
+* Strong’s: [[H0074]]

@@ -33,4 +33,4 @@ The term “adultery” refers to a sin that occurs when a married person has se
 
 ## Word Data:
 
-* Strong’s: H5003, H5004, G3428, G3429, G3430, G3431, G3432
+* Strong’s: [[H5003]], [[H5004]], [[G03428]], [[G03429]], [[G03430]], [[G03431]], [[G03432]]

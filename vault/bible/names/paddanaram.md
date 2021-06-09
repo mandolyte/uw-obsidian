@@ -21,4 +21,4 @@ Paddan Aram was the name of a region where Abraham’s family lived before movin
 
 ## Word Data:
 
-* Strong’s: H6307
+* Strong’s: [[H6307]]

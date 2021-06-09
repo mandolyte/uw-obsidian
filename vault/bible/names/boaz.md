@@ -21,4 +21,4 @@ Boaz was an Israelite man who lived during the time when there were judges ruled
 
 ## Word Data:
 
-* Strong’s: H1162
+* Strong’s: [[H1162]]

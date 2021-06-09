@@ -16,4 +16,4 @@ The terms “Ephrath” and “Ephrathah” are probably derived from the name �
 
 ## Word Data:
 
-* Strong’s: H672, H673
+* Strong’s: [[H0672]], [[H0673]]

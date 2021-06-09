@@ -23,4 +23,4 @@ The term “compassion” refers to a feeling of concern for people, especially 
 
 ## Word Data:
 
-* Strong’s: H2550, H7349, H7355, H7356, G1653, G3356, G3627, G4697, G4834, G4835
+* Strong’s: [[H2550]], [[H7349]], [[H7355]], [[H7356]], [[G01653]], [[G03356]], [[G03627]], [[G04697]], [[G04834]], [[G04835]]

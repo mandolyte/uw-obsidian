@@ -27,4 +27,4 @@ Rehoboam was one of the sons of King Solomon, and he became the king of the nati
 
 ## Word Data:
 
-* Strong’s: H7346, G4497
+* Strong’s: [[H7346]], [[G04497]]

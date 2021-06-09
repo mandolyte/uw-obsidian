@@ -24,4 +24,4 @@ Simeon was Jacob’s second son. He was Leah’s second son. His descendants bec
 
 ## Word Data:
 
-* Strong’s: H8095, H8099, G4826
+* Strong’s: [[H8095]], [[H8099]], [[G04826]]

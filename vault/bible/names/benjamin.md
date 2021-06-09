@@ -26,4 +26,4 @@ Benjamin was Jacob’s twelfth son. He was Rachel’s second son. His descendant
 
 ## Word Data:
 
-* Strong’s: H1144, G958
+* Strong’s: [[H1144]], [[G00958]]

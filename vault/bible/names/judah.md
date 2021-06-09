@@ -26,4 +26,4 @@ Judah was Jacob’s fourth son. He was Leah’s fourth son. His descendants beca
 
 ## Word Data:
 
-* Strong’s: H3063
+* Strong’s: [[H3063]]

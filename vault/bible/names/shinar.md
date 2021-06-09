@@ -22,4 +22,4 @@ Shinar means “country of two rivers” and was the name of a plain or region i
 
 ## Word Data:
 
-* Strong’s: H8152
+* Strong’s: [[H8152]]

@@ -21,4 +21,4 @@ Zoar was a small city where Lot fled when God destroyed Sodom and Gomorrah.
 
 ## Word Data:
 
-* Strong’s: H6820
+* Strong’s: [[H6820]]

@@ -21,4 +21,4 @@ Issachar was Jacob’s ninth son. He was Leah’s fifth son. His descendants bec
 
 ## Word Data:
 
-* Strong’s: H3485, G2466
+* Strong’s: [[H3485]], [[G02466]]

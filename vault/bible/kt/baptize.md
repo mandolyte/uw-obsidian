@@ -39,4 +39,4 @@ In the New Testament, the terms “baptize” and “baptism” usually refer to
 
 ## Word Data:
 
-* Strong’s: G907
+* Strong’s: [[G00907]]

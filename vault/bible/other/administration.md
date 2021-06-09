@@ -24,4 +24,4 @@ The terms “administration” and “administrator” refer to managing or gove
 
 ## Word Data:
 
-* Strong’s: H5532, H5608, H5632, H6213, H7860, G2941
+* Strong’s: [[H5532]], [[H5608]], [[H5632]], [[H6213]], [[H7860]], [[G02941]]

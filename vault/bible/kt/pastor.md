@@ -21,4 +21,4 @@ The term “pastor” is literally the same word as “shepherd.” It is used a
 
 ## Word Data:
 
-* Strong’s: H7462, G4166
+* Strong’s: [[H7462]], [[G04166]]

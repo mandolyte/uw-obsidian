@@ -17,4 +17,4 @@ Maacah (or Maakah) was one of the sons of Abraham’s brother Nahor. Other peopl
 
 ## Word Data:
 
-* Strong’s: H4601
+* Strong’s: [[H4601]]

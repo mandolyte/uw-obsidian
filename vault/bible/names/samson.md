@@ -22,4 +22,4 @@ Samson was one of the judges, or deliverers, of Israel. He was from the tribe of
 
 ## Word Data:
 
-* Strong’s: H8123, G4546
+* Strong’s: [[H8123]], [[G04546]]

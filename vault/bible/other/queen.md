@@ -23,4 +23,4 @@ A queen is either the female ruler of a country or the wife of a king.
 
 ## Word Data:
 
-* Strong’s: H1404, H1377, H4410, H4427, H4433, H4436, H4438, H4446, H7694, H8282, G938
+* Strong’s: [[H1404]], [[H1377]], [[H4410]], [[H4427]], [[H4433]], [[H4436]], [[H4438]], [[H4446]], [[H7694]], [[H8282]], [[G00938]]

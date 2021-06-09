@@ -24,4 +24,4 @@ Amaziah became king over the kingdom of Judah when his father, King Joash, was m
 
 ## Word Data:
 
-* Strong’s: H558
+* Strong’s: [[H0558]]

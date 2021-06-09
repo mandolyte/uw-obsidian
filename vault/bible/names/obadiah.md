@@ -23,4 +23,4 @@ Obadiah was an Old Testament prophet who prophesied against the people of Edom, 
 
 ## Word Data:
 
-* Strong’s: H5662
+* Strong’s: [[H5662]]

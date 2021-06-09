@@ -30,4 +30,4 @@ Noah was a man who lived over 4,000 years ago, at the time when God sent a world
 
 ## Word Data:
 
-* Strong’s: H5146, G3575
+* Strong’s: [[H5146]], [[G03575]]

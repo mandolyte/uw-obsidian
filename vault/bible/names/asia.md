@@ -25,4 +25,4 @@ In Bible times, “Asia” was the name of a province of the Roman Empire. It wa
 
 ## Word Data:
 
-* Strong’s: G773
+* Strong’s: [[G00773]]

@@ -43,4 +43,4 @@ The male offspring of a man and a woman is called their “son” for his entire
 
 ## Word Data:
 
-* Strong’s: H1060, H1121, H1123, H1248, H3173, H3206, H3211, H4497, H5209, H5220, G3816, G5043, G5207
+* Strong’s: [[H1060]], [[H1121]], [[H1123]], [[H1248]], [[H3173]], [[H3206]], [[H3211]], [[H4497]], [[H5209]], [[H5220]], [[G03816]], [[G05043]], [[G05207]]

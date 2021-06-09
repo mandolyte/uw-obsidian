@@ -17,4 +17,4 @@ Amos was an Israelite prophet who lived during the time of King Uzziah of Judah.
 
 ## Word Data:
 
-* Strong’s: H5986
+* Strong’s: [[H5986]]

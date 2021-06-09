@@ -27,4 +27,4 @@ The term “transgress” means to cross a line or to violate a boundary. The te
 
 ## Word Data:
 
-* Strong’s: H898, H4603, H4604, H6586, H6588, G458, G459, G3845, G3847, G3848, G3928
+* Strong’s: [[H0898]], [[H4603]], [[H4604]], [[H6586]], [[H6588]], [[G00458]], [[G00459]], [[G03845]], [[G03847]], [[G03848]], [[G03928]]

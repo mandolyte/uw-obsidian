@@ -22,4 +22,4 @@ An “evangelist” is a person who tells other people the good news about Jesus
 
 ## Word Data:
 
-* Strong’s: G2099
+* Strong’s: [[G02099]]

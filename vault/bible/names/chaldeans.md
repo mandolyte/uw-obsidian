@@ -24,4 +24,4 @@ Chaldea was a region in the southern part of Mesopotamia or Babylonia. The peopl
 
 ## Word Data:
 
-* Strong’s: H3679, H3778, H3779, G5466
+* Strong’s: [[H3679]], [[H3778]], [[H3779]], [[G05466]]

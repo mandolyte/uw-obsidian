@@ -19,4 +19,4 @@ The term “evildoer” is a general reference to people who do sinful and wicke
 
 ## Word Data:
 
-* Strong’s: H205, H6213, H6466, H7451, H7489, G93, G458, G2038, G2040, G2555
+* Strong’s: [[H0205]], [[H6213]], [[H6466]], [[H7451]], [[H7489]], [[G00093]], [[G00458]], [[G02038]], [[G02040]], [[G02555]]

@@ -35,4 +35,4 @@ Abram was a Chaldean man from the city of Ur who was chosen by God to be the for
 
 ## Word Data:
 
-* Strong’s: H87, H85, G11
+* Strong’s: [[H0087]], [[H0085]], [[G00011]]

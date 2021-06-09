@@ -22,4 +22,4 @@ Dan was Jacob’s fifth son. He was Bilhah’s first son. His descendants became
 
 ## Word Data:
 
-* Strong’s: H1835, H1839, H2051
+* Strong’s: [[H1835]], [[H1839]], [[H2051]]

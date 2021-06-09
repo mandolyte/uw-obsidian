@@ -20,4 +20,4 @@ Annas was the Jewish high priest in Jerusalem for 10 years, from approximately A
 
 ## Word Data:
 
-* Strong’s: G452
+* Strong’s: [[G00452]]

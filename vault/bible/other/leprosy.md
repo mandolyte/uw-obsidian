@@ -29,4 +29,4 @@ The term “leprosy” is used in the Bible to refer to several different skin d
 
 ## Word Data:
 
-* Strong’s: H6879, H6883, G3014, G3015
+* Strong’s: [[H6879]], [[H6883]], [[G03014]], [[G03015]]

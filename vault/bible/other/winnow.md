@@ -24,4 +24,4 @@ The terms “winnow” and “sift” mean to separate grain from unwanted mater
 
 ## Word Data:
 
-* Strong’s: H2219, H5128, H5130, G4425, G4617
+* Strong’s: [[H2219]], [[H5128]], [[H5130]], [[G04425]], [[G04617]]

@@ -24,4 +24,4 @@ The term “birthright” in the Bible refers to the honor, family name, and phy
 
 ## Word Data:
 
-* Strong’s: H1062, G4415
+* Strong’s: [[H1062]], [[G04415]]

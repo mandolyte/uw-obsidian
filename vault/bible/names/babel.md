@@ -20,4 +20,4 @@ Babel was a chief city in a region called Shinar in the southern part of Mesopot
 
 ## Word Data:
 
-* Strong’s: H894
+* Strong’s: [[H0894]]

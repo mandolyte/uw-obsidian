@@ -23,4 +23,4 @@ The term “age” refers to the number of years a person has lived. It also use
 
 ## Word Data:
 
-* Strong’s: G165, G1074
+* Strong’s: [[G00165]], [[G01074]]

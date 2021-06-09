@@ -23,4 +23,4 @@ Gold is a yellow, high quality metal that was used for making jewelry and religi
 
 ## Word Data:
 
-* Strong’s: H1220, H1722, H2091, H2742, H3800, H5458, H6884, H6885, G5552, G5553, G5554, G5557
+* Strong’s: [[H1220]], [[H1722]], [[H2091]], [[H2742]], [[H3800]], [[H5458]], [[H6884]], [[H6885]], [[G05552]], [[G05553]], [[G05554]], [[G05557]]

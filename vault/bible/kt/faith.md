@@ -36,4 +36,4 @@ In general, the term “faith” refers to a belief, trust or confidence in some
 
 ## Word Data:
 
-* Strong’s: H529, H530, G1680, G3640, G4102, G6066
+* Strong’s: [[H0529]], [[H0530]], [[G01680]], [[G03640]], [[G04102]], [[G06066]]

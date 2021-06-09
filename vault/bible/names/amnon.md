@@ -17,4 +17,4 @@ Amnon was the oldest son of King David. His mother was King David’s wife Ahino
 
 ## Word Data:
 
-* Strong’s: H550
+* Strong’s: [[H0550]]

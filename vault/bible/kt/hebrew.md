@@ -25,4 +25,4 @@ The term “Hebrew” refers in a very general sense to the people group descend
 
 ## Word Data:
 
-* Strong’s: H5680, G1444, G1445, G1446, G1447
+* Strong’s: [[H5680]], [[G01444]], [[G01445]], [[G01446]], [[G01447]]

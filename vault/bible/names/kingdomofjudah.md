@@ -31,4 +31,4 @@ The tribe of Judah was the largest of the twelve tribes of Israel. The kingdom o
 
 ## Word Data:
 
-* Strong’s: H4438, H3063
+* Strong’s: [[H4438]], [[H3063]]

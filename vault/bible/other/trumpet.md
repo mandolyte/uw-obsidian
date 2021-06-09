@@ -21,4 +21,4 @@ The term “trumpet” refers to an instrument for producing music or for callin
 
 ## Word Data:
 
-* Strong’s: H2689, H2690, H3104, H7782, H8619, H8643, G4536, G4537, G4538
+* Strong’s: [[H2689]], [[H2690]], [[H3104]], [[H7782]], [[H8619]], [[H8643]], [[G04536]], [[G04537]], [[G04538]]

@@ -23,4 +23,4 @@ A proverb is a short statement that expresses some wisdom or truth.
 
 ## Word Data:
 
-* Strong’s: H2420, H4911, H4912, G3850, G3942
+* Strong’s: [[H2420]], [[H4911]], [[H4912]], [[G03850]], [[G03942]]

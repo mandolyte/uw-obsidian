@@ -26,4 +26,4 @@ The term “dishonor” means to do something that is disrespectful to someone. 
 
 ## Word Data:
 
-* Strong’s: H1540, H2490, H2781, H3637, H3639, H5006, H5034, H6172, H6173, H7034, H7043, G818, G819, G820, G2617
+* Strong’s: [[H1540]], [[H2490]], [[H2781]], [[H3637]], [[H3639]], [[H5006]], [[H5034]], [[H6172]], [[H6173]], [[H7034]], [[H7043]], [[G00818]], [[G00819]], [[G00820]], [[G02617]]

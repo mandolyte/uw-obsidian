@@ -22,4 +22,4 @@ In a marriage ceremony, the bridegroom is the **man** who will marry the bride (
 
 ## Word Data:
 
-* Strong’s: H2860, G3566
+* Strong’s: [[H2860]], [[G03566]]

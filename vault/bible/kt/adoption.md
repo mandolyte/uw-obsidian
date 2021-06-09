@@ -26,4 +26,4 @@ The terms “adopt” and “adoption” refer to the process of someone legally
 
 ## Word Data:
 
-* Strong’s: G5206
+* Strong’s: [[G05206]]

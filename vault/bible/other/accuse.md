@@ -17,4 +17,4 @@ The terms “accuse” and “accusation” refer to blaming someone for doing s
 
 ## Word Data:
 
-* Strong’s: H3198, H6818, G1458, G2147, G2596, G2724
+* Strong’s: [[H3198]], [[H6818]], [[G01458]], [[G02147]], [[G02596]], [[G02724]]

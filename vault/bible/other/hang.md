@@ -19,4 +19,4 @@ The term “hang” means to suspend something or someone above the ground.
 
 ## Word Data:
 
-* Strong’s: H2614, H3363, H8518, G519
+* Strong’s: [[H2614]], [[H3363]], [[H8518]], [[G00519]]

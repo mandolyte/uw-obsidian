@@ -27,4 +27,4 @@ Assyria was a powerful nation during the time the Israelites were living in the 
 
 ## Word Data:
 
-* Strong’s: H804, H1121
+* Strong’s: [[H0804]], [[H1121]]

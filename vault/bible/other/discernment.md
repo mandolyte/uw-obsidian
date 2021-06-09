@@ -23,4 +23,4 @@ The term “discern” means to be able to understand something, especially bein
 
 ## Word Data:
 
-* Strong’s: H0995, H2940, H4209, H5234, H8085, G0350, G1252, G1253, G2924
+* Strong’s: [[H0995]], [[H2940]], [[H4209]], [[H5234]], [[H8085]], [[G00350]], [[G01252]], [[G01253]], [[G02924]]

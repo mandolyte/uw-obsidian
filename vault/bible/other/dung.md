@@ -20,4 +20,4 @@ The term “dung” refers to human or animal solid waste, and is also called fe
 
 ## Word Data:
 
-* Strong’s: H830, H1119, H1557, H1561, H1686, H1828, H6569, H6675, G2874
+* Strong’s: [[H0830]], [[H1119]], [[H1557]], [[H1561]], [[H1686]], [[H1828]], [[H6569]], [[H6675]], [[G02874]]

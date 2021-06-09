@@ -23,4 +23,4 @@ Tyre was an ancient Canaanite city located on the coast of the Mediterranean Sea
 
 ## Word Data:
 
-* Strong’s: H6865, H6876, G5183, G5184
+* Strong’s: [[H6865]], [[H6876]], [[G05183]], [[G05184]]

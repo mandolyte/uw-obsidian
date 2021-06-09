@@ -22,4 +22,4 @@ Mesopotamia is the area of land between the Tigris and Euphrates Rivers. Its loc
 
 ## Word Data:
 
-* Strong’s: H763, G3318
+* Strong’s: [[H0763]], [[G03318]]

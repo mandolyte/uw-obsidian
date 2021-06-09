@@ -19,4 +19,4 @@ Pontus was a Roman province during the time of the Roman Empire and the early Ch
 
 ## Word Data:
 
-* Strong’s: G4193, G4195
+* Strong’s: [[G04193]], [[G04195]]

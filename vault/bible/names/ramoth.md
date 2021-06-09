@@ -22,4 +22,4 @@ Ramoth was an important city in the mountains of Gilead near the Jordan River. I
 
 ## Word Data:
 
-* Strong’s: H7216, H7418, H7433
+* Strong’s: [[H7216]], [[H7418]], [[H7433]]

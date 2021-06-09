@@ -25,4 +25,4 @@ In the Bible, the term “curtain” refers to a very thick, heavy piece of mate
 
 ## Word Data:
 
-* Strong’s: H1852, H3407, H4539, H6532, H7050, G2665
+* Strong’s: [[H1852]], [[H3407]], [[H4539]], [[H6532]], [[H7050]], [[G02665]]

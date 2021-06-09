@@ -21,4 +21,4 @@ To “sweep” usually means to remove dirt by making broad, quick movements wit
 
 ## Word Data:
 
-* Strong’s: H622, H857, H1640, H2498, H2894, H3261, H5500, H5595, H7857, G4216, G4563, G4951
+* Strong’s: [[H0622]], [[H0857]], [[H1640]], [[H2498]], [[H2894]], [[H3261]], [[H5500]], [[H5595]], [[H7857]], [[G04216]], [[G04563]], [[G04951]]

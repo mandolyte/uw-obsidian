@@ -20,4 +20,4 @@ Ahaziah was the name of two kings: one ruled over the kingdom of Israel, and the
 
 ## Word Data:
 
-* Strong’s: H274
+* Strong’s: [[H0274]]

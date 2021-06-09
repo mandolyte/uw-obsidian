@@ -18,4 +18,4 @@ The term “week” literally refers to a period of time lasting seven days.
 
 ## Word Data:
 
-* Strong’s: H7620, G4521
+* Strong’s: [[H7620]], [[G04521]]

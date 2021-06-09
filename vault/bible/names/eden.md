@@ -23,4 +23,4 @@ In ancient times, Eden was a region that had a garden where God placed the first
 
 ## Word Data:
 
-* Strong’s: H5729, H5731
+* Strong’s: [[H5729]], [[H5731]]

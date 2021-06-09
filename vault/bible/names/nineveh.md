@@ -21,4 +21,4 @@ Nineveh was the capital city of Assyrian empire. A “Ninevite” was a person w
 
 ## Word Data:
 
-* Strong’s: H5210, G3535, G3536
+* Strong’s: [[H5210]], [[G03535]], [[G03536]]

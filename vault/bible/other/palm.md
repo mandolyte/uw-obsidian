@@ -20,4 +20,4 @@ The term “palm” refers to a type of tall tree with long, flexible, leafy bra
 
 ## Word Data:
 
-* Strong’s: H3712, H8558, H8560, H8561, G5404
+* Strong’s: [[H3712]], [[H8558]], [[H8560]], [[H8561]], [[G05404]]

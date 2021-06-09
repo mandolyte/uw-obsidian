@@ -22,4 +22,4 @@ The term “haughty” means to be prideful or arrogant. Someone who is “haugh
 
 ## Word Data:
 
-* Strong’s: H1361, H1363, H1364, H3093, H7312
+* Strong’s: [[H1361]], [[H1363]], [[H1364]], [[H3093]], [[H7312]]

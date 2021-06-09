@@ -30,4 +30,4 @@ The terms “jealous” and “jealousy” refer to a strong desire to protect t
 
 ## Word Data:
 
-* Strong’s: H7065, H7067, H7068, H7072, G2205, G3863
+* Strong’s: [[H7065]], [[H7067]], [[H7068]], [[H7072]], [[G02205]], [[G03863]]

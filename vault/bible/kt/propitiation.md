@@ -22,4 +22,4 @@ The term “propitiation” refers to a sacrifice that is made to satisfy or ful
 
 ## Word Data:
 
-* Strong’s: G2434, G2435
+* Strong’s: [[G02434]], [[G02435]]

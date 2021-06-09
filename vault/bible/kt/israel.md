@@ -41,4 +41,4 @@ The term “Israel” is the name that God gave to Jacob. Often it refers to the
 
 ## Word Data:
 
-* Strong’s: H3478, H3479, H3481, H3482, G935, G2474, G2475
+* Strong’s: [[H3478]], [[H3479]], [[H3481]], [[H3482]], [[G00935]], [[G02474]], [[G02475]]

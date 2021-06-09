@@ -23,4 +23,4 @@ The “people of Ammon” or the “Ammonites” were a people group that lived 
 
 ## Word Data:
 
-* Strong’s: H5983, H5984, H5985
+* Strong’s: [[H5983]], [[H5984]], [[H5985]]

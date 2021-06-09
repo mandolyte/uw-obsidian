@@ -21,4 +21,4 @@ Titus was a Gentile. He was trained by Paul to be a leader in the early churches
 
 ## Word Data:
 
-* Strong’s: G5103
+* Strong’s: [[G05103]]

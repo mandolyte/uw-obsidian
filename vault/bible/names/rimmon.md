@@ -23,4 +23,4 @@ Rimmon was the name of a man and of several places mentioned in the Bible. It wa
 
 ## Word Data:
 
-* Strong’s: H7417
+* Strong’s: [[H7417]]

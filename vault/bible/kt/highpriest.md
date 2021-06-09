@@ -45,4 +45,4 @@ The term “high priest” refers to a special priest who was appointed to serve
 
 ## Word Data:
 
-* Strong’s: H7218, H1419, H3548, G748, G749
+* Strong’s: [[H7218]], [[H1419]], [[H3548]], [[G00748]], [[G00749]]

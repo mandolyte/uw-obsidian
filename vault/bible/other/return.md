@@ -15,4 +15,4 @@ The term “return” means to go back or to give something back.
 
 ## Word Data:
 
-* Strong’s: H5437, H7725, H7729, H8421, H8666, G344, G360, G390, G1877, G1880, G1994, G5290
+* Strong’s: [[H5437]], [[H7725]], [[H7729]], [[H8421]], [[H8666]], [[G00344]], [[G00360]], [[G00390]], [[G01877]], [[G01880]], [[G01994]], [[G05290]]

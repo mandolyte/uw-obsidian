@@ -24,4 +24,4 @@ These terms refer to a special wooden chest, overlaid with gold, that contained 
 
 ## Word Data:
 
-* Strong’s: H727, H1285, H3068
+* Strong’s: [[H0727]], [[H1285]], [[H3068]]

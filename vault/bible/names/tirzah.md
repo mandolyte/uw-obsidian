@@ -20,4 +20,4 @@ Tirzah was an important Canaanite city that was conquered by the Israelites. It 
 
 ## Word Data:
 
-* Strong’s: H8656
+* Strong’s: [[H8656]]

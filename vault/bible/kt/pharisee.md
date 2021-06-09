@@ -26,4 +26,4 @@ The Pharisees were an important, powerful group of Jewish religious leaders in J
 
 ## Word Data:
 
-* Strong’s: G5330
+* Strong’s: [[G05330]]

@@ -20,4 +20,4 @@ A woman who is “in labor” is experiencing the pains that lead up to the birt
 
 ## Word Data:
 
-* Strong’s: H2342, H3018, H3205, H5999, H6887, G3449, G4944, G5604, G5605
+* Strong’s: [[H2342]], [[H3018]], [[H3205]], [[H5999]], [[H6887]], [[G03449]], [[G04944]], [[G05604]], [[G05605]]

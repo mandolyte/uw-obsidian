@@ -21,4 +21,4 @@ The term to “groan” refers to the uttering of a deep, low sound that is caus
 
 ## Word Data:
 
-* Strong’s: H584, H585, H602, H603, H1901, H1993, H5008, H5009, H5098, H5594, H7581, G4726, G4727, G4959
+* Strong’s: [[H0584]], [[H0585]], [[H0602]], [[H0603]], [[H1901]], [[H1993]], [[H5008]], [[H5009]], [[H5098]], [[H5594]], [[H7581]], [[G04726]], [[G04727]], [[G04959]]

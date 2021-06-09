@@ -17,4 +17,4 @@ The expression “man of God” is a respectful way of referring to a prophet of
 
 ## Word Data:
 
-* Strong’s: H376, H430, G444, G2316
+* Strong’s: [[H0376]], [[H0430]], [[G00444]], [[G02316]]

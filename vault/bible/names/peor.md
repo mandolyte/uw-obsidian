@@ -19,4 +19,4 @@ The terms “Peor” and “Mount Peor” refer to a mountain located northeast 
 
 ## Word Data:
 
-* Strong’s: H1047, H1187, H6465
+* Strong’s: [[H1047]], [[H1187]], [[H6465]]

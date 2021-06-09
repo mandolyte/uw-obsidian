@@ -35,4 +35,4 @@ The term “oath” in the Bible refers to a formal promise, usually made in a l
 
 ## Word Data:
 
-* Strong’s: H422, H423, H3027, H5375, H7621, H7650, G332, G3660, G3727, G3728
+* Strong’s: [[H0422]], [[H0423]], [[H3027]], [[H5375]], [[H7621]], [[H7650]], [[G00332]], [[G03660]], [[G03727]], [[G03728]]

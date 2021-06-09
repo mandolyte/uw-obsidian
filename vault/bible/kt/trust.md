@@ -36,4 +36,4 @@ To “trust” something or someone is to believe that the thing or person is tr
 
 ## Word Data:
 
-* Strong’s: H539, H982, H1556, H2620, H2622, H3176, H4009, H4268, H7365, G1679, G3872, G3982, G4006, G4100, G4276
+* Strong’s: [[H0539]], [[H0982]], [[H1556]], [[H2620]], [[H2622]], [[H3176]], [[H4009]], [[H4268]], [[H7365]], [[G01679]], [[G03872]], [[G03982]], [[G04006]], [[G04100]], [[G04276]]

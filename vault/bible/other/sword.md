@@ -34,4 +34,4 @@ A sword is a flat-bladed metal weapon used to cut or stab. It has a handle and a
 
 ## Word Data:
 
-* Strong’s: H19, H1300, H2719, H4380, H6609, H7524, H7973, G3162, G4501
+* Strong’s: [[H0019]], [[H1300]], [[H2719]], [[H4380]], [[H6609]], [[H7524]], [[H7973]], [[G03162]], [[G04501]]

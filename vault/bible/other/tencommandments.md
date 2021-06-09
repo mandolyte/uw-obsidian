@@ -25,4 +25,4 @@ The “Ten Commandments” were commands that God gave to Moses on Mount Sinai w
 
 ## Word Data:
 
-* Strong’s: H1697, H6235
+* Strong’s: [[H1697]], [[H6235]]

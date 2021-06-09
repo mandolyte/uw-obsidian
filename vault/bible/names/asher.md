@@ -22,4 +22,4 @@ Asher was Jacob’s eighth son. He was Zilpah’s second son. His descendants be
 
 ## Word Data:
 
-* Strong’s: H836
+* Strong’s: [[H0836]]

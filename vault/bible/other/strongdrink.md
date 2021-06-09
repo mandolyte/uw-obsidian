@@ -20,4 +20,4 @@ The term “strong drink” refers to drinks that have been fermented and have a
 
 ## Word Data:
 
-* Strong’s: H5435, H7941, G4608
+* Strong’s: [[H5435]], [[H7941]], [[G04608]]

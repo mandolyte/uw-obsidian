@@ -21,4 +21,4 @@ The term “prostrate” means to be lying face down, stretched out on the groun
 
 ## Word Data:
 
-* Strong’s: H5307, H5457, H6440, H6915, H7812
+* Strong’s: [[H5307]], [[H5457]], [[H6440]], [[H6915]], [[H7812]]

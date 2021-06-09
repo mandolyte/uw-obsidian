@@ -22,4 +22,4 @@ A “law” is a legal rule that is usually written down and enforced by someone
 
 ## Word Data:
 
-* Strong’s: H1285, H1881, H1882, H2706, H2708, H2710, H4687, H4941, H6310, H7560, H8451, G1785, G3548, G3551, G4747
+* Strong’s: [[H1285]], [[H1881]], [[H1882]], [[H2706]], [[H2708]], [[H2710]], [[H4687]], [[H4941]], [[H6310]], [[H7560]], [[H8451]], [[G01785]], [[G03548]], [[G03551]], [[G04747]]

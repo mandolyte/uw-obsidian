@@ -40,4 +40,4 @@ The terms “repent” and “repentance” refer to turning away from sin and t
 
 ## Word Data:
 
-* Strong’s: H5150, H5162, H5164, G278, G3338, G3340, G3341
+* Strong’s: [[H5150]], [[H5162]], [[H5164]], [[G00278]], [[G03338]], [[G03340]], [[G03341]]

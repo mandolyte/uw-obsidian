@@ -22,4 +22,4 @@ Mount Hermon is the name of the tallest mountain in Israel at the southern tip o
 
 ## Word Data:
 
-* Strong’s: H2022, H2768, H2769, H8149
+* Strong’s: [[H2022]], [[H2768]], [[H2769]], [[H8149]]

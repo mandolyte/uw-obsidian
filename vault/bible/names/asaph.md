@@ -22,4 +22,4 @@ Asaph was a Levite priest and gifted musician who composed the music for the psa
 
 ## Word Data:
 
-* Strong’s: H623
+* Strong’s: [[H0623]]

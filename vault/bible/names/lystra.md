@@ -21,4 +21,4 @@ Lystra was a city in ancient Asia Minor that Paul visited on one of his missiona
 
 ## Word Data:
 
-* Strong’s: G3082
+* Strong’s: [[G03082]]

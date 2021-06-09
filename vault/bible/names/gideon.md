@@ -33,4 +33,4 @@ Gideon was an Israelite man whom God raised up to deliver the Israelites from th
 
 ## Word Data:
 
-* Strong’s: H1439, H1441
+* Strong’s: [[H1439]], [[H1441]]

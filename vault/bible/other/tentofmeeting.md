@@ -26,4 +26,4 @@ The term “tent of meeting” refers to a tent which was a temporary place wher
 
 ## Word Data:
 
-* Strong’s: H168, H4150
+* Strong’s: [[H0168]], [[H4150]]

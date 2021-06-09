@@ -27,4 +27,4 @@ The term “overseer” refers to a person who is in charge of the work and welf
 
 ## Word Data:
 
-* Strong’s: H5329, H6485, H6496, H7860, H8104, G1983, G1984, G1985
+* Strong’s: [[H5329]], [[H6485]], [[H6496]], [[H7860]], [[H8104]], [[G01983]], [[G01984]], [[G01985]]

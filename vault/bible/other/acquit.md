@@ -20,4 +20,4 @@ The term “acquit” means to formally declare someone to be not guilty of an u
 
 ## Word Data:
 
-* Strong’s: H3444, H5352, H5355, H6403, H6663
+* Strong’s: [[H3444]], [[H5352]], [[H5355]], [[H6403]], [[H6663]]

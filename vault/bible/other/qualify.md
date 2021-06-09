@@ -21,4 +21,4 @@ The term “qualify” refers to earning the right to receive certain benefits o
 
 ## Word Data:
 
-* Strong’s: H3581
+* Strong’s: [[H3581]]

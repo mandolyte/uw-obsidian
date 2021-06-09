@@ -21,4 +21,4 @@ The term “vine” refers to a plant that grows by trailing along the ground or
 
 ## Word Data:
 
-* Strong’s: H5139, H1612, H8321, G288, G290, G1009, G1092
+* Strong’s: [[H5139]], [[H1612]], [[H8321]], [[G00288]], [[G00290]], [[G01009]], [[G01092]]

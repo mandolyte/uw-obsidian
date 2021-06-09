@@ -21,4 +21,4 @@ Mizpah is the name of several towns mentioned in the Old Testament. It means “
 
 ## Word Data:
 
-* Strong’s: H4708, H4709
+* Strong’s: [[H4708]], [[H4709]]

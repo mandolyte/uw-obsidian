@@ -19,4 +19,4 @@ A grain offering was a gift of wheat or barley flour offered to God, often after
 
 ## Word Data:
 
-* Strong’s: H4503, H8641
+* Strong’s: [[H4503]], [[H8641]]

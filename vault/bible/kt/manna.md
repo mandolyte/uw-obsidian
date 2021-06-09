@@ -27,4 +27,4 @@ Manna was a white, grain-like food that God provided for the Israelites to eat d
 
 ## Word Data:
 
-* Strong’s: H4478, G3131
+* Strong’s: [[H4478]], [[G03131]]

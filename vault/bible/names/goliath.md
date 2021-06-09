@@ -21,4 +21,4 @@ Goliath was a very tall and very large soldier in the army of the Philistines wh
 
 ## Word Data:
 
-* Strong’s: H1555
+* Strong’s: [[H1555]]

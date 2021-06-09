@@ -41,4 +41,4 @@ A kingdom is a group of people ruled by a king. It also refers to the realm or p
 
 ## Word Data:
 
-* Strong’s: H4410, H4437, H4438, H4467, H4468, H4474, H4475, G932
+* Strong’s: [[H4410]], [[H4437]], [[H4438]], [[H4467]], [[H4468]], [[H4474]], [[H4475]], [[G00932]]

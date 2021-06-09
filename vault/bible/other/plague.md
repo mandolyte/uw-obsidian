@@ -20,4 +20,4 @@ Plagues are events which cause suffering or death to a large number of people. O
 
 ## Word Data:
 
-* Strong’s: H1698, H4046, H4194, H4347, H5061, H5062, H5063, G3061, G4127
+* Strong’s: [[H1698]], [[H4046]], [[H4194]], [[H4347]], [[H5061]], [[H5062]], [[H5063]], [[G03061]], [[G04127]]

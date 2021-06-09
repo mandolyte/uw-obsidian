@@ -18,4 +18,4 @@ Crete is an island that is located off the southern coast of Greece. A “Cretan
 
 ## Word Data:
 
-* Strong’s: G2912, G2914
+* Strong’s: [[G02912]], [[G02914]]

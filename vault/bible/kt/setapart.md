@@ -28,4 +28,4 @@ The term “set apart” means separated from something to fulfill a certain pur
 
 ## Word Data:
 
-* Strong’s: H2764, H4390, H5674, H6918, H6942, H6944, G37, G38, G40, G873
+* Strong’s: [[H2764]], [[H4390]], [[H5674]], [[H6918]], [[H6942]], [[H6944]], [[G00037]], [[G00038]], [[G00040]], [[G00873]]

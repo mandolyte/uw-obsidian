@@ -27,4 +27,4 @@ The term “exile” refers to people being forced to live somewhere away from t
 
 ## Word Data:
 
-* Strong’s: H1123, H1473, H1540, H1541, H1546, H1547, H3212, H3318, H5080, H6808, H7617, H7622, H8689, G3927
+* Strong’s: [[H1123]], [[H1473]], [[H1540]], [[H1541]], [[H1546]], [[H1547]], [[H3212]], [[H3318]], [[H5080]], [[H6808]], [[H7617]], [[H7622]], [[H8689]], [[G03927]]

@@ -26,4 +26,4 @@ The names “Jethro” and “Reuel” both refer to the father of Moses’ wife
 
 ## Word Data:
 
-* Strong’s: H3503, H7467
+* Strong’s: [[H3503]], [[H7467]]

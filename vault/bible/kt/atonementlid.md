@@ -27,4 +27,4 @@ The “atonement lid” was a slab of gold that was used to cover the top of the
 
 ## Word Data:
 
-* Strong’s: H3727, G2435
+* Strong’s: [[H3727]], [[G02435]]

@@ -37,4 +37,4 @@ David was the second king of Israel and he loved and served God. He was the main
 
 ## Word Data:
 
-* Strong’s: H1732, G1138
+* Strong’s: [[H1732]], [[G01138]]

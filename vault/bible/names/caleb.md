@@ -29,4 +29,4 @@ Caleb was one of the twelve Israelite spies whom Moses sent to explore the land 
 
 ## Word Data:
 
-* Strong’s: H3612, H3614
+* Strong’s: [[H3612]], [[H3614]]

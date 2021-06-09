@@ -26,4 +26,4 @@ In the Bible, the term “lampstand” generally refers to a structure on which 
 
 ## Word Data:
 
-* Strong’s: H4501, G3087
+* Strong’s: [[H4501]], [[G03087]]

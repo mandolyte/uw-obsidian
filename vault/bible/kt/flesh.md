@@ -32,4 +32,4 @@ In the Bible, the term “flesh” literally refers to the soft tissue of the ph
 
 ## Word Data:
 
-* Strong’s: H829, H1320, H1321, H2878, H3894, H4207, H7607, H7683, G2907, G4559, G4560, G4561
+* Strong’s: [[H0829]], [[H1320]], [[H1321]], [[H2878]], [[H3894]], [[H4207]], [[H7607]], [[H7683]], [[G02907]], [[G04559]], [[G04560]], [[G04561]]

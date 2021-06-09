@@ -22,4 +22,4 @@ Hamor was a Canaanite man living in the city of Shechem when Jacob and his famil
 
 ## Word Data:
 
-* Strong’s: H2544
+* Strong’s: [[H2544]]

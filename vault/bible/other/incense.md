@@ -23,4 +23,4 @@ The term “incense” refers to a mixture of fragrant spices that is burned to 
 
 ## Word Data:
 
-* Strong’s: H2553, H3828, H4196, H4289, H5208, H6988, H6999, H7002, H7004, H7381, G2368, G2369, G2370, G2379, G3031
+* Strong’s: [[H2553]], [[H3828]], [[H4196]], [[H4289]], [[H5208]], [[H6988]], [[H6999]], [[H7002]], [[H7004]], [[H7381]], [[G02368]], [[G02369]], [[G02370]], [[G02379]], [[G03031]]

@@ -22,4 +22,4 @@ The Girgashites were a people group living near the Sea of Galilee in the land o
 
 ## Word Data:
 
-* Strong’s: H1622
+* Strong’s: [[H1622]]

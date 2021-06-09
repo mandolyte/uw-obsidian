@@ -64,4 +64,4 @@ The term “new covenant” refers to the commitment or agreement God made with 
 
 ## Word Data:
 
-* Strong’s: H1285, H2319, H3772, G802, G1242, G4934
+* Strong’s: [[H1285]], [[H2319]], [[H3772]], [[G00802]], [[G01242]], [[G04934]]

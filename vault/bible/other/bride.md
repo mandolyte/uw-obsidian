@@ -17,4 +17,4 @@ A bride is the woman in a wedding ceremony who is getting married to her husband
 
 ## Word Data:
 
-* Strong’s: H3618, G3565
+* Strong’s: [[H3618]], [[G03565]]

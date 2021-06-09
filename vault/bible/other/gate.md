@@ -25,4 +25,4 @@ The term “gate” refers to an access point in a fence, wall, or other kind of
 
 ## Word Data:
 
-* Strong’s: H1817, H5592, H6607, H8179, G2374, G4439, G4440
+* Strong’s: [[H1817]], [[H5592]], [[H6607]], [[H8179]], [[G02374]], [[G04439]], [[G04440]]

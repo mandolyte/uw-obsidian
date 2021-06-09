@@ -22,4 +22,4 @@ The terms “exult” and “exultant” refer to being very happy because of a 
 
 ## Word Data:
 
-* Strong’s: H5539, H5947, H5970
+* Strong’s: [[H5539]], [[H5947]], [[H5970]]

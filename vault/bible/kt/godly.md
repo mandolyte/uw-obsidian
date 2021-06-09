@@ -40,4 +40,4 @@ The terms “ungodly” and “godless” describe people who are in rebellion a
 
 ## Word Data:
 
-* Strong’s: H0430, H1100, H2623, H5760, H7563, G0516, G0763, G0764, G0765, G2124, G2150, G2152, G2153, G2316, G2317
+* Strong’s: [[H0430]], [[H1100]], [[H2623]], [[H5760]], [[H7563]], [[G00516]], [[G00763]], [[G00764]], [[G00765]], [[G02124]], [[G02150]], [[G02152]], [[G02153]], [[G02316]], [[G02317]]

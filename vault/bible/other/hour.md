@@ -25,4 +25,4 @@ In addition to being used to refer to when or how long something took place, the
 
 ## Word Data:
 
-* Strong’s: G5610
+* Strong’s: [[G05610]]

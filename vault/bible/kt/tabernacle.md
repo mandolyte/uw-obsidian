@@ -30,4 +30,4 @@ The tabernacle was a special tent-like structure where the Israelites worshiped 
 
 ## Word Data:
 
-* Strong’s: H168, H4908, H5520, H5521, H5522, H7900, G4633, G4634, G4636, G4638
+* Strong’s: [[H0168]], [[H4908]], [[H5520]], [[H5521]], [[H5522]], [[H7900]], [[G04633]], [[G04634]], [[G04636]], [[G04638]]

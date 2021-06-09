@@ -24,4 +24,4 @@ Gomorrah was a city located in a fertile valley near Sodom, where Abraham’s ne
 
 ## Word Data:
 
-* Strong’s: H6017
+* Strong’s: [[H6017]]

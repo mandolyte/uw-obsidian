@@ -22,4 +22,4 @@ In the Bible, a “lot” is a marked object(s) used as a way of making a fair a
 
 ## Word Data:
 
-* Strong’s: H1486, H5307, G2819, G2975
+* Strong’s: [[H1486]], [[H5307]], [[G02819]], [[G02975]]

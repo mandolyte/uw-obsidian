@@ -23,4 +23,4 @@ In general, a “maker” is someone who creates or makes things.
 
 ## Word Data:
 
-* Strong’s: H3335, H6213, H6466
+* Strong’s: [[H3335]], [[H6213]], [[H6466]]

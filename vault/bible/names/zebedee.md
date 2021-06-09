@@ -22,4 +22,4 @@ Zebedee was a fisherman from Galilee who is known because of his sons, James and
 
 ## Word Data:
 
-* Strong’s: G2199
+* Strong’s: [[G02199]]

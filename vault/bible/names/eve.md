@@ -31,4 +31,4 @@ This was the name of the first woman. Her name means “life” or “living.”
 
 ## Word Data:
 
-* Strong’s: H2332, G2096
+* Strong’s: [[H2332]], [[G02096]]

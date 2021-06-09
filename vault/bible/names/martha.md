@@ -20,4 +20,4 @@ Martha was a woman from Bethany who followed Jesus.
 
 ## Word Data:
 
-* Strong’s: G3136
+* Strong’s: [[G03136]]

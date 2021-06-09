@@ -47,4 +47,4 @@ Because Jesus is God’s Son, he loves and obeys his Father, and his Father love
 
 ## Word Data:
 
-* Strong’s: H426, H430, H1121, H1247, G2316, G5207
+* Strong’s: [[H0426]], [[H0430]], [[H1121]], [[H1247]], [[G02316]], [[G05207]]

@@ -38,4 +38,4 @@ Peter was one of Jesus’ twelve apostles. He was an important leader of the ear
 
 ## Word Data:
 
-* Strong’s: G2786, G4074, G4613
+* Strong’s: [[G02786]], [[G04074]], [[G04613]]

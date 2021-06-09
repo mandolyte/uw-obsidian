@@ -27,4 +27,4 @@ The term “last days” or “latter days” refers generally to the time perio
 
 ## Word Data:
 
-* Strong’s: H319, H3117, G2078, G2250
+* Strong’s: [[H0319]], [[H3117]], [[G02078]], [[G02250]]

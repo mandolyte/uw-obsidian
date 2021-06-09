@@ -18,4 +18,4 @@ The term “Book of Life” is used to refer to where God has written the names 
 
 ## Word Data:
 
-* Strong’s: H2416, H5612, G976, G2222
+* Strong’s: [[H2416]], [[H5612]], [[G00976]], [[G02222]]

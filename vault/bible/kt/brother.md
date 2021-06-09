@@ -30,4 +30,4 @@ The term “brother” refers to a male sibling who shares at least one biologic
 
 ## Word Data:
 
-* Strong’s: H0251, H0252, H0264, H1730, H2992, H2993, H2994, H7453, G0080, G0081, G2385, G2455, G2500, G4613, G5360, G5569
+* Strong’s: [[H0251]], [[H0252]], [[H0264]], [[H1730]], [[H2992]], [[H2993]], [[H2994]], [[H7453]], [[G00080]], [[G00081]], [[G02385]], [[G02455]], [[G02500]], [[G04613]], [[G05360]], [[G05569]]

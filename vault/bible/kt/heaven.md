@@ -41,4 +41,4 @@ The term that is translated as “heaven” usually refers to where God lives. T
 
 ## Word Data:
 
-* Strong’s: H1534, H6160, H6183, H7834, H8064, H8065, G932, G2032, G3321, G3770, G3771, G3772
+* Strong’s: [[H1534]], [[H6160]], [[H6183]], [[H7834]], [[H8064]], [[H8065]], [[G00932]], [[G02032]], [[G03321]], [[G03770]], [[G03771]], [[G03772]]

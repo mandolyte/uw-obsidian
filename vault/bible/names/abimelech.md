@@ -25,4 +25,4 @@ Abimelech was a Philistine king over the region of Gerar during the time when Ab
 
 ## Word Data:
 
-* Strong’s: H40
+* Strong’s: [[H0040]]

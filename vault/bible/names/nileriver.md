@@ -29,4 +29,4 @@ The Nile is a very long and wide river in northeastern Africa. It is especially 
 
 ## Word Data:
 
-* Strong’s: H216, H2975, H4714, H5104
+* Strong’s: [[H0216]], [[H2975]], [[H4714]], [[H5104]]

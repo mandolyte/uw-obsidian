@@ -24,4 +24,4 @@
 
 ## Word Data:
 
-* Strong’s: H1323, H6726
+* Strong’s: [[H1323]], [[H6726]]

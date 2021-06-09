@@ -22,4 +22,4 @@ Zechariah was a prophet who prophesied during the reign of King Darius I of Pers
 
 ## Word Data:
 
-* Strong’s: H2148
+* Strong’s: [[H2148]]

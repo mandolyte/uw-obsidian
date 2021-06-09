@@ -20,4 +20,4 @@ Myrrh is an oil or spice that is made from the resin of a myrrh tree that grows 
 
 ## Word Data:
 
-* Strong’s: H3910, H4753, G3464, G4666, G4669
+* Strong’s: [[H3910]], [[H4753]], [[G03464]], [[G04666]], [[G04669]]

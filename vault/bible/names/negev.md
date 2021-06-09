@@ -25,4 +25,4 @@ The Negev is a desert region in the southern part of Israel, southwest of the Sa
 
 ## Word Data:
 
-* Strong’s: H5045, H6160
+* Strong’s: [[H5045]], [[H6160]]

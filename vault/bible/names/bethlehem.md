@@ -29,4 +29,4 @@ Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It
 
 ## Word Data:
 
-* Strong’s: H376, H672, H1035, G965
+* Strong’s: [[H0376]], [[H0672]], [[H1035]], [[G00965]]

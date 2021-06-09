@@ -22,4 +22,4 @@ Lamech was the name of two men mentioned in the book of Genesis.
 
 ## Word Data:
 
-* Strong’s: H3929, G2984
+* Strong’s: [[H3929]], [[G02984]]

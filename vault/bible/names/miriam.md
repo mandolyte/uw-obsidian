@@ -23,4 +23,4 @@ Miriam was the older sister of Aaron and Moses.
 
 ## Word Data:
 
-* Strong’s: H4813
+* Strong’s: [[H4813]]

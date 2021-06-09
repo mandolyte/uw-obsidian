@@ -27,4 +27,4 @@ In New Testament times, the city of Rome was the center of the Roman Empire. It 
 
 ## Word Data:
 
-* Strong’s: G4514, G4516
+* Strong’s: [[G04514]], [[G04516]]

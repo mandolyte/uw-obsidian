@@ -31,4 +31,4 @@ The terms “well” and “cistern” refer to two different kinds of sources f
 
 ## Word Data:
 
-* Strong’s: H875, H883, H953, H1360, H4599, H4726, H4841, G4077, G5421
+* Strong’s: [[H0875]], [[H0883]], [[H0953]], [[H1360]], [[H4599]], [[H4726]], [[H4841]], [[G04077]], [[G05421]]

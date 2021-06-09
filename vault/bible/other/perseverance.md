@@ -20,4 +20,4 @@ The terms “persevere” and “perseverance” refer to continuing to do somet
 
 ## Word Data:
 
-* Strong’s: G3115, G4343, G5281
+* Strong’s: [[G03115]], [[G04343]], [[G05281]]

@@ -28,4 +28,4 @@ Jericho was a powerful city in the land of Canaan. It was located just west of t
 
 ## Word Data:
 
-* Strong’s: H3405, G2410
+* Strong’s: [[H3405]], [[G02410]]

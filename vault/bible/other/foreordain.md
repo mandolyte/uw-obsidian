@@ -21,4 +21,4 @@ The terms “foreknew” and “foreknowledge” come from the verb “foreknow�
 
 ## Word Data:
 
-* Strong’s: G4267, G4268
+* Strong’s: [[G04267]], [[G04268]]

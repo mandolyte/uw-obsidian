@@ -26,4 +26,4 @@ The names Kadesh, Kadesh-Barnea, and Meribah Kadesh all refer to an important ci
 
 ## Word Data:
 
-* Strong’s: H4809, H6946, H6947
+* Strong’s: [[H4809]], [[H6946]], [[H6947]]

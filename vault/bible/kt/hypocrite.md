@@ -27,4 +27,4 @@ The term “hypocrite” refers to a person who does things to appear righteous,
 
 ## Word Data:
 
-* Strong’s: H120, H2611, H2612, G505, G5272, G5273
+* Strong’s: [[H0120]], [[H2611]], [[H2612]], [[G00505]], [[G05272]], [[G05273]]

@@ -25,4 +25,4 @@ The term “bury” refers to putting an object (usually a dead body) into a hol
 
 ## Word Data:
 
-* Strong’s: H6900, H6912, H6913, G1779, G1780, G2290, G4916, G5027
+* Strong’s: [[H6900]], [[H6912]], [[H6913]], [[G01779]], [[G01780]], [[G02290]], [[G04916]], [[G05027]]

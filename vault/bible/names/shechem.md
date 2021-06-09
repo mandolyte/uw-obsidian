@@ -21,4 +21,4 @@ Shechem was a town in Canaan located about 40 miles north of Jerusalem. Shechem 
 
 ## Word Data:
 
-* Strong’s: H7928, H7930
+* Strong’s: [[H7928]], [[H7930]]

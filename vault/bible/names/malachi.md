@@ -19,4 +19,4 @@ Malachi was one of God’s prophets to the kingdom of Judah. He lived around 500
 
 ## Word Data:
 
-* Strong’s: H4401
+* Strong’s: [[H4401]]

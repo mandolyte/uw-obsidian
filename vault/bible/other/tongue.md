@@ -30,4 +30,4 @@ The term “tongue” refers to the organ inside a person’s mouth that is used
 
 ## Word Data:
 
-* Strong’s: H3956, G1100, G1258, G2084
+* Strong’s: [[H3956]], [[G01100]], [[G01258]], [[G02084]]

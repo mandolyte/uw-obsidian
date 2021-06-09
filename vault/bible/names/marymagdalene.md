@@ -21,4 +21,4 @@ Mary Magdalene was one of several women who believed in Jesus and followed him i
 
 ## Word Data:
 
-* Strong’s: G3094, G3137
+* Strong’s: [[G03094]], [[G03137]]

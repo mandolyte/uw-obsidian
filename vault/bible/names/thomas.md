@@ -21,4 +21,4 @@ Thomas was one of twelve men whom Jesus chose to be his disciples and later, apo
 
 ## Word Data:
 
-* Strong’s: G2381
+* Strong’s: [[G02381]]

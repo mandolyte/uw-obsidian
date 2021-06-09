@@ -19,4 +19,4 @@ The term “multiply” means to greatly increase in number. It can also mean to
 
 ## Word Data:
 
-* Strong’s: H3254, H3527, H6280, H7231, H7233, H7235, H7680, G4052, G4129
+* Strong’s: [[H3254]], [[H3527]], [[H6280]], [[H7231]], [[H7233]], [[H7235]], [[H7680]], [[G04052]], [[G04129]]

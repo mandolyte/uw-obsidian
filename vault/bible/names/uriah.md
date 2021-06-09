@@ -27,4 +27,4 @@ Uriah was a righteous man and one of King David’s best soldiers. He is often r
 
 ## Word Data:
 
-* Strong’s: H223, G3774
+* Strong’s: [[H0223]], [[G03774]]

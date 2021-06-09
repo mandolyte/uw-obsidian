@@ -31,4 +31,4 @@ Canaan was the son of Ham, who was one of Noah’s sons. The Canaanites were the
 
 ## Word Data:
 
-* Strong’s: H3667, H3669, G5478
+* Strong’s: [[H3667]], [[H3669]], [[G05478]]

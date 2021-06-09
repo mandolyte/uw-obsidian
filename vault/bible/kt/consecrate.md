@@ -24,4 +24,4 @@ To consecrate means to dedicate something or someone to serve God. The person or
 
 ## Word Data:
 
-* Strong’s: H2763, H3027, H4390, H4394, H5144, H5145, H6942, H6944, G1457, G5048
+* Strong’s: [[H2763]], [[H3027]], [[H4390]], [[H4394]], [[H5144]], [[H5145]], [[H6942]], [[H6944]], [[G01457]], [[G05048]]

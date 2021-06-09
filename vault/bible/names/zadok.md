@@ -22,4 +22,4 @@ Zadok was the name of an important high priest in Israel during the reign of Kin
 
 ## Word Data:
 
-* Strong’s: H6659, G4524
+* Strong’s: [[H6659]], [[G04524]]

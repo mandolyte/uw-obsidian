@@ -24,4 +24,4 @@ The term “bronze” refers to a kind of metal that is made from melting togeth
 
 ## Word Data:
 
-* Strong’s: H5153, H5154, H5174, H5178, G5470, G5474, G5475
+* Strong’s: [[H5153]], [[H5154]], [[H5174]], [[H5178]], [[G05470]], [[G05474]], [[G05475]]

@@ -22,4 +22,4 @@ Media was an ancient empire located east of Assyria and Babylonia, and north of 
 
 ## Word Data:
 
-* Strong’s: H4074, H4075, H4076, H4077, G3370
+* Strong’s: [[H4074]], [[H4075]], [[H4076]], [[H4077]], [[G03370]]

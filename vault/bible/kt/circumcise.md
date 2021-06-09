@@ -60,4 +60,4 @@ The terms “uncircumcised” and “uncircumcision” refer to a male who has n
 
 ## Word Data:
 
-* Strong’s: H4135, H4139, H5243, H6188, H6189, H6190, G203, G564, G1986, G4059, G4061
+* Strong’s: [[H4135]], [[H4139]], [[H5243]], [[H6188]], [[H6189]], [[H6190]], [[G00203]], [[G00564]], [[G01986]], [[G04059]], [[G04061]]

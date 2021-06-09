@@ -21,4 +21,4 @@ Baasha was one of Israel’s evil kings, who influenced the Israelites to worshi
 
 ## Word Data:
 
-* Strong’s: H1201
+* Strong’s: [[H1201]]

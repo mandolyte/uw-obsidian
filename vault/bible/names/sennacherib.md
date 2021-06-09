@@ -22,4 +22,4 @@ Sennacherib was a powerful king of Assyria who caused Nineveh to become a rich, 
 
 ## Word Data:
 
-* Strong’s: H5576, H5623
+* Strong’s: [[H5576]], [[H5623]]

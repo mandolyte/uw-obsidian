@@ -23,4 +23,4 @@ Job was a man who is described in the Bible as blameless and righteous before Go
 
 ## Word Data:
 
-* Strong’s: H347, G2492
+* Strong’s: [[H0347]], [[G02492]]

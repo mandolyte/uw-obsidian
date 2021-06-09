@@ -22,4 +22,4 @@ The terms “be partial” and “show partiality” refer to making a choice to
 
 ## Word Data:
 
-* Strong’s: H5234, H6440, G991, G1519, G2983, G4299, G4383
+* Strong’s: [[H5234]], [[H6440]], [[G00991]], [[G01519]], [[G02983]], [[G04299]], [[G04383]]

@@ -22,4 +22,4 @@ A staff is a long wooden stick or rod, often used as a walking stick.
 
 ## Word Data:
 
-* Strong’s: H4132, H4294, H4731, H4938, H6086, H6418, H7626, G2563, G3586, G4464
+* Strong’s: [[H4132]], [[H4294]], [[H4731]], [[H4938]], [[H6086]], [[H6418]], [[H7626]], [[G02563]], [[G03586]], [[G04464]]

@@ -41,4 +41,4 @@ The term “disciple” refers to a person who spends much time with a teacher, 
 
 ## Word Data:
 
-* Strong’s: H3928, G3100, G3101, G3102
+* Strong’s: [[H3928]], [[G03100]], [[G03101]], [[G03102]]

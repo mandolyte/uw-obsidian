@@ -27,4 +27,4 @@ The term “stumble” means “almost fall” when walking or running. Usually 
 
 ## Word Data:
 
-* Strong’s: H1762, H3782, H4383, H5062, H5063, H5307, H6328, H6761, H8058, G679, G4348, G4350, G4417, G4624, G4625
+* Strong’s: [[H1762]], [[H3782]], [[H4383]], [[H5062]], [[H5063]], [[H5307]], [[H6328]], [[H6761]], [[H8058]], [[G00679]], [[G04348]], [[G04350]], [[G04417]], [[G04624]], [[G04625]]

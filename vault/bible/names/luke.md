@@ -21,4 +21,4 @@ Luke wrote two books of the New Testament: the gospel of Luke and the book of Ac
 
 ## Word Data:
 
-* Strong’s: G3065
+* Strong’s: [[G03065]]

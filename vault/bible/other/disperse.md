@@ -20,4 +20,4 @@ The terms “disperse” and “dispersion” refer to the scattering of people 
 
 ## Word Data:
 
-* Strong’s: H2219, H5310, H6327, H6340, H6504, H8600, G1287, G1290, G4650
+* Strong’s: [[H2219]], [[H5310]], [[H6327]], [[H6340]], [[H6504]], [[H8600]], [[G01287]], [[G01290]], [[G04650]]

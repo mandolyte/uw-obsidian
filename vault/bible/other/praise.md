@@ -39,4 +39,4 @@ To praise someone is to express admiration and honor for that person.
 
 ## Word Data:
 
-* Strong’s: H1319, H7121, G2980, G3853
+* Strong’s: [[H1319]], [[H7121]], [[G02980]], [[G03853]]

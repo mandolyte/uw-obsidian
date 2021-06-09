@@ -24,4 +24,4 @@ The term “memorial” refers to an action or object that causes someone or som
 
 ## Word Data:
 
-* Strong’s: H2142, H2146, G3422
+* Strong’s: [[H2142]], [[H2146]], [[G03422]]

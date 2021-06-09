@@ -37,4 +37,4 @@ Jerusalem was originally an ancient Canaanite city that later became the most im
 
 ## Word Data:
 
-* Strong’s: H3389, H3390, G2414, G2415, G2419
+* Strong’s: [[H3389]], [[H3390]], [[G02414]], [[G02415]], [[G02419]]

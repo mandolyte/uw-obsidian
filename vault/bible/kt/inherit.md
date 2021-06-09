@@ -40,4 +40,4 @@ The term “inherit” refers to receiving something valuable from a parent afte
 
 ## Word Data:
 
-* Strong’s: H2490, H2506, H3423, H3425, H4181, H5157, H5159, G2816, G2817, G2819, G2820
+* Strong’s: [[H2490]], [[H2506]], [[H3423]], [[H3425]], [[H4181]], [[H5157]], [[H5159]], [[G02816]], [[G02817]], [[G02819]], [[G02820]]

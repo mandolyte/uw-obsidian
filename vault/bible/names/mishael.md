@@ -19,4 +19,4 @@ Mishael is the name of three men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H4332, H4333
+* Strong’s: [[H4332]], [[H4333]]

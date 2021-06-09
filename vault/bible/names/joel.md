@@ -22,4 +22,4 @@ Joel was a prophet who probably lived during the reign of King Joash of Judah. T
 
 ## Word Data:
 
-* Strong’s: H3100, G2493
+* Strong’s: [[H3100]], [[G02493]]

@@ -35,4 +35,4 @@ Joseph was Jesus’ earthly father and raised him as his son. He was a righteous
 
 ## Word Data:
 
-* Strong’s: G2501
+* Strong’s: [[G02501]]

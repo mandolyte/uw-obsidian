@@ -20,4 +20,4 @@ The term “arrogant” means proud, usually in an obvious, outward way.
 
 ## Word Data:
 
-* Strong’s: H1346, H1347, H2102, H2103, H6277, G212, G5450
+* Strong’s: [[H1346]], [[H1347]], [[H2102]], [[H2103]], [[H6277]], [[G00212]], [[G05450]]

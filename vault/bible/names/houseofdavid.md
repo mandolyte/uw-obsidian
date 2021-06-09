@@ -23,4 +23,4 @@ The expression “house of David” refers to the family or descendants of King 
 
 ## Word Data:
 
-* Strong’s: H1004, H1732, G1138, G3624
+* Strong’s: [[H1004]], [[H1732]], [[G01138]], [[G03624]]

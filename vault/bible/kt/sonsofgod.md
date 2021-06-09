@@ -28,4 +28,4 @@ The term “sons of God” is a figurative expression that has several possible 
 
 ## Word Data:
 
-* Strong’s: H430, H1121, G5207, G5043
+* Strong’s: [[H0430]], [[H1121]], [[G05207]], [[G05043]]

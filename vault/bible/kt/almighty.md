@@ -28,4 +28,4 @@ The term “Almighty” literally means “all-powerful.” In the Bible, this t
 
 ## Word Data:
 
-* Strong’s: H7706, G3841
+* Strong’s: [[H7706]], [[G03841]]

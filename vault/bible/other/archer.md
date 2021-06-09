@@ -21,4 +21,4 @@ The term “archer” refers to a man who is skilled at using a bow and arrow as
 
 ## Word Data:
 
-* Strong’s: H1167, H1869, H2671, H3384, H7198, H7199, H7228
+* Strong’s: [[H1167]], [[H1869]], [[H2671]], [[H3384]], [[H7198]], [[H7199]], [[H7228]]

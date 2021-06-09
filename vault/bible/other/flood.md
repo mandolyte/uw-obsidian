@@ -29,4 +29,4 @@ The term “flood” literally refers to a large amount of water that completely
 
 ## Word Data:
 
-* Strong’s: H3999, G2627
+* Strong’s: [[H3999]], [[G02627]]

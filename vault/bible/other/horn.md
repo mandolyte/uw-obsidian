@@ -23,4 +23,4 @@ Horns are permanent, hard, pointed growths on the heads of many types of animals
 
 ## Word Data:
 
-* Strong’s:H3104, H7160, H7161, H7162, H7782, G2768
+* Strong’s:[[H3104]], [[H7160]], [[H7161]], [[H7162]], [[H7782]], [[G02768]]

@@ -30,4 +30,4 @@ The city of Babylon was the capital of the ancient region of Babylonia, which wa
 
 ## Word Data:
 
-* Strong’s: H3778, H3779, H8152, H894, H895, H896, G897
+* Strong’s: [[H3778]], [[H3779]], [[H8152]], [[H0894]], [[H0895]], [[H0896]], [[G00897]]

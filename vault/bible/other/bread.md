@@ -24,4 +24,4 @@ Bread is a food made from flour mixed with water and oil to form a dough. The do
 
 ## Word Data:
 
-* Strong’s: H2557, H3899, H4635, H4682, G106, G740, G4286
+* Strong’s: [[H2557]], [[H3899]], [[H4635]], [[H4682]], [[G00106]], [[G00740]], [[G04286]]

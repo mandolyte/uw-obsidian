@@ -22,4 +22,4 @@ The term “overtake” and “overtook” refer to gaining control over someone
 
 ## Word Data:
 
-* Strong’s: H579, H935, H1692, H4672, H5066, H5381, G2638, G2983
+* Strong’s: [[H0579]], [[H0935]], [[H1692]], [[H4672]], [[H5066]], [[H5381]], [[G02638]], [[G02983]]

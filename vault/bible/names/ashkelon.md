@@ -23,4 +23,4 @@ In Bible times, Ashkelon was a major Philistine city located on the coast of the
 
 ## Word Data:
 
-* Strong’s: H831
+* Strong’s: [[H0831]]

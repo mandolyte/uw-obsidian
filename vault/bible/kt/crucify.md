@@ -35,4 +35,4 @@ The term “crucify” means to execute someone by attaching him to a cross and 
 
 ## Word Data:
 
-* Strong’s: G388, G4362, G4717, G4957
+* Strong’s: [[G00388]], [[G04362]], [[G04717]], [[G04957]]

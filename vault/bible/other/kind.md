@@ -21,4 +21,4 @@ The term “kind” refers to a group or classification of something(s) that sha
 
 ## Word Data:
 
-* Strong’s: H2178, H3978, H4327, G1085, G5449
+* Strong’s: [[H2178]], [[H3978]], [[H4327]], [[G01085]], [[G05449]]

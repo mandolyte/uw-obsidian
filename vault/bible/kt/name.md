@@ -33,4 +33,4 @@ The term “name” refers to the word by which a specific person or thing is ca
 
 ## Word Data:
 
-* Strong’s: H5344, H7121, H7761, H8034, H8036, G2564, G3686, G3687, G5122
+* Strong’s: [[H5344]], [[H7121]], [[H7761]], [[H8034]], [[H8036]], [[G02564]], [[G03686]], [[G03687]], [[G05122]]

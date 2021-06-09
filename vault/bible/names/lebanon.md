@@ -22,4 +22,4 @@ Lebanon is a beautiful mountainous region located along the coast of the Mediter
 
 ## Word Data:
 
-* Strong’s: H3844
+* Strong’s: [[H3844]]

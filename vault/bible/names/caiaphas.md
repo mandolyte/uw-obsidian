@@ -22,4 +22,4 @@ Caiaphas was the high priest of Israel during the time of John the Baptist and J
 
 ## Word Data:
 
-* Strong’s: G2533
+* Strong’s: [[G02533]]

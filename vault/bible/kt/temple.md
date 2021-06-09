@@ -39,4 +39,4 @@ The temple was a building surrounded by walled courtyards where the Israelites c
 
 ## Word Data:
 
-* Strong’s: H1004, H1964, H1965, G1493, G2411, G3485
+* Strong’s: [[H1004]], [[H1964]], [[H1965]], [[G01493]], [[G02411]], [[G03485]]

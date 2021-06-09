@@ -17,4 +17,4 @@ The term “selah” is a Hebrew word that occurs mostly in the book of Psalms. 
 
 ## Word Data:
 
-* Strong’s: H5542
+* Strong’s: [[H5542]]

@@ -26,4 +26,4 @@ The term “savior” refers to a person who saves or rescues others from danger
 
 ## Word Data:
 
-* Strong’s: H3467, G4990
+* Strong’s: [[H3467]], [[G04990]]

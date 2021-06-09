@@ -25,4 +25,4 @@ Caesarea was an important city on the coast of the Mediterranean Sea, about 39 k
 
 ## Word Data:
 
-* Strong’s: G2542, G5376
+* Strong’s: [[G02542]], [[G05376]]

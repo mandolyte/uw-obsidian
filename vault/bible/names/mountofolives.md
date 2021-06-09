@@ -24,4 +24,4 @@ The Mount of Olives is a mountain or large hill located near the east side of th
 
 ## Word Data:
 
-* Strong’s: H2022, H2132, G3735, G1636
+* Strong’s: [[H2022]], [[H2132]], [[G03735]], [[G01636]]

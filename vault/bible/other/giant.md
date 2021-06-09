@@ -16,4 +16,4 @@ The word “giant” usually refers to a person who is extremely tall and strong
 
 ## Word Data:
 
-* Strong’s: H1368, H5303, H7497
+* Strong’s: [[H1368]], [[H5303]], [[H7497]]

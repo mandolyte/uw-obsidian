@@ -28,4 +28,4 @@ In the New Testament, Zechariah was a Jewish priest who became the father of Joh
 
 ## Word Data:
 
-* Strong’s: G2197
+* Strong’s: [[G02197]]

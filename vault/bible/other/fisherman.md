@@ -18,4 +18,4 @@ Fishermen are men who catch fish from the water as a means of earning money. In 
 
 ## Word Data:
 
-* Strong’s: H1728, H1771, H2271, G231
+* Strong’s: [[H1728]], [[H1771]], [[H2271]], [[G00231]]

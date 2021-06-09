@@ -20,4 +20,4 @@ The term “psalm” refers to a sacred song, often in the form of a poem that w
 
 ## Word Data:
 
-* Strong’s: H2158, H2167, H4210, G5567, G5568
+* Strong’s: [[H2158]], [[H2167]], [[H4210]], [[G05567]], [[G05568]]

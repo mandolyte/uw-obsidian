@@ -21,4 +21,4 @@ In the Bible, the “Great Sea” or “western sea” refers to what is now cal
 
 ## Word Data:
 
-* Strong’s: H314, H1419, H3220
+* Strong’s: [[H0314]], [[H1419]], [[H3220]]

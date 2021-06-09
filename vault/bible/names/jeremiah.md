@@ -28,4 +28,4 @@ Jeremiah was a prophet of God in the kingdom of Judah. The Old Testament book of
 
 ## Word Data:
 
-* Strong’s: H3414, G2408
+* Strong’s: [[H3414]], [[G02408]]

@@ -28,4 +28,4 @@ The term “beg” means to urgently ask someone for something. It often refers 
 
 ## Word Data:
 
-* Strong’s: H34, H7592, G154, G1871, G4319, G4434
+* Strong’s: [[H0034]], [[H7592]], [[G00154]], [[G01871]], [[G04319]], [[G04434]]

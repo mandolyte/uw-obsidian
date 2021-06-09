@@ -21,4 +21,4 @@ The terms “conceive” and “conception” usually refer to becoming pregnant
 
 ## Word Data:
 
-* Strong’s: H2029, H2030, H2032, H2232, H2254, H2803, H3179, G1080, G1722, G2845, G4815
+* Strong’s: [[H2029]], [[H2030]], [[H2032]], [[H2232]], [[H2254]], [[H2803]], [[H3179]], [[G01080]], [[G01722]], [[G02845]], [[G04815]]

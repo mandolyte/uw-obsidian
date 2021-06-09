@@ -31,4 +31,4 @@ Barnabas was one of the early Christians who lived during the time of the apostl
 
 ## Word Data:
 
-* Strong’s: G921
+* Strong’s: [[G00921]]

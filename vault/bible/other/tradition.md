@@ -21,4 +21,4 @@ The term “tradition” refers to a custom or practice that has been kept over 
 
 ## Word Data:
 
-* Strong’s: G3862
+* Strong’s: [[G03862]]

@@ -19,4 +19,4 @@ Potiphar was an important official for the pharaoh of Egypt during the time that
 
 ## Word Data:
 
-* Strong’s: H6318
+* Strong’s: [[H6318]]

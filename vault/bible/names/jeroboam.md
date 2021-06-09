@@ -29,4 +29,4 @@ Jeroboam son of Nebat was the first king of the northern kingdom of Israel aroun
 
 ## Word Data:
 
-* Strong’s: H3379
+* Strong’s: [[H3379]]

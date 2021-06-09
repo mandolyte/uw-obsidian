@@ -22,4 +22,4 @@ Wheat is a type of grain that people grow for food. When the Bible mentions “g
 
 ## Word Data:
 
-* Strong’s: H1250, H2406, G4621
+* Strong’s: [[H1250]], [[H2406]], [[G04621]]

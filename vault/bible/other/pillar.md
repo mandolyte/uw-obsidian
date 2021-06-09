@@ -24,4 +24,4 @@ The term “pillar” usually refers to a large vertical structure that is used 
 
 ## Word Data:
 
-* Strong’s: H352, H547, H2106, H2553, H3730, H4552, H4676, H4678, H4690, H5324, H5333, H5982, H8490, G4769
+* Strong’s: [[H0352]], [[H0547]], [[H2106]], [[H2553]], [[H3730]], [[H4552]], [[H4676]], [[H4678]], [[H4690]], [[H5324]], [[H5333]], [[H5982]], [[H8490]], [[G04769]]

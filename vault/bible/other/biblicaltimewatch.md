@@ -19,4 +19,4 @@ In biblical times, a “watch” was a period of time at night during which a wa
 
 ## Word Data:
 
-* Strong’s: H821, G5438
+* Strong’s: [[H0821]], [[G05438]]

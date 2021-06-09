@@ -23,4 +23,4 @@ To “enslave” someone means to force that person to serve a master or a rulin
 
 ## Word Data:
 
-* Strong’s: H3533, H5647, G1398, G1402, G2615
+* Strong’s: [[H3533]], [[H5647]], [[G01398]], [[G01402]], [[G02615]]

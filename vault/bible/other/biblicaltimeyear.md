@@ -19,4 +19,4 @@ When used literally, the term “year” in the Bible refers to a period of time
 
 ## Word Data:
 
-* Strong’s: H3117, H7620, H7657, H8140, H8141, G1763, G2094
+* Strong’s: [[H3117]], [[H7620]], [[H7657]], [[H8140]], [[H8141]], [[G01763]], [[G02094]]

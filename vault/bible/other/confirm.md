@@ -21,4 +21,4 @@ The term “confirm” refers to verifying that something is true or legally cer
 
 ## Word Data:
 
-* Strong’s: H559, H1396, H3045, H3559, H4390, H4672, H5414, H5975, H6213, H6965, G950, G951, G3315, G4972
+* Strong’s: [[H0559]], [[H1396]], [[H3045]], [[H3559]], [[H4390]], [[H4672]], [[H5414]], [[H5975]], [[H6213]], [[H6965]], [[G00950]], [[G00951]], [[G03315]], [[G04972]]

@@ -21,4 +21,4 @@ Cyrus was a Persian king who founded the Persian empire in about 550 BC, through
 
 ## Word Data:
 
-* Strong’s: H3566
+* Strong’s: [[H3566]]

@@ -26,4 +26,4 @@ The term “manager” or “steward” in the Bible refers to a servant who was
 
 ## Word Data:
 
-* Strong’s: H376, H4453, H5057, H6485, G2012, G3621, G3623
+* Strong’s: [[H0376]], [[H4453]], [[H5057]], [[H6485]], [[G02012]], [[G03621]], [[G03623]]

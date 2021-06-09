@@ -31,4 +31,4 @@ A dream is something that people see or experience in their minds while they are
 
 ## Word Data:
 
-* Strong’s: H1957, H2472, H2492, H2493, G1797, G1798, G3677
+* Strong’s: [[H1957]], [[H2472]], [[H2492]], [[H2493]], [[G01797]], [[G01798]], [[G03677]]

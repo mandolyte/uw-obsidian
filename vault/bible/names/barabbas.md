@@ -21,4 +21,4 @@ Barabbas was a prisoner in Jerusalem at the time when Jesus was arrested.
 
 ## Word Data:
 
-* Strong’s: G912
+* Strong’s: [[G00912]]

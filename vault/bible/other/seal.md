@@ -21,4 +21,4 @@ To term “seal” means to close an object with something (usually called a “
 
 ## Word Data:
 
-* Strong’s: H2368, H2560, H2856, H2857, H2858, H5640, G2696, G4972, G4973
+* Strong’s: [[H2368]], [[H2560]], [[H2856]], [[H2857]], [[H2858]], [[H5640]], [[G02696]], [[G04972]], [[G04973]]

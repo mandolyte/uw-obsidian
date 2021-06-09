@@ -25,4 +25,4 @@ Ethiopia is a country in Africa located just south of Egypt, bordered by the Nil
 
 ## Word Data:
 
-* Strong’s: G128
+* Strong’s: [[G00128]]

@@ -22,4 +22,4 @@ Mary was a women from Bethany who followed Jesus.
 
 ## Word Data:
 
-* Strong’s: G3137
+* Strong’s: [[G03137]]

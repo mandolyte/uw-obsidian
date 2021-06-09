@@ -28,4 +28,4 @@ The term “redeem” refers to buying back something or someone that has been p
 
 ## Word Data:
 
-* Strong’s: H1350, H1353, H6299, H6302, H6304, H6306, H6561, H7069, G59, G629, G1805, G3084, G3085
+* Strong’s: [[H1350]], [[H1353]], [[H6299]], [[H6302]], [[H6304]], [[H6306]], [[H6561]], [[H7069]], [[G00059]], [[G00629]], [[G01805]], [[G03084]], [[G03085]]

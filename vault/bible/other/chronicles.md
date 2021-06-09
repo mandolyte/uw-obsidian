@@ -20,4 +20,4 @@ The term “chronicle” refers to a written record of events over a period of t
 
 ## Word Data:
 
-* Strong’s: H1697
+* Strong’s: [[H1697]]

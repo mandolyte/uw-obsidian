@@ -37,4 +37,4 @@ In Bible times, a cross was an upright wooden post stuck into the ground, with a
 
 ## Word Data:
 
-* Strong’s: G4716
+* Strong’s: [[G04716]]

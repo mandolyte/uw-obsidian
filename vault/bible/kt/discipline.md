@@ -23,4 +23,4 @@ The term “discipline” refers to training people to obey a set of guidelines 
 
 ## Word Data:
 
-* Strong’s: H4148, G1468
+* Strong’s: [[H4148]], [[G01468]]

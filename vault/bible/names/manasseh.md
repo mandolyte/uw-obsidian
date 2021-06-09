@@ -24,4 +24,4 @@ Manasseh was the older son of Joseph. His descendants became one of the tribes o
 
 ## Word Data:
 
-* Strong’s: H4519, H4520, G3128
+* Strong’s: [[H4519]], [[H4520]], [[G03128]]

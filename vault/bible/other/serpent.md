@@ -24,4 +24,4 @@ These terms all refer to a kind of reptile that has a long, thin body and large,
 
 ## Word Data:
 
-* Strong’s: H660, H2119, H5175, H6620, H6848, H8314, H8577, G2191, G2062, G3789
+* Strong’s: [[H0660]], [[H2119]], [[H5175]], [[H6620]], [[H6848]], [[H8314]], [[H8577]], [[G02191]], [[G02062]], [[G03789]]

@@ -16,4 +16,4 @@ The term “companion” refers to a person who goes with someone else or who is
 
 ## Word Data:
 
-* Strong’s: H251, H441, H2269, H2270, H2273, H2278, H3674, H3675, H4828, H7453, H7462, H7464, G2844, G3353, G4898, G4904
+* Strong’s: [[H0251]], [[H0441]], [[H2269]], [[H2270]], [[H2273]], [[H2278]], [[H3674]], [[H3675]], [[H4828]], [[H7453]], [[H7462]], [[H7464]], [[G02844]], [[G03353]], [[G04898]], [[G04904]]

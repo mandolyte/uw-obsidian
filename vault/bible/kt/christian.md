@@ -37,4 +37,4 @@ Some time after Jesus went back to heaven, people made up the name “Christian�
 
 ## Word Data:
 
-* Strong’s: G5546
+* Strong’s: [[G05546]]

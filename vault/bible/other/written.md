@@ -24,4 +24,4 @@ The phrase “as it is written” or “what is written” occurs frequently in 
 
 ## Word Data:
 
-* Strong’s: H3789, G1125
+* Strong’s: [[H3789]], [[G01125]]

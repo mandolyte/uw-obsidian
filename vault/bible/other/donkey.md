@@ -23,4 +23,4 @@ A donkey is a four-legged work animal, similar to a horse, but smaller and with 
 
 ## Word Data:
 
-* Strong’s: H0860, H2543, H3222, H5895, H6167, H6501, H6505, H6506, G3678, G3688, G5268
+* Strong’s: [[H0860]], [[H2543]], [[H3222]], [[H5895]], [[H6167]], [[H6501]], [[H6505]], [[H6506]], [[G03678]], [[G03688]], [[G05268]]

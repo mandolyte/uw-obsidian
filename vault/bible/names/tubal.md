@@ -20,4 +20,4 @@ There were several men in the Old Testament who had the name “Tubal.”
 
 ## Word Data:
 
-* Strong’s: H8422, H8423
+* Strong’s: [[H8422]], [[H8423]]

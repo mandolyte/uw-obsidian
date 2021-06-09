@@ -21,4 +21,4 @@ To profane something means to act in a way that defiles, pollutes, or disrespect
 
 ## Word Data:
 
-* Strong’s: H2455, H2490, H2491, H5234, H8610, G952, G953
+* Strong’s: [[H2455]], [[H2490]], [[H2491]], [[H5234]], [[H8610]], [[G00952]], [[G00953]]

@@ -21,4 +21,4 @@ To ordain means to formally appoint a person for a special task or role. It also
 
 ## Word Data:
 
-* Strong’s: H3245, H4390, H6186, H6213, H6680, H7760, H8239, G1299, G2525, G4270, G4282
+* Strong’s: [[H3245]], [[H4390]], [[H6186]], [[H6213]], [[H6680]], [[H7760]], [[H8239]], [[G01299]], [[G02525]], [[G04270]], [[G04282]]

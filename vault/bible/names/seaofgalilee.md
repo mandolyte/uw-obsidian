@@ -27,4 +27,4 @@ The “Sea of Galilee” is a lake in eastern Israel. In the Old Testament it wa
 
 ## Word Data:
 
-* Strong’s: H3220, H3672, G1056, G1082, G2281, G3041, G5085
+* Strong’s: [[H3220]], [[H3672]], [[G01056]], [[G01082]], [[G02281]], [[G03041]], [[G05085]]

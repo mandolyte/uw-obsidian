@@ -18,4 +18,4 @@ Ur was an important city along the Euphrates River in the ancient region of Chal
 
 ## Word Data:
 
-* Strong’s: H218
+* Strong’s: [[H0218]]

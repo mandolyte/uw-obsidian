@@ -43,5 +43,5 @@ The terms “tax” and “taxes” refer to money or goods that people pay to a
 
 ## Word Data:
 
-* Tax: Strong’s: H2670, H4060, H4371, H4522, H4864, H6186, G1323, G2778, G5055, G5411
-* Tax Collector: Strong’s: H5065, H5674, G5057, G5058
+* Tax: Strong’s: [[H2670]], [[H4060]], [[H4371]], [[H4522]], [[H4864]], [[H6186]], [[G01323]], [[G02778]], [[G05055]], [[G05411]]
+* Tax Collector: Strong’s: [[H5065]], [[H5674]], [[G05057]], [[G05058]]

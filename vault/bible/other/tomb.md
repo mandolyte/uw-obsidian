@@ -33,4 +33,4 @@ The terms “tomb” and “grave” refer to a place where people put the body 
 
 ## Word Data:
 
-* Strong’s: H1430, H6900, H6913, H7585, H7845, G3418, G3419, G5028
+* Strong’s: [[H1430]], [[H6900]], [[H6913]], [[H7585]], [[H7845]], [[G03418]], [[G03419]], [[G05028]]

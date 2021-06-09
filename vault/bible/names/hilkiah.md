@@ -18,4 +18,4 @@ Hilkiah was the high priest during the reign of King Josiah.
 
 ## Word Data:
 
-* Strong’s: H2518
+* Strong’s: [[H2518]]

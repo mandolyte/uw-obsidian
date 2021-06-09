@@ -20,4 +20,4 @@ The term “desecrate” means to damage or contaminate a sacred place or object
 
 ## Word Data:
 
-* Strong’s: H2490, H2610, H2930, G953
+* Strong’s: [[H2490]], [[H2610]], [[H2930]], [[G00953]]

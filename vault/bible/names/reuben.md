@@ -21,4 +21,4 @@ Reuben was Jacob’s first son. He was Leah’s first son. His descendants becam
 
 ## Word Data:
 
-* Strong’s: H7205, H7206, G4502
+* Strong’s: [[H7205]], [[H7206]], [[G04502]]

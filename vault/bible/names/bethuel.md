@@ -18,4 +18,4 @@ Bethuel was the son of Abraham’s brother Nahor.
 
 ## Word Data:
 
-* Strong’s: H1328
+* Strong’s: [[H1328]]

@@ -24,4 +24,4 @@ The term “majesty” refers to greatness and splendor, often in relation to th
 
 ## Word Data:
 
-* Strong’s: H1347, H1348, H1420, H1923, H1926, H1935, H7238, G3168, G3172
+* Strong’s: [[H1347]], [[H1348]], [[H1420]], [[H1923]], [[H1926]], [[H1935]], [[H7238]], [[G03168]], [[G03172]]

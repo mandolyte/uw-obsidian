@@ -20,4 +20,4 @@ The term “crime” usually refers to a sin that involves breaking the law of a
 
 ## Word Data:
 
-* Strong’s: H2154, H2400, H4639, H5771, H7563, H7564, G2556, G2557, G4467
+* Strong’s: [[H2154]], [[H2400]], [[H4639]], [[H5771]], [[H7563]], [[H7564]], [[G02556]], [[G02557]], [[G04467]]

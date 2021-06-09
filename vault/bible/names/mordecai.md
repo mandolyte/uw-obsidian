@@ -20,4 +20,4 @@ Mordecai was a Jewish man living in the country of Persia. He was the guardian o
 
 ## Word Data:
 
-* Strong’s: H4782
+* Strong’s: [[H4782]]

@@ -19,4 +19,4 @@ A citizen is someone who lives in a specific city, country, or kingdom. It espec
 
 ## Word Data:
 
-* Strong’s: H6440, G4175, G4177, G4847
+* Strong’s: [[H6440]], [[G04175]], [[G04177]], [[G04847]]

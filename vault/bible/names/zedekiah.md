@@ -20,4 +20,4 @@ Zedekiah, son of Josiah, was the last king of Judah (597-587 B.C.). There are al
 
 ## Word Data:
 
-* Strong’s: H6667
+* Strong’s: [[H6667]]

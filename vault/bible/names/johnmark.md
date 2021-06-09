@@ -24,4 +24,4 @@ John Mark, also known as “Mark,” was one of the men who traveled with Paul o
 
 ## Word Data:
 
-* Strong’s: G2491, G3138
+* Strong’s: [[G02491]], [[G03138]]

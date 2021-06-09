@@ -22,4 +22,4 @@ A judge is a person who decides what is right or wrong when there are disputes b
 
 ## Word Data:
 
-* Strong’s: H148, H430, H1777, H1778, H1779, H1781, H1782, H6414, H6416, H6419, H8199, G350, G1252, G1348, G2919, G2922, G2923
+* Strong’s: [[H0148]], [[H0430]], [[H1777]], [[H1778]], [[H1779]], [[H1781]], [[H1782]], [[H6414]], [[H6416]], [[H6419]], [[H8199]], [[G00350]], [[G01252]], [[G01348]], [[G02919]], [[G02922]], [[G02923]]

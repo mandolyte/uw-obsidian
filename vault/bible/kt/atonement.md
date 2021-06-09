@@ -26,4 +26,4 @@ The terms “atone” and “atonement” refer to how God provided a sacrifice 
 
 ## Word Data:
 
-* Strong’s: H3722, H3725, G2643
+* Strong’s: [[H3722]], [[H3725]], [[G02643]]

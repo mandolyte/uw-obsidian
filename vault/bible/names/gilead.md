@@ -22,4 +22,4 @@ Gilead was the name of a mountainous region east of the Jordan river where the I
 
 ## Word Data:
 
-* Strong’s: H1568, H1569
+* Strong’s: [[H1568]], [[H1569]]

@@ -21,4 +21,4 @@ In the Old Testament, the “fellowship offering” was a kind of sacrifice that
 
 ## Word Data:
 
-* Strong’s: H8002
+* Strong’s: [[H8002]]

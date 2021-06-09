@@ -25,4 +25,4 @@ The term “day” generally refers to the time it takes for the alternating per
 
 ## Word Data:
 
-* Strong’s: H3117, H3118, H6242, G2250
+* Strong’s: [[H3117]], [[H3118]], [[H6242]], [[G02250]]

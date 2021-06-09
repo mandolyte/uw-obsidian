@@ -18,4 +18,4 @@ Succoth was the name of two Old Testament cities. The word, “succoth” (or �
 
 ## Word Data:
 
-* Strong’s: H5523, H5524
+* Strong’s: [[H5523]], [[H5524]]

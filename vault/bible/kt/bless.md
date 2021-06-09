@@ -45,4 +45,4 @@ To “bless” someone or something means to cause good and beneficial things to
 
 ## Word Data:
 
-* Strong’s: H833, H835, H1288, H1289, H1293, G1757, G2127, G2128, G2129, G3106, G3107, G3108, G6050
+* Strong’s: [[H0833]], [[H0835]], [[H1288]], [[H1289]], [[H1293]], [[G01757]], [[G02127]], [[G02128]], [[G02129]], [[G03106]], [[G03107]], [[G03108]], [[G06050]]

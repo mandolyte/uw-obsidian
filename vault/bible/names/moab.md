@@ -20,4 +20,4 @@ The term “Moab” refers to a people group that lived to the east of the Salt 
 
 ## Word Data:
 
-* Strong’s: H4124, H4125
+* Strong’s: [[H4124]], [[H4125]]

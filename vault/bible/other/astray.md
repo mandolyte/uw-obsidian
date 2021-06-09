@@ -27,4 +27,4 @@ The terms “stray” and “go astray” mean to disobey God’s will. People w
 
 ## Word Data:
 
-* Strong’s: H5080, H7683, H7686, H8582, G4105, G5351
+* Strong’s: [[H5080]], [[H7683]], [[H7686]], [[H8582]], [[G04105]], [[G05351]]

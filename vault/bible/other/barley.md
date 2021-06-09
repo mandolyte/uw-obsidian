@@ -24,4 +24,4 @@ The term “barley” refers to a kind of grain that is used to make bread.
 
 ## Word Data:
 
-* Strong’s: H8184, G2915, G2916
+* Strong’s: [[H8184]], [[G02915]], [[G02916]]

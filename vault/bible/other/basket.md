@@ -22,4 +22,4 @@ The term “basket” refers to a container made of woven material.
 
 ## Word Data:
 
-* Strong’s: H374, H1731, H1736, H2935, H3619, H5536, H7991, G2894, G3426, G4553, G4711
+* Strong’s: [[H0374]], [[H1731]], [[H1736]], [[H2935]], [[H3619]], [[H5536]], [[H7991]], [[G02894]], [[G03426]], [[G04553]], [[G04711]]

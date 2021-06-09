@@ -32,4 +32,4 @@ In the Bible, the terms “breathe” and “breath” are often used figurative
 
 ## Word Data:
 
-* Strong’s: H3307, H5301, H5396, H5397, H7307, G1720, G4157
+* Strong’s: [[H3307]], [[H5301]], [[H5396]], [[H5397]], [[H7307]], [[G01720]], [[G04157]]

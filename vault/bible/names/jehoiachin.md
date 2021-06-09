@@ -22,4 +22,4 @@ Jehoiachin was a king who ruled over the kingdom of Judah.
 
 ## Word Data:
 
-* Strong’s: H3078, H3112, H3204, H3659
+* Strong’s: [[H3078]], [[H3112]], [[H3204]], [[H3659]]

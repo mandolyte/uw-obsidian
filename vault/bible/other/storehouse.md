@@ -20,4 +20,4 @@ A “storehouse” is a large building that is used for keeping food or other th
 
 ## Word Data:
 
-* Strong’s: H214, H618, H624, H4035, H4200, H4543, G596
+* Strong’s: [[H0214]], [[H0618]], [[H0624]], [[H4035]], [[H4200]], [[H4543]], [[G00596]]

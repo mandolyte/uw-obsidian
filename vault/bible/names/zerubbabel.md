@@ -22,4 +22,4 @@ Zerubbabel was the name of two Israelite men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H2216, H2217, G2216
+* Strong’s: [[H2216]], [[H2217]], [[G02216]]

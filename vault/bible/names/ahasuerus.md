@@ -20,4 +20,4 @@ Ahasuerus was a king who ruled over the ancient kingdom of Persia for twenty yea
 
 ## Word Data:
 
-* Strong’s: H325
+* Strong’s: [[H0325]]

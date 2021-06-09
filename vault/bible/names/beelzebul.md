@@ -21,4 +21,4 @@ Beelzebul is another name for Satan, or the devil. It is also sometimes spelled,
 
 ## Word Data:
 
-* Strong’s: G954
+* Strong’s: [[G00954]]

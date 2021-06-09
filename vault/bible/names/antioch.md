@@ -22,4 +22,4 @@ Antioch was the name of two cities in the New Testament. One was in Syria, near 
 
 ## Word Data:
 
-* Strong’s: G491
+* Strong’s: [[G00491]]

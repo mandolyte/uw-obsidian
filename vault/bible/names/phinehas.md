@@ -23,4 +23,4 @@ Phineas was the name of two men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H6372
+* Strong’s: [[H6372]]

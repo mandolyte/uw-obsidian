@@ -22,4 +22,4 @@ The Jebusites were a people group living in the land of Canaan. They were descen
 
 ## Word Data:
 
-* Strong’s: H2982, H2983
+* Strong’s: [[H2982]], [[H2983]]

@@ -22,4 +22,4 @@ The word “shadow” literally refers to the darkness that is caused by an obje
 
 ## Word Data:
 
-* Strong’s: H2927, H6738, H6751, H6752, H6754, H6757, G644, G1982, G2683, G4639
+* Strong’s: [[H2927]], [[H6738]], [[H6751]], [[H6752]], [[H6754]], [[H6757]], [[G00644]], [[G01982]], [[G02683]], [[G04639]]

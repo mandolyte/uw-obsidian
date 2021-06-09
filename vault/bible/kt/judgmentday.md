@@ -25,4 +25,4 @@ The term “judgment day” refers to a future time when God will judge every pe
 
 ## Word Data:
 
-* Strong’s: H2962, H3117, H4941, G2250, G2920, G2962
+* Strong’s: [[H2962]], [[H3117]], [[H4941]], [[G02250]], [[G02920]], [[G02962]]

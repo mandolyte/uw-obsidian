@@ -24,4 +24,4 @@ The Hittites were descendants of Ham through his son Canaan. They became a large
 
 ## Word Data:
 
-* Strong’s: H2850
+* Strong’s: [[H2850]]

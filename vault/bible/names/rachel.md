@@ -23,4 +23,4 @@ Rachel was one of Jacob’s wives. She was the mother of Joseph and Benjamin, wh
 
 ## Word Data:
 
-* Strong’s: H7354, G4478
+* Strong’s: [[H7354]], [[G04478]]

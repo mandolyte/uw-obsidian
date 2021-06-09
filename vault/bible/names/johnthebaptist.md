@@ -34,4 +34,4 @@ John was the son of Zechariah and Elizabeth. Since “John” was a common name,
 
 ## Word Data:
 
-* Strong’s: G910 G2491
+* Strong’s: [[G00910]] [[G02491]]

@@ -12,4 +12,4 @@ The term “shrewd” describes a person who is intelligent and clever, especial
 
 ## Word Data:
 
-* Strong’s: H2450, H6175, G5429
+* Strong’s: [[H2450]], [[H6175]], [[G05429]]

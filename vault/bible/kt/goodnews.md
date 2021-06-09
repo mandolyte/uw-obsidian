@@ -39,4 +39,4 @@ The term “gospel” literally means “good news” and refers to a message or
 
 ## Word Data:
 
-* Strong’s: G2097, G2098, G4283
+* Strong’s: [[G02097]], [[G02098]], [[G04283]]

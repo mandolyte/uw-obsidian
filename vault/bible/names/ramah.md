@@ -23,4 +23,4 @@ Ramah was an ancient Israelite city located about 8 km from Jerusalem. It was in
 
 ## Word Data:
 
-* Strong’s: H7414, G4471
+* Strong’s: [[H7414]], [[G04471]]

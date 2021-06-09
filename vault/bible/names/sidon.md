@@ -24,4 +24,4 @@ Sidon was the oldest son of Canaan. There is also a Canaanite city called Sidon,
 
 ## Word Data:
 
-* Strong’s: H6721, H6722, G4605, G4606
+* Strong’s: [[H6721]], [[H6722]], [[G04605]], [[G04606]]

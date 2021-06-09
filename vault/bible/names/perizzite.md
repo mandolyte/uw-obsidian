@@ -21,4 +21,4 @@ The Perizzites were one of several people groups in the land of Canaan. Little i
 
 ## Word Data:
 
-* Strong’s: H6522
+* Strong’s: [[H6522]]

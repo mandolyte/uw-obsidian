@@ -46,4 +46,4 @@ The term “spirit” refers to the non-physical part of a person which cannot b
 
 ## Word Data:
 
-* Strong’s: H178, H1172, H5397, H7307, H7308, G4151, G4152, G4153, G5326, G5427
+* Strong’s: [[H0178]], [[H1172]], [[H5397]], [[H7307]], [[H7308]], [[G04151]], [[G04152]], [[G04153]], [[G05326]], [[G05427]]

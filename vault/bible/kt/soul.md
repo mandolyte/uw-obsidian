@@ -36,4 +36,4 @@ The term “soul” can either refer generally to the non-physical part of a per
 
 ## Word Data:
 
-* Strong’s: H5082, H5315, H5397, G5590
+* Strong’s: [[H5082]], [[H5315]], [[H5397]], [[G05590]]

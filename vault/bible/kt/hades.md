@@ -31,4 +31,4 @@ The terms “Hades” (in Greek) and “Sheol” (in Hebrew) are proper names fo
 
 ## Word Data:
 
-* Strong’s: H7585, G86
+* Strong’s: [[H7585]], [[G00086]]

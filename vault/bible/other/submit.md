@@ -26,4 +26,4 @@ To “submit” usually means to voluntarily place oneself under the authority o
 
 ## Word Data:
 
-* Strong’s: H3584, G5226, G5293
+* Strong’s: [[H3584]], [[G05226]], [[G05293]]

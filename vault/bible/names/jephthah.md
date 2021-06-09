@@ -21,4 +21,4 @@ Jephthah was a warrior from Gilead who served as a judge over Israel.
 
 ## Word Data:
 
-* Strong’s: H3316
+* Strong’s: [[H3316]]

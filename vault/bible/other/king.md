@@ -36,4 +36,4 @@ In the Bible, the term “king” refers to a man who is the supreme ruler of a 
 
 ## Word Data:
 
-* Strong’s: H4427, H4428, H4430, G935, G936
+* Strong’s: [[H4427]], [[H4428]], [[H4430]], [[G00935]], [[G00936]]

@@ -26,4 +26,4 @@ A council is a group of people who meet to discuss, give advice, and make decisi
 
 ## Word Data:
 
-* Strong’s: H4186, H5475, G1010, G4824, G4892
+* Strong’s: [[H4186]], [[H5475]], [[G01010]], [[G04824]], [[G04892]]

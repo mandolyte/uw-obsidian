@@ -32,4 +32,4 @@ Judas Iscariot was one of Jesus’ apostles. He was the one who betrayed Jesus t
 
 ## Word Data:
 
-* Strong’s: G2455, G2469
+* Strong’s: [[G02455]], [[G02469]]

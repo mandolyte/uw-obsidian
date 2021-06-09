@@ -27,4 +27,4 @@ Ahab was a very evil king who reigned over the northern kingdom of Israel from 8
 
 ## Word Data:
 
-* Strong’s: H256
+* Strong’s: [[H0256]]

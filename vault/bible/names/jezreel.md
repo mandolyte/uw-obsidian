@@ -22,4 +22,4 @@ Jezreel was an important Israelite city in the territory of the Issachar tribe, 
 
 ## Word Data:
 
-* Strong’s: H3157, H3158, H3159
+* Strong’s: [[H3157]], [[H3158]], [[H3159]]

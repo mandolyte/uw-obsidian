@@ -24,4 +24,4 @@ The term “divine” refers to anything pertaining to God.
 
 ## Word Data:
 
-* Strong’s: G2304, G2999
+* Strong’s: [[G02304]], [[G02999]]

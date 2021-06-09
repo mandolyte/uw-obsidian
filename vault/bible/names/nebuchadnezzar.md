@@ -31,4 +31,4 @@ Nebuchadnezzar was a king of the Babylonian Empire whose powerful army conquered
 
 ## Word Data:
 
-* Strong’s: H5019, H5020
+* Strong’s: [[H5019]], [[H5020]]

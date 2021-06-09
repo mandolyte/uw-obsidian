@@ -30,4 +30,4 @@ The terms “comfort” and “comforter” refer to helping someone who is suff
 
 ## Word Data:
 
-* Strong’s: H2505, H5150, H5162, H5165, H5564, H8575, G302, G3870, G3874, G3875, G3888, G3890, G3931
+* Strong’s: [[H2505]], [[H5150]], [[H5162]], [[H5165]], [[H5564]], [[H8575]], [[G00302]], [[G03870]], [[G03874]], [[G03875]], [[G03888]], [[G03890]], [[G03931]]

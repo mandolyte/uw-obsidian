@@ -20,4 +20,4 @@ A “burnt offering” was a type of sacrifice to God that was burnt up by fire 
 
 ## Word Data:
 
-* Strong’s: H801, H5930, H7133, H8548, G3646
+* Strong’s: [[H0801]], [[H5930]], [[H7133]], [[H8548]], [[G03646]]

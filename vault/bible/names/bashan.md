@@ -23,4 +23,4 @@ Bashan was a region of land east of the Sea of Galilee. It covered an area that 
 
 ## Word Data:
 
-* Strong’s: H1316
+* Strong’s: [[H1316]]

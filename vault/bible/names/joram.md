@@ -22,4 +22,4 @@ Joram son of Ahab was a king of Israel. He was also sometimes referred to as “
 
 ## Word Data:
 
-* Strong’s: H3088, H3141, G2496
+* Strong’s: [[H3088]], [[H3141]], [[G02496]]

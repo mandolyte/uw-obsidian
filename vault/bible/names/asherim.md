@@ -22,4 +22,4 @@ Asherah was the name of a goddess that was worshiped by Canaanite people groups 
 
 ## Word Data:
 
-* Strong’s: H842, H6252, H6253
+* Strong’s: [[H0842]], [[H6252]], [[H6253]]

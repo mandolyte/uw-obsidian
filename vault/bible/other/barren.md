@@ -21,4 +21,4 @@ To be “barren” means to not be fertile or fruitful.
 
 ## Word Data:
 
-* Strong’s: H4420, H6115, H6135, H6723, H7921, G692, G4723
+* Strong’s: [[H4420]], [[H6115]], [[H6135]], [[H6723]], [[H7921]], [[G00692]], [[G04723]]

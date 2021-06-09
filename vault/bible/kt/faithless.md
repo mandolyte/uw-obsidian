@@ -35,4 +35,4 @@ The term “unfaithful” describes people who do not do what God has commanded 
 
 ## Word Data:
 
-* Strong’s: G571
+* Strong’s: [[G00571]]

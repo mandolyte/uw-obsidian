@@ -54,4 +54,4 @@ The term “life” refers to being physically alive as opposed to being physica
 
 ## Word Data:
 
-* Strong’s: H1934, H2416, H2417, H2421, H2425, H5315, G198, G222, G227, G806, G590
+* Strong’s: [[H1934]], [[H2416]], [[H2417]], [[H2421]], [[H2425]], [[H5315]], [[G00198]], [[G00222]], [[G00227]], [[G00806]], [[G00590]]

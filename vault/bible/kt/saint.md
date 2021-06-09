@@ -23,4 +23,4 @@ The term “saints” literally means “holy ones” and refers to believers in
 
 ## Word Data:
 
-* Strong’s: H2623, H6918, H6922, G40
+* Strong’s: [[H2623]], [[H6918]], [[H6922]], [[G00040]]

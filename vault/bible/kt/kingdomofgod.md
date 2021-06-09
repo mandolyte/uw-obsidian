@@ -48,4 +48,4 @@ The terms “kingdom of God” and “kingdom of heaven” both refer to God’s
 
 ## Word Data:
 
-* Strong’s: G932, G2316, G3772
+* Strong’s: [[G00932]], [[G02316]], [[G03772]]

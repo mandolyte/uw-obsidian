@@ -13,4 +13,4 @@ The term “provoke” means to cause someone to experience a negative reaction 
 
 ## Word Data:
 
-* Strong’s: H3707, H3708, H4784, H4843, H5006, H7065, H7069, H7107, H7264, G2042, G3863, G3947, G3949, G4292
+* Strong’s: [[H3707]], [[H3708]], [[H4784]], [[H4843]], [[H5006]], [[H7065]], [[H7069]], [[H7107]], [[H7264]], [[G02042]], [[G03863]], [[G03947]], [[G03949]], [[G04292]]

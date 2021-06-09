@@ -24,4 +24,4 @@ The term “integrity” refers to being honest, with strong moral principles an
 
 ## Word Data:
 
-* Strong’s: H3476, H6664, H6666, H8535, H8537, H8537, H8538, H8549, G4587
+* Strong’s: [[H3476]], [[H6664]], [[H6666]], [[H8535]], [[H8537]], [[H8537]], [[H8538]], [[H8549]], [[G04587]]

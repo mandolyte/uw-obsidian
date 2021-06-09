@@ -31,4 +31,4 @@ Galilee was the most northern region of Israel, just north of Samaria. A “Gali
 
 ## Word Data:
 
-* Strong’s: H1551, G1056, G1057
+* Strong’s: [[H1551]], [[G01056]], [[G01057]]

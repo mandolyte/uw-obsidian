@@ -34,4 +34,4 @@ The term “resurrection” refers to the act of becoming alive again after havi
 
 ## Word Data:
 
-* Strong’s: G386, G1454, G1815
+* Strong’s: [[G00386]], [[G01454]], [[G01815]]

@@ -22,4 +22,4 @@ Meshech is the name of two men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H4851, H4902
+* Strong’s: [[H4851]], [[H4902]]

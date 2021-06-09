@@ -22,4 +22,4 @@ The term “drunk” means to be intoxicated from drinking too much of an alcoho
 
 ## Word Data:
 
-* Strong’s: H5433, H7301, H7910, H7937, H7941, H7943, H8354, H8358, G3178, G3182, G3183, G3184, G3630, G3632
+* Strong’s: [[H5433]], [[H7301]], [[H7910]], [[H7937]], [[H7941]], [[H7943]], [[H8354]], [[H8358]], [[G03178]], [[G03182]], [[G03183]], [[G03184]], [[G03630]], [[G03632]]

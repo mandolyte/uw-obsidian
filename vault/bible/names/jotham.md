@@ -21,4 +21,4 @@ In the Old Testament, there were three men with the name Jotham.
 
 ## Word Data:
 
-* Strong’s: H3147
+* Strong’s: [[H3147]]

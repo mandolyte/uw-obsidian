@@ -33,4 +33,4 @@ Egypt is a country in the northeast part of Africa, to the southwest of the land
 
 ## Word Data:
 
-* Strong’s: H4713, H4714, G124, G125
+* Strong’s: [[H4713]], [[H4714]], [[G00124]], [[G00125]]

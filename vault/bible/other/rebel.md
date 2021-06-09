@@ -34,4 +34,4 @@ The term “rebel” means to refuse to submit to someone’s authority. A “re
 
 ## Word Data:
 
-* Strong’s: H4775, H4776, H4777, H4779, H4780, H4784, H4805, H5327, H5627, H5637, H6586, H6588, H7846, G3893, G4955
+* Strong’s: [[H4775]], [[H4776]], [[H4777]], [[H4779]], [[H4780]], [[H4784]], [[H4805]], [[H5327]], [[H5627]], [[H5637]], [[H6586]], [[H6588]], [[H7846]], [[G03893]], [[G04955]]

@@ -19,4 +19,4 @@ Haggai was a prophet of Judah after the Jews returned home from being captives i
 
 ## Word Data:
 
-* Strong’s: H2292
+* Strong’s: [[H2292]]

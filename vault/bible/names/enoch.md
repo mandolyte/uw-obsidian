@@ -22,4 +22,4 @@ Enoch was the name of two men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H2585, G1802
+* Strong’s: [[H2585]], [[G01802]]

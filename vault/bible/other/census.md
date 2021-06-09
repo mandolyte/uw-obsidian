@@ -26,4 +26,4 @@ The term “census” refers to a formal counting of the number of people in a n
 
 ## Word Data:
 
-* Strong’s: H3789, H5674, H5921, H6485, H7218, G582, G583
+* Strong’s: [[H3789]], [[H5674]], [[H5921]], [[H6485]], [[H7218]], [[G00582]], [[G00583]]

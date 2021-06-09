@@ -32,4 +32,4 @@ In the Old Testament, “Lord Yahweh” is frequently used to refer to the one t
 
 ## Word Data:
 
-* Strong’s: H136, H430, H3068, G2316, G2962
+* Strong’s: [[H0136]], [[H0430]], [[H3068]], [[G02316]], [[G02962]]

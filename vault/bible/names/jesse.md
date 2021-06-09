@@ -22,4 +22,4 @@ Jesse was the father of King David and the grandson of Ruth and Boaz.
 
 ## Word Data:
 
-* Strong’s: H3448, G2421
+* Strong’s: [[H3448]], [[G02421]]

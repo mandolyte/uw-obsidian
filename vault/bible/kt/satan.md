@@ -48,4 +48,4 @@ Although the devil is a spirit being that God created, he rebelled against God a
 
 ## Word Data:
 
-* Strong’s: H7700, H7854, H8163, G1139, G1140, G1141, G1142, G1228, G4190, G4566, G4567
+* Strong’s: [[H7700]], [[H7854]], [[H8163]], [[G01139]], [[G01140]], [[G01141]], [[G01142]], [[G01228]], [[G04190]], [[G04566]], [[G04567]]

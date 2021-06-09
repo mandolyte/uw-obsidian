@@ -22,4 +22,4 @@ Uzziah became king of Judah at the age of 16 and reigned 52 years, which was an 
 
 ## Word Data:
 
-* Strong’s: H5818, H5838, H5839
+* Strong’s: [[H5818]], [[H5838]], [[H5839]]

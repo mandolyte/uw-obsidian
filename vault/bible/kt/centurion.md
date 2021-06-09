@@ -24,4 +24,4 @@ A centurion was a Roman army officer who had a group of 100 soldiers under his c
 
 ## Word Data:
 
-* Strong’s: G1543, G2760
+* Strong’s: [[G01543]], [[G02760]]

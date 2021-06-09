@@ -24,4 +24,4 @@ The terms “interpret” and “interpretation” refer to understanding and ex
 
 ## Word Data:
 
-* Strong’s: H995, H3887, H6591, H6622, H6623, H7667, H7760, H7922, G1252, G1328, G1329, G1381, G1955, G2058, G3177, G4793
+* Strong’s: [[H0995]], [[H3887]], [[H6591]], [[H6622]], [[H6623]], [[H7667]], [[H7760]], [[H7922]], [[G01252]], [[G01328]], [[G01329]], [[G01381]], [[G01955]], [[G02058]], [[G03177]], [[G04793]]

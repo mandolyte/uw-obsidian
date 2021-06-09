@@ -25,4 +25,4 @@ The term “renown” refers to the greatness associated with being well known a
 
 ## Word Data:
 
-* Strong’s: H1984, H7121, H8034
+* Strong’s: [[H1984]], [[H7121]], [[H8034]]

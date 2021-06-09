@@ -30,4 +30,4 @@ In the Bible, the term “blasphemy” refers to speaking in a way that shows a 
 
 ## Word Data:
 
-* Strong’s: H1288, H1442, H2778, H5006, H5007, H5344, G987, G988, G989
+* Strong’s: [[H1288]], [[H1442]], [[H2778]], [[H5006]], [[H5007]], [[H5344]], [[G00987]], [[G00988]], [[G00989]]

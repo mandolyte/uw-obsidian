@@ -18,4 +18,4 @@ The term “abyss” refers to a very large, deep hole or chasm that has no bott
 
 ## Word Data:
 
-* Strong’s: G12, G5421
+* Strong’s: [[G00012]], [[G05421]]

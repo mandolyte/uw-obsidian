@@ -21,4 +21,4 @@ The term “ash” (or “ashes”) refers to the grey powdery substance that is
 
 ## Word Data:
 
-* Strong’s: H0080, H0665, H1854, H6083, H6368, H7834, G2868, G4700, G5077, G5522
+* Strong’s: [[H0080]], [[H0665]], [[H1854]], [[H6083]], [[H6368]], [[H7834]], [[G02868]], [[G04700]], [[G05077]], [[G05522]]

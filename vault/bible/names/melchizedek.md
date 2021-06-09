@@ -24,4 +24,4 @@ During the time when Abram lived, Melchizedek was the king of the city of Salem 
 
 ## Word Data:
 
-* Strong’s: H4442, G3198
+* Strong’s: [[H4442]], [[G03198]]

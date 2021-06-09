@@ -23,4 +23,4 @@ Josiah was a godly king who reigned over the kingdom of Judah for thirty-one yea
 
 ## Word Data:
 
-* Strong’s: H2977, G2502
+* Strong’s: [[H2977]], [[G02502]]

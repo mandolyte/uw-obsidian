@@ -23,4 +23,4 @@ Priscilla and her husband Aquila were Jewish Christians who worked with the apos
 
 ## Word Data:
 
-* Strong’s: G4252, G4251
+* Strong’s: [[G04252]], [[G04251]]

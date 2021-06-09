@@ -22,4 +22,4 @@ The term “womb” refers to where a baby grows inside its mother.
 
 ## Word Data:
 
-* Strong’s: H990, H4578, H7356, H7358, G1064, G2836, G3388
+* Strong’s: [[H0990]], [[H4578]], [[H7356]], [[H7358]], [[G01064]], [[G02836]], [[G03388]]

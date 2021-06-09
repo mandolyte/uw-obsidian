@@ -21,4 +21,4 @@ The term “cypress” refers to a kind of fir tree that was plentiful in the re
 
 ## Word Data:
 
-* Strong’s: H8645
+* Strong’s: [[H8645]]

@@ -19,4 +19,4 @@ Frankincense is a fragrant spice made from tree resin. It is used to make perfum
 
 ## Word Data:
 
-* Strong’s: H3828, G3030
+* Strong’s: [[H3828]], [[G03030]]

@@ -31,4 +31,4 @@ John was one of Jesus’ twelve apostles and one of Jesus’ closest friends.
 
 ## Word Data:
 
-* Strong’s: G2491
+* Strong’s: [[G02491]]

@@ -21,4 +21,4 @@ Beth Shemesh was the name of a Canaanite city approximately 30 kilometers west o
 
 ## Word Data:
 
-* Strong’s: H1053
+* Strong’s: [[H1053]]

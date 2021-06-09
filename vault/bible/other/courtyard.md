@@ -32,4 +32,4 @@ The terms “courtyard” and “court” refer to an enclosed area that is open
 
 ## Word Data:
 
-* Strong’s: H1004, H1508, H2691, H5835, H7339, H8651, G833, G4259
+* Strong’s: [[H1004]], [[H1508]], [[H2691]], [[H5835]], [[H7339]], [[H8651]], [[G00833]], [[G04259]]

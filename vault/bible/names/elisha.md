@@ -21,4 +21,4 @@ Elisha was a prophet in Israel during the reigns of several kings of Israel: Aha
 
 ## Word Data:
 
-* Strong’s: H477
+* Strong’s: [[H0477]]

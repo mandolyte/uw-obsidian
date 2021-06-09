@@ -16,4 +16,4 @@ The term “alms” refers to money, food, or other things that are given to hel
 
 ## Word Data:
 
-* Strong’s: G1654
+* Strong’s: [[G01654]]

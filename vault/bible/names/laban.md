@@ -25,4 +25,4 @@ In the Old Testament, Laban was the uncle and father-in-law of Jacob.
 
 ## Word Data:
 
-* Strong’s: H3837
+* Strong’s: [[H3837]]

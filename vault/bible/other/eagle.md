@@ -22,4 +22,4 @@ An eagle is a very large, powerful bird of prey that eats small animals such as 
 
 ## Word Data:
 
-* Strong’s: H5403, H5404, G105
+* Strong’s: [[H5403]], [[H5404]], [[G00105]]

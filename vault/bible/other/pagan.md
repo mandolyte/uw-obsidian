@@ -19,4 +19,4 @@ In Bible times, the term “pagan” was used to describe people who worshiped f
 
 ## Word Data:
 
-* Strong’s: H1471, G1484
+* Strong’s: [[H1471]], [[G01484]]

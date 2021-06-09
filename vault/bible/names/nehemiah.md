@@ -23,4 +23,4 @@ Nehemiah was an Israelite forced to move to the Babylonian empire when the peopl
 
 ## Word Data:
 
-* Strong’s: H5166
+* Strong’s: [[H5166]]

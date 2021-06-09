@@ -22,4 +22,4 @@ Silver is a shiny, gray precious metal used to make coins, jewelry, containers, 
 
 ## Word Data:
 
-* Strong’s: H3701, H3702, H7192, G693, G694, G695, G696, G1406
+* Strong’s: [[H3701]], [[H3702]], [[H7192]], [[G00693]], [[G00694]], [[G00695]], [[G00696]], [[G01406]]

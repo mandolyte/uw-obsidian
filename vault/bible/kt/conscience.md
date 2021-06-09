@@ -21,4 +21,4 @@ The conscience is the part of a person’s thinking through which God makes him 
 
 ## Word Data:
 
-* Strong’s: G4893
+* Strong’s: [[G04893]]

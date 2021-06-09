@@ -21,4 +21,4 @@ Hezekiah was the 13th king over the kingdom of Judah. He was a king who trusted 
 
 ## Word Data:
 
-* Strong’s: H2396, H3169, G1478
+* Strong’s: [[H2396]], [[H3169]], [[G01478]]

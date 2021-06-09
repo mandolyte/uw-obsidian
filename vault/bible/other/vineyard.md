@@ -20,4 +20,4 @@ A vineyard is a large garden area where grapevines are grown and grapes are cult
 
 ## Word Data:
 
-* Strong’s: H1612, H3754, H3755, H8284, G290
+* Strong’s: [[H1612]], [[H3754]], [[H3755]], [[H8284]], [[G00290]]

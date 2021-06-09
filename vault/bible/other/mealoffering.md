@@ -17,4 +17,4 @@ A “meal offering” or “grain offering” was a sacrifice to God in the form
 
 ## Word Data:
 
-* Strong’s: H4503, H8641
+* Strong’s: [[H4503]], [[H8641]]

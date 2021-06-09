@@ -20,4 +20,4 @@ Persia was a country that also became a powerful empire founded by Cyrus the Gre
 
 ## Word Data:
 
-* Strong’s: H6539, H6540, H6542, H6543
+* Strong’s: [[H6539]], [[H6540]], [[H6542]], [[H6543]]

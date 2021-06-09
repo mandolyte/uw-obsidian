@@ -30,4 +30,4 @@ The term “generation” generally refers to a group of people who are all aliv
 
 ## Word Data:
 
-* Strong’s: H1755, H1859, H8435, G1074
+* Strong’s: [[H1755]], [[H1859]], [[H8435]], [[G01074]]

@@ -23,4 +23,4 @@ A kiss is an action in which one person puts his lips to another person’s lips
 
 ## Word Data:
 
-* Strong’s: H5390, H5401, G2705, G5368, G5370
+* Strong’s: [[H5390]], [[H5401]], [[G02705]], [[G05368]], [[G05370]]

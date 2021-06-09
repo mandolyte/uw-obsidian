@@ -35,4 +35,4 @@ All these terms refer to demons, which are spirit beings that oppose God’s wil
 
 ## Word Data:
 
-* Strong’s: H2932, H7307, H7451, H7700, G169, G1139, G1140, G1141, G1142, G4190, G4151, G4152, G4189
+* Strong’s: [[H2932]], [[H7307]], [[H7451]], [[H7700]], [[G00169]], [[G01139]], [[G01140]], [[G01141]], [[G01142]], [[G04190]], [[G04151]], [[G04152]], [[G04189]]

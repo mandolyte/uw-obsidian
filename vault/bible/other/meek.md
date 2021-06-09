@@ -21,4 +21,4 @@ The term “meek” describes a person who is gentle, submissive, and willing to
 
 ## Word Data:
 
-* Strong’s: H6035, H6037, G4235, G4236, G4239, G4240
+* Strong’s: [[H6035]], [[H6037]], [[G04235]], [[G04236]], [[G04239]], [[G04240]]

@@ -22,4 +22,4 @@ The term “elder” or “older” refers to people (in the Bible, usually men)
 
 ## Word Data:
 
-* Strong’s: H1419, H2205, H7868, G1087, G3187, G4244, G4245, G4850
+* Strong’s: [[H1419]], [[H2205]], [[H7868]], [[G01087]], [[G03187]], [[G04244]], [[G04245]], [[G04850]]

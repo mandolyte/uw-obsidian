@@ -18,4 +18,4 @@ The term “caught up” often refers to God taking a person up to heaven in a s
 
 ## Word Data:
 
-* Strong’s: H1692, G726
+* Strong’s: [[H1692]], [[G00726]]

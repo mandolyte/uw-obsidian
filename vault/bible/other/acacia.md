@@ -21,4 +21,4 @@ The term “acacia” is the name of a common shrub or tree growing in the land 
 
 ## Word Data:
 
-* Strong’s: H7848
+* Strong’s: [[H7848]]

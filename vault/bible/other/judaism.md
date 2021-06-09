@@ -17,4 +17,4 @@ The term “Judaism” refers to the religion practiced by the Jews. It is also 
 
 ## Word Data:
 
-* Strong’s: G2454
+* Strong’s: [[G02454]]

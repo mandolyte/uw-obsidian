@@ -19,4 +19,4 @@ A slander consists of negative, defaming things spoken (not written) about anoth
 
 ## Word Data:
 
-* Strong’s: H1681, H1696, H1848, H3960, H5791, H7270, H7400, H8267, G987, G988, G1228, G1426, G2636, G2637, G3059, G3060
+* Strong’s: [[H1681]], [[H1696]], [[H1848]], [[H3960]], [[H5791]], [[H7270]], [[H7400]], [[H8267]], [[G00987]], [[G00988]], [[G01228]], [[G01426]], [[G02636]], [[G02637]], [[G03059]], [[G03060]]

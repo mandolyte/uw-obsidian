@@ -23,4 +23,4 @@ Jezebel was the wicked wife of King Ahab of Israel.
 
 ## Word Data:
 
-* Strong’s: H348, G2403
+* Strong’s: [[H0348]], [[G02403]]

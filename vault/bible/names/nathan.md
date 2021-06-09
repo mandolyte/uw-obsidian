@@ -26,4 +26,4 @@ Nathan was a faithful prophet of God who lived while David was king over Israel.
 
 ## Word Data:
 
-* Strong’s: H5416, G3481
+* Strong’s: [[H5416]], [[G03481]]

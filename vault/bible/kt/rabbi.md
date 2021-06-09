@@ -27,4 +27,4 @@ The term “Rabbi” literally means “my master” or “my teacher.”
 
 ## Word Data:
 
-* Strong’s: G4461
+* Strong’s: [[G04461]]

@@ -34,4 +34,4 @@ The term “harvest” refers to the gather the ripe fruits, vegetables, seeds, 
 
 ## Word Data:
 
-* Strong’s: H2758, H4395, H4672 H7105, H7114, H7938, G270, G2325, G2326, G2327
+* Strong’s: [[H2758]], [[H4395]], [[H4672]] [[H7105]], [[H7114]], [[H7938]], [[G00270]], [[G02325]], [[G02326]], [[G02327]]

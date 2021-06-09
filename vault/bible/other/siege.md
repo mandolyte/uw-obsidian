@@ -18,4 +18,4 @@ A “siege” occurs when an attacking army surrounds a city and keeps it from r
 
 ## Word Data:
 
-* Strong’s: H4692, H4693, H5341, H5437, H5564, H6693, H6696, H6887
+* Strong’s: [[H4692]], [[H4693]], [[H5341]], [[H5437]], [[H5564]], [[H6693]], [[H6696]], [[H6887]]

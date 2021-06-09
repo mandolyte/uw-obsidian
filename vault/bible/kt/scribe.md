@@ -27,4 +27,4 @@ Scribes were officials who were responsible for writing or copying important gov
 
 ## Word Data:
 
-* Strong’s: H5608, H5613, H7083, G1122
+* Strong’s: [[H5608]], [[H5613]], [[H7083]], [[G01122]]

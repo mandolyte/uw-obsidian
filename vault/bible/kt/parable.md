@@ -24,4 +24,4 @@ The term “parable” usually refers to a short story or object lesson that is 
 
 ## Word Data:
 
-* Strong’s: H1819, H4912, G3850, G3942
+* Strong’s: [[H1819]], [[H4912]], [[G03850]], [[G03942]]

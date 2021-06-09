@@ -27,4 +27,4 @@ The Amorites were a powerful group of people who inhabited the land of Canaan an
 
 ## Word Data:
 
-* Strong’s: H567,
+* Strong’s: [[H0567]],

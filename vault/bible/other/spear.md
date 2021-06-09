@@ -21,4 +21,4 @@ A spear is a weapon with a long wooden handle and sharp metal blade on one end t
 
 ## Word Data:
 
-* Strong’s: H1265, H2595, H3591, H6767, H7013, H7420, G3057
+* Strong’s: [[H1265]], [[H2595]], [[H3591]], [[H6767]], [[H7013]], [[H7420]], [[G03057]]

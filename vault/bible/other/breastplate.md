@@ -20,4 +20,4 @@ The term “breastplate” refers to a piece of armor covering the front of the 
 
 ## Word Data:
 
-* Strong’s: H2833, H8302, G2382
+* Strong’s: [[H2833]], [[H8302]], [[G02382]]

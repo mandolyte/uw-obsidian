@@ -21,4 +21,4 @@ The term “blemish” refers to a physical defect or imperfection on an animal 
 
 ## Word Data:
 
-* Strong’s: H3971, H8400, H8549, G3470
+* Strong’s: [[H3971]], [[H8400]], [[H8549]], [[G03470]]

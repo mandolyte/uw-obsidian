@@ -24,4 +24,4 @@ Ephesus was an ancient Greek city on the west coast of what is now the present-d
 
 ## Word Data:
 
-* Strong’s: G2179, G2180, G2181
+* Strong’s: [[G02179]], [[G02180]], [[G02181]]

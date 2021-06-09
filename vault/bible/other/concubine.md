@@ -19,4 +19,4 @@ A concubine is a woman who is a secondary wife for a man who already has a wife.
 
 ## Word Data:
 
-* Strong’s: H3904, H6370
+* Strong’s: [[H3904]], [[H6370]]

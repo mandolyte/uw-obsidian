@@ -22,4 +22,4 @@ An “adversary” is a person (or group of people) who is opposed to someone el
 
 ## Word Data:
 
-* Strong’s: H341, H6146, H6887, H6862, H6965, H7790, H7854, H8130, H8324, G476, G480, G2189, G2190, G5227
+* Strong’s: [[H0341]], [[H6146]], [[H6887]], [[H6862]], [[H6965]], [[H7790]], [[H7854]], [[H8130]], [[H8324]], [[G00476]], [[G00480]], [[G02189]], [[G02190]], [[G05227]]

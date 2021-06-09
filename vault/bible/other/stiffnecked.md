@@ -20,4 +20,4 @@ The term “stiff-necked” is an idiom used in the Bible to describe people who
 
 ## Word Data:
 
-* Strong’s: H47, H3513, H5637, H6203, H6484, H7185, H7186, H7190, H8307, G483, G4644, G4645
+* Strong’s: [[H0047]], [[H3513]], [[H5637]], [[H6203]], [[H6484]], [[H7185]], [[H7186]], [[H7190]], [[H8307]], [[G00483]], [[G04644]], [[G04645]]

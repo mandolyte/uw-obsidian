@@ -31,4 +31,4 @@ The “apostles” were men sent by Jesus to preach about God and his kingdom. T
 
 ## Word Data:
 
-* Strong’s: G651, G652, G2491, G5376, G5570
+* Strong’s: [[G00651]], [[G00652]], [[G02491]], [[G05376]], [[G05570]]

@@ -35,4 +35,4 @@ Jacob was the younger twin son of Isaac by Rebekah. God changed his name to “I
 
 ## Word Data:
 
-* Strong’s: H3290, G2384
+* Strong’s: [[H3290]], [[G02384]]

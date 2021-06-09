@@ -15,4 +15,4 @@ The term “push” literally means to physically move something away using forc
 
 ## Word Data:
 
-* Strong’s: H1556, H1760, H3276, H3423, H5055, H5186, G683, G4261
+* Strong’s: [[H1556]], [[H1760]], [[H3276]], [[H3423]], [[H5055]], [[H5186]], [[G00683]], [[G04261]]

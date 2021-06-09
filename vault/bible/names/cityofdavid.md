@@ -21,4 +21,4 @@ The term “city of David” is another name for both Jerusalem and Bethlehem.
 
 ## Word Data:
 
-* Strong’s: H1732, H5892, G1138, G4172
+* Strong’s: [[H1732]], [[H5892]], [[G01138]], [[G04172]]

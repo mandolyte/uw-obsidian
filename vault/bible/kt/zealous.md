@@ -27,4 +27,4 @@ The terms “zeal” and “zealous” refer to being strongly devoted to suppor
 
 ## Word Data:
 
-* Strong’s: H7065, H7068, G2205, G2206, G2207, G6041
+* Strong’s: [[H7065]], [[H7068]], [[G02205]], [[G02206]], [[G02207]], [[G06041]]

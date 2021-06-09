@@ -32,4 +32,4 @@ The term “Promised Land” only occurs in the Bible stories, not the Bible tex
 
 ## Word Data:
 
-* Strong’s: H0776, H3068, H3423, H5159, H5414, H7650
+* Strong’s: [[H0776]], [[H3068]], [[H3423]], [[H5159]], [[H5414]], [[H7650]]

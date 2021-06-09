@@ -25,4 +25,4 @@ Cornelius was a Gentile, or non-Jewish man, who was a military officer in the Ro
 
 ## Word Data:
 
-* Strong’s: G2883
+* Strong’s: [[G02883]]

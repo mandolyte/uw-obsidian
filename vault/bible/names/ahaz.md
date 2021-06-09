@@ -23,4 +23,4 @@ Ahaz was a wicked king who ruled over the kingdom of Judah from 732 BC to 716 BC
 
 ## Word Data:
 
-* Strong’s: H271
+* Strong’s: [[H0271]]

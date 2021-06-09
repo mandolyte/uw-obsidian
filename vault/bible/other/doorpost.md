@@ -19,4 +19,4 @@ The “doorpost” is a vertical beam on either side of a door, which supports t
 
 ## Word Data:
 
-* Strong’s: H352, H4201
+* Strong’s: [[H0352]], [[H4201]]

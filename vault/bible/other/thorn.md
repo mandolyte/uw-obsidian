@@ -21,4 +21,4 @@ Thorn bushes and thistles are plants that have prickly branches or flowers. Thes
 
 ## Word Data:
 
-* Strong’s: H329, H1863, H2312, H2336, H4534, H5285, H5518, H5544, H6791, H6796, H6975, H7063, H7898, G173, G174, G4647, G5146
+* Strong’s: [[H0329]], [[H1863]], [[H2312]], [[H2336]], [[H4534]], [[H5285]], [[H5518]], [[H5544]], [[H6791]], [[H6796]], [[H6975]], [[H7063]], [[H7898]], [[G00173]], [[G00174]], [[G04647]], [[G05146]]

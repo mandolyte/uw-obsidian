@@ -19,4 +19,4 @@ During Bible times, a “winepress” was a large container or open place where 
 
 ## Word Data:
 
-* Strong’s: H1660, H3342, H6333, G3025, G5276
+* Strong’s: [[H1660]], [[H3342]], [[H6333]], [[G03025]], [[G05276]]

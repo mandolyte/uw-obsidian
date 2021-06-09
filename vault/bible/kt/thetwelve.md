@@ -27,4 +27,4 @@ The term “the twelve” refers to the twelve men that Jesus chose to be his cl
 
 ## Word Data:
 
-* Strong’s: G1427, G1733
+* Strong’s: [[G01427]], [[G01733]]

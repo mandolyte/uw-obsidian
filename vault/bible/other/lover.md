@@ -20,4 +20,4 @@ The term “lover” literally means “person who loves.” Usually this refers
 
 ## Word Data:
 
-* Strong’s: H157, H158, H868, H5689, H7453, H8566, G865, G866, G5366, G5367, G5369, G5377
+* Strong’s: [[H0157]], [[H0158]], [[H0868]], [[H5689]], [[H7453]], [[H8566]], [[G00865]], [[G00866]], [[G05366]], [[G05367]], [[G05369]], [[G05377]]

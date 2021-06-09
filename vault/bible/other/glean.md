@@ -20,4 +20,4 @@ The term “glean” means to go through a field or orchard and pick up whatever
 
 ## Word Data:
 
-* Strong’s: H3950, H3951, H5953, H5955
+* Strong’s: [[H3950]], [[H3951]], [[H5953]], [[H5955]]

@@ -23,4 +23,4 @@ A fir tree is a kind of tree that stays green all year and has cones that contai
 
 ## Word Data:
 
-* Strong’s: H766, H1265, H1266
+* Strong’s: [[H0766]], [[H1265]], [[H1266]]

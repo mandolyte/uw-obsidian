@@ -34,4 +34,4 @@ The term “darkness” literally means an absence of light. There are also seve
 
 ## Word Data:
 
-* Strong’s: H0652, H0653, H2816, H2821, H2822, H2825, H3990, H3991, H4285, H5890, H6205, G2217, G4652, G4653, G4655, G4656
+* Strong’s: [[H0652]], [[H0653]], [[H2816]], [[H2821]], [[H2822]], [[H2825]], [[H3990]], [[H3991]], [[H4285]], [[H5890]], [[H6205]], [[G02217]], [[G04652]], [[G04653]], [[G04655]], [[G04656]]

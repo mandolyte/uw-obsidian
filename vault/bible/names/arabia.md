@@ -25,4 +25,4 @@ Arabia is the largest peninsula in the world, covering nearly 3,000,000 square k
 
 ## Word Data:
 
-* Strong’s: H6152, H6153, H6163, G688, G690
+* Strong’s: [[H6152]], [[H6153]], [[H6163]], [[G00688]], [[G00690]]

@@ -24,4 +24,4 @@ A mediator is a person who helps two or more people to resolve their disagreemen
 
 ## Word Data:
 
-* Strong’s: H3887, G3312, G3316
+* Strong’s: [[H3887]], [[G03312]], [[G03316]]

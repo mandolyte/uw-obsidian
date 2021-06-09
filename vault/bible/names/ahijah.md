@@ -22,4 +22,4 @@ Ahijah was the name of several different men in the Old Testament. The following
 
 ## Word Data:
 
-* Strong’s: H281
+* Strong’s: [[H0281]]

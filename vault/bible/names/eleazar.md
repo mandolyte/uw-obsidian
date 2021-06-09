@@ -21,4 +21,4 @@ Eleazar was the name of several men in the Bible.
 
 ## Word Data:
 
-* Strong’s: H0499, G1648
+* Strong’s: [[H0499]], [[G01648]]

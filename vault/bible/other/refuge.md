@@ -30,4 +30,4 @@ The term “refuge” refers to a place or condition of safety and protection. A
 
 ## Word Data:
 
-* Strong’s: H2620, H4268, H4498, H4585, H4733, H4869
+* Strong’s: [[H2620]], [[H4268]], [[H4498]], [[H4585]], [[H4733]], [[H4869]]

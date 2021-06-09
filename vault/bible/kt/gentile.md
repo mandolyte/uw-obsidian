@@ -24,4 +24,4 @@ The term “Gentile” refers to anyone who is not a Jew. Gentiles are people wh
 
 ## Word Data:
 
-* Strong’s: H1471, G1482, G1484, G1672
+* Strong’s: [[H1471]], [[G01482]], [[G01484]], [[G01672]]

@@ -22,4 +22,4 @@ The terms “Yahweh of hosts” and “God of hosts” are titles that express G
 
 ## Word Data:
 
-* Strong’s: H0430, H3068, H6635, G2962, G4519
+* Strong’s: [[H0430]], [[H3068]], [[H6635]], [[G02962]], [[G04519]]

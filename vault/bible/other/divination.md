@@ -21,4 +21,4 @@ The terms “divination” and “soothsaying” refer to the practice of trying
 
 ## Word Data:
 
-* Strong’s: H1870, H4738, H5172, H6049, H7080, H7081, G4436
+* Strong’s: [[H1870]], [[H4738]], [[H5172]], [[H6049]], [[H7080]], [[H7081]], [[G04436]]

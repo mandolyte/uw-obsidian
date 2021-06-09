@@ -29,4 +29,4 @@ The term “amen” is a word used to emphasize or call attention to what a pers
 
 ## Word Data:
 
-* Strong’s: H543, G281
+* Strong’s: [[H0543]], [[G00281]]

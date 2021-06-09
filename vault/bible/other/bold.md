@@ -19,4 +19,4 @@ These terms all refer to having courage and confidence to speak the truth and do
 
 ## Word Data:
 
-* Strong’s: H982, H5797, G662, G2292, G3618, G3954, G3955, G5111, G5112
+* Strong’s: [[H0982]], [[H5797]], [[G00662]], [[G02292]], [[G03618]], [[G03954]], [[G03955]], [[G05111]], [[G05112]]

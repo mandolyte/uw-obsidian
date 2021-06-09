@@ -36,4 +36,4 @@ The terms “persecute” and “persecution” refer to continually treating a 
 
 ## Word Data:
 
-* Strong’s: H1814, H7291, H7852, G1375, G1376, G1377, G1559, G2347
+* Strong’s: [[H1814]], [[H7291]], [[H7852]], [[G01375]], [[G01376]], [[G01377]], [[G01559]], [[G02347]]

@@ -18,4 +18,4 @@ A divorce is the legal act of ending a marriage. The term to “divorce” means
 
 ## Word Data:
 
-* Strong’s: H1644, H3748, H5493, H7971, G630, G647, G863
+* Strong’s: [[H1644]], [[H3748]], [[H5493]], [[H7971]], [[G00630]], [[G00647]], [[G00863]]

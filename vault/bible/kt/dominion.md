@@ -23,4 +23,4 @@ The term “dominion” refers to power, control, or authority over people, anim
 
 ## Word Data:
 
-* Strong’s: H1166, H4474, H4475, H4896, H4910, H4915, H7287, H7300, H7980, H7985, G2634, G2904, G2961, G2963
+* Strong’s: [[H1166]], [[H4474]], [[H4475]], [[H4896]], [[H4910]], [[H4915]], [[H7287]], [[H7300]], [[H7980]], [[H7985]], [[G02634]], [[G02904]], [[G02961]], [[G02963]]

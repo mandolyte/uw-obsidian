@@ -17,4 +17,4 @@ A banquet is large, formal meal that usually includes several food courses.
 
 ## Word Data:
 
-* Strong’s: H4960, H4961, H8354, G1173, G1403
+* Strong’s: [[H4960]], [[H4961]], [[H8354]], [[G01173]], [[G01403]]

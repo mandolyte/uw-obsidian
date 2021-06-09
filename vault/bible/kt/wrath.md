@@ -28,4 +28,4 @@ Wrath is an intense anger that is sometimes long-lasting. The Bible describes bo
 
 ## Word Data:
 
-* Strong’s: H0639, H2197, H2528, H2534, H2740, H3707, H3708, H5678, H7107, H7109, H7110, H7265, H7267, G2372, G3709, G3949, G3950
+* Strong’s: [[H0639]], [[H2197]], [[H2528]], [[H2534]], [[H2740]], [[H3707]], [[H3708]], [[H5678]], [[H7107]], [[H7109]], [[H7110]], [[H7265]], [[H7267]], [[G02372]], [[G03709]], [[G03949]], [[G03950]]

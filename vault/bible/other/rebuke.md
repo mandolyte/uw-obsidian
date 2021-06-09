@@ -23,4 +23,4 @@ The term “rebuke” refers to correcting someone verbally, usually with sternn
 
 ## Word Data:
 
-* Strong’s: H1605, H1606, H2778, H2781, H3198, H4045, H4148, H8156, H8433, G1649, G1651, G1969, G2008, G3679
+* Strong’s: [[H1605]], [[H1606]], [[H2778]], [[H2781]], [[H3198]], [[H4045]], [[H4148]], [[H8156]], [[H8433]], [[G01649]], [[G01651]], [[G01969]], [[G02008]], [[G03679]]

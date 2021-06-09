@@ -21,4 +21,4 @@ The term “thief” refers to a person who steals money or property from other 
 
 ## Word Data:
 
-* Strong’s: H1214, H1215, H1416, H1589, H1590, H1980, H6530, H7703, G727, G2417, G2812, G3027
+* Strong’s: [[H1214]], [[H1215]], [[H1416]], [[H1589]], [[H1590]], [[H1980]], [[H6530]], [[H7703]], [[G00727]], [[G02417]], [[G02812]], [[G03027]]

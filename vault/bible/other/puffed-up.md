@@ -20,4 +20,4 @@ The term “puffed up” is a figurative expression that refers to being proud o
 
 ## Word Data:
 
-* Strong’s: H6075, G5448
+* Strong’s: [[H6075]], [[G05448]]

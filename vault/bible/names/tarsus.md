@@ -20,4 +20,4 @@ Tarsus was a prosperous city in the Roman province of Cilicia, in what is now so
 
 ## Word Data:
 
-* Strong’s: G5018, G5019
+* Strong’s: [[G05018]], [[G05019]]

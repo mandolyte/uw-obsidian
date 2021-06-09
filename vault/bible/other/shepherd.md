@@ -42,4 +42,4 @@ A “shepherd” is a person who takes care of sheep. In the Old Testament, this
 
 ## Word Data:
 
-* Strong’s: H6629, H7462, H7469, H7473, G750, G4165, G4166
+* Strong’s: [[H6629]], [[H7462]], [[H7469]], [[H7473]], [[G00750]], [[G04165]], [[G04166]]

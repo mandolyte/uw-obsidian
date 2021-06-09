@@ -32,4 +32,4 @@
 
 ## Word Data:
 
-* Strong’s: H1120, G896
+* Strong’s: [[H1120]], [[G00896]]

@@ -23,4 +23,4 @@ The term “ark” literally refers to a rectangular wooden box that is made to 
 
 ## Word Data:
 
-* Strong’s: H727, H8392, G2787
+* Strong’s: [[H0727]], [[H8392]], [[G02787]]

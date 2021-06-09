@@ -28,4 +28,4 @@ A “seed” is the part of a plant that gets planted in the ground to reproduce
 
 ## Word Data:
 
-* Strong’s: H2232, H2233, H3610, H6507, G4615, G4687, G4690, G4701, G4703
+* Strong’s: [[H2232]], [[H2233]], [[H3610]], [[H6507]], [[G04615]], [[G04687]], [[G04690]], [[G04701]], [[G04703]]

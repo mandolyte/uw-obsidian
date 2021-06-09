@@ -21,4 +21,4 @@ The city of Troas was a seaport located on the northwest coast of the ancient Ro
 
 ## Word Data:
 
-* Strong’s: G5174
+* Strong’s: [[G05174]]

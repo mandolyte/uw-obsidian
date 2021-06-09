@@ -21,4 +21,4 @@ Apollos was a Jew from the city of Alexandria in Egypt who had a special ability
 
 ## Word Data:
 
-* Strong’s: G625
+* Strong’s: [[G00625]]

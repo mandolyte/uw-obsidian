@@ -23,4 +23,4 @@ Esther was a Jewish woman who became queen of the Persian kingdom after the Isra
 
 ## Word Data:
 
-* Strong’s: H635
+* Strong’s: [[H0635]]

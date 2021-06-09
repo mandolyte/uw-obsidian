@@ -24,4 +24,4 @@ Cyprus is an island in the Mediterranean Sea, about 64 kilometers south of the m
 
 ## Word Data:
 
-* Strong’s: G2953, G2954
+* Strong’s: [[G02953]], [[G02954]]

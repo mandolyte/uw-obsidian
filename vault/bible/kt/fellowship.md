@@ -24,4 +24,4 @@ In general, the term “fellowship” refers to friendly interactions between me
 
 ## Word Data:
 
-* Strong’s: H2266, H8667, G2842, G2844, G3352, G4790
+* Strong’s: [[H2266]], [[H8667]], [[G02842]], [[G02844]], [[G03352]], [[G04790]]

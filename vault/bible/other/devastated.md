@@ -24,4 +24,4 @@ The term “devastated” or “devastation” refers to having one’s property
 
 ## Word Data:
 
-* Strong’s: H1110, H1238, H2721, H1826, H3615, H3772, H4875, H7701, H7703, H7722, H7843, H8074, H8077
+* Strong’s: [[H1110]], [[H1238]], [[H2721]], [[H1826]], [[H3615]], [[H3772]], [[H4875]], [[H7701]], [[H7703]], [[H7722]], [[H7843]], [[H8074]], [[H8077]]

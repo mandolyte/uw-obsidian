@@ -20,4 +20,4 @@ Sharon was the name of a flat, fertile area of land along the coast of the Medit
 
 ## Word Data:
 
-* Strong’s: H8289, H8290
+* Strong’s: [[H8289]], [[H8290]]

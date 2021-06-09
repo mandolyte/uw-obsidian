@@ -36,4 +36,4 @@ The “Passover” is the name of a religious festival that the Jews celebrate e
 
 ## Word Data:
 
-* Strong’s: H6453, G3957
+* Strong’s: [[H6453]], [[G03957]]

@@ -22,4 +22,4 @@ A deer is a large, graceful, four-legged animal that lives in forests or on moun
 
 ## Word Data:
 
-* Strong’s: H354, H355, H365, H3180, H3280, H6643, H6646
+* Strong’s: [[H0354]], [[H0355]], [[H0365]], [[H3180]], [[H3280]], [[H6643]], [[H6646]]

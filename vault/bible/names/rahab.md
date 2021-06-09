@@ -27,4 +27,4 @@ Rahab was a woman who lived in Jericho when Israel attacked the city. She was a 
 
 ## Word Data:
 
-* Strong’s: H7343, G4460
+* Strong’s: [[H7343]], [[G04460]]

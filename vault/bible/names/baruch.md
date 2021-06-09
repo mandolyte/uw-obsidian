@@ -20,4 +20,4 @@ Baruch is the name of several men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H1263
+* Strong’s: [[H1263]]

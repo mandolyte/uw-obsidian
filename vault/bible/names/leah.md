@@ -21,4 +21,4 @@ Leah was one of Jacob’s wives. She was the older sister of Rachel and the moth
 
 ## Word Data:
 
-* Strong’s: H3812
+* Strong’s: [[H3812]]

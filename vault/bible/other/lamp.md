@@ -24,4 +24,4 @@ The type of lamp that was used in Bible times is a small container with a fuel s
 
 ## Word Data:
 
-* Strong’s: H3940, H3974, H4501, H5215, H5216, G2985, G3088
+* Strong’s: [[H3940]], [[H3974]], [[H4501]], [[H5215]], [[H5216]], [[G02985]], [[G03088]]

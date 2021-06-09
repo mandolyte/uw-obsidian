@@ -24,4 +24,4 @@ Andrew was one of twelve men whom Jesus chose to be his closest disciples (later
 
 ## Word Data:
 
-* Strong’s: G406
+* Strong’s: [[G00406]]

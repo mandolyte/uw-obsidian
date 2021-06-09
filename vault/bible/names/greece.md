@@ -22,4 +22,4 @@ During New Testament times, Greece was a province in the Roman Empire.
 
 ## Word Data:
 
-* Strong’s: H3120, G1671
+* Strong’s: [[H3120]], [[G01671]]

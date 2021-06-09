@@ -20,4 +20,4 @@ The term “tribulation” refers to a time of hardship, suffering, and distress
 
 ## Word Data:
 
-* Strong’s: H6869, G2347, G4423
+* Strong’s: [[H6869]], [[G02347]], [[G04423]]

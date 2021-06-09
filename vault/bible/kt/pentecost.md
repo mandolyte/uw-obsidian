@@ -22,4 +22,4 @@ The “Festival of Weeks” was a Jewish festival that took place fifty days aft
 
 ## Word Data:
 
-* Strong’s: H2282, H7620, G4005
+* Strong’s: [[H2282]], [[H7620]], [[G04005]]

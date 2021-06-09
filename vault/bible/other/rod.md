@@ -23,4 +23,4 @@ The term “rod” refers to a narrow, solid, stick-like tool that was used in s
 
 ## Word Data:
 
-* Strong’s: H2415, H4294, H4731, H7626, G2563, G4463, G4464
+* Strong’s: [[H2415]], [[H4294]], [[H4731]], [[H7626]], [[G02563]], [[G04463]], [[G04464]]

@@ -22,4 +22,4 @@ Gabriel is the name of one of God’s angels. He is mentioned by name several ti
 
 ## Word Data:
 
-* Strong’s: H1403, G1043
+* Strong’s: [[H1403]], [[G01043]]

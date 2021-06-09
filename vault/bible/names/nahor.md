@@ -20,4 +20,4 @@ Nahor was the name of two relatives of Abraham, his grandfather and his brother.
 
 ## Word Data:
 
-* Strong’s: H5152, G3493
+* Strong’s: [[H5152]], [[G03493]]

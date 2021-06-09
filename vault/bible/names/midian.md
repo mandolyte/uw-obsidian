@@ -29,4 +29,4 @@ Midian was a son of Abraham and his wife Keturah. It is also the name of a peopl
 
 ## Word Data:
 
-* Strong’s: H4080, H4084, H4092
+* Strong’s: [[H4080]], [[H4084]], [[H4092]]

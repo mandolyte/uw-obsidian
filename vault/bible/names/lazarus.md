@@ -31,4 +31,4 @@ Lazarus and his sisters, Mary and Martha, were special friends of Jesus. Jesus o
 
 ## Word Data:
 
-* Strong’s: G2976
+* Strong’s: [[G02976]]

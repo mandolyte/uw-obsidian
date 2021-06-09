@@ -20,4 +20,4 @@ The terms “imitate” and “imitator” refers to copying someone else by act
 
 ## Word Data:
 
-* Strong’s: H310, H6213, G1096, G2596, G3401, G3402, G4160
+* Strong’s: [[H0310]], [[H6213]], [[G01096]], [[G02596]], [[G03401]], [[G03402]], [[G04160]]

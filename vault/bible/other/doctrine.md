@@ -20,4 +20,4 @@ The word “doctrine” literally means “teaching.” It usually refers to rel
 
 ## Word Data:
 
-* Strong’s: H3948, G1319, G1322, G2085
+* Strong’s: [[H3948]], [[G01319]], [[G01322]], [[G02085]]

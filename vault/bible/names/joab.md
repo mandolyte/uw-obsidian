@@ -22,4 +22,4 @@ Joab was an important military leader for King David throughout David’s entire
 
 ## Word Data:
 
-* Strong’s: H3097
+* Strong’s: [[H3097]]

@@ -23,4 +23,4 @@ In the early Christian church in Jerusalem, Philip was one of seven leaders chos
 
 ## Word Data:
 
-* Strong’s: G5376
+* Strong’s: [[G05376]]

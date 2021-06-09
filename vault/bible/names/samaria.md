@@ -30,4 +30,4 @@ Samaria was the name of a city and its surrounding region in the northern part o
 
 ## Word Data:
 
-* Strong’s: H8111, H8115, H8118, G4540, G4541, G4542
+* Strong’s: [[H8111]], [[H8115]], [[H8118]], [[G04540]], [[G04541]], [[G04542]]

@@ -31,4 +31,4 @@ Rebekah was a grand-daughter of Abraham’s brother Nahor.
 
 ## Word Data:
 
-* Strong’s: H7259
+* Strong’s: [[H7259]]

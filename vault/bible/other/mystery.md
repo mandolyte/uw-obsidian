@@ -20,4 +20,4 @@ In the Bible, the term “mystery” refers to something unknown or difficult to
 
 ## Word Data:
 
-* Strong’s: H1219, H7328, G3466
+* Strong’s: [[H1219]], [[H7328]], [[G03466]]

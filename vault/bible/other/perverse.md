@@ -25,4 +25,4 @@ The term “perverse” is used to describe a person or action that is morally c
 
 ## Word Data:
 
-* Strong’s: H1942, H2015, H3868, H4297, H5186, H5557, H5558, H5753, H5766, H5773, H5791, H6140, H6141, H8138, H8397, H8419, G1294
+* Strong’s: [[H1942]], [[H2015]], [[H3868]], [[H4297]], [[H5186]], [[H5557]], [[H5558]], [[H5753]], [[H5766]], [[H5773]], [[H5791]], [[H6140]], [[H6141]], [[H8138]], [[H8397]], [[H8419]], [[G01294]]

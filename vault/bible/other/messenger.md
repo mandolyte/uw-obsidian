@@ -21,4 +21,4 @@ The term “messenger” refers to someone who is given a message to tell others
 
 ## Word Data:
 
-* Strong’s: H1319, H4397, H4398, H5046, H5894, H6735, H6737, H7323, H7971, G32, G652
+* Strong’s: [[H1319]], [[H4397]], [[H4398]], [[H5046]], [[H5894]], [[H6735]], [[H6737]], [[H7323]], [[H7971]], [[G00032]], [[G00652]]

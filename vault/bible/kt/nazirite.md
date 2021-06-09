@@ -23,4 +23,4 @@ The term “Nazirite” refers to a person who has taken a “Nazirite vow.” M
 
 ## Word Data:
 
-* Strong’s: H5139
+* Strong’s: [[H5139]]

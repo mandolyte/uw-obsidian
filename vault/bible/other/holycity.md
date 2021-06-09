@@ -19,4 +19,4 @@ In the Bible, the term “holy city” refers to the city of Jerusalem.
 
 ## Word Data:
 
-* Strong’s: H5892, H6944, G40, G4172
+* Strong’s: [[H5892]], [[H6944]], [[G00040]], [[G04172]]

@@ -24,4 +24,4 @@ Absalom was the third son of King David. He was known for his handsome appearanc
 
 ## Word Data:
 
-* Strong’s: H53
+* Strong’s: [[H0053]]

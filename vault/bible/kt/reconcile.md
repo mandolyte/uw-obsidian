@@ -25,4 +25,4 @@ To “reconcile” and “reconciliation” refer to “make peace” between pe
 
 ## Word Data:
 
-* Strong’s: H2398, H3722, G604, G1259, G2433, G2643, G2644
+* Strong’s: [[H2398]], [[H3722]], [[G00604]], [[G01259]], [[G02433]], [[G02643]], [[G02644]]

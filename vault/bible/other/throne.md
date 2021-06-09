@@ -23,4 +23,4 @@ A throne is a specially-designed chair where a ruler sits when he decides import
 
 ## Word Data:
 
-* Strong’s: H3427, H3676, H3678, H3764, H7675, G968, G2362
+* Strong’s: [[H3427]], [[H3676]], [[H3678]], [[H3764]], [[H7675]], [[G00968]], [[G02362]]

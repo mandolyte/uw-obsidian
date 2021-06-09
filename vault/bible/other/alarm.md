@@ -24,4 +24,4 @@ An alarm is something that warns people about something that could harm them. To
 
 ## Word Data:
 
-* Strong’s: H7321, H8643
+* Strong’s: [[H7321]], [[H8643]]

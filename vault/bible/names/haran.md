@@ -23,4 +23,4 @@ Haran was a younger brother of Abram and the father of Lot.
 
 ## Word Data:
 
-* Strong’s: H2039
+* Strong’s: [[H2039]]

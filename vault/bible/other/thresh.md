@@ -23,4 +23,4 @@ The terms “thresh” and “threshing” refer to the first part of the proces
 
 ## Word Data:
 
-* Strong’s: H212, H4173, H1637, H1758, H1786, H1869, H2251, G248
+* Strong’s: [[H0212]], [[H4173]], [[H1637]], [[H1758]], [[H1786]], [[H1869]], [[H2251]], [[G00248]]

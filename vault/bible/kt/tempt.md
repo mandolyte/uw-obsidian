@@ -35,4 +35,4 @@ To tempt someone is to try to get that person to do something wrong.
 
 ## Word Data:
 
-* Strong’s: H974, H4531, H5254, G551, G1598, G3985, G3986, G3987
+* Strong’s: [[H0974]], [[H4531]], [[H5254]], [[G00551]], [[G01598]], [[G03985]], [[G03986]], [[G03987]]

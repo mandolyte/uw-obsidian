@@ -26,4 +26,4 @@ Hagar was an Egyptian woman who was Sarai’s personal slave.
 
 ## Word Data:
 
-* Strong’s: H1904
+* Strong’s: [[H1904]]

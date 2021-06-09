@@ -21,4 +21,4 @@ The term “torment” refers to terrible suffering. To torment someone means to
 
 ## Word Data:
 
-* Strong’s: H3013, G928, G929, G930, G931, G2558, G2851, G3600
+* Strong’s: [[H3013]], [[G00928]], [[G00929]], [[G00930]], [[G00931]], [[G02558]], [[G02851]], [[G03600]]

@@ -23,4 +23,4 @@ Naphtali was Jacob’s sixth son. He was Bilhah’s second son. His descendants 
 
 ## Word Data:
 
-* Strong’s: H5321, G3508
+* Strong’s: [[H5321]], [[G03508]]

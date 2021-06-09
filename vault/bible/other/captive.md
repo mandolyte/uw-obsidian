@@ -30,4 +30,4 @@ The terms “captive” and “captivity” refer to people who have been captur
 
 ## Word Data:
 
-* Strong’s: H1123, H1473, H1540, H1546, H1547, H7617, H7622, H7628, H7633, H7686, G161, G162, G163, G164, G2221
+* Strong’s: [[H1123]], [[H1473]], [[H1540]], [[H1546]], [[H1547]], [[H7617]], [[H7622]], [[H7628]], [[H7633]], [[H7686]], [[G00161]], [[G00162]], [[G00163]], [[G00164]], [[G02221]]

@@ -56,4 +56,4 @@ The term “word of truth” is another way of referring to “God’s word,” 
 
 ## Word Data:
 
-* Strong’s: H561, H565, H1697, H3068, G3056, G4487
+* Strong’s: [[H0561]], [[H0565]], [[H1697]], [[H3068]], [[G03056]], [[G04487]]

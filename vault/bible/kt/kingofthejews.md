@@ -33,4 +33,4 @@ The term “King of the Jews” is a title that refers to Jesus, the Messiah.
 
 ## Word Data:
 
-* Strong’s: G935, G2453
+* Strong’s: [[G00935]], [[G02453]]

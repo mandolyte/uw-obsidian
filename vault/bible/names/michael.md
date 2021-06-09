@@ -22,4 +22,4 @@ Michael is the chief of all God’s holy, obedient angels. He is the only angel 
 
 ## Word Data:
 
-* Strong’s: H4317, G3413
+* Strong’s: [[H4317]], [[G03413]]

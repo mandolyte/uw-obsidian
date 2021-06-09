@@ -21,4 +21,4 @@ The term “commander” refers to a leader of an army who is responsible for le
 
 ## Word Data:
 
-* Strong’s: H2710, H2951, H1169, H4929, H5057, H6346, H7101, H7262, H7218, H7227, H7229, H7990, H8269, G5506
+* Strong’s: [[H2710]], [[H2951]], [[H1169]], [[H4929]], [[H5057]], [[H6346]], [[H7101]], [[H7262]], [[H7218]], [[H7227]], [[H7229]], [[H7990]], [[H8269]], [[G05506]]

@@ -22,4 +22,4 @@ A pig is a type of four-legged, hoofed animal that is raised for meat. Its meat 
 
 ## Word Data:
 
-* Strong’s: H2386, G5519
+* Strong’s: [[H2386]], [[G05519]]

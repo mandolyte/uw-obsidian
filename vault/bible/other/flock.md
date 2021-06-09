@@ -24,4 +24,4 @@ In the Bible, “flock” refers to a group of sheep or goats and “herd” ref
 
 ## Word Data:
 
-* Strong’s: H0951, H1241, H2835, H4029, H4735, H4830, H5349, H5739, H6251, H6629, H7399, H7462, G0034, G4167, G4168
+* Strong’s: [[H0951]], [[H1241]], [[H2835]], [[H4029]], [[H4735]], [[H4830]], [[H5349]], [[H5739]], [[H6251]], [[H6629]], [[H7399]], [[H7462]], [[G00034]], [[G04167]], [[G04168]]

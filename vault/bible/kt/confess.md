@@ -30,4 +30,4 @@ To confess means to admit or assert that something is true. A “confession” i
 
 ## Word Data:
 
-* Strong’s: H3034, H8426, G1843, G3670, G3671
+* Strong’s: [[H3034]], [[H8426]], [[G01843]], [[G03670]], [[G03671]]

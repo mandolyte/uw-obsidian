@@ -26,4 +26,4 @@ The term “filled with the Holy Spirit” is a figurative expression that, when
 
 ## Word Data:
 
-* Strong’s: G40, G4130, G4137, G4151
+* Strong’s: [[G00040]], [[G04130]], [[G04137]], [[G04151]]

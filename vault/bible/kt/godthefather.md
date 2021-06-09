@@ -42,4 +42,4 @@ The terms “God the Father” and “heavenly Father” refer to Yahweh, the on
 
 ## Word Data:
 
-* Strong’s: H1, H2, G3962
+* Strong’s: [[H0001]], [[H0002]], [[G03962]]

@@ -35,4 +35,4 @@ The term “authority” usually refers to a position of influence, responsibili
 
 ## Word Data:
 
-* Strong’s: H8633, G831, G1413, G1849, G1850, G2003, G2715, G5247
+* Strong’s: [[H8633]], [[G00831]], [[G01413]], [[G01849]], [[G01850]], [[G02003]], [[G02715]], [[G05247]]

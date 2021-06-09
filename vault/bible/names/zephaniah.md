@@ -20,4 +20,4 @@ Zephaniah, son of Cushi, was a prophet who lived in Jerusalem and prophesied dur
 
 ## Word Data:
 
-* Strong’s: H6846
+* Strong’s: [[H6846]]

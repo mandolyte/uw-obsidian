@@ -20,4 +20,4 @@ Genesis 11:31-32
 
 ## Word Data:
 
-* Strong’s: H8646, G2291
+* Strong’s: [[H8646]], [[G02291]]

@@ -34,4 +34,4 @@ The term “innocent” means to not be guilty of a crime or other wrongdoing. I
 
 ## Word Data:
 
-* Strong’s: H2136, H2600, H2643, H5352, H5355, H5356, G121
+* Strong’s: [[H2136]], [[H2600]], [[H2643]], [[H5352]], [[H5355]], [[H5356]], [[G00121]]

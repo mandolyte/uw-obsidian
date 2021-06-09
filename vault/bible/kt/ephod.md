@@ -21,4 +21,4 @@ An ephod was an apron-like garment worn by the Israelite priests. It had two par
 
 ## Word Data:
 
-* Strong’s: H641, H642, H646
+* Strong’s: [[H0641]], [[H0642]], [[H0646]]

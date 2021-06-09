@@ -21,4 +21,4 @@ A freewill offering was a type of sacrifice to God that was not required by the 
 
 ## Word Data:
 
-* Strong’s: H5068, H5071
+* Strong’s: [[H5068]], [[H5071]]

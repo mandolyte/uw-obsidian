@@ -34,4 +34,4 @@ Mount Sinai or Mount Horeb is a mountain that was probably located in the southe
 
 ## Word Data:
 
-* Strong’s: H2722, H5514, G3735, G4614
+* Strong’s: [[H2722]], [[H5514]], [[G03735]], [[G04614]]

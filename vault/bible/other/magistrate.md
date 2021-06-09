@@ -18,4 +18,4 @@ A magistrate is an appointed official who acts as a judge and decides matters of
 
 ## Word Data:
 
-* Strong’s: H8200, H8614, G758, G4755
+* Strong’s: [[H8200]], [[H8614]], [[G00758]], [[G04755]]

@@ -19,4 +19,4 @@ The terms “on high” and “in the highest” are expressions that usually me
 
 ## Word Data:
 
-* Strong’s: H1361, H4605, H4791, H7682, G1722, G5308, G5310, G5311
+* Strong’s: [[H1361]], [[H4605]], [[H4791]], [[H7682]], [[G01722]], [[G05308]], [[G05310]], [[G05311]]

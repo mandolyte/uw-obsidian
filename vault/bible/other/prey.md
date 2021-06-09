@@ -17,4 +17,4 @@ The term “prey” refers to something that is hunted, usually an animal that i
 
 ## Word Data:
 
-* Strong’s: H400, H957, H962, H2963, H2964, H5706, H5861, H7997, H7998
+* Strong’s: [[H0400]], [[H0957]], [[H0962]], [[H2963]], [[H2964]], [[H5706]], [[H5861]], [[H7997]], [[H7998]]

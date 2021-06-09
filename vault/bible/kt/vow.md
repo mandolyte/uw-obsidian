@@ -22,4 +22,4 @@ A “vow” is a solemn promise or oath that a person makes to God.
 
 ## Word Data:
 
-* Strong’s: H5087, H5088, G2171
+* Strong’s: [[H5087]], [[H5088]], [[G02171]]

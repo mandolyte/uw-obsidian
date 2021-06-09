@@ -19,4 +19,4 @@ Amoz was the father of the prophet Isaiah.
 
 ## Word Data:
 
-* Strong’s: H531
+* Strong’s: [[H0531]]

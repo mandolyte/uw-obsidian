@@ -24,4 +24,4 @@ A lion is a large, cat-like, that has animal, with powerful teeth and claws for 
 
 ## Word Data:
 
-* Strong’s: H738, H739, H744, H3715, H3833, H3918, H7826, H7830, G3023
+* Strong’s: [[H0738]], [[H0739]], [[H0744]], [[H3715]], [[H3833]], [[H3918]], [[H7826]], [[H7830]], [[G03023]]

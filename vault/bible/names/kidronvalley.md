@@ -20,4 +20,4 @@ The Kidron Valley is a deep valley just outside the city of Jerusalem, between i
 
 ## Word Data:
 
-* Strong’s: H5674, H6939, G2748, G5493
+* Strong’s: [[H5674]], [[H6939]], [[G02748]], [[G05493]]

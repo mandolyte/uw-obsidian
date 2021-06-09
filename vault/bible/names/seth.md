@@ -20,4 +20,4 @@ In the book of Genesis, Seth was the third son of Adam and Eve.
 
 ## Word Data:
 
-* Strong’s: H8352, G4589
+* Strong’s: [[H8352]], [[G04589]]

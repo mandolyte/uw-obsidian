@@ -20,4 +20,4 @@ An ax is tool used for cutting or chopping trees or wood.
 
 ## Word Data:
 
-* Strong’s: H1631, H4621, H7134, G513
+* Strong’s: [[H1631]], [[H4621]], [[H7134]], [[G00513]]

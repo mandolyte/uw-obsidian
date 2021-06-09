@@ -34,4 +34,4 @@ When used as a verb, the term “promise” refers to the action of a person say
 
 ## Word Data:
 
-* Strong’s: H559, H562, H1696, H8569, G1843, G1860, G1861, G1862, G3670, G4279
+* Strong’s: [[H0559]], [[H0562]], [[H1696]], [[H8569]], [[G01843]], [[G01860]], [[G01861]], [[G01862]], [[G03670]], [[G04279]]

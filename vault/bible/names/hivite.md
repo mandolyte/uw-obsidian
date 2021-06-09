@@ -22,4 +22,4 @@ The Hivites were one of seven major people groups living in the land of Canaan.
 
 ## Word Data:
 
-* Strong’s: H2340
+* Strong’s: [[H2340]]

@@ -26,4 +26,4 @@ The “Sea of Reeds” was the name of a body of water located between Egypt and
 
 ## Word Data:
 
-* Strong’s: H3220, H5488, G2063, G2281
+* Strong’s: [[H3220]], [[H5488]], [[G02063]], [[G02281]]

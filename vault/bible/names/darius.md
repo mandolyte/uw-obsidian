@@ -20,4 +20,4 @@ Darius was the name of several kings of Persia. It is possible that “Darius”
 
 ## Word Data:
 
-* Strong’s: H1867, H1868
+* Strong’s: [[H1867]], [[H1868]]

@@ -23,4 +23,4 @@ The term “Lord’s Supper” was used by the apostle Paul to refer to the Pass
 
 ## Word Data:
 
-* Strong’s: G1173, G2960
+* Strong’s: [[G01173]], [[G02960]]

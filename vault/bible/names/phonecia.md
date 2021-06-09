@@ -22,4 +22,4 @@ In ancient times, Phoenicia was a wealthy nation located in Canaan along the coa
 
 ## Word Data:
 
-* Strong’s: H3667, G4949, G5403
+* Strong’s: [[H3667]], [[G04949]], [[G05403]]

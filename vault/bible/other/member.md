@@ -19,4 +19,4 @@ The term “member” refers to one part of a complex body or group.
 
 ## Word Data:
 
-* Strong’s: H1004, H1121, H3338, H5315, H8212, G1010, G3196, G3609
+* Strong’s: [[H1004]], [[H1121]], [[H3338]], [[H5315]], [[H8212]], [[G01010]], [[G03196]], [[G03609]]

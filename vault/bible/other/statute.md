@@ -19,4 +19,4 @@ A statute is a specific written law that provides guidance for people to live by
 
 ## Word Data:
 
-* Strong’s: H2706, H2708, H7010, G1345
+* Strong’s: [[H2706]], [[H2708]], [[H7010]], [[G01345]]

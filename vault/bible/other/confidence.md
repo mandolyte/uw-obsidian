@@ -22,4 +22,4 @@ The term “confidence” refers to being sure that something is true or certain
 
 ## Word Data:
 
-* Strong’s: H982, H983, H986, H3689, H3690, H4009, G2292, G3954, G3982, G4006, G5287
+* Strong’s: [[H0982]], [[H0983]], [[H0986]], [[H3689]], [[H3690]], [[H4009]], [[G02292]], [[G03954]], [[G03982]], [[G04006]], [[G05287]]

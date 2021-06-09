@@ -23,4 +23,4 @@ Ephraim was the younger son of Joseph. His descendants, the Ephraimites, formed 
 
 ## Word Data:
 
-* Strong’s: H669, H673, G2187
+* Strong’s: [[H0669]], [[H0673]], [[G02187]]

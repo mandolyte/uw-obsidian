@@ -25,4 +25,4 @@ Joash was the name of several men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H3101, H3135
+* Strong’s: [[H3101]], [[H3135]]

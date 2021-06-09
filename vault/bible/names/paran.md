@@ -23,4 +23,4 @@ Paran was a desert or wilderness area east of Egypt and south of the land of Can
 
 ## Word Data:
 
-* Strong’s: H364, H6290
+* Strong’s: [[H0364]], [[H6290]]

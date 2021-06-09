@@ -18,4 +18,4 @@ The Kerethites were a people group who were probably part of the Philistines. So
 
 ## Word Data:
 
-* Strong’s: H3774
+* Strong’s: [[H3774]]

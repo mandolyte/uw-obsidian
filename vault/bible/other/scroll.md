@@ -20,4 +20,4 @@ In ancient times, a scroll was a type of book made of one long, rolled-up sheet 
 
 ## Word Data:
 
-* Strong’s: H4039, H4040, H5612, G974, G975
+* Strong’s: [[H4039]], [[H4040]], [[H5612]], [[G00974]], [[G00975]]

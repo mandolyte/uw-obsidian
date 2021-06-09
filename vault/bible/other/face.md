@@ -33,4 +33,4 @@ The word “face” literally refers to the front part of a person’s head. Thi
 
 ## Word Data:
 
-* Strong’s: H600, H639, H5869, H6440, H8389, G3799, G4383, G4750
+* Strong’s: [[H0600]], [[H0639]], [[H5869]], [[H6440]], [[H8389]], [[G03799]], [[G04383]], [[G04750]]

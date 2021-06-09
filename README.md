@@ -23,3 +23,36 @@ Then Run `sh run.sh`. This will match up the TWL file and the Greek text and add
 
 
 Source for Greek Text: https://door43.org/u/unfoldingWord/UGNT/69478b8734/57-TIT.html#056-ch-001
+
+Notes on an impoved method of obtaining the Greek Text.
+1. See [here](https://unfoldingword.zulipchat.com/#narrow/stream/209457-SOFTWARE--.20UR/topic/Proskomma/near/242032634)
+1. The idea is to query Proskomma to parse the USFM format and return the text in the format needed for this little project.
+1. Essential GraphQl query:
+```gql
+{
+  docSets {
+    document(bookCode: "TIT") {
+      cvIndex(chapter:1) {
+        chapter
+        verses {
+          verse {
+            text
+          }
+        }
+      }
+    }
+  }
+}
+```
+1. Steps (also see the read me in the PK node express project)...
+1. cloned proskomma node express and ran `npm install`
+2. downloaded a zip of the UFW Greek NT and copied the USFM files to the data subdirectory (actually `./data/usfm`)
+3. added all the files to the "toLoad" array in `index.js`
+4. ran: `npm run dev`; this took a few minutes
+5. pointed my browser to `http://localhost:2468/gql_form` and pasted the query above into the form and clicked the Run Query button
+
+
+## Miscellaneous Notes
+
+Proskomma docs and tutorial [here](https://doc.proskomma.bible/en/dev/tutorial/index.html)
+

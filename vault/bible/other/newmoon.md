@@ -20,4 +20,4 @@ The term “new moon” refers to the moon when it looks like a small, crescent-
 
 ## Word Data:
 
-* Strong’s: H2320, G3376, G3561
+* Strong’s: [[H2320]], [[G03376]], [[G03561]]

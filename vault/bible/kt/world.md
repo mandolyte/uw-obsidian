@@ -31,4 +31,4 @@ The term “world” usually refers to the part of the universe where people liv
 
 ## Word Data:
 
-* Strong’s: H0776, H2309, H2465, H5769, H8398, G1093, G2886, G2889, G3625
+* Strong’s: [[H0776]], [[H2309]], [[H2465]], [[H5769]], [[H8398]], [[G01093]], [[G02886]], [[G02889]], [[G03625]]

@@ -24,4 +24,4 @@ James was a son of Mary and Joseph. He was one of Jesus’ younger half-brothers
 
 ## Word Data:
 
-* Strong’s: G2385
+* Strong’s: [[G02385]]

@@ -17,4 +17,4 @@ Memphis was an ancient capital city in Egypt, along the Nile River.
 
 ## Word Data:
 
-* Strong’s: H4644, H5297
+* Strong’s: [[H4644]], [[H5297]]

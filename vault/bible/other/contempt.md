@@ -19,4 +19,4 @@ The term “contempt” refers to a deep disrespect and dishonor that is shown t
 
 ## Word Data:
 
-* Strong’s: H936, H937, H959, H963, H1860, H7043, H7589, H5006, G1848
+* Strong’s: [[H0936]], [[H0937]], [[H0959]], [[H0963]], [[H1860]], [[H7043]], [[H7589]], [[H5006]], [[G01848]]

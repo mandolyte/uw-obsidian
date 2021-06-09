@@ -26,4 +26,4 @@ The term “feast” is a very general term that refers to an event where people
 
 ## Word Data:
 
-* Strong’s: H398, H2077, H2282, H3899, H3900, H4150, H4797, H4960, H7646, H8057, H8354, G26, G1062, G1173, G1859, G2165, G4910
+* Strong’s: [[H0398]], [[H2077]], [[H2282]], [[H3899]], [[H3900]], [[H4150]], [[H4797]], [[H4960]], [[H7646]], [[H8057]], [[H8354]], [[G00026]], [[G01062]], [[G01173]], [[G01859]], [[G02165]], [[G04910]]

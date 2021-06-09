@@ -34,4 +34,4 @@ The term “walk” is often used in a figurative sense to mean “live.”
 
 ## Word Data:
 
-* Strong’s: H1869, H1980, H1981, H3212, H4108, G1704, G4043, G4198, G4748
+* Strong’s: [[H1869]], [[H1980]], [[H1981]], [[H3212]], [[H4108]], [[G01704]], [[G04043]], [[G04198]], [[G04748]]

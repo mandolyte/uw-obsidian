@@ -19,4 +19,4 @@ Korah was the name of three men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H7141
+* Strong’s: [[H7141]]

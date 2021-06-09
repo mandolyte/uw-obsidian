@@ -21,4 +21,4 @@ A person is the “subject” of another person if the second person rules over 
 
 ## Word Data:
 
-* Strong’s: H1697, H3533, H3665, H4522, H5647, H5927, G350, G1379, G1396, G1777, G3663, G5292, G5293
+* Strong’s: [[H1697]], [[H3533]], [[H3665]], [[H4522]], [[H5647]], [[H5927]], [[G00350]], [[G01379]], [[G01396]], [[G01777]], [[G03663]], [[G05292]], [[G05293]]

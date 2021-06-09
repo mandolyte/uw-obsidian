@@ -19,4 +19,4 @@ An ordinance is a public regulation or law that gives rules or instructions for 
 
 ## Word Data:
 
-* Strong’s: H2706, H4687, H4931, H4941
+* Strong’s: [[H2706]], [[H4687]], [[H4931]], [[H4941]]

@@ -19,4 +19,4 @@ The term “cedar” refers to a large fir tree which normally has reddish-brown
 
 ## Word Data:
 
-* Strong’s: H730
+* Strong’s: [[H0730]]

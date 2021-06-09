@@ -23,4 +23,4 @@ The term “locust” refers to a type of large, flying grasshopper that sometim
 
 ## Word Data:
 
-* Strong’s: H0697, H1357, H1462, H1501, H2284, H3218, H5556, H6767, G200
+* Strong’s: [[H0697]], [[H1357]], [[H1462]], [[H1501]], [[H2284]], [[H3218]], [[H5556]], [[H6767]], [[G00200]]

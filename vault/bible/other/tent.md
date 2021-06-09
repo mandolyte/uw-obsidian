@@ -22,4 +22,4 @@ A tent is a portable shelter made of sturdy fabric that is draped over a structu
 
 ## Word Data:
 
-* Strong’s: H167, H168, H2583, H3407, H6898
+* Strong’s: [[H0167]], [[H0168]], [[H2583]], [[H3407]], [[H6898]]

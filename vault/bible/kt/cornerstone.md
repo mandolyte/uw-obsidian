@@ -25,4 +25,4 @@ The term “cornerstone” refers to a large stone that has been specially cut a
 
 ## Word Data:
 
-* Strong’s: H0068, H6438, H7218, G204, G1137, G2776, G3037
+* Strong’s: [[H0068]], [[H6438]], [[H7218]], [[G00204]], [[G01137]], [[G02776]], [[G03037]]

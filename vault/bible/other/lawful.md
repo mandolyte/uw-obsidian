@@ -53,4 +53,4 @@ The term “lawless” describes a person who does not obey laws or rules. When 
 
 ## Word Data:
 
-* Strong’s: H6530, G111, G113, G266, G458, G459, G1832, G3545
+* Strong’s: [[H6530]], [[G00111]], [[G00113]], [[G00266]], [[G00458]], [[G00459]], [[G01832]], [[G03545]]

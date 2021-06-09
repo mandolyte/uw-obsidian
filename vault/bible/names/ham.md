@@ -21,4 +21,4 @@ Ham was the second of Noah’s three sons.
 
 ## Word Data:
 
-* Strong’s: H2526
+* Strong’s: [[H2526]]

@@ -20,4 +20,4 @@ To “bribe” means to give someone something of value, such as money, to influ
 
 ## Word Data:
 
-* Strong’s: H3724, H4979, H7809, H7810, H7936, H7966, H8021, H8641, G5260
+* Strong’s: [[H3724]], [[H4979]], [[H7809]], [[H7810]], [[H7936]], [[H7966]], [[H8021]], [[H8641]], [[G05260]]

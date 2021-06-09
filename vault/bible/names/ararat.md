@@ -21,4 +21,4 @@ In the Bible, “Ararat” is the name given to a land, a kingdom, and a mountai
 
 ## Word Data:
 
-* Strong’s: H780
+* Strong’s: [[H0780]]

@@ -43,4 +43,4 @@ The term “lamb” refers to a young sheep. Sheep are four-legged animals with 
 
 ## Word Data:
 
-* Strong’s: H7716, G721, G2316
+* Strong’s: [[H7716]], [[G00721]], [[G02316]]

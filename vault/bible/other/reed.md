@@ -22,4 +22,4 @@ The term “reed” refers to a plant with a long stalk that grows in the water,
 
 ## Word Data:
 
-* Strong’s: H0098, H0100, H0260, H5488, H6169, H7070, G2563
+* Strong’s: [[H0098]], [[H0100]], [[H0260]], [[H5488]], [[H6169]], [[H7070]], [[G02563]]

@@ -22,4 +22,4 @@ Micah was a prophet of Judah around 700 years before Christ, when the prophet Is
 
 ## Word Data:
 
-* Strong’s: H4318
+* Strong’s: [[H4318]]

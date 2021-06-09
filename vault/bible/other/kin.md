@@ -16,4 +16,4 @@ The term “kin” refers to a person’s blood relatives, considered as a group
 
 ## Word Data:
 
-* Strong’s: H251, H1350, H4129, H4130, H7138, H7607, G4773
+* Strong’s: [[H0251]], [[H1350]], [[H4129]], [[H4130]], [[H7138]], [[H7607]], [[G04773]]

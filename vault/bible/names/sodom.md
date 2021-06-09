@@ -19,4 +19,4 @@ Sodom was a city in the southern part of Canaan where Abraham’s nephew Lot liv
 
 ## Word Data:
 
-* Strong’s: H5467, G4670
+* Strong’s: [[H5467]], [[G04670]]

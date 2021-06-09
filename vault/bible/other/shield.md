@@ -20,4 +20,4 @@ A shield was an object held by a soldier in battle to protect himself from being
 
 ## Word Data:
 
-* Strong’s: H2653, H3591, H4043, H5437, H5526, H6793, H7982, G2375
+* Strong’s: [[H2653]], [[H3591]], [[H4043]], [[H5437]], [[H5526]], [[H6793]], [[H7982]], [[G02375]]

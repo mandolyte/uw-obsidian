@@ -23,4 +23,4 @@ Shiloh was a walled Canaanite city that was conquered by the Israelites under th
 
 ## Word Data:
 
-* Strong’s: H7886, H7887
+* Strong’s: [[H7886]], [[H7887]]

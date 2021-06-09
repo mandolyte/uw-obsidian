@@ -28,4 +28,4 @@ The term “ransom” refers to a sum of money or other payment that is demanded
 
 ## Word Data:
 
-* Strong’s: H1350, H3724, H6299, H6306, G487, G3083
+* Strong’s: [[H1350]], [[H3724]], [[H6299]], [[H6306]], [[G00487]], [[G03083]]

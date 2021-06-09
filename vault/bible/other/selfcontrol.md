@@ -19,4 +19,4 @@ Self-control is the ability to control one’s behavior in order to avoid sinnin
 
 ## Word Data:
 
-* Strong’s: H4623, H7307, G192, G193, G1466, G1467, G1468, G4997
+* Strong’s: [[H4623]], [[H7307]], [[G00192]], [[G00193]], [[G01466]], [[G01467]], [[G01468]], [[G04997]]

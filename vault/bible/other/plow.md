@@ -20,4 +20,4 @@ A “plow” is a farm tool that is used for breaking up soil to prepare a field
 
 ## Word Data:
 
-* Strong’s: H406, H855, H2758, H2790, H5215, H5647, H5656, H5674, H6213, H6398, G722, G723
+* Strong’s: [[H0406]], [[H0855]], [[H2758]], [[H2790]], [[H5215]], [[H5647]], [[H5656]], [[H5674]], [[H6213]], [[H6398]], [[G00722]], [[G00723]]

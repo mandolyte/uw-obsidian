@@ -21,4 +21,4 @@ James, the son of Alphaeus, was one of Jesus’ twelve apostles.
 
 ## Word Data:
 
-* Strong’s: G2385
+* Strong’s: [[G02385]]

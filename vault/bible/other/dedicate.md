@@ -24,4 +24,4 @@ To dedicate is to set apart or commit something for a special purpose or functio
 
 ## Word Data:
 
-* Strong’s: H2596, H2597, H2598, H2764, H4394, H6942, H6944, G1456, G1457
+* Strong’s: [[H2596]], [[H2597]], [[H2598]], [[H2764]], [[H4394]], [[H6942]], [[H6944]], [[G01456]], [[G01457]]

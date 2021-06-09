@@ -19,4 +19,4 @@ The term “horror” refers to a very intense feeling of fear or terror. The pe
 
 ## Word Data:
 
-* Strong’s: H1091, H1763, H2189, H4032, H4923, H5892, H6343, H6427, H7588, H8047, H8074, H8175, H8178, H8186
+* Strong’s: [[H1091]], [[H1763]], [[H2189]], [[H4032]], [[H4923]], [[H5892]], [[H6343]], [[H6427]], [[H7588]], [[H8047]], [[H8074]], [[H8175]], [[H8178]], [[H8186]]

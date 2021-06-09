@@ -36,4 +36,4 @@ Elijah was one of the most important prophets of Yahweh. Elijah prophesied durin
 
 ## Word Data:
 
-* Strong’s: H452, G2243
+* Strong’s: [[H0452]], [[G02243]]

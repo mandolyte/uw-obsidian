@@ -28,4 +28,4 @@ A crown is a decorative, circular headpiece worn on the head of rulers such as k
 
 ## Word Data:
 
-* Strong’s: H3803, H3804, H5145, H5849, H5850, H6936, G1238, G4735, G4737
+* Strong’s: [[H3803]], [[H3804]], [[H5145]], [[H5849]], [[H5850]], [[H6936]], [[G01238]], [[G04735]], [[G04737]]

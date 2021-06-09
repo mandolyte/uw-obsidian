@@ -22,4 +22,4 @@ The Euphrates is the name of one of the four rivers that flowed through the Gard
 
 ## Word Data:
 
-* Strong’s: H5104, H6578, G2166
+* Strong’s: [[H5104]], [[H6578]], [[G02166]]

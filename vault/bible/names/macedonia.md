@@ -24,4 +24,4 @@ In New Testament times, Macedonia was a Roman province located just north of anc
 
 ## Word Data:
 
-* Strong’s: G3109, G3110
+* Strong’s: [[G03109]], [[G03110]]

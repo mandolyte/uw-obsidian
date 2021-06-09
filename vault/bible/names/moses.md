@@ -32,4 +32,4 @@ Moses was a prophet and leader of the Israelite people for over 40 years. He was
 
 ## Word Data:
 
-* Strong’s: H4872, H4873, G3475
+* Strong’s: [[H4872]], [[H4873]], [[G03475]]

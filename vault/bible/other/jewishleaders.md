@@ -35,4 +35,4 @@ The term “Jewish leader” or “Jewish authority” refers to religious leade
 
 ## Word Data:
 
-* Strong’s: G2453
+* Strong’s: [[G02453]]

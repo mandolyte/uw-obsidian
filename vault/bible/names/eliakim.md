@@ -21,4 +21,4 @@ Eliakim was the name of two men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H471, G1662
+* Strong’s: [[H0471]], [[G01662]]

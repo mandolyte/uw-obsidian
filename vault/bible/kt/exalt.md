@@ -26,4 +26,4 @@ To exalt is to highly praise and honor someone. It can also mean to put someone 
 
 ## Word Data:
 
-* Strong’s: H1361, H4984, H5375, H5549, H5927, H7311, H7426, H7682, G1869, G5229, G5251, G5311, G5312
+* Strong’s: [[H1361]], [[H4984]], [[H5375]], [[H5549]], [[H5927]], [[H7311]], [[H7426]], [[H7682]], [[G01869]], [[G05229]], [[G05251]], [[G05311]], [[G05312]]

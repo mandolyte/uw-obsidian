@@ -17,4 +17,4 @@ Philistia is the name of a large region in the land of Canaan, located along the
 
 ## Word Data:
 
-* Strong’s: H776 H6429 H6430
+* Strong’s: [[H0776]] [[H6429]] [[H6430]]

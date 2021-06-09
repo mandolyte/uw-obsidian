@@ -20,4 +20,4 @@ Herodias was the wife of Herod Antipas in Judea during the time of John the Bapt
 
 ## Word Data:
 
-* Strong’s: G2266
+* Strong’s: [[G02266]]

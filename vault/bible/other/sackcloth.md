@@ -28,4 +28,4 @@ Sackcloth was a coarse, scratchy type of cloth that was made from goat hair or c
 
 ## Word Data:
 
-* Strong’s: H8242, G4526
+* Strong’s: [[H8242]], [[G04526]]

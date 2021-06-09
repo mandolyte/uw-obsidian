@@ -36,4 +36,4 @@ A teacher is a person who gives other people new information. Teachers help othe
 
 ## Word Data:
 
-* Strong’s: H3384, H3925, G1320, G2567, G3547, G5572
+* Strong’s: [[H3384]], [[H3925]], [[G01320]], [[G02567]], [[G03547]], [[G05572]]

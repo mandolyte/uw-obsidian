@@ -24,4 +24,4 @@ In the Bible, the term “tunic” referred to a garment that was worn next to t
 
 ## Word Data:
 
-* Strong’s: H2243, H3801, H6361, G5509
+* Strong’s: [[H2243]], [[H3801]], [[H6361]], [[G05509]]

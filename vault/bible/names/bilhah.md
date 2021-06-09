@@ -18,4 +18,4 @@ Bilhah was one of Jacob’s wives. She gave birth to Dan and Naphtali, two sons 
 
 ## Word Data:
 
-* Strong’s: H1090
+* Strong’s: [[H1090]]

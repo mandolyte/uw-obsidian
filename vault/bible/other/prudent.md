@@ -18,4 +18,4 @@ The term “prudent” describes a person who thinks carefully about his actions
 
 ## Word Data:
 
-* Strong’s: H995, H5843, H6175, H6191, H6195, H7919, H7922
+* Strong’s: [[H0995]], [[H5843]], [[H6175]], [[H6191]], [[H6195]], [[H7919]], [[H7922]]

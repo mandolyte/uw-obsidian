@@ -26,4 +26,4 @@ The term “high places” refers to the altars and shrines that were used for w
 
 ## Word Data:
 
-* Strong’s: H1116, H1181, H1354, H2073, H4791, H7311, H7413
+* Strong’s: [[H1116]], [[H1181]], [[H1354]], [[H2073]], [[H4791]], [[H7311]], [[H7413]]

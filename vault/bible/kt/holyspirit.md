@@ -44,4 +44,4 @@ These terms all refer to the Holy Spirit, who is God. The one true God exists et
 
 ## Word Data:
 
-* Strong’s: H3068, H6944, H7307, G40, G4151
+* Strong’s: [[H3068]], [[H6944]], [[H7307]], [[G00040]], [[G04151]]

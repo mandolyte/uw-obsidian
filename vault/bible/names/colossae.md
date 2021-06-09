@@ -20,4 +20,4 @@ In New Testament times, Colossae was a city located in the Roman province of Phr
 
 ## Word Data:
 
-* Strong’s: G2857
+* Strong’s: [[G02857]]

@@ -25,4 +25,4 @@ Philippi was a major city and Roman colony located in Macedonia in the northern 
 
 ## Word Data:
 
-* Strong’s: G5374, G5375
+* Strong’s: [[G05374]], [[G05375]]

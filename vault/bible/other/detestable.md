@@ -26,4 +26,4 @@ The term “detestable” describes something that should be disliked and reject
 
 ## Word Data:
 
-* Strong’s: H1602, H6973, H8130, H8251, H8262, H8263, H8441, H8581, G946, G947, G948, G4767, G3404
+* Strong’s: [[H1602]], [[H6973]], [[H8130]], [[H8251]], [[H8262]], [[H8263]], [[H8441]], [[H8581]], [[G00946]], [[G00947]], [[G00948]], [[G04767]], [[G03404]]

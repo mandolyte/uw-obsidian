@@ -28,4 +28,4 @@ The term “iniquity” is a word that is very similar in meaning to the term �
 
 ## Word Data:
 
-* Strong’s: H205, H1942, H5753, H5758, H5766, H5771, H5932, H5999, H7562, G92, G93, G458, G3892, G4189
+* Strong’s: [[H0205]], [[H1942]], [[H5753]], [[H5758]], [[H5766]], [[H5771]], [[H5932]], [[H5999]], [[H7562]], [[G00092]], [[G00093]], [[G00458]], [[G03892]], [[G04189]]

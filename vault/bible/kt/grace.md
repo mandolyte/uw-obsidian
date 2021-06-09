@@ -29,4 +29,4 @@ The word “grace” refers to help or blessing that is given to someone who has
 
 ## Word Data:
 
-* Strong’s: H2580, H2587, H2589, H2603, H8467, G2143, G5485, G5543
+* Strong’s: [[H2580]], [[H2587]], [[H2589]], [[H2603]], [[H8467]], [[G02143]], [[G05485]], [[G05543]]

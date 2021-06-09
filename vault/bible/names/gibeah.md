@@ -20,4 +20,4 @@ Gibeah was a city located north of Jerusalem and south of Bethel.
 
 ## Word Data:
 
-* Strong’s: H1387, H1389, H1390, H1394
+* Strong’s: [[H1387]], [[H1389]], [[H1390]], [[H1394]]

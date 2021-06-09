@@ -40,4 +40,4 @@ The term “Sabbath” refers to the seventh day of the week, which God commande
 
 ## Word Data:
 
-* Strong’s: H4868, H7676, H7677, G4315, G4521
+* Strong’s: [[H4868]], [[H7676]], [[H7677]], [[G04315]], [[G04521]]

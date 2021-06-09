@@ -18,4 +18,4 @@ The term “gird” means to fasten something around something else. It often re
 
 ## Word Data:
 
-* Strong’s: H640, H247, H2290, H2296, H8151, G328, G1241, G4024
+* Strong’s: [[H0640]], [[H0247]], [[H2290]], [[H2296]], [[H8151]], [[G00328]], [[G01241]], [[G04024]]

@@ -19,4 +19,4 @@ The term “trial” refers to a situation in which something or someone is “t
 
 ## Word Data:
 
-* Strong’s: H974, H4531, H4941, H7378, G178, G1383, G2919, G3986
+* Strong’s: [[H0974]], [[H4531]], [[H4941]], [[H7378]], [[G00178]], [[G01383]], [[G02919]], [[G03986]]

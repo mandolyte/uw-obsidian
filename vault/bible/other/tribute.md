@@ -22,4 +22,4 @@ The term “tribute” refers to a gift from one ruler to another ruler, for the
 
 ## Word Data:
 
-* Strong’s: H1093, H4061, H4503, H4530, H4853, H6066, H7862, G5411
+* Strong’s: [[H1093]], [[H4061]], [[H4503]], [[H4530]], [[H4853]], [[H6066]], [[H7862]], [[G05411]]

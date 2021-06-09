@@ -18,4 +18,4 @@ Shimei was the name of several men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H8096, H8097
+* Strong’s: [[H8096]], [[H8097]]

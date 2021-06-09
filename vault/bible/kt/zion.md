@@ -20,4 +20,4 @@ Originally, the term “Zion” or “Mount Zion” referred to a stronghold or 
 
 ## Word Data:
 
-* Strong’s: H6726
+* Strong’s: [[H6726]]

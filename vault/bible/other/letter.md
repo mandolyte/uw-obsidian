@@ -19,4 +19,4 @@ A letter is a written message sent to a person or group of persons who are usual
 
 ## Word Data:
 
-* Strong’s: H104, H107, H3791, H4385, H5406, H5407, H5612, G1121, G1992
+* Strong’s: [[H0104]], [[H0107]], [[H3791]], [[H4385]], [[H5406]], [[H5407]], [[H5612]], [[G01121]], [[G01992]]

@@ -48,4 +48,4 @@ An angel is a powerful spirit being whom God created. Angels exist to serve God 
 
 ## Word Data:
 
-* Strong’s: H47, H430, H4397, H4398, H8136, G32, G743, G2465
+* Strong’s: [[H0047]], [[H0430]], [[H4397]], [[H4398]], [[H8136]], [[G00032]], [[G00743]], [[G02465]]

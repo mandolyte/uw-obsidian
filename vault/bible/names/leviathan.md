@@ -19,4 +19,4 @@ The term “Leviathan” refers to a very large, extinct animal mentioned in the
 
 ## Word Data:
 
-* Strong’s: H3882
+* Strong’s: [[H3882]]

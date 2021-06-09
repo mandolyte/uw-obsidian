@@ -21,4 +21,4 @@ A “peace offering” was one of several sacrificial offerings that God command
 
 ## Word Data:
 
-* Strong’s: H8002
+* Strong’s: [[H8002]]

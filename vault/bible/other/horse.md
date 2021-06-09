@@ -21,4 +21,4 @@ A horse is a large, four-legged animal that in Bible times was mostly used for d
 
 ## Word Data:
 
-* Strong’s: H47, H5483, H5484, H6571, H7409, G2462
+* Strong’s: [[H0047]], [[H5483]], [[H5484]], [[H6571]], [[H7409]], [[G02462]]

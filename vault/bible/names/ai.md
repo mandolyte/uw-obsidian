@@ -21,4 +21,4 @@ In Old Testament times, Ai was the name of a Canaanite town located just south o
 
 ## Word Data:
 
-* Strong’s: H5857
+* Strong’s: [[H5857]]

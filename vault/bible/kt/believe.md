@@ -82,4 +82,4 @@ The term “unbelief” refers to not believing something or someone.
 
 ## Word Data:
 
-* Strong’s: H0539, H0540, G0543, G0544, G0569, G0570, G0571, G3982, G4100, G4102, G4103, G4135
+* Strong’s: [[H0539]], [[H0540]], [[G00543]], [[G00544]], [[G00569]], [[G00570]], [[G00571]], [[G03982]], [[G04100]], [[G04102]], [[G04103]], [[G04135]]

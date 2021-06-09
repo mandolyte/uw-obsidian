@@ -23,4 +23,4 @@ An “heir” is a person who legally receives property or money that belonged t
 
 ## Word Data:
 
-* Strong’s: H1121, H3423, G2816, G2818, G2820, G4789
+* Strong’s: [[H1121]], [[H3423]], [[G02816]], [[G02818]], [[G02820]], [[G04789]]

@@ -21,4 +21,4 @@ The town of Bethany was located at the base of the eastern slope of the Mount of
 
 ## Word Data:
 
-* Strong’s: G963
+* Strong’s: [[G00963]]

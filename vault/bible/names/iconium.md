@@ -21,4 +21,4 @@ Iconium was a city in the south central part of what is now the country of Turke
 
 ## Word Data:
 
-* Strong’s: G2430
+* Strong’s: [[G02430]]

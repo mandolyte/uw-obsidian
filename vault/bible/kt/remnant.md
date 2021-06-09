@@ -25,4 +25,4 @@ The term “remnant” literally refers to people or things that are “remainin
 
 ## Word Data:
 
-* Strong’s: H3498, H3499, H5629, H6413, H7604, H7605, H7611, H8281, H8300, G2640, G3005, G3062
+* Strong’s: [[H3498]], [[H3499]], [[H5629]], [[H6413]], [[H7604]], [[H7605]], [[H7611]], [[H8281]], [[H8300]], [[G02640]], [[G03005]], [[G03062]]

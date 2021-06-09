@@ -24,4 +24,4 @@ A drink offering was a sacrifice to God that involved pouring wine on an altar. 
 
 ## Word Data:
 
-* Strong’s: H5257, H5261, H5262
+* Strong’s: [[H5257]], [[H5261]], [[H5262]]

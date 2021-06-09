@@ -29,4 +29,4 @@ The term “beloved” is an expression of affection that describes someone who 
 
 ## Word Data:
 
-* Strong’s: H157, H1730, H2532, H3033, H3039, H4261, G25, G27, G5207
+* Strong’s: [[H0157]], [[H1730]], [[H2532]], [[H3033]], [[H3039]], [[H4261]], [[G00025]], [[G00027]], [[G05207]]

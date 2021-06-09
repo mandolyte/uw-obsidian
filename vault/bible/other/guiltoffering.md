@@ -18,4 +18,4 @@ A guilt offering was an offering or sacrifice that God required an Israelite to 
 
 ## Word Data:
 
-* Strong’s: H817
+* Strong’s: [[H0817]]

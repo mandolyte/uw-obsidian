@@ -29,4 +29,4 @@ What had been the northern part of the nation of Israel became the kingdom of Is
 
 ## Word Data:
 
-* Strong’s: H3478, H4410, H4467, H4468
+* Strong’s: [[H3478]], [[H4410]], [[H4467]], [[H4468]]

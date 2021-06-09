@@ -17,4 +17,4 @@ The term “noble” refers to something that is excellent and of high quality. 
 
 ## Word Data:
 
-* Strong’s: H117, H1419, H2715, H3358, H3513, H5057, H5081, H6440, H6579, H7261, H8282, H8269, G937, G2104
+* Strong’s: [[H0117]], [[H1419]], [[H2715]], [[H3358]], [[H3513]], [[H5057]], [[H5081]], [[H6440]], [[H6579]], [[H7261]], [[H8282]], [[H8269]], [[G00937]], [[G02104]]

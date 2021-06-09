@@ -29,4 +29,4 @@ The term “wise men” simply means people who are wise. In the Bible, however,
 
 ## Word Data:
 
-* Strong’s: H2445, H2450, H3778, H3779, G4680
+* Strong’s: [[H2445]], [[H2450]], [[H3778]], [[H3779]], [[G04680]]

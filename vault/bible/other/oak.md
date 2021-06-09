@@ -28,4 +28,4 @@ An oak, or oak tree, is a tall shade tree with a large trunk and wide spreading 
 
 ## Word Data:
 
-* Strong’s: H352, H424, H427, H436, H437, H438
+* Strong’s: [[H0352]], [[H0424]], [[H0427]], [[H0436]], [[H0437]], [[H0438]]

@@ -21,4 +21,4 @@ Simon the Zealot was one of Jesus’ twelve disciples.
 
 ## Word Data:
 
-* Strong’s: G2208, G2581, G4613
+* Strong’s: [[G02208]], [[G02581]], [[G04613]]

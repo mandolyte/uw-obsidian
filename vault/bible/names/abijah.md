@@ -21,4 +21,4 @@ Abijah was a king of Judah who reigned from 915 to 913 B.C. He was a son of King
 
 ## Word Data:
 
-* Strong’s: H29, G7
+* Strong’s: [[H0029]], [[G00007]]

@@ -25,4 +25,4 @@ Capernaum was a fishing village on the northwest shore of the Sea of Galilee.
 
 ## Word Data:
 
-* Strong’s: G2584
+* Strong’s: [[G02584]]

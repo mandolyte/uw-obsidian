@@ -31,4 +31,4 @@ The term “sexual immorality” refers to sexual activity that takes place outs
 
 ## Word Data:
 
-* Strong’s: H2181, H8457, G1608, G4202, G4203
+* Strong’s: [[H2181]], [[H8457]], [[G01608]], [[G04202]], [[G04203]]

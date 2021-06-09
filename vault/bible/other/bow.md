@@ -32,4 +32,4 @@ To bow means to bend over to humbly express respect and honor toward someone. To
 
 ## Word Data:
 
-* Strong’s: H86, H3721, H3766, H5753, H5791, H6915, H7743, H7812, H7817, G1120, G2578, G2827, G4098
+* Strong’s: [[H0086]], [[H3721]], [[H3766]], [[H5753]], [[H5791]], [[H6915]], [[H7743]], [[H7812]], [[H7817]], [[G01120]], [[G02578]], [[G02827]], [[G04098]]

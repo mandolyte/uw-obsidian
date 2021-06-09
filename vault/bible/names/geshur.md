@@ -18,4 +18,4 @@ During the time of King David, Geshur was a small kingdom located on the east si
 
 ## Word Data:
 
-* Strong’s: H1650
+* Strong’s: [[H1650]]

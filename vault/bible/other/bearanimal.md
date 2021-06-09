@@ -15,4 +15,4 @@ A bear is a large, four-legged furry animal with dark brown or black hair, with 
 
 ## Word Data:
 
-* Strong’s: H1677, G715
+* Strong’s: [[H1677]], [[G00715]]

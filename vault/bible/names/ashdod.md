@@ -22,4 +22,4 @@ Ashdod was one of the five most important cities of the Philistines. It was loca
 
 ## Word Data:
 
-* Strong’s: H795, G108
+* Strong’s: [[H0795]], [[G00108]]

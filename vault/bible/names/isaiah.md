@@ -37,4 +37,4 @@ Isaiah was a prophet of God who prophesied during the reigns of four kings of Ju
 
 ## Word Data:
 
-* Strong’s: H3470, G2268
+* Strong’s: [[H3470]], [[G02268]]

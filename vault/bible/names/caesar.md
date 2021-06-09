@@ -27,4 +27,4 @@ The term “Caesar” was the name or title used by many of the rulers of the Ro
 
 ## Word Data:
 
-* Strong’s: G2541
+* Strong’s: [[G02541]]

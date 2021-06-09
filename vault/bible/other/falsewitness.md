@@ -26,4 +26,4 @@ The terms “false witness” and “corrupt witness” refer to a person who sa
 
 ## Word Data:
 
-* Strong’s: H5707, H6030, H7650, H8267, G1965, G3144, G5571, G5575, G5576, G5577
+* Strong’s: [[H5707]], [[H6030]], [[H7650]], [[H8267]], [[G01965]], [[G03144]], [[G05571]], [[G05575]], [[G05576]], [[G05577]]

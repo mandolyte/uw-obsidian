@@ -20,4 +20,4 @@ Jehoiada was a priest who helped hide and protect King Ahaziah’s son Joash unt
 
 ## Word Data:
 
-* Strong’s: H3077
+* Strong’s: [[H3077]]

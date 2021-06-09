@@ -14,4 +14,4 @@ The term “admonish” means to firmly warn or advise someone.
 
 ## Word Data:
 
-* Strong’s: H2094, H5749, G3560, G3867, G5537
+* Strong’s: [[H2094]], [[H5749]], [[G03560]], [[G03867]], [[G05537]]

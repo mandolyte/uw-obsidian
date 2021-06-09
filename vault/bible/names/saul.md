@@ -28,4 +28,4 @@ Saul was an Israelite man whom God chose to become the first king of Israel.
 
 ## Word Data:
 
-* Strong’s: H7586, G4549
+* Strong’s: [[H7586]], [[G04549]]

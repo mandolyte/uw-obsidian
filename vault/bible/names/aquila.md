@@ -22,4 +22,4 @@ Aquila was a Jewish Christian from the province of Pontus, a region along the so
 
 ## Word Data:
 
-* Strong’s: G207
+* Strong’s: [[G00207]]

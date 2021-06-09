@@ -24,4 +24,4 @@ Syria is a country located northeast of Israel. During the time of the New Testa
 
 ## Word Data:
 
-* Strong’s: H758, H804, G4947, G4948
+* Strong’s: [[H0758]], [[H0804]], [[G04947]], [[G04948]]

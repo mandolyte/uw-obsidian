@@ -21,4 +21,4 @@ Molech was the name of one of the false gods that the Canaanites worshiped. Othe
 
 ## Word Data:
 
-* Strong’s: H4428, H4432, G3434
+* Strong’s: [[H4428]], [[H4432]], [[G03434]]

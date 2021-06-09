@@ -21,4 +21,4 @@ These terms refer to the hard material covering the bottom of the feet of certai
 
 ## Word Data:
 
-* Strong’s: H6119, H6471, H6536, H6541, H7272
+* Strong’s: [[H6119]], [[H6471]], [[H6536]], [[H6541]], [[H7272]]

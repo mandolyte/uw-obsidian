@@ -23,4 +23,4 @@ Mount Horeb is another name for Mount Sinai, where God gave Moses the stone tabl
 
 ## Word Data:
 
-* Strong’s: H2722
+* Strong’s: [[H2722]]

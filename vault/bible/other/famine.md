@@ -21,4 +21,4 @@ The term “famine” refers to an extreme lack of food throughout a country or 
 
 ## Word Data:
 
-* Strong’s: H3720, H7458, H7459, G3042
+* Strong’s: [[H3720]], [[H7458]], [[H7459]], [[G03042]]

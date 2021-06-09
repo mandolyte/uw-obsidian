@@ -24,4 +24,4 @@ Timothy was a young man from Lystra. He later joined Paul on several missionary 
 
 ## Word Data:
 
-* Strong’s: G5095
+* Strong’s: [[G05095]]

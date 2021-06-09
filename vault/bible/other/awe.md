@@ -20,4 +20,4 @@ The term “awe” refers to the sense of amazement and deep respect that comes 
 
 ## Word Data:
 
-* Strong’s: H366, H1481, H3372, H6206, H7227, G2124
+* Strong’s: [[H0366]], [[H1481]], [[H3372]], [[H6206]], [[H7227]], [[G02124]]

@@ -24,4 +24,4 @@ A yoke is a piece of wood or metal attached to two or more animals to connect th
 
 ## Word Data:
 
-* Strong’s: H3627, H4132, H4133, H5674, H5923, H6776, G2086, G2218
+* Strong’s: [[H3627]], [[H4132]], [[H4133]], [[H5674]], [[H5923]], [[H6776]], [[G02086]], [[G02218]]

@@ -29,4 +29,4 @@ The term “sanctuary” literally means “holy place” and refers to a place 
 
 ## Word Data:
 
-* Strong’s: H4720, H6944, G39
+* Strong’s: [[H4720]], [[H6944]], [[G00039]]

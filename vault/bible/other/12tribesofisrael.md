@@ -18,4 +18,4 @@ The term “twelve tribes of Israel” refers to the twelve sons of Jacob and th
 
 ## Word Data:
 
-* Strong’s: H3478, H7626, H8147, G1427, G2474, G5443
+* Strong’s: [[H3478]], [[H7626]], [[H8147]], [[G01427]], [[G02474]], [[G05443]]

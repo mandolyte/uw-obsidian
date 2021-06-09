@@ -24,4 +24,4 @@ Tamar is the name of several different women in the Old Testament. There are sev
 
 ## Word Data:
 
-* Strong’s: H1193, H2688, H8412, H8559
+* Strong’s: [[H1193]], [[H2688]], [[H8412]], [[H8559]]

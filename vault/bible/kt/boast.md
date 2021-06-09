@@ -31,4 +31,4 @@ The term “boast” means to talk proudly about something or someone. Often it 
 
 ## Word Data:
 
-* Strong’s: H1984, H3235, H6286, G212, G213, G1740, G2620, G2744, G2745, G2746, G3166
+* Strong’s: [[H1984]], [[H3235]], [[H6286]], [[G00212]], [[G00213]], [[G01740]], [[G02620]], [[G02744]], [[G02745]], [[G02746]], [[G03166]]

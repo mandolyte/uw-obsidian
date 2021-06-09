@@ -17,4 +17,4 @@ Cana was a village or town in the province of Galilee, located about nine miles 
 
 ## Word Data:
 
-* Strong’s: G2580
+* Strong’s: [[G02580]]

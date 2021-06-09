@@ -22,4 +22,4 @@ A fig is a small, soft, sweet fruit that grows on trees. When ripe, this fruit c
 
 ## Word Data:
 
-* Strong’s: H1061, H1690, H6291, H8384, G3653, G4808, G4810
+* Strong’s: [[H1061]], [[H1690]], [[H6291]], [[H8384]], [[G03653]], [[G04808]], [[G04810]]

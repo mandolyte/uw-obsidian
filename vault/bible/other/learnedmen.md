@@ -20,4 +20,4 @@ In Matthew’s account of the birth of Christ, the “learned” or “educated�
 
 ## Word Data:
 
-* Strong’s: H1505, G3097
+* Strong’s: [[H1505]], [[G03097]]

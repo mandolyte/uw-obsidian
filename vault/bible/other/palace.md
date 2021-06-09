@@ -21,4 +21,4 @@ The term “palace” refers to the building or house where a king lived, along 
 
 ## Word Data:
 
-* Strong’s: H759, H1002, H1004, H1055, H1406, H1964, H1965, G833, G933, G4232
+* Strong’s: [[H0759]], [[H1002]], [[H1004]], [[H1055]], [[H1406]], [[H1964]], [[H1965]], [[G00833]], [[G00933]], [[G04232]]

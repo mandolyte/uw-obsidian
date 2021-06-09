@@ -20,4 +20,4 @@ The term “magic” refers to the practice of using supernatural power that doe
 
 ## Word Data:
 
-* Strong’s: H2748, H2749, H3049, G3097
+* Strong’s: [[H2748]], [[H2749]], [[H3049]], [[G03097]]

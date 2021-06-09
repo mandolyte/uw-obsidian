@@ -22,4 +22,4 @@ The Salt Sea (also called the Dead Sea) was located between southern Israel on i
 
 ## Word Data:
 
-* Strong’s: H3220, H4417
+* Strong’s: [[H3220]], [[H4417]]

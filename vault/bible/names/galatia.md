@@ -23,4 +23,4 @@ In New Testament times, Galatia was a large Roman province located in the centra
 
 ## Word Data:
 
-* Strong’s: G1053, G1054
+* Strong’s: [[G01053]], [[G01054]]

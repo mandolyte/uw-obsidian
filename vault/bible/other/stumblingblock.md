@@ -26,4 +26,4 @@ The term “stumbling block” or “stone of stumbling” refers to a physical 
 
 ## Word Data:
 
-* Strong’s: H4383, G3037, G4349, G4625
+* Strong’s: [[H4383]], [[G03037]], [[G04349]], [[G04625]]

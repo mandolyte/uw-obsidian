@@ -29,4 +29,4 @@ Nazareth is a town in the region of Galilee in northern Israel. It is about 100 
 
 ## Word Data:
 
-* Strong’s: G3478, G3479, G3480
+* Strong’s: [[G03478]], [[G03479]], [[G03480]]

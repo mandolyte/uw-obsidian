@@ -24,4 +24,4 @@ Herod the Great was ruling over Judea at the time Jesus was born. He was the fir
 
 ## Word Data:
 
-* Strong’s: G2264
+* Strong’s: [[G02264]]

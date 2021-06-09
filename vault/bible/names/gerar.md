@@ -20,4 +20,4 @@ Gerar was a city and region in the land of Canaan, located southwest of Hebron a
 
 ## Word Data:
 
-* Strong’s: H1642
+* Strong’s: [[H1642]]

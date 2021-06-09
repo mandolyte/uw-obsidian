@@ -52,4 +52,4 @@ The term “pardon” means to forgive and not punish someone for his sin.
 
 ## Word Data:
 
-* H5546, H5547, H3722, H5375, H5545, H5547, H7521, G859, G863, G5483
+* [[H5546]], [[H5547]], [[H3722]], [[H5375]], [[H5545]], [[H5547]], [[H7521]], [[G00859]], [[G00863]], [[G05483]]

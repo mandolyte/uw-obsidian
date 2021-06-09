@@ -29,4 +29,4 @@ Jews are people who are descendants of Abraham’s grandson Jacob. The word “J
 
 ## Word Data:
 
-* Strong’s: H3054, H3061, H3062, H3064, H3066, G2450, G2451, G2452, G2453, G2454
+* Strong’s: [[H3054]], [[H3061]], [[H3062]], [[H3064]], [[H3066]], [[G02450]], [[G02451]], [[G02452]], [[G02453]], [[G02454]]

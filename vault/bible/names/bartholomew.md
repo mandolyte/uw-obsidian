@@ -20,4 +20,4 @@ Bartholomew was one of Jesus’ twelve apostles.
 
 ## Word Data:
 
-* Strong’s: G918
+* Strong’s: [[G00918]]

@@ -20,4 +20,4 @@ The term “melt” refers to something becoming liquid when it is heated. It is
 
 ## Word Data:
 
-* Strong’s: H2046, H3988, H4127, H4529, H4541, H4549, H5140, H5413, H8557, G3089, G5080
+* Strong’s: [[H2046]], [[H3988]], [[H4127]], [[H4529]], [[H4541]], [[H4549]], [[H5140]], [[H5413]], [[H8557]], [[G03089]], [[G05080]]

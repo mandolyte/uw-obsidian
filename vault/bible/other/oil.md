@@ -21,4 +21,4 @@ Oil is a thick, clear liquid that can be taken from certain plants. In Bible tim
 
 ## Word Data:
 
-* Strong’s: H2091, H3323, H4887, H6671, H7246, H8081, G1637, G3464
+* Strong’s: [[H2091]], [[H3323]], [[H4887]], [[H6671]], [[H7246]], [[H8081]], [[G01637]], [[G03464]]

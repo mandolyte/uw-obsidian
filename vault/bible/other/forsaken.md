@@ -28,4 +28,4 @@ The term “forsake” means to abandon someone or to give up something. Someone
 
 ## Word Data:
 
-* Strong’s: H488, H2308, H5203, H5428, H5800, H5805, H7503, G646, G657, G863, G1459, G2641
+* Strong’s: [[H0488]], [[H2308]], [[H5203]], [[H5428]], [[H5800]], [[H5805]], [[H7503]], [[G00646]], [[G00657]], [[G00863]], [[G01459]], [[G02641]]

@@ -31,4 +31,4 @@ The term “guilt” refers to the fact of having sinned or committed a crime.
 
 ## Word Data:
 
-* Strong’s: H0816, H0817, H0818, H5352, H5355, H7563, G0338, G1777, G3784, G5267
+* Strong’s: [[H0816]], [[H0817]], [[H0818]], [[H5352]], [[H5355]], [[H7563]], [[G00338]], [[G01777]], [[G03784]], [[G05267]]

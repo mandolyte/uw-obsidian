@@ -29,4 +29,4 @@ The term “trespass” means to cross a line or to violate a boundary. This ter
 
 ## Word Data:
 
-* Strong’s: H816, H817, H819, H2398, H4603, H4604, H6586, H6588, G264, G3900
+* Strong’s: [[H0816]], [[H0817]], [[H0819]], [[H2398]], [[H4603]], [[H4604]], [[H6586]], [[H6588]], [[G00264]], [[G03900]]

@@ -18,4 +18,4 @@ In Old Testament times, a “cupbearer” was a king’s servant who was given t
 
 ## Word Data:
 
-* Strong’s: H8248
+* Strong’s: [[H8248]]

@@ -25,4 +25,4 @@ Doves and pigeons are two kinds of small, gray-brown birds that look similar. A 
 
 ## Word Data:
 
-* Strong’s: H1469, H1686, H3123, H8449, G4058
+* Strong’s: [[H1469]], [[H1686]], [[H3123]], [[H8449]], [[G04058]]

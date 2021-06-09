@@ -29,4 +29,4 @@ The term “Holy One” is a title in the Bible that almost always refers to God
 
 ## Word Data:
 
-* Strong’s: H2623, H376, H6918, G40, G3741
+* Strong’s: [[H2623]], [[H0376]], [[H6918]], [[G00040]], [[G03741]]

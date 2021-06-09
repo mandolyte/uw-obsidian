@@ -25,4 +25,4 @@ Jehu was the name of two men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H3058
+* Strong’s: [[H3058]]

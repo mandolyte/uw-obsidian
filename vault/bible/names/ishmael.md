@@ -31,4 +31,4 @@ Ishmael was the son of Abraham and the Egyptian slave Hagar. There were several 
 
 ## Word Data:
 
-* Strong’s: H3458, H3459
+* Strong’s: [[H3458]], [[H3459]]

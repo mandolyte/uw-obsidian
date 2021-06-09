@@ -21,4 +21,4 @@ Usually the term “eunuch” refers to a man who has been castrated. The term l
 
 ## Word Data:
 
-* Strong’s: H5631, G2134, G2135
+* Strong’s: [[H5631]], [[G02134]], [[G02135]]

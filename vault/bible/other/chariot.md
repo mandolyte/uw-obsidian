@@ -28,4 +28,4 @@ In ancient times, chariots were lightweight, two-wheeled carts that were pulled 
 
 ## Word Data:
 
-* Strong’s: H2021, H4817, H4818, H7393, H7395, H7398, G716, G4480
+* Strong’s: [[H2021]], [[H4817]], [[H4818]], [[H7393]], [[H7395]], [[H7398]], [[G00716]], [[G04480]]

@@ -20,4 +20,4 @@ Tychicus was one of Paul’s fellow ministers of the gospel.
 
 ## Word Data:
 
-* Strong’s: G5190
+* Strong’s: [[G05190]]

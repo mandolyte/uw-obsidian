@@ -28,4 +28,4 @@ The term “bloodshed” refers to the death of human beings due to murder, war,
 
 ## Word Data:
 
-* Strong’s: H1818
+* Strong’s: [[H1818]]

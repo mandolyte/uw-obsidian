@@ -23,4 +23,4 @@ Azariah was the name of several men in the Old Testament.
 
 ## Word Data:
 
-* Strong’s: H5838
+* Strong’s: [[H5838]]

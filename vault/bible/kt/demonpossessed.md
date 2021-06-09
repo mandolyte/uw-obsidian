@@ -30,4 +30,4 @@ A person who is demon-possessed has a demon or evil spirit that controls what he
 
 ## Word Data:
 
-* Strong’s: G1139
+* Strong’s: [[G01139]]

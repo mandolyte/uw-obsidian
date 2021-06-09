@@ -24,4 +24,4 @@ The term “purple” is the name of a color that is a mixture of blue and red.
 
 ## Word Data:
 
-* Strong’s: H710, H711, H713, G4209, G4210, G4211
+* Strong’s: [[H0710]], [[H0711]], [[H0713]], [[G04209]], [[G04210]], [[G04211]]

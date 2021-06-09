@@ -31,4 +31,4 @@ Silas was a leader among the believers in Jerusalem.
 
 ## Word Data:
 
-* Strong’s: G4609, G4610
+* Strong’s: [[G04609]], [[G04610]]

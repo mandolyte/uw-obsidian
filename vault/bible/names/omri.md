@@ -18,4 +18,4 @@ Omri was an army commander who became the sixth king of Israel.
 
 ## Word Data:
 
-* Strong’s: H6018
+* Strong’s: [[H6018]]

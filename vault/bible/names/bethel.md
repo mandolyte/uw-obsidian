@@ -22,4 +22,4 @@ Bethel was a city located just north of Jerusalem in the land of Canaan. It was 
 
 ## Word Data:
 
-* Strong’s: H1008
+* Strong’s: [[H1008]]

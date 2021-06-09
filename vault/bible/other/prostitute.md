@@ -21,4 +21,4 @@ The terms “prostitute” and “harlot” both refer to a person who performs 
 
 ## Word Data:
 
-* Strong’s: H2154, H2181, H2183, H2185, H6945, H6948, H8457, G4204
+* Strong’s: [[H2154]], [[H2181]], [[H2183]], [[H2185]], [[H6945]], [[H6948]], [[H8457]], [[G04204]]

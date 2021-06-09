@@ -22,4 +22,4 @@ The terms “blot out” and “wipe out” are expressions that mean to complet
 
 ## Word Data:
 
-* Strong’s: H4229, H8045, G1813
+* Strong’s: [[H4229]], [[H8045]], [[G01813]]

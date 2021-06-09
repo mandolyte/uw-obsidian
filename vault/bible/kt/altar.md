@@ -28,4 +28,4 @@ An altar was a raised structure on which the Israelites burned animals and grain
 
 ## Word Data:
 
-* Strong’s: H741, H2025, H4056, H4196, G1041, G2379
+* Strong’s: [[H0741]], [[H2025]], [[H4056]], [[H4196]], [[G01041]], [[G02379]]

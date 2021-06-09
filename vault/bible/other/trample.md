@@ -20,4 +20,4 @@ To “trample” means to step on something and smash it with the feet. This ter
 
 ## Word Data:
 
-* Strong’s: H947, H1758, H1869, H4001, H4823, H7429, H7512, G2662, G3961
+* Strong’s: [[H0947]], [[H1758]], [[H1869]], [[H4001]], [[H4823]], [[H7429]], [[H7512]], [[G02662]], [[G03961]]

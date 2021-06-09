@@ -21,4 +21,4 @@ The term “tetrarch” refers to a governing official who ruled over part of th
 
 ## Word Data:
 
-* Strong’s: G5075, G5076
+* Strong’s: [[G05075]], [[G05076]]

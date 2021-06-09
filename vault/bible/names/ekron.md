@@ -21,4 +21,4 @@ Ekron was a major city of the Philistines, located nine miles inland from the Me
 
 ## Word Data:
 
-* Strong’s: H6138, H6139
+* Strong’s: [[H6138]], [[H6139]]

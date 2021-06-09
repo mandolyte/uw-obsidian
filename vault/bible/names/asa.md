@@ -20,4 +20,4 @@ Asa was a king who ruled over the kingdom of Judah for forty years, from 913 B.C
 
 ## Word Data:
 
-* Strong’s: H609
+* Strong’s: [[H0609]]

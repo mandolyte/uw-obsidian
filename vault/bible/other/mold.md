@@ -23,4 +23,4 @@ A mold is a hollowed-out piece of wood, metal, or clay that is used to form obje
 
 ## Word Data:
 
-* Strong’s: H4541, H4165, G4110, G4111
+* Strong’s: [[H4541]], [[H4165]], [[G04110]], [[G04111]]

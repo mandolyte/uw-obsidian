@@ -21,4 +21,4 @@ Ezra was an Israelite priest and expert in Jewish law who recorded the history o
 
 ## Word Data:
 
-* Strong’s: H250, H5830, H5831
+* Strong’s: [[H0250]], [[H5830]], [[H5831]]

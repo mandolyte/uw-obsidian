@@ -33,4 +33,4 @@ In the Bible, the terms “the holy place” and “the most holy place” refer
 
 ## Word Data:
 
-* Strong’s: H1964, H4720, H4725, H5116, H6918, H6944, G39, G40, G3485, G5117
+* Strong’s: [[H1964]], [[H4720]], [[H4725]], [[H5116]], [[H6918]], [[H6944]], [[G00039]], [[G00040]], [[G03485]], [[G05117]]

@@ -23,4 +23,4 @@ Gilgal was a town north of Jericho and was the first place that the Israelites c
 
 ## Word Data:
 
-* Strong’s: H1537
+* Strong’s: [[H1537]]

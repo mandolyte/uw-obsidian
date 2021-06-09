@@ -21,4 +21,4 @@ A pomegranate is a kind of fruit that has a thick, tough skin filled with many s
 
 ## Word Data:
 
-* Strong’s: H7416
+* Strong’s: [[H7416]]

@@ -50,4 +50,4 @@ The terms “Messiah” and “Christ” mean “Anointed One” and refer to Je
 
 ## Word Data:
 
-* Strong’s: H4899, G3323, G5547
+* Strong’s: [[H4899]], [[G03323]], [[G05547]]

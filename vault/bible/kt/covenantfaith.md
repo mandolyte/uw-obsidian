@@ -16,4 +16,4 @@ In biblical times, the term translated as “covenant faithfulness” was used t
 
 ## Word Data:
 
-* Strong’s: H2617
+* Strong’s: [[H2617]]

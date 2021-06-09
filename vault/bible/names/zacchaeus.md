@@ -19,4 +19,4 @@ Zacchaeus was a tax collector from Jericho who climbed a tree in order to be abl
 
 ## Word Data:
 
-* Strong’s: G2195
+* Strong’s: [[G02195]]

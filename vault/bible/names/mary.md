@@ -38,4 +38,4 @@ Mary was a young woman living in the city of Nazareth who was pledged to be marr
 
 ## Word Data:
 
-* Strong’s: G3137
+* Strong’s: [[G03137]]
