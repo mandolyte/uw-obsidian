@@ -56,3 +56,11 @@ Notes on an impoved method of obtaining the Greek Text.
 
 Proskomma docs and tutorial [here](https://doc.proskomma.bible/en/dev/tutorial/index.html)
 
+Other things that could be done:
+- use PK (see getText folder) to iterate over all NT
+- expand to OT
+- expand ULT / UST
+- how to do alignment
+- move to DCS
+- learn how to exploit aliases in the front matter
+
