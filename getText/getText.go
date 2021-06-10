@@ -15,7 +15,7 @@ func main() {
 	{
 		docSets {
 			document(bookCode: "TIT") {
-				cvIndex(chapter:1) {
+				cvIndex {
 					chapter
 					verses {
 						verse {
@@ -44,7 +44,7 @@ func main() {
 		log.Fatalln(err)
 	}
 	var prettyJSON bytes.Buffer
-	err = json.Indent(&prettyJSON, body, "", "\t")
+	err = json.Indent(&prettyJSON, body, "", "  ")
 
 	if err != nil {
 		log.Fatalf("json.MarshalIndent() Error:%v", err.Error())
